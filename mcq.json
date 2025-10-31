@@ -45698,5 +45698,475 @@
         "category": "Persons"
       }
     ]
+  },
+  {
+    "date": "2025-10-28",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which country’s CR450 high-speed train set a world record by reaching a speed of 453 km/h during testing?",
+        "options": [
+          "Japan",
+          "China",
+          "France",
+          "Germany"
+        ],
+        "answer": "China",
+        "explanation": "China’s CR450 high-speed train reached a record-breaking speed of 453 km/h during testing, showcasing the country’s technological advancement in rail transport. Designed for the Shanghai–Chengdu corridor, the CR450 is expected to enter commercial service in 2026 with a regular operating speed of 400 km/h, making it the fastest passenger train in the world. This achievement underscores China’s leadership in high-speed rail innovation, precision engineering, and commitment to expanding sustainable, ultra-fast transportation networks that connect major economic hubs across the nation.",
+        "category": "Technology"
+      },
+      {
+        "id": 2,
+        "question": "Which Indian conglomerate has partnered with Meta to launch a ₹855 crore joint venture for developing enterprise AI products under the new entity REIL?",
+        "options": [
+          "Tata Group",
+          "Adani Enterprises",
+          "Reliance",
+          "Infosys"
+        ],
+        "answer": "Reliance",
+        "explanation": "Reliance Industries has partnered with Meta Platforms to establish a ₹855 crore joint venture named Reliance Enterprise Intelligence Limited (REIL), focused on developing enterprise-grade AI solutions. The collaboration aims to build AI-driven tools such as automation systems, predictive analytics platforms, and generative AI models optimised for Indian markets. This initiative aligns with India’s Digital India and Atmanirbhar Bharat missions, promoting indigenous AI innovation. It also reflects Reliance’s broader strategy to strengthen its digital ecosystem and expand into global enterprise technology, reinforcing its longstanding partnership with Meta in advancing India’s tech infrastructure.",
+        "category": "Technology"
+      },
+      {
+        "id": 3,
+        "question": "Which country has unveiled the Hyunmoo-5, also known as the “Monster Missile”?",
+        "options": [
+          "South Korea",
+          "Japan",
+          "China",
+          "North Korea"
+        ],
+        "answer": "South Korea",
+        "explanation": "South Korea has introduced its most powerful ballistic missile, the Hyunmoo-5, nicknamed the “Monster Missile.” This 36-tonne, 16-meter-long road-mobile missile is designed for deep-penetration and bunker-busting missions. The Hyunmoo-5 is a central component of South Korea’s Kill Chain and Korea Massive Punishment and Retaliation (KMPR) doctrines, aimed at deterring and responding to potential threats. The development of this missile highlights South Korea’s growing emphasis on self-reliant defence capabilities and advanced missile technology in response to evolving regional security challenges on the Korean Peninsula.",
+        "category": "Technology"
+      },
+      {
+        "id": 4,
+        "question": "Who set a new Youth World Record and won the gold medal in the girls' 44kg weightlifting event at the Asian Youth Games in Bahrain?",
+        "options": [
+          "Mirabai Chanu",
+          "Harshada Garud",
+          "Bindyarani Devi",
+          "Priteesmitha Bhoi"
+        ],
+        "answer": "Priteesmitha Bhoi",
+        "explanation": "Indian weightlifter Priteesmitha Bhoi achieved a remarkable feat by setting a new Youth World Record at the Asian Youth Games held in Bahrain. Competing in the girls' 44kg category, she lifted 92kg in the Clean & Jerk, marking a record-breaking performance. With a total lift of 158kg across all attempts, she secured the gold medal, bringing pride to India. Her achievement highlights India’s growing strength in youth weightlifting and showcases the potential of emerging athletes on the global stage.",
+        "category": "Technology"
+      },
+      {
+        "id": 5,
+        "question": "Which ISRO mission is set for launch on November 2 using the LVM3 rocket carrying India’s heaviest communication satellite?",
+        "options": [
+          "Chandrayaan-3 Mission",
+          "Aditya-L1 Mission",
+          "CMS-03 Mission",
+          "Gaganyaan Mission"
+        ],
+        "answer": "CMS-03 Mission",
+        "explanation": "The CMS-03 Mission is an upcoming ISRO launch scheduled for November 2, featuring India’s heaviest communication satellite, weighing 4,400 kg. The LVM3 launch vehicle has been moved to the launch pad at the Satish Dhawan Space Centre, Sriharikota, for this major mission. CMS-03 will enhance India’s communication capabilities by providing advanced coverage and bandwidth across the Indian subcontinent. This mission also reaffirms ISRO’s growing expertise in deploying high-capacity satellites and demonstrates the efficiency of the LVM3 rocket, which has become India’s most powerful and reliable launch vehicle for heavy payloads.",
+        "category": "Technology"
+      },
+      {
+        "id": 6,
+        "question": "Who has been recommended to become the 53rd Chief Justice of India following the retirement of Chief Justice Bhushan R Gavai?",
+        "options": [
+          "Justice Surya Kant",
+          "Justice D.Y. Chandrachud",
+          "Justice Sanjiv Khanna",
+          "Justice Sanjay Kishan Kaul"
+        ],
+        "answer": "Justice Surya Kant",
+        "explanation": "Justice Surya Kant has been recommended to take over as the 53rd Chief Justice of India after the retirement of Chief Justice Bhushan R Gavai. He was elevated to the Supreme Court on May 24, 2019, and will serve as CJI for about 14 months, until February 9, 2027. Notably, Justice Surya Kant will be the first Chief Justice of India hailing from the state of Haryana, marking an important milestone in the history of the Indian judiciary.",
+        "category": "Technology"
+      },
+      {
+        "id": 7,
+        "question": "In which state was the Grand Finale of the Model Rocketry and CANSAT India Student Competition held?",
+        "options": [
+          "Gujarat",
+          "Maharashtra",
+          "Uttar Pradesh",
+          "Karnataka"
+        ],
+        "answer": "Uttar Pradesh",
+        "explanation": "The Grand Finale of the Model Rocketry and CANSAT India Student Competition took place in Kushinagar, Uttar Pradesh, on the banks of the Narayani River. Organised jointly by IN-SPACe, ISRO, and the Astronautical Society of India (ASI), it stands as one of the largest student-led space competitions in the country. A total of 71 student teams from institutions across India participated, showcasing innovations in model rocketry and satellite technology, aimed at encouraging young minds to explore and contribute to India’s growing space research ecosystem.",
+        "category": "Technology"
+      },
+      {
+        "id": 8,
+        "question": "Which Indian state will impose a green tax on vehicles entering from other states starting December 2025 to protect its fragile Himalayan ecosystem?",
+        "options": [
+          "Himachal Pradesh",
+          "Uttarakhand",
+          "Sikkim",
+          "Arunachal Pradesh"
+        ],
+        "answer": "Uttarakhand",
+        "explanation": "Uttarakhand will introduce a green tax from December 2025 on all vehicles entering from other states to safeguard its fragile Himalayan environment. The initiative aims to reduce vehicular emissions, discourage unnecessary traffic in eco-sensitive hill areas, and promote sustainable tourism. The tax collection will be fully automated through Automatic Number Plate Recognition (ANPR) cameras at 37 entry points, ensuring transparency and efficiency. By integrating digital governance and environmental protection, Uttarakhand becomes one of the first states to adopt a real-time, technology-driven system for ecological conservation and pollution control in hill regions.",
+        "category": "Technology"
+      },
+      {
+        "id": 9,
+        "question": "Who scored the third-fastest double century in Ranji Trophy history during the 2025–26 season?",
+        "options": [
+          "Prithvi Shaw",
+          "Yashasvi Jaiswal",
+          "Ruturaj Gaikwad",
+          "Sarfaraz Khan"
+        ],
+        "answer": "Prithvi Shaw",
+        "explanation": "Prithvi Shaw achieved the remarkable feat of scoring the third-fastest double century in Ranji Trophy history, smashing 200 runs off just 141 balls in a 2025–26 season match against Chandigarh. Having moved from Mumbai to Maharashtra for the season, Shaw made an emphatic statement with this explosive performance. His aggressive batting and quick scoring rate underline his natural talent and ability to dominate domestic cricket. This innings not only reaffirmed his potential but also placed him among the elite performers in India’s premier first-class cricket tournament.",
+        "category": "Technology"
+      },
+      {
+        "id": 10,
+        "question": "Which country will host the first Asia Pacific Accident Investigation Group (APAC-AIG) meeting and workshop?",
+        "options": [
+          "Japan",
+          "Singapore",
+          "Australia",
+          "India"
+        ],
+        "answer": "India",
+        "explanation": "India will host the first Asia Pacific Accident Investigation Group (APAC-AIG) meeting and workshop, marking a significant milestone in its aviation safety leadership. Organised by the Aircraft Accident Investigation Bureau (AAIB) under the Ministry of Civil Aviation, the event will feature around 90 representatives from ICAO member states and international aviation experts. Union Minister of Civil Aviation, Rammohan Naidu, will inaugurate the event. Hosting this meeting demonstrates India’s growing role in global aviation governance and its commitment to enhancing air safety standards and cooperation across the Asia-Pacific region.",
+        "category": "Technology"
+      },
+      {
+        "id": 11,
+        "question": "In how many states and union territories will the Election Commission conduct the Special Intensive Revision (SIR) of electoral rolls under the second phase?",
+        "options": [
+          "8",
+          "10",
+          "15",
+          "12"
+        ],
+        "answer": "12",
+        "explanation": "The Election Commission of India has announced that the Special Intensive Revision (SIR) of electoral rolls will be carried out in 12 states and union territories as part of the second phase of the revision process. During this exercise, Booth Level Officers (BLOs) will distribute unique enumeration forms to all existing voters to ensure accuracy in voter data. Importantly, voters whose names already appeared in the 2003 electoral list are exempted from providing additional documentation. This initiative aims to maintain transparency, inclusiveness, and updated records in the electoral system across multiple regions of India.",
+        "category": "Technology"
+      },
+      {
+        "id": 12,
+        "question": "Where did Union Home Minister Amit Shah inaugurate the 'Deep Sea Fishing Vessels' under the Pradhan Mantri Matsya Sampada Yojana?",
+        "options": [
+          "Cochin Shipyard",
+          "Mazgaon Dock",
+          "Vishakhapatnam Port",
+          "Paradip Port"
+        ],
+        "answer": "Mazgaon Dock",
+        "explanation": "Union Home Minister Amit Shah inaugurated the 'Deep Sea Fishing Vessels' at Mazgaon Dock in Mumbai under the Pradhan Mantri Matsya Sampada Yojana. This initiative aims to enhance the fishing infrastructure and boost marine productivity. Over the next five years, the government plans to distribute 200 deep-sea fishing vessels on a cooperative basis across India. The program is a major step toward empowering fishermen, modernizing the fisheries sector, and improving the livelihoods of coastal communities while promoting sustainable fishing practices.",
+        "category": "Technology"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-29",
+    "questions": [
+      {
+        "id": 1,
+        "question": "In which city was the 20th East Asia Summit held where the Kuala Lumpur Declaration was adopted?",
+        "options": [
+          "Jakarta",
+          "Bangkok",
+          "Manila",
+          "Kuala Lumpur"
+        ],
+        "answer": "Kuala Lumpur",
+        "explanation": "The 20th East Asia Summit took place in Kuala Lumpur, Malaysia, where member nations adopted the Kuala Lumpur Declaration reaffirming their shared commitment to peace, stability, and multilateral cooperation. The declaration emphasised ASEAN’s central role in regional architecture and endorsed transparent, rules-based approaches to conflict resolution. It also reinforced the EAS’s informal, leaders-led framework for strategic dialogue and cooperation on security, economic, and developmental issues. Amid shifting global power dynamics and regional tensions, the summit’s outcome in Kuala Lumpur underscored the importance of collaboration, trust-building, and a unified commitment to stability across the East Asian region.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 2,
+        "question": "Which passenger vessel completed its maiden voyage to Barren Island, marking a milestone in Andaman and Nicobar maritime tourism?",
+        "options": [
+          "Samudra",
+          "Sindhu",
+          "Varuna",
+          "Sagarika"
+        ],
+        "answer": "Sindhu",
+        "explanation": "The passenger vessel Sindhu achieved a historic feat by completing its maiden voyage to Barren Island, home to India’s only active volcano. Located about 140 km from Port Blair, Barren Island has long been a restricted zone, primarily accessible to scientists and researchers through aerial surveys. The successful journey of Sindhu marks a new chapter in Andaman and Nicobar tourism by opening sea-based access to one of India’s most unique geological sites. This development not only enhances eco-tourism prospects but also strengthens the region’s maritime connectivity and exploration initiatives.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 3,
+        "question": "Which country became the 11th member of the Association of Southeast Asian Nations (ASEAN) in October 2025?",
+        "options": [
+          "Cambodia",
+          "East Timor",
+          "Laos",
+          "Myanmar"
+        ],
+        "answer": "East Timor",
+        "explanation": "East Timor, also known as Timor-Leste, officially became the 11th member of ASEAN on October 26, 2025, during the ASEAN Summit in Kuala Lumpur. This marked the culmination of a 14-year application process and symbolised the country’s successful integration into the regional community. With a population of about 1.4 million and a growing democratic system, East Timor’s membership represents ASEAN’s commitment to inclusivity and the strengthening of democratic values. It also opens new opportunities for East Timor in trade, education, and regional cooperation while enriching ASEAN’s collective political and cultural diversity.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 4,
+        "question": "Which Hong Kong-based startup is launching the Feilian Constellation, the world’s first 3D wind data satellite network?",
+        "options": [
+          "SkyMatrix",
+          "AeroLink",
+          "WindSphere",
+          "Stellerus"
+        ],
+        "answer": "Stellerus",
+        "explanation": "Stellerus, a Hong Kong-based startup, is set to revolutionize atmospheric observation with the Feilian Constellation—the world’s first satellite network designed to capture three-dimensional wind data. The constellation will provide hourly, kilometer-scale global wind maps, improving forecasts for renewable energy, aviation safety, and disaster management. Led by Professor Hui Su, a NASA veteran, Stellerus combines advanced meteorological science with cost-effective Chinese satellite manufacturing. Partnering with Chang Guang Satellite Technology Co., the company leverages cutting-edge imaging and lightweight satellite design to make global 3D wind monitoring economically viable and technologically groundbreaking.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 5,
+        "question": "Which Indian state received a $280 million World Bank loan under the Health System Improvement Programme to enhance healthcare access and climate resilience?",
+        "options": [
+          "Tamil Nadu",
+          "Maharashtra",
+          "Kerala",
+          "Karnataka"
+        ],
+        "answer": "Kerala",
+        "explanation": "The World Bank approved a $280 million loan for a southern Indian state under the Health System Improvement Programme to strengthen healthcare services and improve climate resilience. The initiative aims to benefit around 11 million elderly and vulnerable citizens through better chronic disease care, home-based support, and advanced digital health systems. It also promotes energy-efficient and climate-adaptive health infrastructure in districts prone to floods and heatwaves. The project highlights a model of digital integration, local governance participation, and sustainable public health management, enhancing the state’s reputation for progressive healthcare initiatives.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 6,
+        "question": "Which institution signed an MoU with NCERT to enhance educational research and technology integration in line with the National Education Policy 2020?",
+        "options": [
+          "IIT Madras",
+          "IISc Bengaluru",
+          "Delhi University",
+          "IIT Bombay"
+        ],
+        "answer": "IIT Madras",
+        "explanation": "The National Council for Educational Research and Training (NCERT) has partnered with IIT Madras through a Memorandum of Understanding (MoU) to strengthen educational research and promote the integration of advanced technologies in learning. This collaboration aims to foster innovation in education by leveraging Information Technology, Artificial Intelligence, and Machine Learning tools. Aligned with the objectives of the National Education Policy 2020, the partnership seeks to modernize India’s education system, enhance digital learning infrastructure, and create data-driven, inclusive, and adaptive educational models that improve both teaching methodologies and student engagement nationwide.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 7,
+        "question": "On which date is International Animation Day celebrated each year to honour the birth of animation?",
+        "options": [
+          "October 18",
+          "October 28",
+          "November 2",
+          "September 30"
+        ],
+        "answer": "October 28",
+        "explanation": "International Animation Day is celebrated annually on October 28 to commemorate the birth of animation and honour Émile Reynaud’s pioneering work in 1892, when he presented the first public animated film using his Théâtre Optique in Paris. Established by ASIFA in 2002, the day is observed in over 50 countries, featuring screenings, workshops, and exhibitions that celebrate the art and evolution of animation. It highlights animation’s role as a universal storytelling medium, bridging cultures and languages through creativity, education, and visual innovation across both traditional and digital forms.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 8,
+        "question": "Which country is set to host the Asia Pacific Accident Investigation Group (APAC-AIG) meeting and workshop for the first time in 2025?",
+        "options": [
+          "India",
+          "Japan",
+          "Singapore",
+          "Australia"
+        ],
+        "answer": "India",
+        "explanation": "India will host the Asia Pacific Accident Investigation Group (APAC-AIG) meeting and workshop for the first time from October 28 to 31, 2025. The event, organised by the Aircraft Accident Investigation Bureau (AAIB) under the Ministry of Civil Aviation, will bring together around 90 global aviation safety experts and representatives from ICAO member states. Hosting this event reflects India’s growing leadership in global aviation safety, its commitment to international standards, and its strengthening role in regional air crash investigation and collaboration.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 9,
+        "question": "What is the number of districts Uttar Pradesh will have after the creation of Kalyan Singh Nagar?",
+        "options": [
+          "76th",
+          "75th",
+          "77th",
+          "78th"
+        ],
+        "answer": "76th",
+        "explanation": "Uttar Pradesh will have a total of 76 districts after the creation of Kalyan Singh Nagar, which has been carved out from tehsils of Aligarh and Bulandshahr. The new district honours the legacy of former Chief Minister Kalyan Singh, who played a significant role in the state’s political and developmental history. The government’s decision aims not only to pay tribute to the late leader but also to improve administrative efficiency, governance, and public service delivery in the region. By creating smaller districts, Uttar Pradesh seeks to strengthen local administration and ensure balanced regional development.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 10,
+        "question": "Which Indian company signed an MoU with Russia’s United Aircraft Corporation (UAC) to produce SJ-100 civil commuter aircraft in India?",
+        "options": [
+          "Bharat Electronics Limited",
+          "Larsen & Toubro",
+          "Tata Advanced Systems",
+          "Hindustan Aeronautics Limited"
+        ],
+        "answer": "Hindustan Aeronautics Limited",
+        "explanation": "Hindustan Aeronautics Limited (HAL) has entered into a Memorandum of Understanding (MoU) with Russia’s United Aircraft Corporation (UAC) to jointly produce SJ-100 civil commuter aircraft in India. This collaboration represents a landmark achievement for India’s aviation sector, as the SJ-100 will become the first complete passenger aircraft manufactured domestically. The initiative aligns with the government’s ‘Aatmanirbhar Bharat’ (self-reliant India) vision by strengthening indigenous manufacturing capabilities, reducing dependence on foreign imports, and positioning India as a key player in the global civil aviation production ecosystem.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 11,
+        "question": "How many nations signed the historic United Nations Cybercrime Convention held in Hanoi?",
+        "options": [
+          "60",
+          "68",
+          "72",
+          "80"
+        ],
+        "answer": "72",
+        "explanation": "A total of 72 nations signed the United Nations Cybercrime Convention in Hanoi, marking the creation of the first-ever global treaty aimed at combating cyber threats. This landmark agreement, adopted by the UN General Assembly in 2024 after years of negotiation, establishes a universal legal framework to address crimes such as hacking, ransomware, online fraud, child exploitation, and the non-consensual sharing of intimate images. By fostering international cooperation, facilitating evidence sharing, and offering capacity-building support for developing countries, the treaty represents a significant step toward harmonizing global cyber laws and strengthening collective digital security.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 12,
+        "question": "Who won the gold medal in the men’s freestyle 65kg category at the Under-23 World Wrestling Championships?",
+        "options": [
+          "Umidjon Jalolov",
+          "Deepak Punia",
+          "Sujeet Kalkal",
+          "Ravi Dahiya"
+        ],
+        "answer": "Sujeet Kalkal",
+        "explanation": "Sujeet Kalkal secured a historic victory by winning the gold medal in the men’s freestyle 65kg category at the Under-23 World Wrestling Championships. He defeated Uzbekistan’s Umidjon Jalolov in the final to claim his first-ever world title. This achievement adds to Kalkal’s growing list of accolades, which already includes two U-23 Asian titles and a U-20 Asian Championship gold. His triumph is particularly significant as it was India’s only medal at the event, showcasing his exceptional skill, determination, and contribution to Indian wrestling on the global stage.",
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 13,
+        "question": "Which country launched the world’s first yen-pegged stablecoin, JPYC, marking a major milestone in digital finance?",
+        "options": [
+          "Japan",
+          "South Korea",
+          "China",
+          "Singapore"
+        ],
+        "answer": "Japan",
+        "explanation": "Japan has introduced the world’s first yen-pegged stablecoin, JPYC, on October 27, 2025, through Tokyo-based startup JPYC Inc. Fully backed by Japanese yen and government bonds, the stablecoin aims to enhance digital payments and global financial interoperability while maintaining a 1:1 value with the yen. This move positions Japan as a pioneer in digital currency innovation, breaking the dominance of U.S. dollar-backed stablecoins. By promoting low-cost, fast, and secure transactions, Japan’s initiative reflects its broader goal of integrating fintech advancements with monetary stability and economic modernization in the Asia-Pacific region.",
+        "category": "Miscellaneous"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who became the first U.S. president to receive South Korea’s highest national honour, the Grand Order of Mugunghwa?",
+        "options": [
+          "Joe Biden",
+          "Donald Trump",
+          "Barack Obama",
+          "George W. Bush"
+        ],
+        "answer": "Donald Trump",
+        "explanation": "During his visit to South Korea on October 29, 2025, Donald Trump was awarded the Grand Order of Mugunghwa, the country’s highest national honour. He also received a replica of the golden Cheonmachong crown, symbolising unity and peaceful reigns. This recognition was granted for his diplomatic efforts in fostering peace on the Korean peninsula, particularly his historic engagements with North Korean leader Kim Jong Un. The event, held in Gyeongju, highlighted strengthened U.S.–South Korea relations and marked Trump as the first American president to receive this distinguished award.",
+        "category": "International"
+      },
+      {
+        "id": 2,
+        "question": "With which country did India recently sign key power agreements to build 400 kV transmission lines and boost cross-border electricity trade?",
+        "options": [
+          "Bangladesh",
+          "Bhutan",
+          "Nepal",
+          "Sri Lanka"
+        ],
+        "answer": "Nepal",
+        "explanation": "India and Nepal have entered into major power agreements to strengthen their energy partnership. The deals were signed between India’s POWERGRID Corporation and the Nepal Electricity Authority (NEA) in New Delhi, in the presence of both countries’ energy ministers. These agreements aim to construct two 400 kV cross-border transmission lines connecting Inaruwa (Nepal) to New Purnea (India) and Lamki/Dododhara (Nepal) to Bareilly (India). The initiative will enhance electricity trade, improve grid reliability, and promote regional energy integration. This collaboration highlights Nepal’s hydropower potential and India’s growing clean energy demand under its Neighborhood First policy.",
+        "category": "International"
+      },
+      {
+        "id": 3,
+        "question": "Which regulatory body has proposed major reforms to India’s mutual fund fee structure to enhance transparency and investor protection?",
+        "options": [
+          "RBI",
+          "SEBI",
+          "IRDAI",
+          "PFRDA"
+        ],
+        "answer": "SEBI",
+        "explanation": "The Securities and Exchange Board of India (SEBI) has proposed an overhaul of the mutual fund fee framework to promote transparency, fairness, and investor protection. The consultation paper suggests that taxes and government levies such as STT, GST, and stamp duty be excluded from the Total Expense Ratio (TER) and charged separately to investors. It also proposes removing the additional 5 basis points expense for Asset Management Companies (AMCs) on Assets Under Management (AUM). These reforms aim to simplify cost structures, improve investor clarity, and ensure better governance in India’s mutual fund industry.",
+        "category": "International"
+      },
+      {
+        "id": 4,
+        "question": "On which date is World Stroke Day observed in 2025?",
+        "options": [
+          "September 21",
+          "November 14",
+          "December 1",
+          "October 29"
+        ],
+        "answer": "October 29",
+        "explanation": "World Stroke Day is observed every year on October 29 to raise global awareness about stroke prevention, treatment, and recovery. In 2025, the Ministry of Ayush in India marked the day by promoting holistic and integrative approaches to stroke management, combining traditional Indian systems like Ayurveda, Yoga, and Naturopathy with modern medical care. The observance highlights the importance of lifestyle changes, early detection, and rehabilitation in reducing stroke-related mortality and disability. By aligning ancient practices with scientific medicine, the initiative underscores India’s commitment to preventive and restorative health care on this significant day.",
+        "category": "International"
+      },
+      {
+        "id": 5,
+        "question": "Which company has partnered with Nvidia to deploy 100,000 autonomous robotaxis starting in 2027?",
+        "options": [
+          "Tesla",
+          "Waymo",
+          "Uber",
+          "Lyft"
+        ],
+        "answer": "Uber",
+        "explanation": "Uber has entered into a strategic partnership with Nvidia to deploy 100,000 autonomous robotaxis beginning in 2027, signaling a transformative step in the evolution of urban transportation. The collaboration will leverage Nvidia’s DRIVE AGX Hyperion 10 platform, designed to support Level 4 autonomy, enabling vehicles to operate without human intervention in controlled environments. Uber will manage the operational aspects of the autonomous fleet, integrating the technology into its global ride-hailing network. This initiative represents a major advancement in self-driving innovation, combining Uber’s mobility expertise with Nvidia’s AI and computing power for next-generation smart mobility solutions.",
+        "category": "International"
+      },
+      {
+        "id": 6,
+        "question": "From which Air Force Station did President Droupadi Murmu take her historic Rafale fighter jet sortie?",
+        "options": [
+          "Ambala",
+          "Tezpur",
+          "Jodhpur",
+          "Pune"
+        ],
+        "answer": "Ambala",
+        "explanation": "President Droupadi Murmu took her historic Rafale fighter jet sortie from Ambala Air Force Station in Haryana on October 29, 2025. This event marked a significant milestone as she became the first Indian President to fly in the Rafale jet. Ambala, known as the base of the IAF’s 17 Squadron “Golden Arrows,” has been central to India’s Rafale operations since 2020. The sortie, lasting around 30 minutes, underscored her role as Supreme Commander of the Armed Forces and strengthened the bond between civilian leadership and military operations.",
+        "category": "International"
+      },
+      {
+        "id": 7,
+        "question": "Which ministry is set to launch the “Koyla Shakti – Smart Coal Analytics Dashboard” for real-time monitoring of coal operations in India?",
+        "options": [
+          "Ministry of Coal",
+          "Ministry of Power",
+          "Ministry of Mines",
+          "Ministry of Petroleum and Natural Gas"
+        ],
+        "answer": "Ministry of Coal",
+        "explanation": "The “Koyla Shakti – Smart Coal Analytics Dashboard” is being launched by the Ministry of Coal as part of its digital transformation efforts in the energy sector. This real-time analytics platform aims to integrate data from coal producers, ports, and multiple ministries into a unified interface, enabling efficient tracking of the entire coal supply chain. By promoting data transparency, operational efficiency, and better coordination among stakeholders, the dashboard supports India’s goal of modernizing its coal management systems and ensuring smoother energy logistics across the country.",
+        "category": "International"
+      },
+      {
+        "id": 8,
+        "question": "What percentage of scientists are featured in Stanford University’s 2025 global list of top researchers?",
+        "options": [
+          "1%",
+          "2%",
+          "5%",
+          "10%"
+        ],
+        "answer": "2%",
+        "explanation": "Stanford University’s 2025 World’s Top 2% Scientists List identifies the top-performing researchers worldwide based on a composite citation and impact metric developed by Professor John Ioannidis. The data, sourced from Elsevier’s Scopus database, evaluates career-long and annual scientific performance across various disciplines. This year’s list highlights 6,239 Indian scientists among the world’s top 2%, reflecting India’s growing presence in global research and innovation. Notably, several of these scientists come from emerging and lesser-known institutions, showcasing the expanding quality and diversity of scientific contributions across the Indian research landscape.",
+        "category": "International"
+      },
+      {
+        "id": 9,
+        "question": "Which country has unveiled the nuclear-powered underwater drone named Poseidon?",
+        "options": [
+          "China",
+          "United States",
+          "North Korea",
+          "Russia"
+        ],
+        "answer": "Russia",
+        "explanation": "Russia has introduced Poseidon, a nuclear-powered and nuclear-armed underwater drone capable of creating massive radioactive tsunamis near enemy coastlines. Announced by President Vladimir Putin, the Poseidon—formerly known as Status-6—is a next-generation strategic weapon intended to deter large-scale attacks. It features a compact nuclear reactor that is about 100 times smaller than those found in standard submarines, giving it remarkable endurance and stealth capabilities. The weapon underscores Russia’s focus on developing autonomous and nuclear-based defence systems, marking a significant escalation in global undersea warfare and strategic deterrence technologies.",
+        "category": "International"
+      },
+      {
+        "id": 10,
+        "question": "The Government of India plans to introduce new ‘Ratna’ categories as part of the revised classification and performance assessment of which entities?",
+        "options": [
+          "Central Public Sector Enterprises",
+          "Public Sector Banks",
+          "State Government Enterprises",
+          "Cooperative Societies"
+        ],
+        "answer": "Central Public Sector Enterprises",
+        "explanation": "The Government of India is planning to reform the classification system of Central Public Sector Enterprises (CPSEs) by introducing two new ‘Ratna’ categories in addition to the existing Maharatna, Navratna, and Miniratna statuses. This initiative aims to modernize the evaluation framework, align it with evolving market conditions, and reward efficiency, profitability, and innovation among CPSEs. A 10-member committee headed by Cabinet Secretary T.V. Somanathan has been established to review the proposal and submit recommendations before the Union Budget 2026–27. The move reflects the government’s continued efforts to enhance corporate governance and performance accountability in the public sector.",
+        "category": "International"
+      }
+    ]
   }
 ]
