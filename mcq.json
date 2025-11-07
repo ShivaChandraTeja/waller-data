@@ -46586,5 +46586,449 @@
         "category": "Sports"
       }
     ]
+  },
+  {
+    "date": "2025-11-03",
+    "questions": [
+      {
+        "id": 1,
+        "question": "In which Indian state was the Integrated Sohra Tourism Circuit launched under the PM-DevINE scheme by Union Minister Jyotiraditya Scindia?",
+        "options": [
+          "Assam",
+          "Sikkim",
+          "Meghalaya",
+          "Arunachal Pradesh"
+        ],
+        "answer": "Meghalaya",
+        "explanation": "The Integrated Sohra Tourism Circuit was launched in Meghalaya under the PM-DevINE scheme, with Union Minister Jyotiraditya Scindia laying its foundation. Valued at ₹233 crore, this project aims to develop Sohra (Cherrapunji) into a model destination for sustainable tourism. It forms part of the larger ₹650 crore initiative focusing on tourism, connectivity, and regional development in the Northeast. Additionally, key infrastructure projects such as the Shillong–Silchar Expressway, Umroi Airport expansion, and New Shillong City initiative are being implemented to boost Meghalaya’s economic growth and tourism potential in the region.",
+        "category": "State"
+      },
+      {
+        "id": 2,
+        "question": "Who assumed charge as the 40th Chief of Materiel of the Indian Navy on 01 Nov 2025, succeeding Vice Admiral Kiran Deshmukh?",
+        "options": [
+          "Vice Admiral B Sivakumar",
+          "Vice Admiral Kiran Deshmukh",
+          "Vice Admiral G Ashok Kumar",
+          "Vice Admiral R Hari Kumar"
+        ],
+        "answer": "Vice Admiral B Sivakumar",
+        "explanation": "Vice Admiral B Sivakumar, AVSM, VSM, assumed the role of the 40th Chief of Materiel on the specified date, taking over from Vice Admiral Kiran Deshmukh. His extensive background, including being an NDA alumnus, a postgraduate from IIT Chennai, and having over 38 years of service, is detailed. His prior experience as the Director General of Naval Projects in Visakhapatnam and his expertise in naval technology and warship production further confirm his identity as the officer who took on this key leadership position within the Indian Navy.",
+        "category": "State"
+      },
+      {
+        "id": 3,
+        "question": "On which date is World Jellyfish Day celebrated annually to raise awareness about the ecological importance and beauty of jellyfish?",
+        "options": [
+          "October 31",
+          "November 3",
+          "November 10",
+          "December 1"
+        ],
+        "answer": "November 3",
+        "explanation": "World Jellyfish Day is celebrated every year on November 3 to honour one of Earth’s oldest and most fascinating marine organisms. Jellyfish have existed for over 500 million years and play a vital role in maintaining marine ecosystem balance. Despite their reputation for stings, they contribute to oceanic food chains, provide shelter for juvenile fish, and act as indicators of ocean health and climate change. The day encourages appreciation through educational activities, aquarium visits, and conservation awareness, emphasizing the need to protect marine biodiversity and promote sustainable ocean practices worldwide.",
+        "category": "State"
+      },
+      {
+        "id": 4,
+        "question": "Which advanced communication satellite is ISRO launching to enhance the Indian Navy’s maritime domain awareness and secure communication network?",
+        "options": [
+          "GSAT-6A",
+          "GSAT-11",
+          "GSAT-7A",
+          "GSAT-7R"
+        ],
+        "answer": "GSAT-7R",
+        "explanation": "GSAT-7R, also known as CMS-03, is India’s heaviest and most advanced indigenous naval communication satellite, weighing approximately 4,400 kg. Launched by ISRO from Sriharikota, it is designed to significantly enhance the Indian Navy’s space-based communication capabilities and maritime domain awareness across the Indian Ocean Region. The satellite is equipped with multi-band transponders that provide secure, high-bandwidth voice, data, and video connectivity between naval command centres and assets at sea. GSAT-7R strengthens India’s strategic communication infrastructure, ensuring reliable and real-time naval operations in both peacetime and defence scenarios.",
+        "category": "State"
+      },
+      {
+        "id": 5,
+        "question": "Which country’s Citizenship and Immigration Services agency has ended cheque and money order payments, making electronic debit via Form G-1650 mandatory for immigration filings?",
+        "options": [
+          "Canada",
+          "Australia",
+          "United Kingdom",
+          "United States"
+        ],
+        "answer": "United States",
+        "explanation": "The United States Citizenship and Immigration Services (USCIS) has introduced a significant policy change by discontinuing cheque and money order payments for immigration-related filings. Applicants must now use electronic debit through Form G-1650 for all transactions. This shift aims to enhance security, minimise the risk of fraud, and ensure faster, more efficient processing. According to USCIS spokesperson Matthew J. Tragesser, the updated system replaces outdated manual methods, aligning with modern digital standards to improve accuracy, reliability, and overall transparency in immigration service operations within the United States.",
+        "category": "State"
+      },
+      {
+        "id": 6,
+        "question": "In which city is the Emerging Science & Technology Innovation Conclave (ESTIC-2025) being held, inaugurated by Prime Minister Narendra Modi?",
+        "options": [
+          "New Delhi",
+          "Bengaluru",
+          "Hyderabad",
+          "Mumbai"
+        ],
+        "answer": "New Delhi",
+        "explanation": "The Emerging Science & Technology Innovation Conclave 2025 (ESTIC-2025) is being hosted in New Delhi from November 3 to 5, bringing together over 3,000 participants, including leading scientists, innovators, and policymakers. The event, inaugurated by Prime Minister Narendra Modi, focuses on the theme “Viksit Bharat 2047 – Pioneering Sustainable Innovation, Technological Advancement and Empowerment.” During the conclave, the Prime Minister also launched the ₹1 Lakh Crore Research, Development, and Innovation (RDI) Scheme to accelerate private-led R&D initiatives and support deep-tech startups, strengthening India’s path toward technological self-reliance and sustainable innovation.",
+        "category": "State"
+      },
+      {
+        "id": 7,
+        "question": "Who assumed charge as the Controller General of Defence Accounts (CGDA) on November 1, 2025?",
+        "options": [
+          "Rajiv Gauba",
+          "T. V. Somanathan",
+          "Shri Vishvajit Sahay",
+          "Ajay Kumar Bhalla"
+        ],
+        "answer": "Shri Vishvajit Sahay",
+        "explanation": "Shri Vishvajit Sahay, a 1990 batch officer of the Indian Defence Accounts Service (IDAS), assumed charge as the Controller General of Defence Accounts (CGDA) on November 1, 2025. With over 30 years of experience in defence finance, he has held several senior positions, including Additional Secretary and Financial Adviser in the Department of Science and Technology (DST) and Finance Manager in the Ministry of Defence (MoD). An alumnus of St. Stephen’s College, Sahay has also represented India at international forums, contributing significantly to the modernization and transparency of defence financial management.",
+        "category": "State"
+      },
+      {
+        "id": 8,
+        "question": "Which DNA repair protein discovered by University of Iowa researchers shows potential for new cancer therapies by targeting DNA repair deficiencies such as BRCA1/2 mutations?",
+        "options": [
+          "RAD52",
+          "PARP1",
+          "BRCA1",
+          "p53"
+        ],
+        "answer": "RAD52",
+        "explanation": "RAD52 is a DNA repair protein identified by University of Iowa researchers as crucial for cancer cell survival, particularly in cells with BRCA1/2 mutations that impair DNA repair mechanisms. By inhibiting RAD52, researchers can selectively kill cancer cells without heavily affecting normal cells. This approach offers a promising alternative to PARP inhibitors, potentially overcoming drug resistance and reducing side effects associated with traditional treatments like chemotherapy and radiation, thereby opening new therapeutic avenues for cancers with DNA repair deficiencies.",
+        "category": "State"
+      },
+      {
+        "id": 9,
+        "question": "Who was re-elected as the President of Tanzania with 97.66% of the votes amid reports of violent unrest and protests?",
+        "options": [
+          "John Magufuli",
+          "Samia Hassan",
+          "Hakainde Hichilema",
+          "Yoweri Museveni"
+        ],
+        "answer": "Samia Hassan",
+        "explanation": "Samia Suluhu Hassan was re-elected as the President of Tanzania with an overwhelming 97.66% of the votes and a voter turnout of 87%. Her victory came during a period of significant unrest marked by violent protests and allegations of election irregularities. Opposition groups reported hundreds of deaths, although the United Nations confirmed at least 10 casualties. Despite the controversy surrounding the process, Hassan’s re-election secured her another five-year term, reinforcing her position as one of Africa’s prominent female leaders and a key figure in Tanzania’s political landscape.",
+        "category": "State"
+      },
+      {
+        "id": 10,
+        "question": "In which city was the International Conference on “Libraries Empowering Communities – Global Perspectives” held to mark 80 years of Kerala’s library movement?",
+        "options": [
+          "Kochi",
+          "Thiruvananthapuram",
+          "Kozhikode",
+          "Chennai"
+        ],
+        "answer": "Thiruvananthapuram",
+        "explanation": "The International Conference on “Libraries Empowering Communities – Global Perspectives” was organised at Kanakakkunnu Palace in Thiruvananthapuram on November 2–3, 2025, commemorating 80 years of Kerala’s library movement initiated by the P. N. Panicker Foundation. The event gathered librarians, policymakers, and global experts to discuss the evolving role of libraries in promoting literacy and access to knowledge. Vice-President C. P. Radhakrishnan highlighted libraries as “temples of learning,” emphasizing their importance in fostering digital literacy, critical thinking, and combating misinformation in the modern age of technology and information overload.",
+        "category": "State"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which country launched the nuclear submarine “Khabarovsk” designed to carry the Poseidon underwater drone?",
+        "options": [
+          "United States",
+          "Russia",
+          "China",
+          "United Kingdom"
+        ],
+        "answer": "Russia",
+        "explanation": "Russia launched the nuclear-powered submarine “Khabarovsk” on November 1 at the Sevmash shipyard in Severodvinsk. The submarine is designed to carry the Poseidon Unmanned Underwater Vehicle (UUV)—a nuclear-powered torpedo capable of traveling thousands of kilometers and reportedly carrying a warhead with a yield of about 2 megatons. Poseidon’s potential to generate large-scale radioactive tsunamis and its stealthy underwater deployment make it a key component of Russia’s strategic deterrence. The launch significantly extends Russia’s naval strike and deterrence capabilities while intensifying global security and stability concerns in maritime domains.",
+        "category": "International"
+      },
+      {
+        "id": 2,
+        "question": "Who reclaimed the ATP World No. 1 ranking after winning the 2025 Paris Masters final against Felix Auger-Aliassime?",
+        "options": [
+          "Novak Djokovic",
+          "Carlos Alcaraz",
+          "Daniil Medvedev",
+          "Jannik Sinner"
+        ],
+        "answer": "Jannik Sinner",
+        "explanation": "Jannik Sinner, the Italian tennis sensation, reclaimed the ATP World No. 1 ranking by defeating Felix Auger-Aliassime in straight sets—6-4, 7-6 (4)—in the 2025 Paris Masters final. This victory marked Sinner’s first Paris Masters title and extended his impressive indoor winning streak to 26 matches. With this win, he surpassed Carlos Alcaraz in the ATP rankings, consolidating his dominance during the 2025 season. Sinner’s consistency, particularly in indoor tournaments like Vienna and Paris, showcased his exceptional form, tactical maturity, and mental resilience, cementing his position among the elite players shaping the new era of men’s tennis.",
+        "category": "International"
+      },
+      {
+        "id": 3,
+        "question": "Which country is set to receive its first Taliban-appointed diplomat since the group’s takeover of Kabul in 2021, signaling cautious diplomatic engagement?",
+        "options": [
+          "Russia",
+          "Pakistan",
+          "India",
+          "Iran"
+        ],
+        "answer": "India",
+        "explanation": "India is preparing to receive the first Taliban-appointed diplomat since the Taliban’s return to power in Afghanistan in August 2021. This development marks a cautious reopening of diplomatic engagement between the two sides without formal recognition of the Taliban regime. The move follows Afghan Foreign Minister Amir Khan Muttaqi’s visit to New Delhi in October 2025 and aligns with India’s broader strategy of maintaining humanitarian assistance and regional stability. By permitting a limited diplomatic presence, India balances its security concerns, humanitarian commitments, and geopolitical interests while preserving communication channels with Kabul amid evolving regional dynamics.",
+        "category": "International"
+      },
+      {
+        "id": 4,
+        "question": "Which country has become the first in the world to achieve thorium-to-uranium fuel conversion in a Thorium Molten Salt Reactor (TMSR)?",
+        "options": [
+          "Japan",
+          "China",
+          "India",
+          "South Korea"
+        ],
+        "answer": "China",
+        "explanation": "China has achieved a historic milestone by successfully performing thorium-to-uranium fuel conversion within its Thorium Molten Salt Reactor (TMSR), making it the first country in the world to do so. This breakthrough, announced on November 3, 2025, represents a major advancement in fourth-generation nuclear technology, offering safer, cleaner, and more efficient energy generation. The reactor converts thorium-232 into fissile uranium-233, enabling a sustainable thorium fuel cycle. With this success, China has demonstrated the viability of molten salt reactors and taken a leading position in the race for advanced nuclear innovation, complementing India’s ongoing thorium-based research initiatives.",
+        "category": "International"
+      },
+      {
+        "id": 5,
+        "question": "Which lake in Bihar has recently been declared a Ramsar site, gaining recognition as India’s newest wetland of international importance?",
+        "options": [
+          "Kanwar Lake",
+          "Chilika Lake",
+          "Gogabeel Lake",
+          "Loktak Lake"
+        ],
+        "answer": "Gogabeel Lake",
+        "explanation": "Gogabeel Lake, located in the Katihar district of Bihar, has been designated as India’s newest Ramsar site, earning international recognition for its ecological and cultural significance. This ox-bow lake, formed by the meandering of rivers in the trans-Gangetic plains, is flanked by the Mahananda River in the northeast and the Ganga in the south. It supports diverse flora and fauna, serving as a vital wintering ground for migratory birds and home to species like the Smooth-Coated Otter and Helicopter Catfish. Additionally, its community involvement and cultural importance highlight the Ramsar Convention’s principle of “wise use” of wetlands.",
+        "category": "International"
+      },
+      {
+        "id": 6,
+        "question": "Which organization launched the “Reimagining Agriculture: A Roadmap for Frontier Technology Led Transformation” initiative to modernise Indian farming using AI and advanced technologies?",
+        "options": [
+          "NITI Aayog",
+          "Ministry of Agriculture and Farmers Welfare",
+          "ICAR (Indian Council of Agricultural Research)",
+          "NABARD"
+        ],
+        "answer": "NITI Aayog",
+        "explanation": "NITI Aayog launched the “Reimagining Agriculture: A Roadmap for Frontier Technology Led Transformation” to accelerate India’s agricultural modernization through the integration of AI, digital twins, and precision farming. The initiative emphasises climate-resilient crops, sustainability, and increased farmer income by leveraging frontier technologies. It introduces a farmer segmentation model with three archetypes—Aspiring, Transitioning, and Advanced—to enable targeted interventions. By focusing on innovation and data-driven agricultural practices, the roadmap aims to enhance productivity, resource efficiency, and long-term resilience against climate challenges, marking a major policy push toward tech-enabled, inclusive agricultural growth in India.",
+        "category": "International"
+      },
+      {
+        "id": 7,
+        "question": "The newly launched ‘SBI-STAR’ Awards by the State Bank of India are primarily aimed at recognizing which aspect of its workforce?",
+        "options": [
+          "Employee Talents",
+          "Financial Performance",
+          "Customer Service Efficiency",
+          "Technological Innovation"
+        ],
+        "answer": "Employee Talents",
+        "explanation": "The State Bank of India (SBI) has introduced the ‘SBI-STAR’ Awards—Staff Talent Acknowledgement & Recognition—to honour employee talents beyond professional achievements. The initiative celebrates excellence in areas such as arts, sports, literature, social work, and environmental initiatives, fostering a culture of holistic employee engagement. With over 2.45 lakh employees, SBI aims to highlight the creative, athletic, and humanitarian contributions of its staff, reinforcing its human-centric leadership approach. This annual award program promotes inclusivity, motivation, and well-being within the organization, setting a new benchmark for employee recognition in India’s public sector banking ecosystem.",
+        "category": "International"
+      },
+      {
+        "id": 8,
+        "question": "Which global technology company has partnered with AICTE to establish an Artificial Intelligence lab in India to upskill students and faculty?",
+        "options": [
+          "IBM",
+          "Microsoft",
+          "Google",
+          "Intel"
+        ],
+        "answer": "IBM",
+        "explanation": "IBM has partnered with the All India Council for Technical Education (AICTE) to establish a state-of-the-art Artificial Intelligence (AI) lab at AICTE headquarters. The initiative focuses on enhancing AI and data science skills among students and faculty through hands-on training, hackathons, and certified programs. It also includes a Master-Trainer Program to enable large-scale skill dissemination across India’s technical institutions. The collaboration aligns with India’s National Education Policy 2020 and National AI Strategy, as well as IBM’s global mission to promote inclusive technology education and build a future-ready digital workforce for the evolving tech ecosystem.",
+        "category": "International"
+      },
+      {
+        "id": 9,
+        "question": "Which country has become the first in the world to implement a generational smoking ban prohibiting tobacco use for anyone born after January 1, 2007?",
+        "options": [
+          "New Zealand",
+          "Maldives",
+          "United Kingdom",
+          "Australia"
+        ],
+        "answer": "Maldives",
+        "explanation": "The Maldives has made history by enacting the world’s first generational smoking ban, effective from November 1, 2025. This law prohibits anyone born on or after January 1, 2007, from purchasing or using tobacco in any form. It applies to both citizens and tourists, covering cigarettes, vaping devices, and e-cigarettes. Retailers who violate the age verification mandate face heavy fines. By enforcing this strict regulation, the Maldives aims to create a completely smoke-free generation, prioritizing youth health and setting a global precedent after New Zealand’s repeal and the UK’s pending legislation on similar tobacco restrictions.",
+        "category": "International"
+      },
+      {
+        "id": 10,
+        "question": "Who was honoured with IIT Kanpur’s Distinguished Alumnus Award, the institute’s highest alumni honour, during its 66th Foundation Day celebrations?",
+        "options": [
+          "Rajiv Kumar",
+          "Sushil Chandra",
+          "Gyanesh Kumar",
+          "Sunil Arora"
+        ],
+        "answer": "Gyanesh Kumar",
+        "explanation": "Chief Election Commissioner Gyanesh Kumar was conferred IIT Kanpur’s Distinguished Alumnus Award, the premier recognition given by the institute to its former students for exceptional professional achievements. A 1985 B.Tech graduate in Civil Engineering from IIT Kanpur, Gyanesh Kumar has had an illustrious career in public service and governance. Instituted in 1989, this award celebrates alumni who have made significant contributions in their respective fields. The honour was presented during IIT Kanpur’s 66th Foundation Day celebrations, marking both academic excellence and leadership in public administration.",
+        "category": "International"
+      },
+      {
+        "id": 11,
+        "question": "Which tech company has signed a $38 billion deal with OpenAI to expand AI capabilities using its cloud infrastructure?",
+        "options": [
+          "Google",
+          "Microsoft",
+          "IBM",
+          "Amazon"
+        ],
+        "answer": "Amazon",
+        "explanation": "Amazon, through its cloud division Amazon Web Services (AWS), has entered a $38 billion partnership with OpenAI to enhance AI infrastructure and scalability. Announced on November 3, 2025, the agreement provides OpenAI access to AWS’s extensive cloud computing resources, including millions of CPUs and hundreds of thousands of NVIDIA GPUs. This collaboration marks one of the largest AI infrastructure deployments in history and signifies a major strategic shift for OpenAI, which previously relied exclusively on Microsoft Azure. The deal strengthens Amazon’s position as a key competitor in the global AI and cloud computing market.",
+        "category": "International"
+      },
+      {
+        "id": 12,
+        "question": "Which bank executed its first gold trade as a Special Category Client (SCC) on the India International Bullion Exchange (IIBX)?",
+        "options": [
+          "Punjab National Bank",
+          "HDFC Bank",
+          "Bank of Baroda",
+          "SBI"
+        ],
+        "answer": "SBI",
+        "explanation": "The State Bank of India (SBI) achieved a major milestone by executing its first gold trade on the India International Bullion Exchange (IIBX) as a Special Category Client (SCC). This move enhances transparency and efficiency in India’s bullion market while making gold trading more accessible and cost-effective for MSME jewellers and bullion dealers. By participating in IIBX, SBI contributes to the development of GIFT City as a global financial and bullion trading hub. The initiative also aligns with the government’s vision of modernising India’s bullion ecosystem through regulated and technology-driven market practices.",
+        "category": "International"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which Indian state has launched the Artificial Intelligence Innovation Hub in Hyderabad to drive AI research and global collaboration by 2035?",
+        "options": [
+          "Telangana",
+          "Karnataka",
+          "Maharashtra",
+          "Tamil Nadu"
+        ],
+        "answer": "Telangana",
+        "explanation": "Telangana has launched the Telangana Artificial Intelligence Innovation Hub (TAIH) in Hyderabad to establish itself as a global leader in emerging technologies by 2035. Spearheaded by Minister D. Sridhar Babu, the hub aims to unite academia, industry and startups to advance AI-based innovation and research. Collaborators include institutions such as IIT Hyderabad, BITS Pilani, ISB, and global tech giants like Google, Microsoft, and Amazon. The initiative reflects Telangana’s strategic transition from an IT-services powerhouse to a frontier technology leader and aligns with India’s national focus on AI-driven innovation and digital growth.",
+        "category": "State"
+      },
+      {
+        "id": 2,
+        "question": "Which country was severely affected by Typhoon Kalmaegi, also known locally as Tino, causing 26 deaths and widespread destruction in November 2025?",
+        "options": [
+          "Philippines",
+          "Indonesia",
+          "Vietnam",
+          "Thailand"
+        ],
+        "answer": "Philippines",
+        "explanation": "Typhoon Kalmaegi, locally called Tino, struck the Philippines in early November 2025 with powerful winds reaching 205 km/h, devastating the Visayas region. The typhoon triggered floods, landslides, and 3-meter storm surges, heavily damaging provinces such as Cebu, Leyte, Samar, and Negros Occidental. At least 26 people lost their lives, primarily in Cebu, and hundreds of thousands were displaced as homes, infrastructure, and power systems were destroyed. The event underscored the Philippines’ continued vulnerability to intense tropical cyclones fueled by climate change and highlighted the urgent need for resilient infrastructure and disaster preparedness across coastal communities.",
+        "category": "State"
+      },
+      {
+        "id": 3,
+        "question": "Who was elected as the Mayor of New York City, becoming the city’s first Muslim and first person of South Asian descent to hold the office?",
+        "options": [
+          "Eric Adams",
+          "Alexandria Ocasio-Cortez",
+          "Andrew Yang",
+          "Zohran Mamdani"
+        ],
+        "answer": "Zohran Mamdani",
+        "explanation": "Zohran Mamdani was elected as the Mayor of New York City on 4 November 2025, marking a historic moment in American urban politics. He became the city’s first Muslim mayor, the first person of South Asian descent, and the youngest individual in over a century to hold the post. Born in Uganda to Indian-origin parents, Mamdani’s progressive platform emphasised social equity through measures like free bus services, universal childcare, rent freezes, and higher minimum wages. His election represents a generational shift, greater diversity in city leadership, and the growing influence of progressive politics in major U.S. cities.",
+        "category": "State"
+      },
+      {
+        "id": 4,
+        "question": "Who has assumed charge as the Director General of the Bureau of Indian Standards (BIS) effective 1 November 2025?",
+        "options": [
+          "Sanjay Garg",
+          "Rajeev Chaturvedi",
+          "Anil Kumar Singh",
+          "Deepak Sharma"
+        ],
+        "answer": "Sanjay Garg",
+        "explanation": "Shri Sanjay Garg, a 1994-batch IAS officer from the Kerala cadre, has taken charge as the Director General of the Bureau of Indian Standards (BIS) from 1 November 2025. With over three decades of administrative experience, he has contributed significantly to policy formulation, planning, and implementation across various national sectors. Prior to this role, he served as Additional Secretary at the Department of Agricultural Research and Education (DARE) and as Secretary at ICAR, where he led digital transformation initiatives, including the expansion of the Kisan Sarathi portal aimed at empowering farmers through real-time advisory services.",
+        "category": "State"
+      },
+      {
+        "id": 5,
+        "question": "Which Indian city was declared a UNESCO Creative City in the field of Gastronomy in 2025?",
+        "options": [
+          "Mumbai",
+          "Jaipur",
+          "Lucknow",
+          "Chennai"
+        ],
+        "answer": "Lucknow",
+        "explanation": "Lucknow has been declared a UNESCO Creative City under the Gastronomy category in 2025, joining the UNESCO Creative Cities Network (UCCN). Established in 2004, the UCCN promotes creativity as a core pillar of sustainable urban development. This recognition highlights Lucknow’s centuries-old culinary heritage rooted in Awadhi cuisine, known for its kebabs, biryanis, and refined cooking traditions. With this inclusion, Lucknow joins other Indian cities like Jaipur (Crafts and Folk Art), Varanasi and Chennai (Music), Hyderabad (Gastronomy), Mumbai (Film), and Srinagar (Crafts and Folk Art), further showcasing India’s cultural and creative diversity on a global platform.",
+        "category": "State"
+      },
+      {
+        "id": 6,
+        "question": "To which country did India export its first consignment of fortified rice from Chhattisgarh in 2025?",
+        "options": [
+          "Brazil",
+          "Kenya",
+          "Costa Rica",
+          "Thailand"
+        ],
+        "answer": "Costa Rica",
+        "explanation": "India exported 12 metric tonnes of fortified rice kernels (FRK) from Chhattisgarh to Costa Rica, marking a milestone in nutrition-oriented trade and global food diplomacy. Facilitated by APEDA, this initiative highlights India’s growing role in promoting food fortification technology and combating micronutrient deficiencies worldwide. Fortified rice, enriched with iron, folic acid, and vitamin B12, is already used domestically under the Poshan Abhiyan. This export strengthens Chhattisgarh’s reputation as the “Rice Bowl of India,” while aligning with India’s goal to merge agricultural innovation with global health and trade initiatives, enhancing both economic and diplomatic engagement.",
+        "category": "State"
+      },
+      {
+        "id": 7,
+        "question": "Which Indian cooperative organisation secured the top rank globally in the 2025 International Cooperative Alliance (ICA) World Cooperative Monitor rankings?",
+        "options": [
+          "Mother Dairy",
+          "Amul",
+          "Nandini",
+          "Aavin"
+        ],
+        "answer": "Amul",
+        "explanation": "Amul, managed by the Gujarat Cooperative Milk Marketing Federation (GCMMF), secured the No. 1 global ranking in the 2025 ICA World Cooperative Monitor, followed by IFFCO at second place. This milestone highlights India’s leadership in cooperative governance and its success in promoting inclusive rural growth. Amul’s three-tier cooperative model connects millions of dairy farmers to national and international markets, ensuring fair income and empowerment for producers. Its achievements in innovation, value addition, and sustainability have transformed India’s dairy sector into a global model of cooperative excellence. The recognition also strengthens India’s vision of “Sahkar Se Samriddhi.”",
+        "category": "State"
+      },
+      {
+        "id": 8,
+        "question": "On which date is World Tsunami Awareness Day 2025 observed globally to promote tsunami preparedness and early-warning systems?",
+        "options": [
+          "October 31",
+          "November 5",
+          "December 3",
+          "November 10"
+        ],
+        "answer": "November 5",
+        "explanation": "World Tsunami Awareness Day is observed every year on November 5, as designated by the United Nations General Assembly in 2015. The date was inspired by the Japanese legend of Inamura-no-hi (“The Burning of the Rice Sheaves”), where a farmer saved villagers by warning them of an incoming tsunami. The 2025 theme, “Be Tsunami Ready: Invest in Tsunami Preparedness,” stresses the importance of early-warning systems, community training, and resilient infrastructure. With more than 700 million people living in tsunami-prone areas worldwide, the observance reinforces the urgent need for awareness, preparedness, and global cooperation to reduce disaster risks.",
+        "category": "State"
+      },
+      {
+        "id": 9,
+        "question": "With which country did India sign a Memorandum of Understanding (MoU) at the 17th Joint Working Group meeting to strengthen defence cooperation?",
+        "options": [
+          "France",
+          "Japan",
+          "Israel",
+          "United States"
+        ],
+        "answer": "Israel",
+        "explanation": "India signed a Memorandum of Understanding (MoU) with Israel during the 17th Joint Working Group (JWG) on Defence Cooperation held in Tel Aviv to deepen strategic collaboration. The agreement focuses on co-development, co-production, advanced technology exchange, and counter-terrorism cooperation. It reinforces the two nations’ long-standing defence partnership, which has evolved through decades of shared security priorities and technological exchange. The MoU aligns with India’s Atmanirbhar Bharat (self-reliance) vision in defence manufacturing and supports the mutual goal of building a more secure and innovation-driven defence ecosystem between India and Israel.",
+        "category": "State"
+      },
+      {
+        "id": 10,
+        "question": "When will the final voter list for the second phase of the Special Voter List Revision be published?",
+        "options": [
+          "January 31, 2026",
+          "February 7, 2026",
+          "March 1, 2026",
+          "February 15, 2026"
+        ],
+        "answer": "February 7, 2026",
+        "explanation": "The Election Commission of India has initiated the second phase of the Special Voter List Revision, encompassing nine states and three Union Territories, representing an electorate of around 51 crore voters. This nationwide electoral update aims to ensure accuracy and inclusivity in voter registration. The process will conclude with the publication of the final voter list on February 7, 2026. The first phase of the exercise was completed in Bihar, covering 7.42 crore voters. The ongoing phase includes states like Tamil Nadu, Kerala, West Bengal, Gujarat, Uttar Pradesh, and Madhya Pradesh, while Assam remains excluded due to Supreme Court-led citizenship verification.",
+        "category": "State"
+      },
+      {
+        "id": 11,
+        "question": "Where was the Second World Summit for Social Development held in November 2025?",
+        "options": [
+          "Geneva",
+          "New York",
+          "Nairobi",
+          "Doha"
+        ],
+        "answer": "Doha",
+        "explanation": "The Second World Summit for Social Development took place in Doha, Qatar, from November 4–6, 2025. The event culminated in the adoption of the Doha Political Declaration, which reaffirmed global commitments to eradicate poverty, ensure decent work, and promote inclusive growth. The summit served as a key international platform to review progress on social development goals outlined in the original Copenhagen Declaration of 1995. India, represented by Dr. Mansukh Mandaviya, actively participated in discussions highlighting challenges faced by the Global South, especially those linked to development disparities and the transformative role of emerging technologies.",
+        "category": "State"
+      }
+    ]
   }
 ]
