@@ -47030,5 +47030,153 @@
         "category": "State"
       }
     ]
+  },
+  {
+    "date": "2025-11-06",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who has been appointed as the brand ambassador for Paradeep Phosphates Ltd. to promote sustainable farming in India?",
+        "options": [
+          "M. S. Dhoni",
+          "Virat Kohli",
+          "Rahul Dravid",
+          "Rohit Sharma"
+        ],
+        "answer": "Rahul Dravid",
+        "explanation": "Cricket legend Rahul Dravid has been appointed as the brand ambassador for Paradeep Phosphates Ltd. (PPL) to promote sustainable farming and balanced fertiliser use across India. Announced on 5 November 2025, this collaboration leverages Dravid’s reputation for integrity and discipline to connect with farmers and drive awareness about soil health and efficient nutrient management. Through campaigns like “Kheti Ka Game Changer” and “NPK and Organic Fertilisers Ki Winning Team,” the initiative aims to simplify agronomy using cricket-inspired themes, supporting national programmes such as the NMSA and PM-PRANAM for sustainable agriculture.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 2,
+        "question": "Which Indian company has partnered with US-based General Atomics Aeronautical Systems (GA-ASI) to manufacture Medium Altitude Long Endurance (MALE) Remotely Piloted Aircraft Systems (RPAS) for the Indian Army?",
+        "options": [
+          "HAL",
+          "L&T",
+          "DRDO",
+          "Bharat Electronics Limited"
+        ],
+        "answer": "L&T",
+        "explanation": "Larsen & Toubro (L&T) has entered into a strategic partnership with US-based General Atomics Aeronautical Systems (GA-ASI) to jointly produce Medium Altitude Long Endurance (MALE) Remotely Piloted Aircraft Systems (RPAS) for the Indian Army. Under this collaboration, L&T will act as the prime bidder for the 87 MALE RPAS programme, while GA-ASI will serve as the technology partner. This agreement strengthens India’s Aatmanirbhar Bharat initiative by boosting indigenous defence manufacturing capabilities and promoting greater Indo-US cooperation in the aerospace and defence sectors.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 3,
+        "question": "What is the name of Google’s project to build AI data centres in space using solar-powered satellites?",
+        "options": [
+          "Suncatcher",
+          "SolNet",
+          "SkyCompute",
+          "OrbitalMind"
+        ],
+        "answer": "Suncatcher",
+        "explanation": "Google’s Project Suncatcher is an ambitious initiative aimed at building AI data centres in orbit, powered by solar energy. The project plans to deploy satellites equipped with TPUs, solar panels, and high-speed optical communication systems to form a distributed computing network around Earth. By operating in space, these AI data centres would have uninterrupted access to solar power, eliminate the need for water-based cooling, and reduce carbon emissions. While promising a sustainable and scalable alternative to traditional data centres, Project Suncatcher still faces major engineering challenges related to communication, station-keeping, and radiation resistance in space.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 4,
+        "question": "At which airport did the DRI seize ₹42 crore worth of hydroponic weed under “Operation Weed Out”?",
+        "options": [
+          "Delhi",
+          "Gujarat",
+          "Kolkata",
+          "Mumbai"
+        ],
+        "answer": "Mumbai",
+        "explanation": "Under “Operation Weed Out,” the Directorate of Revenue Intelligence (DRI) in Mumbai seized 42.34 kg of high-grade hydroponic weed valued at ₹42 crore from two passengers arriving from Bangkok. The contraband was cleverly hidden inside food packets and intercepted at Mumbai Airport. This major bust came shortly after a ₹47 crore cocaine seizure, pushing the total drug recovery value beyond ₹100 crore in just three days. The operation highlights the DRI’s continued vigilance and commitment to combating sophisticated drug-smuggling networks in support of the “Nasha Mukt Bharat” initiative.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 5,
+        "question": "On which date is the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict observed each year?",
+        "options": [
+          "November 5",
+          "November 7",
+          "November 6",
+          "November 8"
+        ],
+        "answer": "November 6",
+        "explanation": "The International Day for Preventing the Exploitation of the Environment in War and Armed Conflict is observed annually on November 6. Established by the United Nations General Assembly in 2001 through Resolution A/RES/56/4, the day aims to highlight the often-overlooked environmental consequences of warfare. It emphasizes that the environment, frequently a silent casualty of war, must be protected even amid conflict. The observance also supports global peace, sustainability, and the UN’s 2030 Agenda for Sustainable Development, aligning with key goals such as Climate Action, Life on Land, and Peace, Justice, and Strong Institutions.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 6,
+        "question": "Who won his first Rolex Paris Masters title and reclaimed the World No. 1 ranking?",
+        "options": [
+          "Jannik Sinner",
+          "Novak Djokovic",
+          "Carlos Alcaraz",
+          "Felix Auger-Aliassime"
+        ],
+        "answer": "Jannik Sinner",
+        "explanation": "Jannik Sinner, the 24-year-old Italian tennis player, clinched his maiden Rolex Paris Masters title by defeating Felix Auger-Aliassime 6-4, 7-6(4) in the final. This victory marked his fifth ATP Masters 1000 crown and his return to the World No. 1 position in the PIF ATP Rankings. Sinner’s achievement also extended his impressive streak to 26 consecutive indoor match wins. Notably, he became the first player since Carlos Alcaraz in 2023 to win a Masters title without dropping a single set, underscoring his consistency and dominance on indoor courts.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 7,
+        "question": "By which year is India’s bioeconomy projected to reach $300 billion according to NITI Aayog?",
+        "options": [
+          "2027",
+          "2030",
+          "2035",
+          "2040"
+        ],
+        "answer": "2030",
+        "explanation": "According to NITI Aayog’s report titled “Reimagining Agriculture: A Roadmap for Frontier Technology Led Transformation,” India’s bioeconomy is expected to reach $300 billion by the year 2030. The projection covers key sectors such as agriculture, forestry, fisheries, and aquaculture. The report emphasizes the use of frontier technologies like artificial intelligence, digital twins, precision farming, and climate-resilient seeds to drive sustainable productivity growth. Under the leadership of NITI Aayog CEO BVR Subrahmanyam, this vision aims to position India as a global leader in bio-based innovation and economic transformation.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 8,
+        "question": "Which subcutaneous treatment combines trastuzumab and pertuzumab for HER2-positive breast cancer?",
+        "options": [
+          "Herceptin",
+          "Kadcyla",
+          "Phesgo",
+          "Enhertu"
+        ],
+        "answer": "Phesgo",
+        "explanation": "Phesgo is a subcutaneous treatment that combines two monoclonal antibodies—trastuzumab and pertuzumab—into a single under-the-skin injection. It significantly reduces hospital time from around 2.5 hours to just 5–8 minutes while maintaining the same safety and efficacy as intravenous therapy. Designed for HER2-positive breast cancer, which accounts for about 20–25% of all breast cancer cases, Phesgo represents a major advancement in making cancer care more convenient, patient-centered, and efficient by simplifying the treatment process without compromising medical outcomes.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 9,
+        "question": "What is India’s global rank in the clean industrial project pipeline?",
+        "options": [
+          "Second",
+          "Third",
+          "Fourth",
+          "Fifth"
+        ],
+        "answer": "Third",
+        "explanation": "India has secured the third position globally in the clean industrial project pipeline, following China and the United States. With 65 large-scale low-emission industrial projects, India demonstrates its strong commitment to decarbonizing sectors such as chemicals, steel, cement, and aviation. The nation’s clean industry pipeline represents an investment potential exceeding $150 billion and the creation of nearly 200,000 jobs. Although only six projects have reached the investment stage, this ranking highlights India’s expanding role as a key player in sustainable industrial transformation aligned with its net-zero by 2070 target.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 10,
+        "question": "Which Indian state signed an ₹8,000 crore MoU with GSC PSP Maha Pvt Ltd for the 1,500 MW Panchmauli-Devalipada Pumped Storage Hydroelectric Project?",
+        "options": [
+          "Maharashtra",
+          "Gujarat",
+          "Madhya Pradesh",
+          "Karnataka"
+        ],
+        "answer": "Maharashtra",
+        "explanation": "The ₹8,000 crore MoU for the 1,500 MW Panchmauli-Devalipada Pumped Storage Hydroelectric Project was signed by the Maharashtra government with GSC PSP Maha Pvt Ltd. This large-scale renewable energy initiative, located in Dhule and Nandurbar districts, aims to generate 2,500 jobs and ₹1,100 crore annual revenue. By utilizing 19.29 TMC of initial water storage, the project demonstrates Maharashtra’s commitment to expanding sustainable power infrastructure and strengthening its position in India’s renewable energy sector.",
+        "category": "Awards and Honours"
+      },
+      {
+        "id": 11,
+        "question": "Which Indian state became the first to partner with Elon Musk’s Starlink for satellite-based internet services?",
+        "options": [
+          "Gujarat",
+          "Karnataka",
+          "Telangana",
+          "Maharashtra"
+        ],
+        "answer": "Maharashtra",
+        "explanation": "Maharashtra became the first Indian state to sign a formal agreement with Elon Musk’s Starlink, a SpaceX initiative, to deliver satellite-based internet across remote and underserved areas. Through this partnership, Starlink’s low-Earth orbit (LEO) satellite technology will provide high-speed, low-latency internet to government institutions, rural and tribal communities, and aspirational districts such as Gadchiroli, Nandurbar, Washim, and Dharashiv. The initiative supports the state’s “Digital Maharashtra” mission by enhancing e-governance, telemedicine, online education, and disaster response systems while strengthening connectivity in regions with limited terrestrial infrastructure.",
+        "category": "Awards and Honours"
+      }
+    ]
   }
 ]
