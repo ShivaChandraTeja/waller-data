@@ -47178,5 +47178,410 @@
         "category": "Awards and Honours"
       }
     ]
+  },
+  {
+    "date": "2025-11-07",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which company partnered with the Ministry of Skill Development and Entrepreneurship (MSDE) to enhance digital design skills in ITIs and NSTIs?",
+        "options": [
+          "Autodesk",
+          "Siemens",
+          "Adobe",
+          "Dassault Systemes"
+        ],
+        "answer": "Autodesk",
+        "explanation": "The Ministry of Skill Development and Entrepreneurship (MSDE), through the Directorate General of Training (DGT), signed a strategic Memorandum of Understanding (MoU) with Autodesk Inc. on November 6, 2025. This partnership aims to modernize India’s vocational training ecosystem by integrating Autodesk’s advanced design and manufacturing tools into Industrial Training Institutes (ITIs) and National Skill Training Institutes (NSTIs). The initiative will train both students and instructors in digital prototyping, CAD, and AI-enhanced design systems, making India’s vocational workforce more future-ready. By embedding these skills early, the collaboration supports innovation, employability, and industry-aligned technical education.",
+        "category": "Education"
+      },
+      {
+        "id": 2,
+        "question": "Which country is set to join the U.S.-brokered Abraham Accords, marking a major diplomatic shift in Central Asia?",
+        "options": [
+          "Uzbekistan",
+          "Kazakhstan",
+          "Bahrain",
+          "Morocco"
+        ],
+        "answer": "Kazakhstan",
+        "explanation": "Kazakhstan is poised to become the newest member of the Abraham Accords, a U.S.-brokered framework that normalizes relations between Israel and Muslim-majority nations. Announced by U.S. President Donald Trump on November 6, 2025, this development expands the accords’ influence beyond the Arab world into Central Asia. Kazakhstan’s entry signifies its intent to strengthen diplomatic, economic, and security ties with Israel and other signatories. The move aligns with its foreign policy of dialogue and regional stability, while also advancing the U.S. strategy of deepening engagement with Central Asian nations traditionally within Russia and China’s spheres of influence.",
+        "category": "Education"
+      },
+      {
+        "id": 3,
+        "question": "Which bird species has vanished from 72% of its historical nesting sites in India, according to a Wildlife Institute of India report?",
+        "options": [
+          "Eagles",
+          "Owls",
+          "Vultures",
+          "Falcons"
+        ],
+        "answer": "Vultures",
+        "explanation": "A nationwide survey conducted by the Wildlife Institute of India revealed that vultures have disappeared from 72% of their historical nesting sites across India, with only 120 out of 425 sites still active. Madhya Pradesh and Rajasthan together account for 63% of the remaining nests, most of which are located in protected areas. The report also identified 93 new nesting sites. Notably, the Slender-billed vulture has lost all 47 of its previous nesting sites, with major threats including habitat destruction, poisoning from toxic veterinary drugs, and attacks by feral dogs.",
+        "category": "Education"
+      },
+      {
+        "id": 4,
+        "question": "What percentage of its stake in SBI Funds Management Ltd (SBIFML) has the State Bank of India (SBI) approved to divest through an IPO?",
+        "options": [
+          "6.3%",
+          "3.7%",
+          "10%",
+          "3.2%"
+        ],
+        "answer": "6.3%",
+        "explanation": "State Bank of India (SBI) has approved the divestment of a 6.3% stake, equivalent to 3.2 crore shares, in its subsidiary SBI Funds Management Ltd (SBIFML) via an Initial Public Offering (IPO). Additionally, its co-promoter, Amundi India Holding, will sell 3.7%, making the total IPO size 10% of equity. This move aims to unlock value and prepare SBIFML for its public listing in 2026, marking it as SBI’s third listed subsidiary after SBI Cards and SBI Life Insurance.",
+        "category": "Education"
+      },
+      {
+        "id": 5,
+        "question": "Which city was ranked the cleanest in India in October 2025, according to CREA’s Air Quality Snapshot?",
+        "options": [
+          "Gangtok",
+          "Shillong",
+          "Imphal",
+          "Aizawl"
+        ],
+        "answer": "Shillong",
+        "explanation": "As per the Centre for Research on Energy and Clean Air (CREA) Air Quality Snapshot for October 2025, Shillong, the capital of Meghalaya, recorded the cleanest air in India with an average PM2.5 concentration of just 10 μg/m³. In contrast, Dharuhera in Haryana topped the list of polluted cities with a PM2.5 level of 123 μg/m³, while other highly polluted cities included Ghaziabad, Delhi, and Noida. The report emphasized the need for consistent and year-round air quality management rather than short-term, seasonal interventions such as the Graded Response Action Plan (GRAP).",
+        "category": "Education"
+      },
+      {
+        "id": 6,
+        "question": "Which country celebrated 100 years of hockey excellence?",
+        "options": [
+          "Australia",
+          "Netherlands",
+          "Germany",
+          "India"
+        ],
+        "answer": "India",
+        "explanation": "India celebrated a century of hockey excellence at the Major Dhyan Chand Stadium in New Delhi, marking 100 years of remarkable achievements in the sport. The event was jointly organized by the Sports Authority of India and Hockey India, with participation from Union ministers, the FIH President, and legendary hockey players. Highlights included the launch of a commemorative book and a special exhibition showcasing India’s rich hockey legacy. The celebration also featured a friendly match where the Sports Ministry XI triumphed over the Hockey India XI 3–1, symbolizing India’s enduring passion and success in hockey.",
+        "category": "Education"
+      },
+      {
+        "id": 7,
+        "question": "Which institution patented an AI-based system to decode rainfall data using radar signals?",
+        "options": [
+          "IIT Madras",
+          "IISc Bengaluru",
+          "Cochin University of Science & Technology",
+          "Anna University"
+        ],
+        "answer": "Cochin University of Science & Technology",
+        "explanation": "The Cochin University of Science & Technology (CUSAT) has patented an advanced machine learning system designed to accurately decode rainfall information from radar signals. Developed at the Advanced Centre for Atmospheric Radar Research (ACARR), the innovation employs a Hybrid Adaptive Bi-Gaussian Algorithm integrated with a Gaussian Mixture Model (GMM) to distinguish between raindrop and turbulence echoes in real time. This AI-driven approach enhances the precision of monsoon monitoring and flood forecasting, significantly improving Kerala’s climate resilience and contributing to the advancement of atmospheric and environmental research in India.",
+        "category": "Education"
+      },
+      {
+        "id": 8,
+        "question": "In which city did RITES Ltd sign an MoU with DGNP for naval infrastructure projects?",
+        "options": [
+          "Delhi",
+          "Mumbai",
+          "Chennai",
+          "Visakhapatnam"
+        ],
+        "answer": "Mumbai",
+        "explanation": "RITES Ltd, a Government of India enterprise under the Ministry of Railways, entered into a Memorandum of Understanding (MoU) with the Directorate General of Naval Projects (DGNP) in Mumbai to provide consultancy services for naval infrastructure development in the Mumbai region. The services will cover soil studies, feasibility analysis, detailed project reports, structural design, project management, and third-party inspection. This partnership aims to improve planning, design, and execution efficiency for Indian Navy infrastructure projects, strengthening defence-related construction capabilities in the Mumbai area.",
+        "category": "Education"
+      },
+      {
+        "id": 9,
+        "question": "Which country recorded the highest absolute rise in greenhouse gas emissions in 2023–24, according to the UNEP Emissions Gap Report 2025?",
+        "options": [
+          "India",
+          "China",
+          "United States",
+          "Russia"
+        ],
+        "answer": "India",
+        "explanation": "According to the UNEP Emissions Gap Report 2025, titled Off Target, India registered the highest absolute increase in greenhouse gas (GHG) emissions during 2023–24, amounting to 165 million tonnes. Despite this rise, India continues to maintain one of the lowest per capita emissions among major global economies. The report highlights that the G20 nations collectively saw an emissions increase of 22 million tonnes in the same period. With the world projected to warm by 2.8°C—far exceeding the Paris Agreement’s 1.5°C goal—India faces growing pressure ahead of the COP30 climate summit to adopt stronger mitigation measures.",
+        "category": "Education"
+      },
+      {
+        "id": 10,
+        "question": "Which state government released a Standard Operating Procedure (SOP) for making farm tools more women-friendly?",
+        "options": [
+          "Maharashtra",
+          "Punjab",
+          "Gujarat",
+          "Odisha"
+        ],
+        "answer": "Odisha",
+        "explanation": "The Odisha government introduced a Standard Operating Procedure (SOP) on November 4, 2025, to ensure farm equipment is ergonomically designed for women farmers. The initiative focuses on reducing physical strain, pain, and health issues faced by women due to the use of tools originally made for men. Since more than half of women farmers experience musculoskeletal disorders from male-centric implements, this SOP—developed under the Shree Anna Abhiyan pilot projects—will help test and refine both existing and new farm tools to promote inclusivity and improve agricultural productivity in Odisha.",
+        "category": "Education"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "questions": [
+      {
+        "id": 1,
+        "question": "On which date is World Radiography Day observed every year to commemorate the discovery of X-rays?",
+        "options": [
+          "October 10",
+          "December 5",
+          "November 8",
+          "September 12"
+        ],
+        "answer": "November 8",
+        "explanation": "World Radiography Day is celebrated annually on November 8 to mark the discovery of X-rays by German physicist Wilhelm Conrad Roentgen in 1895. The day honours radiographers and radiologists for their critical role in healthcare, highlighting how imaging technologies such as X-rays, CT, MRI, and AI-driven diagnostics revolutionize medical science by enabling early detection and accurate treatment. It also emphasizes the importance of safety, precision, and compassionate care in radiological practices. Observed globally since 2007, the day reminds the world of radiography’s essential contribution to saving lives and advancing modern medicine.",
+        "category": "Important Days"
+      },
+      {
+        "id": 2,
+        "question": "Who became the first Indian para-archer to be selected for the able-bodied national archery team?",
+        "options": [
+          "Tejal Rajendra Salve",
+          "Sheetal Devi",
+          "Vaidehi Hirachandra Jadhav",
+          "Deepika Kumari"
+        ],
+        "answer": "Sheetal Devi",
+        "explanation": "Sheetal Devi, an 18-year-old para-archer from Jammu and Kashmir, made history by becoming the first Indian para-athlete to join the able-bodied national archery team. Born with phocomelia, a condition that left her without arms, she adapted her technique to shoot using her legs and shoulders. Her remarkable performances—winning medals at the Asian Para Games, World Championships, and Paralympics—earned her a spot in the compound women’s team for the Asia Cup 2025 in Jeddah. Her selection reflects a monumental step toward inclusivity, merit-based recognition, and breaking barriers in Indian sports.",
+        "category": "Important Days"
+      },
+      {
+        "id": 3,
+        "question": "Which country commissioned its third and most advanced aircraft carrier, the Fujian, equipped with EMALS technology?",
+        "options": [
+          "China",
+          "United States",
+          "Japan",
+          "South Korea"
+        ],
+        "answer": "China",
+        "explanation": "China has commissioned its third and most advanced aircraft carrier, Fujian, marking a significant milestone in its naval modernization and maritime power projection. Launched in November 2025 at Sanya Port, Hainan, the Fujian is China’s first flat-deck carrier equipped with the Electromagnetic Aircraft Launch System (EMALS)—a cutting-edge technology previously used only by the U.S. Navy. With a displacement of around 80,000 tonnes and all-electric propulsion, it enables smoother and faster aircraft launches, enhancing strike range and combat readiness. The Fujian joins Liaoning and Shandong in China’s carrier fleet, showcasing Beijing’s growing ambitions in the South China Sea and Indo-Pacific region.",
+        "category": "Important Days"
+      },
+      {
+        "id": 4,
+        "question": "Which Indian aerospace company signed a $1 billion deal with GE for 113 F404 engines to power the LCA Tejas Mk 1A jets?",
+        "options": [
+          "DRDO",
+          "ISRO",
+          "HAL",
+          "BEML"
+        ],
+        "answer": "HAL",
+        "explanation": "Hindustan Aeronautics Limited (HAL) signed a $1 billion agreement with General Electric (GE) for the supply of 113 F404-GE-IN20 engines, which will power 97 LCA Tejas Mk 1A fighter jets of the Indian Air Force. This deal marks a crucial milestone in India’s quest for self-reliance in defence manufacturing and strengthens the indigenous aircraft production ecosystem. The F404 engines are known for their reliability, high performance, and compatibility with advanced fighter systems. This partnership not only supports Tejas Mk 1A production but also paves the way for future collaboration on F414 engines for the LCA Mk 2, enhancing India’s aerospace capabilities.",
+        "category": "Important Days"
+      },
+      {
+        "id": 5,
+        "question": "In which year is India scheduled to conduct the next All India Tiger Estimation (AITE), the world’s largest wildlife survey?",
+        "options": [
+          "2022",
+          "2024",
+          "2025",
+          "2026"
+        ],
+        "answer": "2026",
+        "explanation": "The next All India Tiger Estimation (AITE) will be conducted in 2026, marking it as the world’s largest wildlife survey. India, home to over 75% of the global wild tiger population, will use a mix of ground tracking, satellite technology, and AI-based camera traps to ensure scientific accuracy and ecosystem-wide assessment. Building on the 2022 survey that recorded 3,682 tigers, the 2026 census aims to evaluate not just tiger numbers but also habitat health, prey density, and human-wildlife interactions. With participation from over 60,000 forest personnel, this massive operation reinforces India’s leadership in global wildlife conservation.",
+        "category": "Important Days"
+      },
+      {
+        "id": 6,
+        "question": "Who became India’s 91st Chess Grandmaster after winning the ASEAN Championship 2025?",
+        "options": [
+          "Illamparthi AR",
+          "Raahul V S",
+          "S Rohith Krishna",
+          "R Praggnanandhaa"
+        ],
+        "answer": "Raahul V S",
+        "explanation": "Raahul VS became India’s 91st Chess Grandmaster after an impressive performance at the 6th ASEAN Individual Championship 2025, where he clinched the title with a round to spare. His victory highlights India’s continued dominance and depth in global chess. Raahul had earlier achieved his International Master title in 2021 and demonstrated consistent progress toward the GM title through his exceptional tournament performances. This accomplishment follows recent successes by Illamparthi AR and S Rohith Krishna, showcasing a strong new generation of Indian chess players achieving international recognition and strengthening India’s position as a powerhouse in the chess world.",
+        "category": "Important Days"
+      },
+      {
+        "id": 7,
+        "question": "Which country conducted the strategic Minuteman III intercontinental ballistic missile (ICBM) test designated GT-254 from Vandenberg Space Force Base in November 2025?",
+        "options": [
+          "United States",
+          "Russia",
+          "China",
+          "North Korea"
+        ],
+        "answer": "United States",
+        "explanation": "The United States conducted the Minuteman III ICBM test (GT-254) from Vandenberg Space Force Base, California, on November 5, 2025. The test involved launching an unarmed missile toward the central Pacific near the Ronald Reagan Ballistic Missile Defense Test Site (Kwajalein Atoll) to validate reliability, accuracy, and readiness of the US land-based nuclear deterrent. The launch also verified the Airborne Launch Control System (ALCS) using an E-6B aircraft, ensuring redundant command-and-control capability. While the timing drew global attention due to concurrent nuclear policy debates, US officials clarified that it was a routine operational readiness test supporting strategic stability and deterrence credibility.",
+        "category": "Important Days"
+      },
+      {
+        "id": 8,
+        "question": "In which city was India’s first fully digital museum dedicated to tribal freedom fighters inaugurated?",
+        "options": [
+          "Nava Raipur",
+          "Ranchi",
+          "Bhopal",
+          "Raipur"
+        ],
+        "answer": "Nava Raipur",
+        "explanation": "India’s first Digital Museum of Tribal Freedom Fighters was inaugurated by Prime Minister Narendra Modi in Nava Raipur, Atal Nagar, Chhattisgarh. Officially named the Shaheed Veer Narayan Singh Memorial and Tribal Freedom Fighters Museum, it honours tribal warriors who resisted British rule and contributed to India’s independence movement. The museum uses cutting-edge digital technology, including VFX projections, QR-coded storytelling, and interactive screens, to create an immersive educational experience. It celebrates figures like Shaheed Veer Narayan Singh and showcases historic tribal revolts such as the Halba Rebellion and Bhumkal Movement, promoting both cultural preservation and tourism in Nava Raipur.",
+        "category": "Important Days"
+      },
+      {
+        "id": 9,
+        "question": "Which Indian bank became the first to cross both $100 billion in market capitalisation and ₹100 trillion in total business?",
+        "options": [
+          "HDFC Bank",
+          "ICICI Bank",
+          "Axis Bank",
+          "State Bank of India"
+        ],
+        "answer": "State Bank of India",
+        "explanation": "The State Bank of India (SBI) achieved a landmark milestone by surpassing $100 billion in market capitalisation and ₹100 trillion in total business, marking a historic first in India’s banking history. This achievement highlights SBI’s dominant position in retail, SME, and corporate lending, backed by strong Q2 FY26 financial performance and 12.7% year-on-year credit growth. With total deposits around ₹55.9 lakh crore and advances of ₹44.2 lakh crore, SBI’s robust digital transformation, improving asset quality, and investor confidence have propelled it into the elite global banking league. Headquartered in Mumbai, SBI continues to be the backbone of India’s financial ecosystem.",
+        "category": "Important Days"
+      },
+      {
+        "id": 10,
+        "question": "How many new Vande Bharat Express trains were flagged off by Prime Minister Narendra Modi from Varanasi?",
+        "options": [
+          "Three",
+          "Four",
+          "Five",
+          "Six"
+        ],
+        "answer": "Four",
+        "explanation": "Prime Minister Narendra Modi flagged off four new Vande Bharat Express trains from Varanasi, marking a significant milestone in India’s ongoing railway modernization efforts. The newly launched routes include Banaras–Khajuraho, Lucknow–Saharanpur, Firozpur–Delhi, and Ernakulam–Bengaluru. These trains are designed to enhance regional connectivity, reduce travel time, and offer modern comfort through energy-efficient and high-speed rail technology. The initiative strengthens intercity travel, boosts tourism, and supports economic growth across northern and southern India. Each route strategically connects cultural, commercial, and technological hubs, aligning with the government’s broader vision for efficient and self-reliant rail infrastructure.",
+        "category": "Important Days"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-09",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who was the pioneering molecular biologist credited with co-discovering the double helix structure of DNA and later leading the Human Genome Project?",
+        "options": [
+          "James D. Watson",
+          "Francis H.C. Crick",
+          "Rosalind Franklin",
+          "Maurice Wilkins"
+        ],
+        "answer": "James D. Watson",
+        "explanation": "James D. Watson was an American molecular biologist who, along with Francis H.C. Crick, discovered the double helix structure of DNA in 1953 — a groundbreaking model that transformed the study of genetics. He was awarded the Nobel Prize in Physiology or Medicine in 1962 for this discovery. Watson later became the director of Cold Spring Harbor Laboratory and led the Human Genome Project, contributing to the mapping of over 3 billion base pairs of human DNA. His legacy, while marked by controversy, remains central to modern molecular biology.",
+        "category": "Obituary"
+      },
+      {
+        "id": 2,
+        "question": "How many new butterfly species were discovered in Arunachal Pradesh’s Siang Valley, linking the ecosystems of Tibet and India?",
+        "options": [
+          "Four",
+          "Six",
+          "Eight",
+          "Ten"
+        ],
+        "answer": "Six",
+        "explanation": "Six new butterfly species have been discovered in Arunachal Pradesh’s Siang Valley, highlighting the region’s exceptional ecological diversity. This discovery establishes a biological link between Tibet’s Yarlung Tsangpo and India’s Brahmaputra basin, emphasizing the shared evolutionary and environmental characteristics of the two regions. The finding also underscores the importance of community-based conservation efforts, which play a crucial role in protecting this biodiversity hotspot from threats like hydropower projects and climate change. Such studies not only expand scientific knowledge of Himalayan fauna but also strengthen global conservation strategies for fragile mountain ecosystems.",
+        "category": "Obituary"
+      },
+      {
+        "id": 3,
+        "question": "Which Indian AI platform developed by the Indus Valley Group aims to become the world’s most affordable homegrown AI solution ensuring data sovereignty?",
+        "options": [
+          "Atomesus",
+          "BharatGPT",
+          "VyomAI",
+          "NeuralVista"
+        ],
+        "answer": "Atomesus",
+        "explanation": "Atomesus is an Indian AI platform developed by the Indus Valley Group, designed to be the world’s most affordable and secure homegrown AI system. Built by young innovators with ISRO-linked experience, it employs a hybrid intelligence model that merges proprietary technologies with India-based secure integration. The project emphasises data sovereignty and aims to democratise access to AI for students, startups, and enterprises worldwide. By focusing on affordability, accessibility, and local innovation, Atomesus seeks to position India as a global leader in ethical and inclusive artificial intelligence development.",
+        "category": "Obituary"
+      },
+      {
+        "id": 4,
+        "question": "The Ramnami tribe, known for tattooing the name “Ram” on their bodies and homes, originates from which Indian state?",
+        "options": [
+          "Madhya Pradesh",
+          "Odisha",
+          "Jharkhand",
+          "Chhattisgarh"
+        ],
+        "answer": "Chhattisgarh",
+        "explanation": "The Ramnami tribe originates from Chhattisgarh and is renowned for its unique devotional practice of inscribing the name “Ram” on their bodies and homes as an expression of faith. Founded in the 19th century by Parsuram Bhardwaj, the community emphasises devotion, equality, and rejection of caste hierarchy. They follow a formless concept of divinity and uphold gender equality as part of their spiritual philosophy. Each year, the tribe celebrates their faith through the Bhajan Mela in Sarsiwa, where devotees gather to sing hymns from the Ramcharitmanas and honour the “Ram” jayostambh, symbolizing unity and devotion.",
+        "category": "Obituary"
+      },
+      {
+        "id": 5,
+        "question": "What is the name of the global campaign launched by UPL to recognise farmers as key agents of climate resilience ahead of COP30 in Brazil?",
+        "options": [
+          "#AFarmerCan",
+          "#GrowGreen",
+          "#ClimateChampions",
+          "#FarmersForFuture"
+        ],
+        "answer": "#AFarmerCan",
+        "explanation": "#AFarmerCan is a global campaign launched by UPL to celebrate farmers as central figures in driving climate resilience and sustainable agriculture. Introduced ahead of COP30 in Brazil, the campaign shares 20 farmer stories worldwide, demonstrating how local practices can contribute to global climate goals. UPL’s initiative is built on a four-pillar framework — Pay, Protect, Procure, Promote — designed to empower and reward climate-smart farming. By highlighting the critical role of farmers in environmental stewardship, the campaign aims to shift public perception and promote a more sustainable and equitable global food system.",
+        "category": "Obituary"
+      },
+      {
+        "id": 6,
+        "question": "Which country, along with the United States, signed a joint framework to strengthen critical mineral and rare earth supply chains?",
+        "options": [
+          "South Korea",
+          "Mongolia",
+          "Japan",
+          "Canada"
+        ],
+        "answer": "Japan",
+        "explanation": "Japan partnered with the United States to establish a joint framework focused on securing and strengthening the supply chains of critical minerals and rare earth elements essential for advanced technologies such as electric vehicles, batteries, and renewable energy systems. The agreement emphasises coordinated investment, fair market practices, and resilient bilateral supply chains across the stages of extraction, separation, and processing. Through this collaboration, both countries aim to reduce dependency on single-source suppliers, diversify global mineral resources, and enhance economic and strategic stability in the rapidly evolving clean technology and semiconductor sectors.",
+        "category": "Obituary"
+      },
+      {
+        "id": 7,
+        "question": "On which date is National Legal Services Day observed every year in India?",
+        "options": [
+          "December 10",
+          "November 9",
+          "January 26",
+          "August 15"
+        ],
+        "answer": "November 9",
+        "explanation": "National Legal Services Day is observed annually on November 9 to commemorate the enforcement of the Legal Services Authorities Act, 1987, which came into effect on this day in 1995. The day highlights India’s commitment to ensuring equal access to justice for all, especially the poor and disadvantaged. It promotes awareness about citizens’ legal rights and strengthens mechanisms for free legal aid through the three-tier system — National, State, and District Legal Services Authorities. The observance reinforces the principle that justice must be affordable, accessible, and inclusive for every citizen.",
+        "category": "Obituary"
+      },
+      {
+        "id": 8,
+        "question": "By which year has the European Union set its target to achieve a 90% reduction in emissions from 1990 levels?",
+        "options": [
+          "2030",
+          "2035",
+          "2050",
+          "2040"
+        ],
+        "answer": "2040",
+        "explanation": "The European Union has established 2040 as the target year to achieve a 90% reduction in greenhouse gas emissions compared to 1990 levels. This goal includes an allowance for up to 5% of reductions through foreign carbon credits, effectively making domestic cuts 85%. The agreement introduces a carbon credit pilot phase (2031–2035), aiming to balance environmental responsibility with economic realities. Although the plan demonstrates strong climate ambition, some critics express concern that the flexibility provided by carbon credits may weaken the EU’s overall emission integrity. Nonetheless, the 2040 goal marks a critical step toward carbon neutrality.",
+        "category": "Obituary"
+      },
+      {
+        "id": 9,
+        "question": "Which African nation is set to receive a USD 200 million Line of Credit from India to support its defence modernisation efforts?",
+        "options": [
+          "Nigeria",
+          "Angola",
+          "Kenya",
+          "Ghana"
+        ],
+        "answer": "Angola",
+        "explanation": "Angola is the African nation partnering with India to strengthen cooperation in defence and energy sectors. India is finalising a USD 200 million Line of Credit to assist Angola’s defence modernisation, reflecting growing strategic and developmental ties. The two countries are also expanding their USD 5 billion energy partnership, primarily driven by oil trade, which plays a crucial role in India’s energy security. This collaboration aligns with India’s broader South-South cooperation framework, aimed at fostering sustainable development, capacity building, and mutual growth with partner nations across Africa and the Global South.",
+        "category": "Obituary"
+      },
+      {
+        "id": 10,
+        "question": "Which Indian state, known as the \"Land of the Gods,\" celebrates its Foundation Day on November 9 to mark its formation in the year 2000?",
+        "options": [
+          "Himachal Pradesh",
+          "Uttar Pradesh",
+          "Uttarakhand",
+          "Sikkim"
+        ],
+        "answer": "Uttarakhand",
+        "explanation": "Uttarakhand celebrates its Foundation Day every year on November 9, commemorating its creation as India’s 27th state in the year 2000, after being carved out of Uttar Pradesh. Originally named Uttaranchal, it was officially renamed Uttarakhand in 2007 to reflect its cultural and historical identity. In 2025, the state observes its Silver Jubilee (25 years) of formation with grand celebrations highlighting its progress in tourism, education, infrastructure, and sustainability. Known as Devbhoomi, or the Land of the Gods, Uttarakhand holds immense spiritual and ecological significance in India’s landscape.",
+        "category": "Obituary"
+      }
+    ]
   }
 ]
