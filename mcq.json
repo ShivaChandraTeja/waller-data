@@ -49990,5 +49990,288 @@
         "category": "Persons"
       }
     ]
+  },
+  {
+    "date": "2025-11-26",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which country launched a set of classified military satellites using the Angara-1.2 launch vehicle?",
+        "options": [
+          "United States",
+          "China",
+          "India",
+          "Russia"
+        ],
+        "answer": "Russia",
+        "explanation": "Russia successfully deployed a set of undisclosed military satellites using its Angara-1.2 light launch vehicle, highlighting its ongoing efforts to strengthen space-based defence capabilities. The launch took place from the Plesetsk Cosmodrome in the Arkhangelsk region, which is the northernmost spaceport in the world. The operation was executed by a combat crew from the Russian Aerospace Forces, reflecting the strategic importance of military satellites in surveillance, reconnaissance, and secure communications. This development underscores Russia’s commitment to expanding its military presence in space and enhancing national security through advanced satellite technology.",
+        "category": "International"
+      },
+      {
+        "id": 2,
+        "question": "In which country was the ISSF World Championship Rifle/Pistol 2025 held?",
+        "options": [
+          "Egypt",
+          "China",
+          "South Korea",
+          "India"
+        ],
+        "answer": "Egypt",
+        "explanation": "The ISSF World Championship Rifle/Pistol 2025 took place from 6 to 18 November 2025 in Cairo, the capital of Egypt. The event, organised by the International Shooting Sport Federation (ISSF), featured 720 shooters from 70 National Olympic Committees competing in individual and team rifle and pistol events. India performed strongly, finishing third in the medal tally with 13 medals. Hosting the championship in Egypt highlighted the country’s role in facilitating major international shooting competitions and provided a platform for record-breaking performances by shooters from around the world. Egypt’s selection as the host also emphasised its infrastructure and capability in global sports events.",
+        "category": "International"
+      },
+      {
+        "id": 3,
+        "question": "On which date is National Milk Day celebrated in India each year?",
+        "options": [
+          "November 19",
+          "December 1",
+          "November 26",
+          "January 26"
+        ],
+        "answer": "November 26",
+        "explanation": "National Milk Day is observed annually on November 26 to honour the birth anniversary of Dr. Verghese Kurien, the Father of India’s White Revolution. The day celebrates his pivotal role in transforming India from a milk-deficient nation to the world’s largest milk producer, contributing nearly 25% of global milk output. National Milk Day highlights achievements in dairy production, livestock care, and rural livelihoods, as well as initiatives like Operation Flood, the Rashtriya Gokul Mission, and the National AI Programme. The observance also emphasises women’s empowerment in dairy cooperatives and India’s advancements in infrastructure, technology, and GST reforms within the dairy sector.",
+        "category": "International"
+      },
+      {
+        "id": 4,
+        "question": "On which date is National Constitution Day observed in India each year?",
+        "options": [
+          "November 19",
+          "November 26",
+          "December 10",
+          "January 26"
+        ],
+        "answer": "November 26",
+        "explanation": "National Constitution Day, also known as Samvidhan Divas, is observed every year on November 26 to commemorate the adoption of the Constitution of India by the Constituent Assembly in 1949. The day honours the efforts of Dr. B.R. Ambedkar and other framers of the Constitution, highlighting the values of justice, liberty, equality, and fraternity. It aims to deepen constitutional literacy among citizens, especially students and public servants, by encouraging engagement with India’s democratic principles. National Constitution Day also reinforces the importance of fundamental rights, duties, and the moral foundations of governance in contemporary Indian society.",
+        "category": "International"
+      },
+      {
+        "id": 5,
+        "question": "In which host city did the Indian shooting team win 16 medals at the 2025 Deaflympics?",
+        "options": [
+          "Beijing",
+          "Tokyo",
+          "Paris",
+          "Seoul"
+        ],
+        "answer": "Tokyo",
+        "explanation": "The Indian shooting team delivered an outstanding performance at the 2025 Deaflympics, securing a total of 16 medals—7 gold, 6 silver, and 3 bronze. These achievements took place in Tokyo, where the athletes competed over ten days of intense events. The results highlighted India's growing strength in Deaflympics shooting disciplines, with standout performers like Mahit Sandhu contributing multiple medals. This medal haul also represented significant progress compared to the previous edition in Brazil, underlining improved preparation, better training systems, and the rising prominence of Indian shooters on the global stage.",
+        "category": "International"
+      },
+      {
+        "id": 6,
+        "question": "Which state declared Anandpur Sahib, Talwandi Sabo, and the Galiara around the Golden Temple as holy cities?",
+        "options": [
+          "Punjab",
+          "Haryana",
+          "Himachal Pradesh",
+          "Rajasthan"
+        ],
+        "answer": "Punjab",
+        "explanation": "Punjab declared Anandpur Sahib, Talwandi Sabo, and the Galiara surrounding the Golden Temple as holy cities through a unanimous resolution passed in a historic Assembly session held at Anandpur Sahib. This decision reflects the state’s commitment to preserving the sanctity of significant Sikh religious sites. The resolution also imposed a complete ban on liquor, meat, and tobacco within these holy areas to maintain their spiritual and cultural purity. The session was convened to commemorate the 350th martyrdom anniversary of Guru Tegh Bahadur, emphasizing his ideals of sacrifice, religious freedom, and universal brotherhood.",
+        "category": "International"
+      },
+      {
+        "id": 7,
+        "question": "Which team won the Women’s Kabaddi World Cup 2025 in the final?",
+        "options": [
+          "Bangladesh",
+          "Iran",
+          "Chinese Taipei",
+          "India"
+        ],
+        "answer": "India",
+        "explanation": "India’s women’s kabaddi team won the 2025 Women’s Kabaddi World Cup, defeating Chinese Taipei 35–28 in the final held in Dhaka, Bangladesh. This victory marked India’s second consecutive World Cup title, reinforcing its dominance in international women’s kabaddi. The team combined disciplined defence, calculated raids, and effective coaching strategies to maintain control throughout the match. Key contributions came from captain Ritu Negi, vice-captain Pushpa Rana, and standout raider Sanju Devi, whose performance in the final earned widespread recognition. The triumph reflects India’s consistent preparation, tactical execution, and emergence as a global powerhouse in women’s kabaddi.",
+        "category": "International"
+      },
+      {
+        "id": 8,
+        "question": "Which country participates with India in the 19th edition of Exercise Suryakiran?",
+        "options": [
+          "Bhutan",
+          "Bangladesh",
+          "Nepal",
+          "Sri Lanka"
+        ],
+        "answer": "Nepal",
+        "explanation": "Exercise Suryakiran is a bilateral military training exercise conducted between India and Nepal, aimed at strengthening cooperation and interoperability between their armed forces. The 19th edition of the exercise commenced in Pithoragarh, Uttarakhand, continuing the tradition of alternating locations each year. Launched in 2011, this annual exercise allows both armies to engage in joint drills, share operational expertise, and enhance coordination in mountain warfare and other tactical operations. Such exercises play a key role in reinforcing defence diplomacy, fostering mutual trust, and promoting regional security in the strategically important Himalayan region.",
+        "category": "International"
+      },
+      {
+        "id": 9,
+        "question": "Which state launched the ‘Rythanna Meekosam’ initiative to empower farmers in November 2025?",
+        "options": [
+          "Telangana",
+          "Karnataka",
+          "Andhra Pradesh",
+          "Tamil Nadu"
+        ],
+        "answer": "Andhra Pradesh",
+        "explanation": "The ‘Rythanna Meekosam’ initiative was launched by the Andhra Pradesh government on November 24, 2025, aiming to support farmers through a comprehensive Five-Point Formula. The program focuses on water security, demand-based cultivation, agri-tech adoption, food processing expansion, and government backing. It also includes financial support, technology adoption, and market linkages to modernise agriculture and improve farm profitability. Spearheaded by Agriculture Minister K. Atchannaidu, the initiative seeks to create a sustainable and resilient agricultural ecosystem in Andhra Pradesh, directly benefiting farmers across the state.",
+        "category": "International"
+      },
+      {
+        "id": 10,
+        "question": "Which Indian naval ship arrived in Colombo to participate in the International Fleet Review 2025?",
+        "options": [
+          "INS Vikrant",
+          "INS Kolkata",
+          "INS Arihant",
+          "INS Vishakhapatnam"
+        ],
+        "answer": "INS Vikrant",
+        "explanation": "INS Vikrant, India’s first fully indigenous aircraft carrier, arrived at the Port of Colombo to take part in the International Fleet Review (IFR) 2025. The event is part of the Sri Lanka Navy’s 75th-anniversary celebrations and showcases naval capabilities and regional maritime cooperation by bringing together fleets from multiple countries. Commissioned in 2022, INS Vikrant represents a significant achievement in India’s naval self-reliance and technological advancement. Its participation in IFR 2025 highlights India’s commitment to strengthening maritime diplomacy, interoperability with international navies, and projecting strategic presence in the Indian Ocean region.",
+        "category": "International"
+      },
+      {
+        "id": 11,
+        "question": "Which organization partnered with UNICEF to secure an affordable malaria vaccine deal?",
+        "options": [
+          "WHO",
+          "Gavi",
+          "IFFIm",
+          "CDC"
+        ],
+        "answer": "Gavi",
+        "explanation": "Gavi, the Vaccine Alliance, partnered with UNICEF to announce a breakthrough pricing agreement for the R21/Matrix-M™ malaria vaccine on November 24, 2025. This deal lowers the vaccine cost to US$ 2.99 per dose, saves up to $90 million, and enables 7 million additional children to be vaccinated by 2030. Gavi’s role includes advance financing and supporting vaccine delivery in over 24 African countries, which bear 70% of the global malaria burden. The collaboration ensures greater accessibility, equity, and rapid deployment of life-saving vaccines in high-need regions.",
+        "category": "International"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-27",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which institution launched the Impact RISE initiative focusing on sustainable technology and skilling?",
+        "options": [
+          "IIT Bombay",
+          "IIT Kharagpur",
+          "IIT Delhi",
+          "IIT Madras"
+        ],
+        "answer": "IIT Kharagpur",
+        "explanation": "IIT Kharagpur has launched Impact RISE, an initiative designed to promote sustainable technology, modern management practices, and broader societal transformation. Built on four key pillars—research, innovation, skilling, and entrepreneurship—the programme aims to create a collaborative environment that nurtures solutions for long-term development. A significant component of Impact RISE includes missions that address climate resilience in sensitive regions such as the Sundarbans. By integrating academic excellence with real-world challenges, the initiative seeks to empower communities, drive inclusive growth, and support the nation’s sustainability goals through skill-building and innovation-driven approaches.",
+        "category": "Technology"
+      },
+      {
+        "id": 2,
+        "question": "What is the primary objective of the ‘Nayi Chetna 4.0’ campaign launched by the Centre?",
+        "options": [
+          "To Promote Rural Entrepreneurship",
+          "To Improve Digital Literacy",
+          "To Boost Gender Equality",
+          "To Expand Agricultural Markets"
+        ],
+        "answer": "To Boost Gender Equality",
+        "explanation": "‘Nayi Chetna 4.0’ is a national campaign launched to strengthen gender equality and empower women across communities. Led by Union Minister Shivraj Singh Chouhan and organised by DAY-NRLM under the Ministry of Rural Development, the month-long initiative focuses on encouraging community-level action and awareness to combat gender-based violence. The campaign aims to inspire collective responsibility, promote safer environments for women, and reinforce the importance of equal opportunities. By engaging rural communities, the programme works toward long-term social transformation and supports broader national goals related to gender justice and empowerment.",
+        "category": "Technology"
+      },
+      {
+        "id": 3,
+        "question": "Which organisation approved the $400 million loan to enhance climate-resilient and inclusive road infrastructure in Maharashtra?",
+        "options": [
+          "Asian Development Bank",
+          "World Bank",
+          "IMF",
+          "NDB"
+        ],
+        "answer": "Asian Development Bank",
+        "explanation": "The Asian Development Bank approved a $400 million results-based lending program aimed at strengthening rural and state road networks across Maharashtra. The initiative focuses on improving nearly 2,577 km of rural roads and 350 km of state highways, enhancing access to markets, education, healthcare, and public services for more than 1.7 million people. It also integrates climate-resilient designs, multi-hazard risk assessments, and advanced maintenance systems to address extreme weather challenges. Additionally, the project emphasizes gender inclusion, youth engagement, road safety enhancements through iRAP methodologies, and the development of digital planning systems, ensuring comprehensive and sustainable regional growth.",
+        "category": "Technology"
+      },
+      {
+        "id": 4,
+        "question": "Which organisation approved $776 million in funding for reforms in Punjab and Maharashtra?",
+        "options": [
+          "Asian Development Bank",
+          "World Bank",
+          "IMF",
+          "NITI Aayog"
+        ],
+        "answer": "World Bank",
+        "explanation": "The World Bank approved a total of $776 million to support major reform-oriented projects in Punjab and Maharashtra. The funding is divided between two key initiatives: the POISE project in Punjab aimed at improving education quality through digital tools, teacher training, and performance-based systems, and the POCRA Phase II project in Maharashtra designed to promote climate-resilient agriculture using precision-farming technologies. These projects collectively aim to benefit more than 60 lakh people, including students, farmers, and early childhood learners. With long-term loan tenures and a strong emphasis on innovation, inclusion, and sustainability, the World Bank intends to drive measurable improvements in learning outcomes and agricultural resilience.",
+        "category": "Technology"
+      },
+      {
+        "id": 5,
+        "question": "In which Indian state were breast milk samples found to contain detectable levels of uranium according to a recent study?",
+        "options": [
+          "Bihar",
+          "Jharkhand",
+          "Uttar Pradesh",
+          "West Bengal"
+        ],
+        "answer": "Bihar",
+        "explanation": "A recent Scientific Reports study identified the presence of uranium (U-238) in breast milk samples collected from multiple districts in Bihar. Researchers used ICP-MS technology to test 40 samples, all of which showed detectable levels of uranium, raising concerns about potential exposure risks for infants. The highest concentrations were found in districts like Katihar and Khagaria, reaching up to 5.25 µg/L. These findings highlight the need for thorough investigation into environmental contamination sources, improved water safety measures, and targeted public health interventions to protect vulnerable populations, especially nursing mothers and infants.",
+        "category": "Technology"
+      },
+      {
+        "id": 6,
+        "question": "Who delivered an outstanding performance by winning eight consecutive games at the UK Women’s Blitz Championship?",
+        "options": [
+          "Koneru Humpy",
+          "Bodhana Sivanandan",
+          "Judit Polgár",
+          "Pia Cramling"
+        ],
+        "answer": "Bodhana Sivanandan",
+        "explanation": "Bodhana Sivanandan, a remarkable 10-year-old chess prodigy from Harrow, London, delivered an extraordinary performance at the UK Women’s Blitz Championship by defeating experienced adult players in eight consecutive games. Her success in the event elevated her into the ranks of the top 50 female blitz players worldwide, highlighting her exceptional skill and maturity at such a young age. She also holds the distinction of becoming the youngest ever Woman International Master (WIM) at the age of nine, further showcasing her rapid rise and immense potential within the global chess community.",
+        "category": "Technology"
+      },
+      {
+        "id": 7,
+        "question": "Which organisation has set up a four-member committee for cadre restructuring to improve efficiency and services?",
+        "options": [
+          "SEBI",
+          "IRDAI",
+          "RBI",
+          "EPFO"
+        ],
+        "answer": "EPFO",
+        "explanation": "The Employees’ Provident Fund Organisation (EPFO) has established a four-member committee to undertake comprehensive cadre restructuring with the goal of improving operational efficiency and service delivery. Led by BP Sharma, the committee will evaluate the current organisational structure, identify gaps, streamline workflows, and propose reforms that align with the organisation’s growing responsibilities in a rapidly digitising ecosystem. With rising demands from EPF subscribers and new service expansions to gig and unorganised sector workers, the restructuring aims to ensure timely claim processing, enhanced grievance redressal, and improved customer support. The committee is expected to submit its detailed recommendations by March 31, 2026.",
+        "category": "Technology"
+      },
+      {
+        "id": 8,
+        "question": "Which state approved the formation of three new districts Polavaram, Markapuram, and Madanapalle raising its total to 29?",
+        "options": [
+          "Telangana",
+          "Karnataka",
+          "Tamil Nadu",
+          "Andhra Pradesh"
+        ],
+        "answer": "Andhra Pradesh",
+        "explanation": "The Andhra Pradesh government approved the creation of three new districts Polavaram, Markapuram, and Madanapalle bringing the total number of districts in the state to 29. This restructuring was cleared by Chief Minister N. Chandrababu Naidu and also included the establishment of five new revenue divisions: Nakkapalli, Addanki, Pileru, Banaganapalle, and Madakasira. Additionally, a new mandal named Pedda Harivanam was created by carving it out of Adoni in Kurnool district. The decision aims to improve administrative efficiency, enhance governance, and ensure better access to public services across the state.",
+        "category": "Technology"
+      },
+      {
+        "id": 9,
+        "question": "Who has been appointed the official tournament ambassador for the ICC Men’s T20 World Cup 2026?",
+        "options": [
+          "Rohit Sharma",
+          "Virat Kohli",
+          "Lasith Malinga",
+          "Kane Williamson"
+        ],
+        "answer": "Rohit Sharma",
+        "explanation": "Rohit Sharma has been appointed as the official ambassador for the ICC Men’s T20 World Cup 2026, reflecting his exceptional legacy and achievements in the T20 format. As a two-time T20 World Cup champion in 2007 and 2024, and the captain who led India to the 2024 title, he has cemented his status as one of the greatest performers in the shortest format. His impressive tally of 4,231 T20I runs further strengthens his reputation, making him an ideal representative for a tournament jointly hosted by India and Sri Lanka.",
+        "category": "Technology"
+      },
+      {
+        "id": 10,
+        "question": "Which city has been officially confirmed as the host of the 2030 Commonwealth Games?",
+        "options": [
+          "Mumbai",
+          "Abuja",
+          "Ahmedabad",
+          "Glasgow"
+        ],
+        "answer": "Ahmedabad",
+        "explanation": "Ahmedabad has secured the opportunity to host the 2030 Commonwealth Games, marking a significant achievement for India on the global sporting stage. The decision was finalised during the Commonwealth Sport’s General Assembly in Glasgow, where Ahmedabad’s bid surpassed that of Abuja, Nigeria. With most of the venues already prepared and funding secured, officials have expressed strong confidence in delivering a well-organised event. The Games are expected to feature 15 to 17 sports and will align with the centenary celebrations of the Commonwealth Games Movement. This hosting decision also strengthens India’s long-term ambition to bid for the 2036 Summer Olympics.",
+        "category": "Technology"
+      }
+    ]
   }
 ]
