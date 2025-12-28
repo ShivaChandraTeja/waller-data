@@ -50273,5 +50273,410 @@
         "category": "Technology"
       }
     ]
+  },
+  {
+    "date": "2025-11-28",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the name of the cyclonic storm approaching the Tamil Nadu and Puducherry coast in late November 2025?",
+        "options": [
+          "Senyar",
+          "Pottuvil",
+          "Ditwah",
+          "Kadapa"
+        ],
+        "answer": "Ditwah",
+        "explanation": "Cyclone Ditwah is the cyclonic storm forming over the southwest Bay of Bengal and moving toward the coastal regions of Tamil Nadu, Puducherry, and southern Andhra Pradesh. It intensified from a deep depression into a cyclonic storm on November 27, 2025, and prompted the IMD to issue an orange alert for Puducherry from November 28 to December 1. The system’s projected path places several districts of Andhra Pradesh under the risk of heavy rainfall and strong winds. With increasing post-monsoon cyclonic activity in the North Indian Ocean, Ditwah has become the third storm of the season and underscores the need for enhanced disaster preparedness.",
+        "category": "Environment"
+      },
+      {
+        "id": 2,
+        "question": "According to the International Monetary Fund's (IMF) Annual Article IV Consultation, what is the projected GDP growth rate for India in the fiscal year 2025–26?",
+        "options": [
+          "6.5%",
+          "7.8%",
+          "6.6%",
+          "7.2%"
+        ],
+        "answer": "6.6%",
+        "explanation": "The International Monetary Fund (IMF) projects India’s GDP growth at 6.6% for the fiscal year 2025–26, reflecting strong domestic demand, strategic reforms, and resilience against global economic uncertainties. This comes after a 6.5% growth in FY 2024–25 and a robust 7.8% expansion in Q1 of 2025–26. Key factors supporting this growth include GST reforms, which improve tax compliance and fiscal stability, as well as public infrastructure investment, digital transformation, and formalisation of the economy. Structural reforms in labour, land, education, health, and finance are also expected to sustain long-term growth.",
+        "category": "Environment"
+      },
+      {
+        "id": 3,
+        "question": "In which city is the $11 billion AI-native data centre campus planned to be built by 2030?",
+        "options": [
+          "Visakhapatnam",
+          "Hyderabad",
+          "Bengaluru",
+          "Pune"
+        ],
+        "answer": "Visakhapatnam",
+        "explanation": "A joint venture named Digital Connexion, involving Brookfield, Reliance Industries, and Digital Realty, announced a $11 billion investment to establish a 1 GW AI-native data centre campus in Visakhapatnam by 2030. Spanning 400 acres, the facility is designed specifically for AI workloads, equipped with GPUs, TPUs, and advanced AI processors. Its modular infrastructure will include redundant power systems and renewable-integrated cooling to ensure operational efficiency and sustainability. This investment highlights Visakhapatnam’s emergence as a key hub for high-tech infrastructure and AI-driven innovation in India, contributing significantly to the country’s digital and technological growth.",
+        "category": "Environment"
+      },
+      {
+        "id": 4,
+        "question": "Which AI tool developed by Indian scientists analyses cancer at the molecular level for personalised treatment?",
+        "options": [
+          "DeepCancer",
+          "OncoMark",
+          "BioScan",
+          "TumorAI"
+        ],
+        "answer": "OncoMark",
+        "explanation": "OncoMark is an AI-powered diagnostic tool developed by Indian researchers from the S N Bose National Centre for Basic Sciences in collaboration with Ashoka University. It maps cancer’s molecular hallmarks to provide highly personalised treatment strategies and more precise diagnosis. Unlike conventional staging methods, OncoMark identifies key biological programs such as metastasis, immune evasion, genomic instability, and uncontrolled proliferation, enabling individualised therapy plans. Trained on 3.1 million single cells across 14 cancer types and validated on 20,000 patient samples, it achieves over 99% internal accuracy and more than 96% accuracy across independent datasets, marking a major advancement in precision medicine in India.",
+        "category": "Environment"
+      },
+      {
+        "id": 5,
+        "question": "Who became the 2025 FIDE World Cup Champion after a dramatic tiebreak victory in Goa?",
+        "options": [
+          "Wei Yi",
+          "Javokhir Sindarov",
+          "Andrey Esipenko",
+          "Nodirbek Abdusattorov"
+        ],
+        "answer": "Javokhir Sindarov",
+        "explanation": "Javokhir Sindarov secured the 2025 FIDE World Cup title after an intense final against Wei Yi, where both classical games ended in draws, leading to rapid tiebreaks. Sindarov displayed exceptional composure and tactical sharpness, ultimately winning the tiebreaks 1½–½. His achievement is historic, as he became the youngest player to claim the World Cup title. The tournament, featuring 206 participants, included several dramatic encounters, major upsets, and strong performances from elite players. Sindarov’s victory, celebrated with his family and supporters, marks a defining milestone in his rapidly rising chess career.",
+        "category": "Environment"
+      },
+      {
+        "id": 6,
+        "question": "Which company partnered with MapmyIndia Mappls to launch India’s first indigenous geo-smart CRM?",
+        "options": [
+          "Salesforce",
+          "Microsoft",
+          "Freshworks",
+          "Zoho"
+        ],
+        "answer": "Zoho",
+        "explanation": "Zoho collaborated with MapmyIndia Mappls to introduce India’s first fully indigenous geo-smart CRM, strengthening the country’s Atmanirbhar Bharat technology ecosystem. This partnership enhances Zoho CRM by integrating advanced geospatial intelligence tools such as Address Capture, Nearby Lead Finder, Location Visualisation, and Sales Route Optimisation. These features allow businesses to utilize real-time location-based insights for improved customer engagement, more efficient field operations, and smarter sales planning. The launch marks a significant milestone in India’s digital innovation landscape by merging homegrown CRM capabilities with indigenous mapping and geospatial technologies.",
+        "category": "Environment"
+      },
+      {
+        "id": 7,
+        "question": "Which city has become the world’s most populous, surpassing Tokyo, according to the UN World Urbanisation Prospects 2025 report?",
+        "options": [
+          "Jakarta",
+          "Dhaka",
+          "Tokyo",
+          "Shanghai"
+        ],
+        "answer": "Jakarta",
+        "explanation": "Jakarta has overtaken Tokyo to become the world’s most populous city, with an estimated population of 42 million in 2025, according to the UN World Urbanisation Prospects report. This change results from updated UN methodology that standardises urban population measurements and accounts for functional urban areas, including urban sprawl and regional connectivity. Jakarta’s rapid urban growth reflects broader trends in Asian megacities, where nine of the ten largest cities are located. The report highlights the increasing significance of urbanisation globally, with nearly half the world’s population now residing in cities, and projections indicating continued urban concentration by 2050.",
+        "category": "Environment"
+      },
+      {
+        "id": 8,
+        "question": "In which city was the India Internet Governance Forum (IIGF) 2025 held?",
+        "options": [
+          "Bengaluru",
+          "New Delhi",
+          "Mumbai",
+          "Hyderabad"
+        ],
+        "answer": "New Delhi",
+        "explanation": "The fifth edition of the India Internet Governance Forum (IIGF) 2025 was held in New Delhi from 27–28 November. The event focused on “Advancing Internet Governance for an Inclusive and Sustainable Viksit Bharat” and included four major panels and twelve workshops addressing key aspects of digital governance. Day 1 took place at the India Habitat Centre, while Day 2 was held at the India International Centre. The forum was inaugurated by Union Minister of State Jitin Prasada, highlighting the importance of internet policy, digital inclusion, and governance in shaping India’s technological and socio-economic landscape.",
+        "category": "Environment"
+      },
+      {
+        "id": 9,
+        "question": "Who has been appointed as the new Managing Director of PUMA India, effective December 2025?",
+        "options": [
+          "Ramprasad Sridharan",
+          "Karthik Balagopalan",
+          "Matthias Bäumer",
+          "Rehan Malik"
+        ],
+        "answer": "Ramprasad Sridharan",
+        "explanation": "Ramprasad Sridharan has been appointed as the new Managing Director of PUMA India, bringing with him more than 25 years of retail and brand leadership experience. His career includes senior roles at United Colors of Benetton, Clarks, and Reebok India. With his background in brand transformation, digital expansion, and consumer-focused strategy, he is expected to guide PUMA India toward stronger market positioning, enhanced digital initiatives, and a more robust retail presence. His leadership aligns with PUMA’s ambition to grow rapidly in India’s fast-expanding sportswear and lifestyle market.",
+        "category": "Environment"
+      },
+      {
+        "id": 10,
+        "question": "Which company has become Team India’s official colour partner under a three-year BCCI deal?",
+        "options": [
+          "Berger Paints",
+          "Sherwin-Williams",
+          "Nippon Paints",
+          "Asian Paints"
+        ],
+        "answer": "Asian Paints",
+        "explanation": "Asian Paints has signed a three-year partnership with the BCCI to become Team India’s official colour partner, covering 110 matches across men’s, women’s, and domestic cricket in India. The deal integrates the brand’s home décor identity with cricket through initiatives like the Asian Paints Colour Cam and Colour Countdown, enhancing fan engagement both digitally and on-ground. This collaboration highlights the trend of non-traditional sectors leveraging cricket’s massive fanbase to create emotional connections with audiences while strengthening brand visibility. Asian Paints joins other official partners, reflecting cricket’s significance as a marketing platform in India.",
+        "category": "Environment"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-29",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What was India’s GDP growth in Q2 FY26?",
+        "options": [
+          "8.2%",
+          "5.6%",
+          "7.9%",
+          "9.1%"
+        ],
+        "answer": "8.2%",
+        "explanation": "India’s economy recorded a robust GDP growth of 8.2% in the second quarter of FY26, driven primarily by strong performance in the manufacturing, construction, and services sectors. Manufacturing grew by 9.1%, construction by 7.2%, and services by 9.2%, reflecting broad-based recovery. The increase in Private Final Consumption Expenditure (PFCE) by 7.9% also contributed to the overall growth, signaling improving consumer demand. This marks a significant rise from 5.6% in Q2 FY25, indicating accelerated economic activity. The real GDP in Q2 FY26 stood at ₹48.63 lakh crore, demonstrating the economy’s resilience and strength across sectors.",
+        "category": "Economy"
+      },
+      {
+        "id": 2,
+        "question": "What is the name of the operation launched by India to provide cyclone relief to Sri Lanka?",
+        "options": [
+          "Operation Rahat",
+          "Operation Sagar Bandhu",
+          "Operation Samudra Setu",
+          "Operation Maitri"
+        ],
+        "answer": "Operation Sagar Bandhu",
+        "explanation": "India launched Operation Sagar Bandhu to provide humanitarian assistance to Sri Lanka following the devastation caused by Cyclone Ditwah. The operation involved the deployment of Indian naval ships, including INS Vikrant and INS Udaygiri, to deliver essential relief materials to affected areas in Colombo. Cyclone Ditwah led to heavy rainfall, landslides, and flooding, creating an urgent need for support. Operation Sagar Bandhu exemplifies India’s commitment to regional disaster relief and cooperation, showcasing how timely aid and coordination can help neighboring countries recover from natural calamities.",
+        "category": "Economy"
+      },
+      {
+        "id": 3,
+        "question": "Where did the 56th International Film Festival of India (IFFI) conclude?",
+        "options": [
+          "Goa",
+          "Mumbai",
+          "Delhi",
+          "Kolkata"
+        ],
+        "answer": "Goa",
+        "explanation": "The 56th edition of the International Film Festival of India (IFFI) was held in Goa, a state renowned for hosting this prestigious event. IFFI is one of the most significant film festivals in India, attracting filmmakers and cinema enthusiasts from around the world. Goa has consistently been chosen as the venue due to its international appeal, infrastructure, and popularity as a cultural hub. This edition concluded with the Vietnamese film Skin of Youth winning the Golden Peacock award, highlighting the global nature of the festival and Goa’s continued importance in promoting international cinema.",
+        "category": "Economy"
+      },
+      {
+        "id": 4,
+        "question": "On which date is International Jaguar Day observed each year?",
+        "options": [
+          "November 15",
+          "December 5",
+          "November 29",
+          "October 31"
+        ],
+        "answer": "November 29",
+        "explanation": "International Jaguar Day is observed annually on November 29 to raise awareness about the conservation of jaguars and their habitats. Jaguars, the largest wild cats in the Americas, play a crucial role as apex predators and umbrella species, helping maintain biodiversity and ecological balance. The day highlights threats such as deforestation, poaching, and habitat fragmentation, and promotes global conservation efforts, including wildlife corridors, legal protection, and community engagement. Observing this day encourages environmental education, sustainable practices, and international collaboration to ensure the survival of jaguars and the ecosystems they support.",
+        "category": "Economy"
+      },
+      {
+        "id": 5,
+        "question": "Who has been appointed as Temasek’s non-executive India Chairman?",
+        "options": [
+          "Ravi Lambah",
+          "Piyush Gupta",
+          "Sundar Pichai",
+          "Aditya Puri"
+        ],
+        "answer": "Piyush Gupta",
+        "explanation": "Temasek Holdings, Singapore’s sovereign wealth fund, appointed Piyush Gupta, former CEO of DBS Bank, as its non-executive Chairman for India, effective December 1, 2025. In this role, Gupta will guide India-focused investment strategies, support portfolio companies, and strengthen engagement with government and business stakeholders. Gupta’s extensive experience, including leading DBS Bank through a digital transformation and regional expansion across Asia-Pacific, positions him to provide strategic insight and deepen Temasek’s presence in India. His appointment reflects the firm’s commitment to long-term growth in key sectors such as financial services, technology, healthcare, and clean energy.",
+        "category": "Economy"
+      },
+      {
+        "id": 6,
+        "question": "Which country received 73 tonnes of medicines and vaccines from India to support its healthcare system?",
+        "options": [
+          "Pakistan",
+          "Afghanistan",
+          "Bangladesh",
+          "Nepal"
+        ],
+        "answer": "Afghanistan",
+        "explanation": "India delivered 73 tonnes of essential medicines, vaccines, and nutritional supplements to Afghanistan to support its struggling healthcare system. This shipment, sent to Kabul, represents one of the largest recent humanitarian efforts by India in the region. Beyond immediate medical relief, India’s aid reflects its longstanding commitment to Afghanistan’s development, including infrastructure, education, energy, and healthcare initiatives. Such humanitarian assistance strengthens regional diplomacy, builds trust, and underscores India’s role as a reliable partner providing non-interventionist support to meet urgent public health needs.",
+        "category": "Economy"
+      },
+      {
+        "id": 7,
+        "question": "What GDP growth rate has Moody’s projected for India in 2025?",
+        "options": [
+          "7%",
+          "6.4%",
+          "3.6%",
+          "8.2%"
+        ],
+        "answer": "7%",
+        "explanation": "Moody’s projects India to achieve a 7% GDP growth rate in 2025, making it the fastest-growing economy among emerging markets and the Asia-Pacific region. This growth is fueled by strong domestic demand, including sustained private consumption, robust investment activity, government infrastructure initiatives, and expanding manufacturing and services sectors. Despite global uncertainties and currency fluctuations, India’s economic fundamentals remain resilient, supported by corporate financial discipline and access to international capital markets. The 7% growth rate highlights India’s strategic edge and consistent performance compared to regional peers, positioning it as a leader in emerging market growth.",
+        "category": "Economy"
+      },
+      {
+        "id": 8,
+        "question": "With which country did India sign a ₹7,900 crore deal for MH-60R naval helicopter support?",
+        "options": [
+          "France",
+          "Russia",
+          "Israel",
+          "United States"
+        ],
+        "answer": "United States",
+        "explanation": "India signed a ₹7,900 crore agreement with the United States under the Foreign Military Sales (FMS) programme to support its MH-60R Seahawk helicopter fleet. The deal includes spare parts, technical assistance, maintenance training, and the establishment of repair facilities in India. It strengthens India’s maritime defence capabilities and aligns with the Aatmanirbhar Bharat initiative by promoting local MSME participation in defence logistics. The MH-60R helicopters, developed by Lockheed Martin, are advanced multi-role platforms for anti-submarine warfare, surveillance, and naval operations. This agreement reflects the deepening strategic and defence partnership between India and the United States.",
+        "category": "Economy"
+      },
+      {
+        "id": 9,
+        "question": "Who became the costliest player at the WPL 2026 auction?",
+        "options": [
+          "Smriti Mandhana",
+          "Harmanpreet Kaur",
+          "Deepti Sharma",
+          "Shafali Verma"
+        ],
+        "answer": "Deepti Sharma",
+        "explanation": "Deepti Sharma made history at the WPL 2026 auction by becoming the costliest player, securing a record price of ₹3.2 crore. The UP Warriorz utilized the Right-to-Match (RTM) option to retain her, matching the opening bid from Delhi Capitals. Deepti Sharma, an accomplished all-rounder, achieved the distinction of becoming the second-highest paid player in WPL history, just behind Smriti Mandhana’s ₹3.4 crore deal from 2023. This milestone highlights the growing recognition and value of women cricketers in India, reflecting the increasing competitiveness and investment in the Women’s Premier League.",
+        "category": "Economy"
+      },
+      {
+        "id": 10,
+        "question": "By which year does the Army aim to build a future-ready force under its three-phase roadmap?",
+        "options": [
+          "2032",
+          "2037",
+          "2040",
+          "2047"
+        ],
+        "answer": "2047",
+        "explanation": "The Army has laid out a three-phase roadmap to develop a future-ready force by 2047. The first phase, HOP 2032, focuses on transformation under the Army’s Decade of Transformation (2023–2033). The second phase, STEP 2037, involves consolidating the progress made in the initial phase. The final phase, JUMP 2047, envisions the Army as an integrated and technologically advanced force capable of addressing future security challenges. This long-term plan underscores India’s commitment to modernizing its armed forces, leveraging advanced technology, and ensuring operational readiness for emerging threats.",
+        "category": "Economy"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-30",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which country developed the Highly Agile Modular Munition Extended Range (HAMMER) system mentioned in the agreement with India?",
+        "options": [
+          "Germany",
+          "France",
+          "United Kingdom",
+          "United States"
+        ],
+        "answer": "France",
+        "explanation": "The HAMMER system is a precision-guided air-to-ground weapon created by Safran Electronics & Defence, a major French defence and aerospace manufacturer. Its modular design allows standard unguided bombs to be transformed into high-accuracy strike weapons capable of operating effectively even in GPS-denied or electronic warfare environments. With a stand-off range of up to 70 km, it enhances the ability of combat aircraft such as the Rafale and Tejas to engage targets while staying outside enemy air defence coverage. The India–France agreement to co-produce HAMMER components further strengthens bilateral defence cooperation and boosts India’s technological indigenisation.",
+        "category": "Defence"
+      },
+      {
+        "id": 2,
+        "question": "Which ministry released the revised draft of Bharat NCAP 2.0 expanding vehicle safety assessment and crash-test protocols?",
+        "options": [
+          "Ministry of Heavy Industries",
+          "Ministry of Road Transport & Highways",
+          "Ministry of Consumer Affairs",
+          "Ministry of Home Affairs"
+        ],
+        "answer": "Ministry of Road Transport & Highways",
+        "explanation": "The revised draft of Bharat NCAP 2.0 has been issued by the Ministry of Road Transport & Highways, which oversees regulatory frameworks related to transport safety, vehicle standards, and road-crash prevention measures in India. By expanding the scope of safety assessment areas, increasing mandatory crash tests, introducing advanced test devices, and adding structured evaluation criteria for pedestrian and post-crash protection, the ministry aims to push India’s automobile ecosystem closer to global safety benchmarks. This strengthens public safety, encourages manufacturers to adopt robust safety technologies, and enhances consumer awareness, ultimately contributing to safer mobility and improved road-transport infrastructure across the country.",
+        "category": "Defence"
+      },
+      {
+        "id": 3,
+        "question": "How many new Indian names were approved by the International Astronomical Union (IAU) for Martian geological features?",
+        "options": [
+          "5",
+          "7",
+          "9",
+          "12"
+        ],
+        "answer": "7",
+        "explanation": "A total of 7 new Indian names were approved by the International Astronomical Union for Martian surface features, reflecting India’s growing contributions to planetary science. These names include locations from Kerala such as Valiamala, Thumba, Bekal, Varkala, and Periyar, along with two features honouring geologist M. S. Krishnan. The approvals highlight India’s scientific heritage, the significance of its geological and space research sites, and the role of Indian institutions in deepening Martian geological understanding. The global naming process, overseen by the IAU, ensures that culturally meaningful and scientifically relevant names gain international recognition.",
+        "category": "Defence"
+      },
+      {
+        "id": 4,
+        "question": "Which sector in India is planned to be opened to private players under the upcoming Atomic Energy Bill, 2025?",
+        "options": [
+          "Renewable energy sector",
+          "Oil and gas sector",
+          "Coal mining sector",
+          "Civil nuclear power sector"
+        ],
+        "answer": "Civil nuclear power sector",
+        "explanation": "India is preparing to introduce the Atomic Energy Bill, 2025 to enable private participation in the civil nuclear power sector, which has historically been dominated by government control under NPCIL. Opening this sector will help mobilise large-scale investments, address capital shortages, accelerate construction timelines, and support the development of advanced reactor technologies, including Small Modular Reactors. Private involvement is also expected to improve uranium supply chains, enhance localisation of reactor components, and strengthen India’s long-term energy security. These reforms are aligned with national goals of expanding nuclear capacity to 100 GW by 2047 and supporting India’s net-zero vision for 2070.",
+        "category": "Defence"
+      },
+      {
+        "id": 5,
+        "question": "In which city will the Vision for Sujalam Bharat Summit 2025 be hosted by the Ministry of Jal Shakti?",
+        "options": [
+          "Mumbai",
+          "Bengaluru",
+          "New Delhi",
+          "Jaipur"
+        ],
+        "answer": "New Delhi",
+        "explanation": "The Vision for Sujalam Bharat Summit 2025 will be hosted in New Delhi, reflecting the central government’s commitment to unifying national efforts on water security and sustainability. The summit aims to accelerate reforms across crucial thematic areas such as river rejuvenation, greywater management, technology-enabled water governance, aquifer recharge, and climate-resilient drinking water systems. It brings together policymakers, implementers, central ministries, state departments, and community institutions to build a cohesive strategy under a whole-of-government approach. By focusing on evidence-based policymaking, cooperative federalism, and community participation, the event seeks to advance India’s journey toward long-term water security and a truly Sujalam Bharat.",
+        "category": "Defence"
+      },
+      {
+        "id": 6,
+        "question": "Who has taken additional charge as the CMD of THDC India Ltd following the vacancy created in November 2025?",
+        "options": [
+          "Sipan Garg",
+          "R K Vishnoi",
+          "Arvind Kumar",
+          "Manish Verma"
+        ],
+        "answer": "Sipan Garg",
+        "explanation": "Sipan Garg has taken on the additional responsibility of CMD of THDC India Ltd beginning November 16, 2025, after the sudden passing of R K Vishnoi. Alongside this new role, he continues to serve as Director (Finance), a position he has held since August 17, 2024. With over 24 years of experience in finance, taxation, and power-sector operations, he brings deep expertise to this leadership post. His earlier engagements as CFO in prominent NTPC subsidiaries further strengthen his capability to guide THDC during a crucial period of operational continuity and strategic expansion.",
+        "category": "Defence"
+      },
+      {
+        "id": 7,
+        "question": "What is the primary focus of the newly approved scheme aimed at strengthening India’s domestic manufacturing ecosystem?",
+        "options": [
+          "Lithium-Ion Battery Cells",
+          "Semiconductor Chipsets",
+          "Rare Earth Permanent Magnets",
+          "Solar Photovoltaic Modules"
+        ],
+        "answer": "Rare Earth Permanent Magnets",
+        "explanation": "The approved scheme centres on building a robust domestic ecosystem for manufacturing Rare Earth Permanent Magnets, which are crucial for advanced technologies including electric vehicles, defence systems, renewable energy equipment, and high-precision industrial applications. By promoting complete value-chain integration—from oxide conversion to finished sintered magnets—the programme aims to reduce India’s heavy import dependence, especially amid global supply chain constraints dominated by China. The scheme’s incentive structure, long-term duration, and phased implementation are designed to attract major investors, enhance self-reliance, support clean mobility, and strengthen India’s path toward energy security and strategic technological independence.",
+        "category": "Defence"
+      },
+      {
+        "id": 8,
+        "question": "Which banned industrial dye has been repeatedly detected in Indian sweets, savouries, street foods, and spice powders?",
+        "options": [
+          "Auramine O",
+          "Tartrazine",
+          "Sunset yellow",
+          "Quinoline yellow"
+        ],
+        "answer": "Auramine O",
+        "explanation": "Auramine O is an industrial-grade synthetic yellow dye commonly used in textiles, leather, paper, and printing inks, but it is completely prohibited in food products under Indian regulations. Its recurring presence in Indian foods reflects deeper issues such as weak enforcement of the Food Safety and Standards Act, inadequate chemical-market regulation, and widespread use of informal supply chains. Vendors often adopt it because it is cheap, visually vibrant, and easily accessible, while consumers typically lack awareness of the health risks. Prolonged exposure can cause liver and kidney toxicity, mutagenic effects, and possible carcinogenicity, making its continued use a significant public-health concern.",
+        "category": "Defence"
+      },
+      {
+        "id": 9,
+        "question": "In which city did the Prime Minister inaugurate Safran’s largest global MRO facility for LEAP aircraft engines?",
+        "options": [
+          "Bengaluru",
+          "Pune",
+          "Chennai",
+          "Hyderabad"
+        ],
+        "answer": "Hyderabad",
+        "explanation": "The newly inaugurated MRO facility for LEAP aircraft engines is located in Hyderabad, marking a transformative moment for India’s aviation ecosystem. As Safran’s largest global facility of its kind, it strengthens India’s shift from merely assembling components to designing and maintaining advanced aerospace technologies. With India being one of the fastest-growing aviation markets and a large share of its narrow-body aircraft fleet powered by LEAP engines, domestic MRO capacity significantly reduces costs, turnaround time, and dependence on foreign facilities. It also boosts foreign investment, supports the broader aerospace supply chain, and aligns with national ambitions in defence manufacturing and high-tech capability building.",
+        "category": "Defence"
+      },
+      {
+        "id": 10,
+        "question": "Which institute’s Quantum Research Laboratories were visited by the Union Minister of Science & Technology during the inauguration of a new Liquid Helium Facility?",
+        "options": [
+          "IIT Bombay",
+          "IIT Delhi",
+          "IISc Bengaluru",
+          "IIT Madras"
+        ],
+        "answer": "IIT Bombay",
+        "explanation": "The Union Minister of Science & Technology visited IIT Bombay to inaugurate its new Liquid Helium Facility, a major advancement for India’s quantum research ecosystem. This facility supports ultra-low-temperature experiments essential for cutting-edge quantum technologies, including superconductivity, quantum computing, sensing, and advanced materials research. The institute has also developed pioneering tools such as QMagPI—the nation’s first portable magnetometer—and India’s first indigenous Quantum Diamond Microscope for nanoscale magnetic imaging. These innovations place IIT Bombay at the forefront of India’s quantum mission, strengthening national capabilities in cryogenics, defence applications, healthcare diagnostics, and high-precision scientific instrumentation.",
+        "category": "Defence"
+      }
+    ]
   }
 ]
