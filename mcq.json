@@ -281,5 +281,597 @@
                 "category": "State"
             }
         ]
+    },
+    {
+        "date": "2026-01-08",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which bank launched the \u2018Safety Centre\u2019 on its mobile banking app to enhance customer control over digital banking security?",
+                "options": [
+                    "Axis Bank",
+                    "HDFC Bank",
+                    "ICICI Bank",
+                    "State Bank of India"
+                ],
+                "answer": "Axis Bank",
+                "explanation": "Axis Bank introduced the \u2018Safety Centre\u2019 on its mobile banking app to empower customers with real-time control over digital banking functions. The feature allows users to manage internet banking, UPI usage, fund transfer limits, and fraud protection tools directly through the app. Key tools include SMS Shield for verifying genuine messages, options to disable internet banking, and restrictions on fund transfers. By enabling self-managed security, Axis Bank aims to prevent unauthorized transactions, address rising digital fraud cases, and reduce dependency on branches or customer support, thereby promoting safer and more convenient digital banking experiences.",
+                "category": "Banking"
+            },
+            {
+                "id": 2,
+                "question": "In which state was the Sanskaar Shaala, a value-based education programme for children, launched by the Governor?",
+                "options": [
+                    "West Bengal",
+                    "Meghalaya",
+                    "Assam",
+                    "Tripura"
+                ],
+                "answer": "Assam",
+                "explanation": "The Sanskaar Shaala programme was launched in Assam by Governor Lakshman Prasad Acharya to promote value-based education for children aged 4\u201314. The initiative emphasizes moral education, Indian cultural values, and social responsibility, complementing formal academic learning. By integrating ethics, compassion, and cultural awareness into early education, Assam aims to nurture responsible and value-oriented citizens. The programme balances modern, technology-driven education with traditional moral guidance drawn from ancient Indian texts, highlighting the state\u2019s commitment to preserving cultural heritage while fostering holistic child development.",
+                "category": "Banking"
+            },
+            {
+                "id": 3,
+                "question": "Which Indian private sector bank unveiled its refreshed brand identity called \u2018The Fortuna Wave\u2019 in January 2026, emphasizing modernization and digital banking?",
+                "options": [
+                    "HDFC Bank",
+                    "ICICI Bank",
+                    "Axis Bank",
+                    "Federal Bank"
+                ],
+                "answer": "Federal Bank",
+                "explanation": "Federal Bank launched its new brand identity, \u2018The Fortuna Wave\u2019, on January 7, 2026, in Mumbai, with Vidya Balan as the brand ambassador. The refreshed logo features three waves symbolizing authenticity, togetherness, and prosperity, designed to be digital-friendly and visually appealing across platforms. This brand refresh reflects Federal Bank\u2019s commitment to modernization, innovation, and future-ready digital banking solutions. Established in 1931 in Aluva, Kerala, Federal Bank has evolved into a pan-India private sector bank offering retail, corporate, NRI, lending, and digital banking services, and the rebranding reinforces its contemporary identity and customer-centric vision.",
+                "category": "Banking"
+            },
+            {
+                "id": 4,
+                "question": "Which organization celebrated its 68th Foundation Day in 2026, highlighting achievements in Cyber, Space, and AI, and supporting India\u2019s Aatmanirbhar Bharat initiative?",
+                "options": [
+                    "ISRO",
+                    "DRDO",
+                    "BARC",
+                    "HAL"
+                ],
+                "answer": "DRDO",
+                "explanation": "The Defence Research and Development Organisation (DRDO) celebrated its 68th Foundation Day on January 1, 2026, marking nearly seven decades of contributions to India\u2019s defence and security infrastructure. DRDO operates 52 laboratories and focuses on key domains such as Cyber, Space, and Artificial Intelligence, aligning with the Aatmanirbhar Bharat initiative to strengthen India\u2019s self-reliance in defence. In 2025, it secured 22 AoN approvals worth Rs.1.30 lakh crore, signed 11 defence contracts worth Rs.26,000 crore, and completed 245 technology transfer agreements (LAToT). DRDO continues to drive indigenous defence research, industry collaborations, and operational readiness, making it central to India\u2019s strategic and technological advancement.",
+                "category": "Banking"
+            },
+            {
+                "id": 5,
+                "question": "Who has assumed charge as the Chairman of the Council for Leather Exports, bringing over four decades of experience in the leather industry?",
+                "options": [
+                    "Anil Kumar Gupta",
+                    "Ramesh Kumar Juneja",
+                    "Suresh Mehta",
+                    "Rajesh Agarwal"
+                ],
+                "answer": "Ramesh Kumar Juneja",
+                "explanation": "Ramesh Kumar Juneja has taken charge as the Chairman of the Council for Leather Exports (CLE), the apex body promoting Indian leather, footwear, and related products in global markets under the Ministry of Commerce and Industry. With over 40 years of experience, including founding the JC Group and pioneering global collaborations, Juneja brings deep industry knowledge and long-standing institutional involvement with CLE. His leadership is expected to strengthen India\u2019s international leather trade, focus on value addition, innovation, and market diversification, and address challenges such as sustainability standards and global competition, thereby supporting the sector\u2019s growth and export potential.",
+                "category": "Banking"
+            },
+            {
+                "id": 6,
+                "question": "Which bank launched the \u2018Zero-Forex Diamond Reserve Credit Card\u2019 offering zero foreign exchange markup along with travel and lifestyle benefits?",
+                "options": [
+                    "HDFC Bank",
+                    "ICICI Bank",
+                    "Axis Bank",
+                    "IDFC FIRST Bank"
+                ],
+                "answer": "IDFC FIRST Bank",
+                "explanation": "IDFC FIRST Bank introduced the Zero-Forex Diamond Reserve Credit Card in January 2026, targeting frequent international travelers and premium lifestyle users. The card eliminates foreign exchange markup, making overseas spending and online international purchases cost-effective. It also offers extensive benefits, including travel insurance, airport lounge access, meet-and-greet services, and reward points on hotels, flights, and other spending. With a digital-first application process, annual fee waivers on high spends, and a robust rewards ecosystem, this launch strengthens IDFC FIRST Bank\u2019s presence in the premium credit card segment and enhances convenience and value for global and lifestyle-oriented customers.",
+                "category": "Banking"
+            },
+            {
+                "id": 7,
+                "question": "Who was appointed as the new CEO of HSBC Private Bank effective January 5, 2026?",
+                "options": [
+                    "Gabriel Castello",
+                    "Ida Liu",
+                    "Jane Fraser",
+                    "David Solomon"
+                ],
+                "answer": "Ida Liu",
+                "explanation": "Ida Liu was appointed as the Chief Executive Officer (CEO) of HSBC Private Bank effective January 5, 2026, succeeding Gabriel Castello, who had been serving as Interim CEO. With over 25 years of global experience in private banking and wealth management, including leadership roles at Citi Private Bank, Ida Liu brings expertise in wealth management, strategic advisory, and business transformation. Her appointment underscores HSBC\u2019s strategic focus on strengthening its global private banking operations and managing Ultra-High-Net-Worth (UHNW) client portfolios in an increasingly competitive financial sector.",
+                "category": "Banking"
+            },
+            {
+                "id": 8,
+                "question": "On which date is Earth\u2019s Rotation Day observed, commemorating L\u00e9on Foucault\u2019s historic pendulum experiment proving Earth\u2019s rotation?",
+                "options": [
+                    "January 1",
+                    "February 28",
+                    "January 8",
+                    "March 21"
+                ],
+                "answer": "January 8",
+                "explanation": "Earth\u2019s Rotation Day is observed annually on January 8 to honour the groundbreaking 1851 experiment by French physicist L\u00e9on Foucault, who provided the first conclusive proof of Earth\u2019s rotation using a pendulum at the Panth\u00e9on in Paris. The Foucault pendulum demonstrated that the Earth rotates on its axis by showing the gradual rotation of the pendulum\u2019s plane of oscillation. This day highlights the importance of Earth\u2019s rotational motion, which governs the day-night cycle and seasonal changes, and celebrates a milestone in humanity\u2019s scientific understanding of planetary dynamics.",
+                "category": "Banking"
+            },
+            {
+                "id": 9,
+                "question": "Which international organization declared 2026 as the International Year for Rangelands and Pastoralists to highlight the importance of grasslands and savannahs in climate action?",
+                "options": [
+                    "United Nations",
+                    "World Bank",
+                    "UNESCO",
+                    "FAO"
+                ],
+                "answer": "United Nations",
+                "explanation": "The United Nations (UN) declared 2026 as the International Year for Rangelands and Pastoralists to spotlight ecosystems often overlooked in global climate strategies. Grasslands and savannahs play a critical role in carbon sequestration, biodiversity conservation, and climate resilience, yet have received less attention than forests in UNFCCC negotiations. This UN initiative seeks to address this imbalance by promoting policy integration, scientific recognition, and global awareness of these vital ecosystems. It underscores the UN\u2019s commitment to comprehensive climate action that includes all biomes and supports sustainable pastoralist livelihoods worldwide.",
+                "category": "Banking"
+            },
+            {
+                "id": 10,
+                "question": "In which Indian state was the new reed snake species Calamaria mizoramensis discovered?",
+                "options": [
+                    "Mizoram",
+                    "Manipur",
+                    "Nagaland",
+                    "Assam"
+                ],
+                "answer": "Mizoram",
+                "explanation": "The newly identified reed snake species Calamaria mizoramensis was discovered in Mizoram by a research team from Mizoram University in collaboration with international scientists. The species inhabits humid, forested hill regions between 670 and 1,295 meters elevation and has been confirmed in multiple districts including Aizawl, Reiek, and Mamit. This discovery enhances India\u2019s reptilian biodiversity and raises Mizoram\u2019s herpetofauna count to 169 species, highlighting the state as a hotspot for reptile diversity. The species\u2019 distinct morphology, nocturnal and semi-fossorial behavior, and Least Concern IUCN status make it a significant addition to Indian wildlife records.",
+                "category": "Banking"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-09",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which state secured the first position in the ICJS 2.0 national rankings released in January 2026?",
+                "options": [
+                    "Haryana",
+                    "Uttarakhand",
+                    "Assam",
+                    "Maharashtra"
+                ],
+                "answer": "Uttarakhand",
+                "explanation": "Uttarakhand achieved the top rank in the ICJS 2.0 national rankings with a high score of 93.46, reflecting its strong performance in digital policing and criminal justice system integration. The Inter-Operable Criminal Justice System enables seamless data sharing among police, courts, prisons, and other justice institutions, promoting efficiency and transparency. Uttarakhand\u2019s success is attributed to effective integration of district-level systems with the national platform, extensive training of police personnel, and commitment to technology-driven governance. This achievement sets a benchmark for other states in modernizing law enforcement and strengthening evidence-based justice delivery.",
+                "category": "State"
+            },
+            {
+                "id": 2,
+                "question": "Which state is home to India\u2019s first fully paperless district court?",
+                "options": [
+                    "Kerala",
+                    "Tamil Nadu",
+                    "Karnataka",
+                    "Maharashtra"
+                ],
+                "answer": "Kerala",
+                "explanation": "Kerala has achieved a significant milestone in judicial digitisation with the inauguration of India\u2019s first fully paperless district court. The Kalpetta district court in Wayanad operates entirely in digital mode, ensuring that all judicial processes are conducted electronically. This includes case institution, pre-trial proceedings, evidence recording, interim applications, and final adjudication. Inaugurated virtually by the Chief Justice of India, this initiative reflects the state\u2019s strong emphasis on e-governance and technological integration. The move enhances efficiency, transparency, and accessibility in the justice delivery system while reducing reliance on physical paperwork.",
+                "category": "State"
+            },
+            {
+                "id": 3,
+                "question": "How many States signed MoUs with the Ministry of Textiles under the Tex-RAMPS initiative?",
+                "options": [
+                    "15",
+                    "10",
+                    "20",
+                    "25"
+                ],
+                "answer": "15",
+                "explanation": "The 15 States that entered into Memorandums of Understanding with the Ministry of Textiles under the Tex-RAMPS scheme. This initiative was highlighted during the National Textiles Ministers\u2019 Conference and aims to strengthen textile-related data systems and promote evidence-based policymaking. A total of 15 States participated by signing MoUs, reflecting a collaborative approach between the Centre and States. This partnership supports improved quality and credibility of textile statistics and aligns with cooperative federalism while contributing to the long-term goal of developing a $350-billion textile industry.",
+                "category": "State"
+            },
+            {
+                "id": 4,
+                "question": "How many international organizations did the United States withdraw from under the executive order signed on January 7, 2026?",
+                "options": [
+                    "45",
+                    "52",
+                    "66",
+                    "80"
+                ],
+                "answer": "66",
+                "explanation": "The United States announced its withdrawal from a total of 66 international organizations through an executive order signed on January 7, 2026. This decision marked a major escalation in the country\u2019s retreat from multilateral global cooperation, particularly targeting UN-affiliated bodies involved in climate action, labour standards, and social development. The move followed a comprehensive review of U.S. participation and funding, with the administration citing redundancy, inefficiency, and misalignment with national interests as key reasons. The withdrawals have significant implications for global governance, climate response, humanitarian assistance, and the functioning of international institutions worldwide.",
+                "category": "State"
+            },
+            {
+                "id": 5,
+                "question": "In which city was the \u201cViksit Bharat, Viksit Ports\u201d programme held for the launch of \u20b9235 crore port projects in Tamil Nadu?",
+                "options": [
+                    "Coimbatore",
+                    "Madurai",
+                    "Tiruchirappalli",
+                    "Chennai"
+                ],
+                "answer": "Chennai",
+                "explanation": "Chennai served as the venue for the \u201cViksit Bharat, Viksit Ports\u201d programme, during which port projects worth \u20b9235 crore were launched in Tamil Nadu. The initiative was led by the Union Ministry of Ports, Shipping and Waterways and inaugurated by Sarbananda Sonowal. The funding allocation included \u20b9129.36 crore for the Chennai Port Authority and \u20b9105.64 crore for Kamarajar Port Limited. The programme also witnessed the launch of the e-port clearance portal under the One Nation\u2013One Port Process, aimed at improving efficiency, transparency, and ease of doing business in India\u2019s port sector.",
+                "category": "State"
+            },
+            {
+                "id": 6,
+                "question": "In which city did the National Textiles Ministers\u2019 Conference 2026 commence on January 8?",
+                "options": [
+                    "Guwahati",
+                    "Shillong",
+                    "Imphal",
+                    "Itanagar"
+                ],
+                "answer": "Guwahati",
+                "explanation": "Guwahati hosted the National Textiles Ministers\u2019 Conference 2026, which began on January 8 as a two-day event organized by the Ministry of Textiles in collaboration with the Government of Assam. The conference brought together Textile Ministers and senior officials from all States and Union Territories to discuss the future roadmap of India\u2019s textile sector. Held under the theme \u201cIndia\u2019s Textiles: Weaving Growth, Heritage & Innovation,\u201d the event emphasized cooperative federalism, development of PM MITRA Parks, and the strategic goal of positioning India as a global textile manufacturing hub by 2030, while also highlighting the potential of the North-Eastern region.",
+                "category": "State"
+            },
+            {
+                "id": 7,
+                "question": "What is the real GDP growth rate of India for the financial year 2025\u201326 as per the First Advance Estimates released by NSO?",
+                "options": [
+                    "6.5%",
+                    "7.0%",
+                    "8.0%",
+                    "7.4%"
+                ],
+                "answer": "7.4%",
+                "explanation": "The First Advance Estimates released by the National Statistics Office indicate that India\u2019s real GDP growth rate for the financial year 2025\u201326 is projected at 7.4 percent. Real GDP measures economic growth after adjusting for inflation, reflecting the actual expansion in output. This estimate is significant as it guides policy decisions by the government and the Reserve Bank of India, influences investor confidence, and helps assess economic momentum. The strong growth projection reinforces India\u2019s position as one of the fastest-growing major economies, driven largely by robust performance in the services and manufacturing sectors.",
+                "category": "State"
+            },
+            {
+                "id": 8,
+                "question": "Which two countries formally recognised AYUSH in India\u2019s trade pacts finalised in December 2025?",
+                "options": [
+                    "Japan and Australia",
+                    "Oman and New Zealand",
+                    "United Kingdom and Canada",
+                    "Germany and France"
+                ],
+                "answer": "Oman and New Zealand",
+                "explanation": "Oman and New Zealand provided formal recognition to AYUSH through India\u2019s trade pacts finalised in December 2025. These agreements include dedicated annexures focusing on health services and traditional medicine, marking an important step in institutionalising cooperation in the AYUSH sector. The recognition helps improve market access, harmonise standards, and enhance credibility for Indian traditional medicine products abroad. This development has supported the steady growth of AYUSH exports, which increased by over 6 percent between 2023\u201324 and 2024\u201325, strengthening India\u2019s position in the global traditional healthcare market.",
+                "category": "State"
+            },
+            {
+                "id": 9,
+                "question": "Which institution inaugurated two apex calibration facilities to strengthen India\u2019s national quality and measurement infrastructure?",
+                "options": [
+                    "Indian Space Research Organisation",
+                    "National Physical Laboratory",
+                    "Bureau of Indian Standards",
+                    "Council of Scientific and Industrial Research"
+                ],
+                "answer": "National Physical Laboratory",
+                "explanation": "National Physical Laboratory plays a crucial role in strengthening India\u2019s quality and measurement ecosystem through the inauguration of two apex calibration facilities. These include the Solar Cell Calibration Facility, which enables highly accurate photovoltaic testing and supports solar manufacturing and exports, and the Environmental Standard Laboratory, which allows domestic calibration of air-quality monitoring instruments. As India\u2019s premier measurement standards institution under CSIR, the laboratory ensures precision, reliability, and global comparability of measurements. Such initiatives reduce dependence on foreign calibration services, improve industrial competitiveness, and enhance environmental monitoring capabilities across the country.",
+                "category": "State"
+            },
+            {
+                "id": 10,
+                "question": "Which Indian state launched the country\u2019s first dedicated Deeptech Startup Policy for 2025\u201326?",
+                "options": [
+                    "Karnataka",
+                    "Maharashtra",
+                    "Tamil Nadu",
+                    "Telangana"
+                ],
+                "answer": "Tamil Nadu",
+                "explanation": "Tamil Nadu has taken a pioneering step in strengthening India\u2019s innovation ecosystem by launching the country\u2019s first dedicated Deeptech Startup Policy for 2025\u201326. The policy aims to convert advanced scientific research into scalable commercial products, with a strong focus on long-gestation, science-driven technologies. Backed by a financial commitment of \u20b9100 crore to support 100 deeptech startups, it targets sectors such as artificial intelligence, semiconductors, biotechnology, space technologies, and clean energy. Launched at the Umagine Technology Conference in Chennai, the initiative reinforces Tamil Nadu\u2019s ambition to emerge as a global hub for frontier technologies and high-value innovation.",
+                "category": "State"
+            },
+            {
+                "id": 11,
+                "question": "Which public sector company awarded major refinery contracts to Technip Energies for projects at Bina and Mumbai refineries?",
+                "options": [
+                    "Indian Oil Corporation Ltd",
+                    "Hindustan Petroleum Corporation Ltd",
+                    "Bharat Petroleum Corporation Ltd",
+                    "Oil and Natural Gas Corporation"
+                ],
+                "answer": "Bharat Petroleum Corporation Ltd",
+                "explanation": "Bharat Petroleum Corporation Ltd is the public sector undertaking responsible for awarding major refinery contracts to Technip Energies. These contracts are part of BPCL\u2019s broader petrochemical expansion and refinery modernization strategy. At the Bina refinery in Madhya Pradesh, the EPCC contract covers the establishment of polypropylene and Butene-1 units, enhancing petrochemical output. At the Mumbai refinery, an EPCM contract was awarded for India\u2019s first 3 MMTPA PRFCC unit, which will convert heavy residues into high-value products. These projects strengthen refining efficiency, value addition, and energy infrastructure development.",
+                "category": "State"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-10",
+        "questions": [
+            {
+                "id": 1,
+                "question": "On which date is World Hindi Day observed every year to promote the Hindi language at the global level?",
+                "options": [
+                    "January 14",
+                    "February 21",
+                    "September 14",
+                    "January 10"
+                ],
+                "answer": "January 10",
+                "explanation": "World Hindi Day is observed annually on January 10 to highlight the growing international presence and importance of the Hindi language. The date holds historical significance as Hindi was first used in the United Nations General Assembly on January 10, 1949, marking its entry into global diplomacy. The observance began officially in 2006 and is celebrated worldwide to promote Hindi in areas such as education, literature, technology, and cultural exchange. By recognizing Hindi as a widely spoken global language, the day supports linguistic diversity and preserves India\u2019s cultural heritage for future generations.",
+                "category": "Important Days"
+            },
+            {
+                "id": 2,
+                "question": "Which bank launched the new brand identity named \u2018Fortuna Wave\u2019 to position itself as a digital-first, pan-India institution?",
+                "options": [
+                    "ICICI Bank",
+                    "Federal Bank",
+                    "Axis Bank",
+                    "Kotak Mahindra Bank"
+                ],
+                "answer": "Federal Bank",
+                "explanation": "Federal Bank introduced the \u2018Fortuna Wave\u2019 brand identity to refresh its image and reinforce its positioning as a digital-first, pan-India banking institution. The launch, held in Mumbai, was aimed at attracting younger and tech-savvy customers while maintaining trust among existing users. Federal Bank emphasized core values such as authenticity, prosperity, and togetherness through this new identity. By creating a unified visual language across both digital platforms and physical branches, Federal Bank seeks to strengthen brand recognition, enhance customer engagement, and align itself with the evolving landscape of modern banking in India.",
+                "category": "Important Days"
+            },
+            {
+                "id": 3,
+                "question": "Which Bengaluru-based fintech company received RBI approval to operate as a Payment Aggregator\u2013Cross Border (PA-CB)?",
+                "options": [
+                    "Skydo",
+                    "Razorpay",
+                    "PayU",
+                    "Cashfree"
+                ],
+                "answer": "Skydo",
+                "explanation": "Skydo received final authorisation from the Reserve Bank of India to operate as a Payment Aggregator\u2013Cross Border, marking a major regulatory milestone in India\u2019s fintech sector. This approval enables Skydo to provide regulated cross-border payment services, particularly benefiting MSMEs, exporters, startups, and freelancers. The licence strengthens trust, transparency, and compliance in international transactions, which involve foreign exchange and regulatory oversight. Skydo supports collections in multiple foreign currencies, offers a flat-fee pricing model without forex markups, and ensures faster settlements. The development also contributes to strengthening India\u2019s digital payments ecosystem and export-oriented financial infrastructure.",
+                "category": "Important Days"
+            },
+            {
+                "id": 4,
+                "question": "The \u2018Asha Van\u2019 mobile unit launched in Gandhinagar primarily focuses on which area of healthcare?",
+                "options": [
+                    "Maternal and Child Health",
+                    "Cardiac Care",
+                    "Diabetes Management",
+                    "Cancer Care"
+                ],
+                "answer": "Cancer Care",
+                "explanation": "The \u2018Asha Van\u2019 mobile unit was launched to strengthen early detection and diagnosis of cancers, especially in underserved and rural areas. Equipped with advanced EVA-Pro diagnostic systems, mammography facilities, and teleconsultation services, the unit is capable of screening for ten different types of cancer, including lung, breast, and cervical cancers. By enabling early screening, the initiative aims to improve treatment outcomes and reduce mortality. Handed over to the Indian Red Cross Society, the mobile unit aligns with the broader goal of accessible healthcare and supports the vision of universal health coverage.",
+                "category": "Important Days"
+            },
+            {
+                "id": 5,
+                "question": "Which country became the first in the world to commercially produce and use bio-bitumen for road construction?",
+                "options": [
+                    "Germany",
+                    "China",
+                    "India",
+                    "Japan"
+                ],
+                "answer": "India",
+                "explanation": "India has achieved a global first by commercially producing and using bio-bitumen as an eco-friendly alternative to conventional crude-oil-based bitumen in road construction. This innovation helps reduce environmental pollution by utilizing agricultural crop residue that would otherwise be burnt, contributing to air quality improvement. Announced at a CSIR technology transfer event, the initiative aligns with national priorities such as Viksit Bharat 2047, Waste-to-Wealth, and Atma Nirbhar Bharat. The development highlights India\u2019s growing leadership in sustainable infrastructure, green technologies, and circular economy-driven solutions.",
+                "category": "Important Days"
+            },
+            {
+                "id": 6,
+                "question": "In which city was the Third International Conference on Indian Languages inaugurated by the Vice President of India?",
+                "options": [
+                    "Chennai",
+                    "Kolkata",
+                    "New Delhi",
+                    "Hyderabad"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The Third International Conference on Indian Languages was inaugurated in New Delhi by the Vice President of India, highlighting the city\u2019s role as a major centre for national and international academic and cultural dialogue. The conference brought together scholars, language experts, and global delegates to discuss the preservation, promotion, and study of Indian languages. The event emphasized the cultural, constitutional, and democratic importance of linguistic diversity in India, along with the role of education policies and modern technology such as digital archives and AI tools in safeguarding language heritage for future generations.",
+                "category": "Important Days"
+            },
+            {
+                "id": 7,
+                "question": "Which state secured the top rank in Inter-Operable Criminal Justice System (ICJS) 2.0, leading India in digital policing and justice system integration?",
+                "options": [
+                    "Haryana",
+                    "Assam",
+                    "Uttarakhand",
+                    "Uttar Pradesh"
+                ],
+                "answer": "Uttarakhand",
+                "explanation": "Uttarakhand achieved the highest ranking in the Inter-Operable Criminal Justice System 2.0 by scoring 93.46, reflecting strong performance in digital policing and integration of the criminal justice system. The NCRB dashboard placed the state ahead of Haryana and Assam, with most ICJS modules completed well before the 2026 target timeline. This accomplishment highlights effective use of technology, coordination among justice institutions, and administrative efficiency. Additionally, the Uttarakhand State Disaster Response Force earned recognition for its exemplary role in rescue operations, safety management, and crowd control during Prayagraj Mahakumbh-2025, further underscoring the state\u2019s institutional competence.",
+                "category": "Important Days"
+            },
+            {
+                "id": 8,
+                "question": "Which state, along with Assam, signed a wildlife exchange pact to boost biodiversity and restore locally extinct species?",
+                "options": [
+                    "Madhya Pradesh",
+                    "Maharashtra",
+                    "Rajasthan",
+                    "Uttar Pradesh"
+                ],
+                "answer": "Madhya Pradesh",
+                "explanation": "The wildlife exchange pact was signed between Assam and Madhya Pradesh with the objective of enhancing biodiversity and reviving species that have disappeared locally. As part of this agreement, Assam will send wild water buffaloes, a pair of one-horned rhinoceroses, and king cobras to Madhya Pradesh. In return, Madhya Pradesh will provide tigers and mugger crocodiles to Assam. This collaborative initiative highlights the importance of inter-state cooperation in wildlife conservation and ecosystem restoration, with Kanha Tiger Reserve playing a key role in reintroducing buffaloes.",
+                "category": "Important Days"
+            },
+            {
+                "id": 9,
+                "question": "In which country was the joint military exercise \u201cGulf Shield 2026\u201d launched by the Gulf Cooperation Council nations?",
+                "options": [
+                    "Saudi Arabia",
+                    "United Arab Emirates",
+                    "Qatar",
+                    "Kuwait"
+                ],
+                "answer": "Saudi Arabia",
+                "explanation": "The joint military exercise \u201cGulf Shield 2026\u201d was launched in Saudi Arabia as part of efforts by Gulf Cooperation Council member states to enhance regional security. The exercise focuses on improving collective defence capabilities, operational coordination, and combat readiness among participating forces. Through field-based scenarios, joint planning sessions, and interoperability tests, the drills aim to strengthen deterrence against emerging security challenges. Hosting such a large-scale exercise highlights Saudi Arabia\u2019s central role in regional defence cooperation and underscores the importance of unified military preparedness within the GCC framework.",
+                "category": "Important Days"
+            },
+            {
+                "id": 10,
+                "question": "Who has been appointed as the Chief Justice of the Uttarakhand High Court following the recommendation of the Supreme Court Collegium?",
+                "options": [
+                    "Justice Guhanathan Narendar",
+                    "Justice Manoj Kumar Gupta",
+                    "Justice Sanjay Karol",
+                    "Justice Vikram Nath"
+                ],
+                "answer": "Justice Manoj Kumar Gupta",
+                "explanation": "Justice Manoj Kumar Gupta has been appointed as the Chief Justice of the Uttarakhand High Court, marking an important transition in the state\u2019s judicial leadership. He is currently serving as a judge of the Allahabad High Court and was recommended for the position by the Supreme Court Collegium. He will assume charge after the retirement of the incumbent Chief Justice upon attaining the age of 62. The appointment reflects the functioning of the collegium system in judicial appointments and ensures continuity in court administration, effective case management, and constitutional oversight within the Uttarakhand High Court.",
+                "category": "Important Days"
+            },
+            {
+                "id": 11,
+                "question": "Who has been appointed as the Chairman of the Atomic Energy Regulatory Board from January 1, 2026?",
+                "options": [
+                    "D. K. Shukla",
+                    "A K Balasubrahmanian",
+                    "R. N. Banerjee",
+                    "S. V. Kulkarni"
+                ],
+                "answer": "A K Balasubrahmanian",
+                "explanation": "A K Balasubrahmanian has taken charge as the Chairman of the Atomic Energy Regulatory Board, marking an important leadership transition in India\u2019s nuclear regulatory framework. He brings with him around four decades of experience as a nuclear engineer and is widely recognized for his expertise in Pressurised Heavy Water Reactor (PHWR) safety, ageing management, and reactor technologies. Prior to this appointment, he chaired the PHWR Project Design Safety Committee and served on multiple AERB safety review panels. His appointment reflects continuity and depth of technical leadership in nuclear safety regulation.",
+                "category": "Important Days"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-11",
+        "questions": [
+            {
+                "id": 1,
+                "question": "In which state is the Kamala Hydroelectric Project, approved by the Public Investment Board, located?",
+                "options": [
+                    "Himachal Pradesh",
+                    "Arunachal Pradesh",
+                    "Uttarakhand",
+                    "Sikkim"
+                ],
+                "answer": "Arunachal Pradesh",
+                "explanation": "The Kamala Hydroelectric Project is located in Arunachal Pradesh, a state known for its vast hydropower potential due to its river systems and mountainous terrain. The project is situated on the Kamala River across the districts of Kamle, Kra Daadi, and Kurung Kumey. With an installed capacity of 1,720 MW, it is a storage-based hydropower project that also includes flood moderation features. The initiative supports India\u2019s renewable energy expansion, strengthens power supply in the Northeast, generates employment, and contributes to the country\u2019s long-term net-zero emissions target.",
+                "category": "State"
+            },
+            {
+                "id": 2,
+                "question": "On which date will the 9th Siddha Day be observed in 2026 to honour Siddhar Agathiyar and promote Siddha medicine?",
+                "options": [
+                    "January 1",
+                    "January 3",
+                    "January 6",
+                    "January 10"
+                ],
+                "answer": "January 6",
+                "explanation": "The 9th Siddha Day in 2026 will be observed on January 6, coinciding with the Ayilyam star in the Tamil month of Margazhi. The day commemorates Siddhar Agathiyar, considered the father of Siddha medicine, one of India\u2019s oldest traditional healthcare systems. Siddha medicine emphasizes holistic health, disease prevention, and the balance of natural elements. Observing Siddha Day promotes awareness of this ancient medical heritage, encourages integration into modern healthcare, and strengthens research, education, and cultural pride in traditional medicine, supported by the Ministry of AYUSH.",
+                "category": "State"
+            },
+            {
+                "id": 3,
+                "question": "Akasa Air became India\u2019s which numbered airline to join the International Air Transport Association (IATA)?",
+                "options": [
+                    "Third",
+                    "Fourth",
+                    "Fifth",
+                    "Sixth"
+                ],
+                "answer": "Fifth",
+                "explanation": "Akasa Air\u2019s entry into the International Air Transport Association marks an important milestone for India\u2019s aviation sector. By becoming the fifth Indian airline to join IATA, Akasa joins established carriers such as Air India, IndiGo, and SpiceJet in the global aviation body. The membership was achieved after clearing the IATA Operational Safety Audit, confirming compliance with international safety standards. This development strengthens Akasa\u2019s global credibility, allows participation in international aviation policy discussions, and supports the airline\u2019s long-term expansion plans amid rapid growth in India\u2019s aviation market.",
+                "category": "State"
+            },
+            {
+                "id": 4,
+                "question": "Which organisation developed the hand-operated Sea Water Desalination System (SWaDeS) for soldiers in remote areas?",
+                "options": [
+                    "ISRO",
+                    "BHEL",
+                    "HAL",
+                    "DRDO"
+                ],
+                "answer": "DRDO",
+                "explanation": "The Defence Research and Development Organisation (DRDO) has developed the Sea Water Desalination System (SWaDeS), a portable water purifier designed for soldiers operating in remote, coastal, and high-altitude areas. This lightweight, hand-operated system can convert saline water into potable water, supporting the hydration needs of 10\u201312 personnel per unit, while the engine-operated version can serve 20\u201325 soldiers. SWaDeS enhances operational self-sufficiency, reduces dependence on water supply lines, and ensures safe drinking water during long patrols and deployments in challenging terrains like coastal regions and the Pangong Tso area in Ladakh.",
+                "category": "State"
+            },
+            {
+                "id": 5,
+                "question": "Which country has introduced the new e-Production Investment Business Visa (e-B-4) for Chinese nationals to facilitate business travel?",
+                "options": [
+                    "India",
+                    "Japan",
+                    "Singapore",
+                    "United Arab Emirates"
+                ],
+                "answer": "India",
+                "explanation": "India has launched the e-B-4 Visa, an electronic business visa specifically for Chinese nationals, to promote investment, production, and technical business activities. The visa allows online application, faster processing, and permits a stay of up to six months for defined business purposes such as installation, training, IT setup, and senior management visits. This initiative aims to streamline business travel, strengthen bilateral industrial cooperation, and support structured people-centric exchanges between India and China while ensuring regulatory oversight and transparency through platforms like the Indian e-Visa portal and the National Single Window System.",
+                "category": "State"
+            },
+            {
+                "id": 6,
+                "question": "On which date is the World Day of War Orphans observed every year to raise awareness about children orphaned due to wars?",
+                "options": [
+                    "January 6",
+                    "February 14",
+                    "March 21",
+                    "December 1"
+                ],
+                "answer": "January 6",
+                "explanation": "World Day of War Orphans is observed annually on January 6 to highlight the challenges faced by children who have lost one or both parents due to wars and armed conflicts. The day emphasizes the emotional, physical, and social hardships of war orphans, calling for global attention to their protection, rehabilitation, and education. Initiated by the French organization SOS Enfants en D\u00e9tresses, this observance encourages governments and civil society to provide humanitarian aid, safe spaces, and policy support, while raising awareness about the compounded difficulties faced by children in conflict zones, including vulnerability to exploitation and climate-related crises.",
+                "category": "State"
+            },
+            {
+                "id": 7,
+                "question": "What GDP growth rate has been projected for India in 2026 by the United Nations Department of Economic and Social Affairs in its WESP 2026 report?",
+                "options": [
+                    "6.6%",
+                    "6.2%",
+                    "7.1%",
+                    "5.9%"
+                ],
+                "answer": "6.6%",
+                "explanation": "The United Nations Department of Economic and Social Affairs, through its World Economic Situation and Prospects 2026 report, has projected India\u2019s GDP growth at 6.6% for the calendar year 2026. This projection positions India as the fastest-growing major economy globally despite ongoing international economic uncertainties. The growth outlook is supported by strong domestic consumption, sustained public investment, and supportive fiscal and monetary policies. Although slightly lower than the estimated growth rate for 2025, the projection reflects India\u2019s resilience and capacity to maintain economic momentum amid slower global growth and weakening international trade conditions.",
+                "category": "State"
+            },
+            {
+                "id": 8,
+                "question": "In which state was India\u2019s largest integrated inland Rainbow Trout farm recently launched?",
+                "options": [
+                    "Andhra Pradesh",
+                    "Telangana",
+                    "Karnataka",
+                    "Maharashtra"
+                ],
+                "answer": "Telangana",
+                "explanation": "India\u2019s largest integrated inland Rainbow Trout farm has been launched in Telangana, specifically in the Ranga Reddy district, by SmartGreen Aquaculture with a \u20b950 crore investment. The facility uses advanced technology, including temperature control, water recirculation, and biosecure systems, to rear cold-water trout in the warm climate of the Deccan Plateau. This project represents a significant innovation in Indian aquaculture, overcoming traditional geographical constraints of trout farming confined to Himalayan regions. The farm boosts aquaculture productivity, supports export-oriented growth, creates employment, and contributes to nutritional security while promoting climate-resilient, technology-driven fisheries.",
+                "category": "State"
+            },
+            {
+                "id": 9,
+                "question": "Where was a rare Eastern Imperial Eagle recently sighted, highlighting the site\u2019s importance for migratory raptors?",
+                "options": [
+                    "Bandipur National Park",
+                    "Mudumalai Tiger Reserve",
+                    "Periyar Wildlife Sanctuary",
+                    "Nagarhole National Park"
+                ],
+                "answer": "Mudumalai Tiger Reserve",
+                "explanation": "The Eastern Imperial Eagle, a rare migratory raptor, was recently spotted at Mudumalai Tiger Reserve in Tamil Nadu during the winter season. This sighting underscores Mudumalai\u2019s significance as a key habitat for migratory birds of prey, offering open grasslands, forest edges, tall nesting trees, and abundant prey. The reserve, part of the Nilgiris Biosphere Reserve, supports diverse wildlife and helps maintain ecological balance as these top predators regulate small mammal populations. Increasing tourism pressure poses challenges, making sustainable management critical to protect both migratory and resident species in this ecologically sensitive area.",
+                "category": "State"
+            },
+            {
+                "id": 10,
+                "question": "In which state was the ICGS Samudra Pratap, India\u2019s first indigenously designed Pollution Control Vessel, commissioned?",
+                "options": [
+                    "Maharashtra",
+                    "Kerala",
+                    "Tamil Nadu",
+                    "Goa"
+                ],
+                "answer": "Goa",
+                "explanation": "The ICGS Samudra Pratap, India\u2019s first indigenous Pollution Control Vessel, was commissioned in Goa on January 5, 2026. Built by Goa Shipyard Limited, the vessel is equipped to handle marine pollution, oil spills, firefighting, and maritime emergencies while also supporting coastal patrols and long-duration surveillance. With over 60% indigenous content, it strengthens India\u2019s maritime self-reliance and environmental response capabilities. The ship\u2019s commissioning in Goa highlights the state\u2019s strategic role in India\u2019s maritime infrastructure, bolsters the Indian Coast Guard\u2019s operational readiness, and showcases the nation\u2019s commitment to protecting marine ecosystems and ensuring maritime security.",
+                "category": "State"
+            },
+            {
+                "id": 11,
+                "question": "Who was sworn in as the 24th Chief Justice of the Sikkim High Court on January 4, 2026?",
+                "options": [
+                    "Biswanath Somadder",
+                    "Om Prakash Mathur",
+                    "Justice A Muhamed Mustaque",
+                    "Prem Singh Tamang"
+                ],
+                "answer": "Justice A Muhamed Mustaque",
+                "explanation": "Justice A Muhamed Mustaque was appointed as the 24th Chief Justice of the Sikkim High Court and took oath on January 4, 2026, at Lok Bhawan, Sikkim, administered by Governor Om Prakash Mathur. Prior to this, he served as Acting Chief Justice of the Kerala High Court. His appointment ensures smooth judicial administration, continuity in the legal process, and effective handling of constitutional, civil, and criminal matters. Leadership transitions like this strengthen the credibility, independence, and efficiency of the higher judiciary in India while supporting institutional stability at the state level.",
+                "category": "State"
+            },
+            {
+                "id": 12,
+                "question": "At which institution has the PARAM SHAKTI supercomputing facility, powered by the PARAM RUDRA system, been launched?",
+                "options": [
+                    "IIT Bombay",
+                    "IISc Bangalore",
+                    "IIT Kanpur",
+                    "IIT Madras"
+                ],
+                "answer": "IIT Madras",
+                "explanation": "The PARAM SHAKTI supercomputing facility has been launched at IIT Madras, featuring the indigenous PARAM RUDRA system with a peak capacity of 3.1 petaflops. Built entirely in India under the National Supercomputing Mission, it will accelerate research in fields such as climate modelling, nuclear studies, aerospace engineering, and advanced drug discovery. The facility incorporates modern cooling, uninterrupted power supply, and open-source software to support high-performance computing tasks. Hosting PARAM SHAKTI at IIT Madras enables interdisciplinary research, strengthens India\u2019s computing ecosystem, and contributes to technological advancements aligned with initiatives like the IndiaAI Mission.",
+                "category": "State"
+            }
+        ]
     }
 ]
