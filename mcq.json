@@ -10464,5 +10464,2134 @@
                 "category": "National"
             }
         ]
+    },
+    {
+        "date": "2026-01-08",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which bank launched the \u2018Safety Centre\u2019 on its mobile banking app to enhance customer control over digital banking security?",
+                "options": [
+                    "Axis Bank",
+                    "HDFC Bank",
+                    "ICICI Bank",
+                    "State Bank of India"
+                ],
+                "answer": "Axis Bank",
+                "explanation": "Axis Bank introduced the \u2018Safety Centre\u2019 on its mobile banking app to empower customers with real-time control over digital banking functions. The feature allows users to manage internet banking, UPI usage, fund transfer limits, and fraud protection tools directly through the app. Key tools include SMS Shield for verifying genuine messages, options to disable internet banking, and restrictions on fund transfers. By enabling self-managed security, Axis Bank aims to prevent unauthorized transactions, address rising digital fraud cases, and reduce dependency on branches or customer support, thereby promoting safer and more convenient digital banking experiences.",
+                "category": "Banking"
+            },
+            {
+                "id": 2,
+                "question": "In which state was the Sanskaar Shaala, a value-based education programme for children, launched by the Governor?",
+                "options": [
+                    "West Bengal",
+                    "Meghalaya",
+                    "Assam",
+                    "Tripura"
+                ],
+                "answer": "Assam",
+                "explanation": "The Sanskaar Shaala programme was launched in Assam by Governor Lakshman Prasad Acharya to promote value-based education for children aged 4\u201314. The initiative emphasizes moral education, Indian cultural values, and social responsibility, complementing formal academic learning. By integrating ethics, compassion, and cultural awareness into early education, Assam aims to nurture responsible and value-oriented citizens. The programme balances modern, technology-driven education with traditional moral guidance drawn from ancient Indian texts, highlighting the state\u2019s commitment to preserving cultural heritage while fostering holistic child development.",
+                "category": "Banking"
+            },
+            {
+                "id": 3,
+                "question": "Which Indian private sector bank unveiled its refreshed brand identity called \u2018The Fortuna Wave\u2019 in January 2026, emphasizing modernization and digital banking?",
+                "options": [
+                    "HDFC Bank",
+                    "ICICI Bank",
+                    "Axis Bank",
+                    "Federal Bank"
+                ],
+                "answer": "Federal Bank",
+                "explanation": "Federal Bank launched its new brand identity, \u2018The Fortuna Wave\u2019, on January 7, 2026, in Mumbai, with Vidya Balan as the brand ambassador. The refreshed logo features three waves symbolizing authenticity, togetherness, and prosperity, designed to be digital-friendly and visually appealing across platforms. This brand refresh reflects Federal Bank\u2019s commitment to modernization, innovation, and future-ready digital banking solutions. Established in 1931 in Aluva, Kerala, Federal Bank has evolved into a pan-India private sector bank offering retail, corporate, NRI, lending, and digital banking services, and the rebranding reinforces its contemporary identity and customer-centric vision.",
+                "category": "Banking"
+            },
+            {
+                "id": 4,
+                "question": "Which organization celebrated its 68th Foundation Day in 2026, highlighting achievements in Cyber, Space, and AI, and supporting India\u2019s Aatmanirbhar Bharat initiative?",
+                "options": [
+                    "ISRO",
+                    "DRDO",
+                    "BARC",
+                    "HAL"
+                ],
+                "answer": "DRDO",
+                "explanation": "The Defence Research and Development Organisation (DRDO) celebrated its 68th Foundation Day on January 1, 2026, marking nearly seven decades of contributions to India\u2019s defence and security infrastructure. DRDO operates 52 laboratories and focuses on key domains such as Cyber, Space, and Artificial Intelligence, aligning with the Aatmanirbhar Bharat initiative to strengthen India\u2019s self-reliance in defence. In 2025, it secured 22 AoN approvals worth Rs.1.30 lakh crore, signed 11 defence contracts worth Rs.26,000 crore, and completed 245 technology transfer agreements (LAToT). DRDO continues to drive indigenous defence research, industry collaborations, and operational readiness, making it central to India\u2019s strategic and technological advancement.",
+                "category": "Banking"
+            },
+            {
+                "id": 5,
+                "question": "Who has assumed charge as the Chairman of the Council for Leather Exports, bringing over four decades of experience in the leather industry?",
+                "options": [
+                    "Anil Kumar Gupta",
+                    "Ramesh Kumar Juneja",
+                    "Suresh Mehta",
+                    "Rajesh Agarwal"
+                ],
+                "answer": "Ramesh Kumar Juneja",
+                "explanation": "Ramesh Kumar Juneja has taken charge as the Chairman of the Council for Leather Exports (CLE), the apex body promoting Indian leather, footwear, and related products in global markets under the Ministry of Commerce and Industry. With over 40 years of experience, including founding the JC Group and pioneering global collaborations, Juneja brings deep industry knowledge and long-standing institutional involvement with CLE. His leadership is expected to strengthen India\u2019s international leather trade, focus on value addition, innovation, and market diversification, and address challenges such as sustainability standards and global competition, thereby supporting the sector\u2019s growth and export potential.",
+                "category": "Banking"
+            },
+            {
+                "id": 6,
+                "question": "Which bank launched the \u2018Zero-Forex Diamond Reserve Credit Card\u2019 offering zero foreign exchange markup along with travel and lifestyle benefits?",
+                "options": [
+                    "HDFC Bank",
+                    "ICICI Bank",
+                    "Axis Bank",
+                    "IDFC FIRST Bank"
+                ],
+                "answer": "IDFC FIRST Bank",
+                "explanation": "IDFC FIRST Bank introduced the Zero-Forex Diamond Reserve Credit Card in January 2026, targeting frequent international travelers and premium lifestyle users. The card eliminates foreign exchange markup, making overseas spending and online international purchases cost-effective. It also offers extensive benefits, including travel insurance, airport lounge access, meet-and-greet services, and reward points on hotels, flights, and other spending. With a digital-first application process, annual fee waivers on high spends, and a robust rewards ecosystem, this launch strengthens IDFC FIRST Bank\u2019s presence in the premium credit card segment and enhances convenience and value for global and lifestyle-oriented customers.",
+                "category": "Banking"
+            },
+            {
+                "id": 7,
+                "question": "Who was appointed as the new CEO of HSBC Private Bank effective January 5, 2026?",
+                "options": [
+                    "Gabriel Castello",
+                    "Ida Liu",
+                    "Jane Fraser",
+                    "David Solomon"
+                ],
+                "answer": "Ida Liu",
+                "explanation": "Ida Liu was appointed as the Chief Executive Officer (CEO) of HSBC Private Bank effective January 5, 2026, succeeding Gabriel Castello, who had been serving as Interim CEO. With over 25 years of global experience in private banking and wealth management, including leadership roles at Citi Private Bank, Ida Liu brings expertise in wealth management, strategic advisory, and business transformation. Her appointment underscores HSBC\u2019s strategic focus on strengthening its global private banking operations and managing Ultra-High-Net-Worth (UHNW) client portfolios in an increasingly competitive financial sector.",
+                "category": "Banking"
+            },
+            {
+                "id": 8,
+                "question": "On which date is Earth\u2019s Rotation Day observed, commemorating L\u00e9on Foucault\u2019s historic pendulum experiment proving Earth\u2019s rotation?",
+                "options": [
+                    "January 1",
+                    "February 28",
+                    "January 8",
+                    "March 21"
+                ],
+                "answer": "January 8",
+                "explanation": "Earth\u2019s Rotation Day is observed annually on January 8 to honour the groundbreaking 1851 experiment by French physicist L\u00e9on Foucault, who provided the first conclusive proof of Earth\u2019s rotation using a pendulum at the Panth\u00e9on in Paris. The Foucault pendulum demonstrated that the Earth rotates on its axis by showing the gradual rotation of the pendulum\u2019s plane of oscillation. This day highlights the importance of Earth\u2019s rotational motion, which governs the day-night cycle and seasonal changes, and celebrates a milestone in humanity\u2019s scientific understanding of planetary dynamics.",
+                "category": "Banking"
+            },
+            {
+                "id": 9,
+                "question": "Which international organization declared 2026 as the International Year for Rangelands and Pastoralists to highlight the importance of grasslands and savannahs in climate action?",
+                "options": [
+                    "United Nations",
+                    "World Bank",
+                    "UNESCO",
+                    "FAO"
+                ],
+                "answer": "United Nations",
+                "explanation": "The United Nations (UN) declared 2026 as the International Year for Rangelands and Pastoralists to spotlight ecosystems often overlooked in global climate strategies. Grasslands and savannahs play a critical role in carbon sequestration, biodiversity conservation, and climate resilience, yet have received less attention than forests in UNFCCC negotiations. This UN initiative seeks to address this imbalance by promoting policy integration, scientific recognition, and global awareness of these vital ecosystems. It underscores the UN\u2019s commitment to comprehensive climate action that includes all biomes and supports sustainable pastoralist livelihoods worldwide.",
+                "category": "Banking"
+            },
+            {
+                "id": 10,
+                "question": "In which Indian state was the new reed snake species Calamaria mizoramensis discovered?",
+                "options": [
+                    "Mizoram",
+                    "Manipur",
+                    "Nagaland",
+                    "Assam"
+                ],
+                "answer": "Mizoram",
+                "explanation": "The newly identified reed snake species Calamaria mizoramensis was discovered in Mizoram by a research team from Mizoram University in collaboration with international scientists. The species inhabits humid, forested hill regions between 670 and 1,295 meters elevation and has been confirmed in multiple districts including Aizawl, Reiek, and Mamit. This discovery enhances India\u2019s reptilian biodiversity and raises Mizoram\u2019s herpetofauna count to 169 species, highlighting the state as a hotspot for reptile diversity. The species\u2019 distinct morphology, nocturnal and semi-fossorial behavior, and Least Concern IUCN status make it a significant addition to Indian wildlife records.",
+                "category": "Banking"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-09",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which state secured the first position in the ICJS 2.0 national rankings released in January 2026?",
+                "options": [
+                    "Haryana",
+                    "Uttarakhand",
+                    "Assam",
+                    "Maharashtra"
+                ],
+                "answer": "Uttarakhand",
+                "explanation": "Uttarakhand achieved the top rank in the ICJS 2.0 national rankings with a high score of 93.46, reflecting its strong performance in digital policing and criminal justice system integration. The Inter-Operable Criminal Justice System enables seamless data sharing among police, courts, prisons, and other justice institutions, promoting efficiency and transparency. Uttarakhand\u2019s success is attributed to effective integration of district-level systems with the national platform, extensive training of police personnel, and commitment to technology-driven governance. This achievement sets a benchmark for other states in modernizing law enforcement and strengthening evidence-based justice delivery.",
+                "category": "State"
+            },
+            {
+                "id": 2,
+                "question": "Which state is home to India\u2019s first fully paperless district court?",
+                "options": [
+                    "Kerala",
+                    "Tamil Nadu",
+                    "Karnataka",
+                    "Maharashtra"
+                ],
+                "answer": "Kerala",
+                "explanation": "Kerala has achieved a significant milestone in judicial digitisation with the inauguration of India\u2019s first fully paperless district court. The Kalpetta district court in Wayanad operates entirely in digital mode, ensuring that all judicial processes are conducted electronically. This includes case institution, pre-trial proceedings, evidence recording, interim applications, and final adjudication. Inaugurated virtually by the Chief Justice of India, this initiative reflects the state\u2019s strong emphasis on e-governance and technological integration. The move enhances efficiency, transparency, and accessibility in the justice delivery system while reducing reliance on physical paperwork.",
+                "category": "State"
+            },
+            {
+                "id": 3,
+                "question": "How many States signed MoUs with the Ministry of Textiles under the Tex-RAMPS initiative?",
+                "options": [
+                    "15",
+                    "10",
+                    "20",
+                    "25"
+                ],
+                "answer": "15",
+                "explanation": "The 15 States that entered into Memorandums of Understanding with the Ministry of Textiles under the Tex-RAMPS scheme. This initiative was highlighted during the National Textiles Ministers\u2019 Conference and aims to strengthen textile-related data systems and promote evidence-based policymaking. A total of 15 States participated by signing MoUs, reflecting a collaborative approach between the Centre and States. This partnership supports improved quality and credibility of textile statistics and aligns with cooperative federalism while contributing to the long-term goal of developing a $350-billion textile industry.",
+                "category": "State"
+            },
+            {
+                "id": 4,
+                "question": "How many international organizations did the United States withdraw from under the executive order signed on January 7, 2026?",
+                "options": [
+                    "45",
+                    "52",
+                    "66",
+                    "80"
+                ],
+                "answer": "66",
+                "explanation": "The United States announced its withdrawal from a total of 66 international organizations through an executive order signed on January 7, 2026. This decision marked a major escalation in the country\u2019s retreat from multilateral global cooperation, particularly targeting UN-affiliated bodies involved in climate action, labour standards, and social development. The move followed a comprehensive review of U.S. participation and funding, with the administration citing redundancy, inefficiency, and misalignment with national interests as key reasons. The withdrawals have significant implications for global governance, climate response, humanitarian assistance, and the functioning of international institutions worldwide.",
+                "category": "State"
+            },
+            {
+                "id": 5,
+                "question": "In which city was the \u201cViksit Bharat, Viksit Ports\u201d programme held for the launch of \u20b9235 crore port projects in Tamil Nadu?",
+                "options": [
+                    "Coimbatore",
+                    "Madurai",
+                    "Tiruchirappalli",
+                    "Chennai"
+                ],
+                "answer": "Chennai",
+                "explanation": "Chennai served as the venue for the \u201cViksit Bharat, Viksit Ports\u201d programme, during which port projects worth \u20b9235 crore were launched in Tamil Nadu. The initiative was led by the Union Ministry of Ports, Shipping and Waterways and inaugurated by Sarbananda Sonowal. The funding allocation included \u20b9129.36 crore for the Chennai Port Authority and \u20b9105.64 crore for Kamarajar Port Limited. The programme also witnessed the launch of the e-port clearance portal under the One Nation\u2013One Port Process, aimed at improving efficiency, transparency, and ease of doing business in India\u2019s port sector.",
+                "category": "State"
+            },
+            {
+                "id": 6,
+                "question": "In which city did the National Textiles Ministers\u2019 Conference 2026 commence on January 8?",
+                "options": [
+                    "Guwahati",
+                    "Shillong",
+                    "Imphal",
+                    "Itanagar"
+                ],
+                "answer": "Guwahati",
+                "explanation": "Guwahati hosted the National Textiles Ministers\u2019 Conference 2026, which began on January 8 as a two-day event organized by the Ministry of Textiles in collaboration with the Government of Assam. The conference brought together Textile Ministers and senior officials from all States and Union Territories to discuss the future roadmap of India\u2019s textile sector. Held under the theme \u201cIndia\u2019s Textiles: Weaving Growth, Heritage & Innovation,\u201d the event emphasized cooperative federalism, development of PM MITRA Parks, and the strategic goal of positioning India as a global textile manufacturing hub by 2030, while also highlighting the potential of the North-Eastern region.",
+                "category": "State"
+            },
+            {
+                "id": 7,
+                "question": "What is the real GDP growth rate of India for the financial year 2025\u201326 as per the First Advance Estimates released by NSO?",
+                "options": [
+                    "6.5%",
+                    "7.0%",
+                    "8.0%",
+                    "7.4%"
+                ],
+                "answer": "7.4%",
+                "explanation": "The First Advance Estimates released by the National Statistics Office indicate that India\u2019s real GDP growth rate for the financial year 2025\u201326 is projected at 7.4 percent. Real GDP measures economic growth after adjusting for inflation, reflecting the actual expansion in output. This estimate is significant as it guides policy decisions by the government and the Reserve Bank of India, influences investor confidence, and helps assess economic momentum. The strong growth projection reinforces India\u2019s position as one of the fastest-growing major economies, driven largely by robust performance in the services and manufacturing sectors.",
+                "category": "State"
+            },
+            {
+                "id": 8,
+                "question": "Which two countries formally recognised AYUSH in India\u2019s trade pacts finalised in December 2025?",
+                "options": [
+                    "Japan and Australia",
+                    "Oman and New Zealand",
+                    "United Kingdom and Canada",
+                    "Germany and France"
+                ],
+                "answer": "Oman and New Zealand",
+                "explanation": "Oman and New Zealand provided formal recognition to AYUSH through India\u2019s trade pacts finalised in December 2025. These agreements include dedicated annexures focusing on health services and traditional medicine, marking an important step in institutionalising cooperation in the AYUSH sector. The recognition helps improve market access, harmonise standards, and enhance credibility for Indian traditional medicine products abroad. This development has supported the steady growth of AYUSH exports, which increased by over 6 percent between 2023\u201324 and 2024\u201325, strengthening India\u2019s position in the global traditional healthcare market.",
+                "category": "State"
+            },
+            {
+                "id": 9,
+                "question": "Which institution inaugurated two apex calibration facilities to strengthen India\u2019s national quality and measurement infrastructure?",
+                "options": [
+                    "Indian Space Research Organisation",
+                    "National Physical Laboratory",
+                    "Bureau of Indian Standards",
+                    "Council of Scientific and Industrial Research"
+                ],
+                "answer": "National Physical Laboratory",
+                "explanation": "National Physical Laboratory plays a crucial role in strengthening India\u2019s quality and measurement ecosystem through the inauguration of two apex calibration facilities. These include the Solar Cell Calibration Facility, which enables highly accurate photovoltaic testing and supports solar manufacturing and exports, and the Environmental Standard Laboratory, which allows domestic calibration of air-quality monitoring instruments. As India\u2019s premier measurement standards institution under CSIR, the laboratory ensures precision, reliability, and global comparability of measurements. Such initiatives reduce dependence on foreign calibration services, improve industrial competitiveness, and enhance environmental monitoring capabilities across the country.",
+                "category": "State"
+            },
+            {
+                "id": 10,
+                "question": "Which Indian state launched the country\u2019s first dedicated Deeptech Startup Policy for 2025\u201326?",
+                "options": [
+                    "Karnataka",
+                    "Maharashtra",
+                    "Tamil Nadu",
+                    "Telangana"
+                ],
+                "answer": "Tamil Nadu",
+                "explanation": "Tamil Nadu has taken a pioneering step in strengthening India\u2019s innovation ecosystem by launching the country\u2019s first dedicated Deeptech Startup Policy for 2025\u201326. The policy aims to convert advanced scientific research into scalable commercial products, with a strong focus on long-gestation, science-driven technologies. Backed by a financial commitment of \u20b9100 crore to support 100 deeptech startups, it targets sectors such as artificial intelligence, semiconductors, biotechnology, space technologies, and clean energy. Launched at the Umagine Technology Conference in Chennai, the initiative reinforces Tamil Nadu\u2019s ambition to emerge as a global hub for frontier technologies and high-value innovation.",
+                "category": "State"
+            },
+            {
+                "id": 11,
+                "question": "Which public sector company awarded major refinery contracts to Technip Energies for projects at Bina and Mumbai refineries?",
+                "options": [
+                    "Indian Oil Corporation Ltd",
+                    "Hindustan Petroleum Corporation Ltd",
+                    "Bharat Petroleum Corporation Ltd",
+                    "Oil and Natural Gas Corporation"
+                ],
+                "answer": "Bharat Petroleum Corporation Ltd",
+                "explanation": "Bharat Petroleum Corporation Ltd is the public sector undertaking responsible for awarding major refinery contracts to Technip Energies. These contracts are part of BPCL\u2019s broader petrochemical expansion and refinery modernization strategy. At the Bina refinery in Madhya Pradesh, the EPCC contract covers the establishment of polypropylene and Butene-1 units, enhancing petrochemical output. At the Mumbai refinery, an EPCM contract was awarded for India\u2019s first 3 MMTPA PRFCC unit, which will convert heavy residues into high-value products. These projects strengthen refining efficiency, value addition, and energy infrastructure development.",
+                "category": "State"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-10",
+        "questions": [
+            {
+                "id": 1,
+                "question": "On which date is World Hindi Day observed every year to promote the Hindi language at the global level?",
+                "options": [
+                    "January 14",
+                    "February 21",
+                    "September 14",
+                    "January 10"
+                ],
+                "answer": "January 10",
+                "explanation": "World Hindi Day is observed annually on January 10 to highlight the growing international presence and importance of the Hindi language. The date holds historical significance as Hindi was first used in the United Nations General Assembly on January 10, 1949, marking its entry into global diplomacy. The observance began officially in 2006 and is celebrated worldwide to promote Hindi in areas such as education, literature, technology, and cultural exchange. By recognizing Hindi as a widely spoken global language, the day supports linguistic diversity and preserves India\u2019s cultural heritage for future generations.",
+                "category": "Important Days"
+            },
+            {
+                "id": 2,
+                "question": "Which bank launched the new brand identity named \u2018Fortuna Wave\u2019 to position itself as a digital-first, pan-India institution?",
+                "options": [
+                    "ICICI Bank",
+                    "Federal Bank",
+                    "Axis Bank",
+                    "Kotak Mahindra Bank"
+                ],
+                "answer": "Federal Bank",
+                "explanation": "Federal Bank introduced the \u2018Fortuna Wave\u2019 brand identity to refresh its image and reinforce its positioning as a digital-first, pan-India banking institution. The launch, held in Mumbai, was aimed at attracting younger and tech-savvy customers while maintaining trust among existing users. Federal Bank emphasized core values such as authenticity, prosperity, and togetherness through this new identity. By creating a unified visual language across both digital platforms and physical branches, Federal Bank seeks to strengthen brand recognition, enhance customer engagement, and align itself with the evolving landscape of modern banking in India.",
+                "category": "Important Days"
+            },
+            {
+                "id": 3,
+                "question": "Which Bengaluru-based fintech company received RBI approval to operate as a Payment Aggregator\u2013Cross Border (PA-CB)?",
+                "options": [
+                    "Skydo",
+                    "Razorpay",
+                    "PayU",
+                    "Cashfree"
+                ],
+                "answer": "Skydo",
+                "explanation": "Skydo received final authorisation from the Reserve Bank of India to operate as a Payment Aggregator\u2013Cross Border, marking a major regulatory milestone in India\u2019s fintech sector. This approval enables Skydo to provide regulated cross-border payment services, particularly benefiting MSMEs, exporters, startups, and freelancers. The licence strengthens trust, transparency, and compliance in international transactions, which involve foreign exchange and regulatory oversight. Skydo supports collections in multiple foreign currencies, offers a flat-fee pricing model without forex markups, and ensures faster settlements. The development also contributes to strengthening India\u2019s digital payments ecosystem and export-oriented financial infrastructure.",
+                "category": "Important Days"
+            },
+            {
+                "id": 4,
+                "question": "The \u2018Asha Van\u2019 mobile unit launched in Gandhinagar primarily focuses on which area of healthcare?",
+                "options": [
+                    "Maternal and Child Health",
+                    "Cardiac Care",
+                    "Diabetes Management",
+                    "Cancer Care"
+                ],
+                "answer": "Cancer Care",
+                "explanation": "The \u2018Asha Van\u2019 mobile unit was launched to strengthen early detection and diagnosis of cancers, especially in underserved and rural areas. Equipped with advanced EVA-Pro diagnostic systems, mammography facilities, and teleconsultation services, the unit is capable of screening for ten different types of cancer, including lung, breast, and cervical cancers. By enabling early screening, the initiative aims to improve treatment outcomes and reduce mortality. Handed over to the Indian Red Cross Society, the mobile unit aligns with the broader goal of accessible healthcare and supports the vision of universal health coverage.",
+                "category": "Important Days"
+            },
+            {
+                "id": 5,
+                "question": "Which country became the first in the world to commercially produce and use bio-bitumen for road construction?",
+                "options": [
+                    "Germany",
+                    "China",
+                    "India",
+                    "Japan"
+                ],
+                "answer": "India",
+                "explanation": "India has achieved a global first by commercially producing and using bio-bitumen as an eco-friendly alternative to conventional crude-oil-based bitumen in road construction. This innovation helps reduce environmental pollution by utilizing agricultural crop residue that would otherwise be burnt, contributing to air quality improvement. Announced at a CSIR technology transfer event, the initiative aligns with national priorities such as Viksit Bharat 2047, Waste-to-Wealth, and Atma Nirbhar Bharat. The development highlights India\u2019s growing leadership in sustainable infrastructure, green technologies, and circular economy-driven solutions.",
+                "category": "Important Days"
+            },
+            {
+                "id": 6,
+                "question": "In which city was the Third International Conference on Indian Languages inaugurated by the Vice President of India?",
+                "options": [
+                    "Chennai",
+                    "Kolkata",
+                    "New Delhi",
+                    "Hyderabad"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The Third International Conference on Indian Languages was inaugurated in New Delhi by the Vice President of India, highlighting the city\u2019s role as a major centre for national and international academic and cultural dialogue. The conference brought together scholars, language experts, and global delegates to discuss the preservation, promotion, and study of Indian languages. The event emphasized the cultural, constitutional, and democratic importance of linguistic diversity in India, along with the role of education policies and modern technology such as digital archives and AI tools in safeguarding language heritage for future generations.",
+                "category": "Important Days"
+            },
+            {
+                "id": 7,
+                "question": "Which state secured the top rank in Inter-Operable Criminal Justice System (ICJS) 2.0, leading India in digital policing and justice system integration?",
+                "options": [
+                    "Haryana",
+                    "Assam",
+                    "Uttarakhand",
+                    "Uttar Pradesh"
+                ],
+                "answer": "Uttarakhand",
+                "explanation": "Uttarakhand achieved the highest ranking in the Inter-Operable Criminal Justice System 2.0 by scoring 93.46, reflecting strong performance in digital policing and integration of the criminal justice system. The NCRB dashboard placed the state ahead of Haryana and Assam, with most ICJS modules completed well before the 2026 target timeline. This accomplishment highlights effective use of technology, coordination among justice institutions, and administrative efficiency. Additionally, the Uttarakhand State Disaster Response Force earned recognition for its exemplary role in rescue operations, safety management, and crowd control during Prayagraj Mahakumbh-2025, further underscoring the state\u2019s institutional competence.",
+                "category": "Important Days"
+            },
+            {
+                "id": 8,
+                "question": "Which state, along with Assam, signed a wildlife exchange pact to boost biodiversity and restore locally extinct species?",
+                "options": [
+                    "Madhya Pradesh",
+                    "Maharashtra",
+                    "Rajasthan",
+                    "Uttar Pradesh"
+                ],
+                "answer": "Madhya Pradesh",
+                "explanation": "The wildlife exchange pact was signed between Assam and Madhya Pradesh with the objective of enhancing biodiversity and reviving species that have disappeared locally. As part of this agreement, Assam will send wild water buffaloes, a pair of one-horned rhinoceroses, and king cobras to Madhya Pradesh. In return, Madhya Pradesh will provide tigers and mugger crocodiles to Assam. This collaborative initiative highlights the importance of inter-state cooperation in wildlife conservation and ecosystem restoration, with Kanha Tiger Reserve playing a key role in reintroducing buffaloes.",
+                "category": "Important Days"
+            },
+            {
+                "id": 9,
+                "question": "In which country was the joint military exercise \u201cGulf Shield 2026\u201d launched by the Gulf Cooperation Council nations?",
+                "options": [
+                    "Saudi Arabia",
+                    "United Arab Emirates",
+                    "Qatar",
+                    "Kuwait"
+                ],
+                "answer": "Saudi Arabia",
+                "explanation": "The joint military exercise \u201cGulf Shield 2026\u201d was launched in Saudi Arabia as part of efforts by Gulf Cooperation Council member states to enhance regional security. The exercise focuses on improving collective defence capabilities, operational coordination, and combat readiness among participating forces. Through field-based scenarios, joint planning sessions, and interoperability tests, the drills aim to strengthen deterrence against emerging security challenges. Hosting such a large-scale exercise highlights Saudi Arabia\u2019s central role in regional defence cooperation and underscores the importance of unified military preparedness within the GCC framework.",
+                "category": "Important Days"
+            },
+            {
+                "id": 10,
+                "question": "Who has been appointed as the Chief Justice of the Uttarakhand High Court following the recommendation of the Supreme Court Collegium?",
+                "options": [
+                    "Justice Guhanathan Narendar",
+                    "Justice Manoj Kumar Gupta",
+                    "Justice Sanjay Karol",
+                    "Justice Vikram Nath"
+                ],
+                "answer": "Justice Manoj Kumar Gupta",
+                "explanation": "Justice Manoj Kumar Gupta has been appointed as the Chief Justice of the Uttarakhand High Court, marking an important transition in the state\u2019s judicial leadership. He is currently serving as a judge of the Allahabad High Court and was recommended for the position by the Supreme Court Collegium. He will assume charge after the retirement of the incumbent Chief Justice upon attaining the age of 62. The appointment reflects the functioning of the collegium system in judicial appointments and ensures continuity in court administration, effective case management, and constitutional oversight within the Uttarakhand High Court.",
+                "category": "Important Days"
+            },
+            {
+                "id": 11,
+                "question": "Who has been appointed as the Chairman of the Atomic Energy Regulatory Board from January 1, 2026?",
+                "options": [
+                    "D. K. Shukla",
+                    "A K Balasubrahmanian",
+                    "R. N. Banerjee",
+                    "S. V. Kulkarni"
+                ],
+                "answer": "A K Balasubrahmanian",
+                "explanation": "A K Balasubrahmanian has taken charge as the Chairman of the Atomic Energy Regulatory Board, marking an important leadership transition in India\u2019s nuclear regulatory framework. He brings with him around four decades of experience as a nuclear engineer and is widely recognized for his expertise in Pressurised Heavy Water Reactor (PHWR) safety, ageing management, and reactor technologies. Prior to this appointment, he chaired the PHWR Project Design Safety Committee and served on multiple AERB safety review panels. His appointment reflects continuity and depth of technical leadership in nuclear safety regulation.",
+                "category": "Important Days"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-11",
+        "questions": [
+            {
+                "id": 1,
+                "question": "In which state is the Kamala Hydroelectric Project, approved by the Public Investment Board, located?",
+                "options": [
+                    "Himachal Pradesh",
+                    "Arunachal Pradesh",
+                    "Uttarakhand",
+                    "Sikkim"
+                ],
+                "answer": "Arunachal Pradesh",
+                "explanation": "The Kamala Hydroelectric Project is located in Arunachal Pradesh, a state known for its vast hydropower potential due to its river systems and mountainous terrain. The project is situated on the Kamala River across the districts of Kamle, Kra Daadi, and Kurung Kumey. With an installed capacity of 1,720 MW, it is a storage-based hydropower project that also includes flood moderation features. The initiative supports India\u2019s renewable energy expansion, strengthens power supply in the Northeast, generates employment, and contributes to the country\u2019s long-term net-zero emissions target.",
+                "category": "State"
+            },
+            {
+                "id": 2,
+                "question": "On which date will the 9th Siddha Day be observed in 2026 to honour Siddhar Agathiyar and promote Siddha medicine?",
+                "options": [
+                    "January 1",
+                    "January 3",
+                    "January 6",
+                    "January 10"
+                ],
+                "answer": "January 6",
+                "explanation": "The 9th Siddha Day in 2026 will be observed on January 6, coinciding with the Ayilyam star in the Tamil month of Margazhi. The day commemorates Siddhar Agathiyar, considered the father of Siddha medicine, one of India\u2019s oldest traditional healthcare systems. Siddha medicine emphasizes holistic health, disease prevention, and the balance of natural elements. Observing Siddha Day promotes awareness of this ancient medical heritage, encourages integration into modern healthcare, and strengthens research, education, and cultural pride in traditional medicine, supported by the Ministry of AYUSH.",
+                "category": "State"
+            },
+            {
+                "id": 3,
+                "question": "Akasa Air became India\u2019s which numbered airline to join the International Air Transport Association (IATA)?",
+                "options": [
+                    "Third",
+                    "Fourth",
+                    "Fifth",
+                    "Sixth"
+                ],
+                "answer": "Fifth",
+                "explanation": "Akasa Air\u2019s entry into the International Air Transport Association marks an important milestone for India\u2019s aviation sector. By becoming the fifth Indian airline to join IATA, Akasa joins established carriers such as Air India, IndiGo, and SpiceJet in the global aviation body. The membership was achieved after clearing the IATA Operational Safety Audit, confirming compliance with international safety standards. This development strengthens Akasa\u2019s global credibility, allows participation in international aviation policy discussions, and supports the airline\u2019s long-term expansion plans amid rapid growth in India\u2019s aviation market.",
+                "category": "State"
+            },
+            {
+                "id": 4,
+                "question": "Which organisation developed the hand-operated Sea Water Desalination System (SWaDeS) for soldiers in remote areas?",
+                "options": [
+                    "ISRO",
+                    "BHEL",
+                    "HAL",
+                    "DRDO"
+                ],
+                "answer": "DRDO",
+                "explanation": "The Defence Research and Development Organisation (DRDO) has developed the Sea Water Desalination System (SWaDeS), a portable water purifier designed for soldiers operating in remote, coastal, and high-altitude areas. This lightweight, hand-operated system can convert saline water into potable water, supporting the hydration needs of 10\u201312 personnel per unit, while the engine-operated version can serve 20\u201325 soldiers. SWaDeS enhances operational self-sufficiency, reduces dependence on water supply lines, and ensures safe drinking water during long patrols and deployments in challenging terrains like coastal regions and the Pangong Tso area in Ladakh.",
+                "category": "State"
+            },
+            {
+                "id": 5,
+                "question": "Which country has introduced the new e-Production Investment Business Visa (e-B-4) for Chinese nationals to facilitate business travel?",
+                "options": [
+                    "India",
+                    "Japan",
+                    "Singapore",
+                    "United Arab Emirates"
+                ],
+                "answer": "India",
+                "explanation": "India has launched the e-B-4 Visa, an electronic business visa specifically for Chinese nationals, to promote investment, production, and technical business activities. The visa allows online application, faster processing, and permits a stay of up to six months for defined business purposes such as installation, training, IT setup, and senior management visits. This initiative aims to streamline business travel, strengthen bilateral industrial cooperation, and support structured people-centric exchanges between India and China while ensuring regulatory oversight and transparency through platforms like the Indian e-Visa portal and the National Single Window System.",
+                "category": "State"
+            },
+            {
+                "id": 6,
+                "question": "On which date is the World Day of War Orphans observed every year to raise awareness about children orphaned due to wars?",
+                "options": [
+                    "January 6",
+                    "February 14",
+                    "March 21",
+                    "December 1"
+                ],
+                "answer": "January 6",
+                "explanation": "World Day of War Orphans is observed annually on January 6 to highlight the challenges faced by children who have lost one or both parents due to wars and armed conflicts. The day emphasizes the emotional, physical, and social hardships of war orphans, calling for global attention to their protection, rehabilitation, and education. Initiated by the French organization SOS Enfants en D\u00e9tresses, this observance encourages governments and civil society to provide humanitarian aid, safe spaces, and policy support, while raising awareness about the compounded difficulties faced by children in conflict zones, including vulnerability to exploitation and climate-related crises.",
+                "category": "State"
+            },
+            {
+                "id": 7,
+                "question": "What GDP growth rate has been projected for India in 2026 by the United Nations Department of Economic and Social Affairs in its WESP 2026 report?",
+                "options": [
+                    "6.6%",
+                    "6.2%",
+                    "7.1%",
+                    "5.9%"
+                ],
+                "answer": "6.6%",
+                "explanation": "The United Nations Department of Economic and Social Affairs, through its World Economic Situation and Prospects 2026 report, has projected India\u2019s GDP growth at 6.6% for the calendar year 2026. This projection positions India as the fastest-growing major economy globally despite ongoing international economic uncertainties. The growth outlook is supported by strong domestic consumption, sustained public investment, and supportive fiscal and monetary policies. Although slightly lower than the estimated growth rate for 2025, the projection reflects India\u2019s resilience and capacity to maintain economic momentum amid slower global growth and weakening international trade conditions.",
+                "category": "State"
+            },
+            {
+                "id": 8,
+                "question": "In which state was India\u2019s largest integrated inland Rainbow Trout farm recently launched?",
+                "options": [
+                    "Andhra Pradesh",
+                    "Telangana",
+                    "Karnataka",
+                    "Maharashtra"
+                ],
+                "answer": "Telangana",
+                "explanation": "India\u2019s largest integrated inland Rainbow Trout farm has been launched in Telangana, specifically in the Ranga Reddy district, by SmartGreen Aquaculture with a \u20b950 crore investment. The facility uses advanced technology, including temperature control, water recirculation, and biosecure systems, to rear cold-water trout in the warm climate of the Deccan Plateau. This project represents a significant innovation in Indian aquaculture, overcoming traditional geographical constraints of trout farming confined to Himalayan regions. The farm boosts aquaculture productivity, supports export-oriented growth, creates employment, and contributes to nutritional security while promoting climate-resilient, technology-driven fisheries.",
+                "category": "State"
+            },
+            {
+                "id": 9,
+                "question": "Where was a rare Eastern Imperial Eagle recently sighted, highlighting the site\u2019s importance for migratory raptors?",
+                "options": [
+                    "Bandipur National Park",
+                    "Mudumalai Tiger Reserve",
+                    "Periyar Wildlife Sanctuary",
+                    "Nagarhole National Park"
+                ],
+                "answer": "Mudumalai Tiger Reserve",
+                "explanation": "The Eastern Imperial Eagle, a rare migratory raptor, was recently spotted at Mudumalai Tiger Reserve in Tamil Nadu during the winter season. This sighting underscores Mudumalai\u2019s significance as a key habitat for migratory birds of prey, offering open grasslands, forest edges, tall nesting trees, and abundant prey. The reserve, part of the Nilgiris Biosphere Reserve, supports diverse wildlife and helps maintain ecological balance as these top predators regulate small mammal populations. Increasing tourism pressure poses challenges, making sustainable management critical to protect both migratory and resident species in this ecologically sensitive area.",
+                "category": "State"
+            },
+            {
+                "id": 10,
+                "question": "In which state was the ICGS Samudra Pratap, India\u2019s first indigenously designed Pollution Control Vessel, commissioned?",
+                "options": [
+                    "Maharashtra",
+                    "Kerala",
+                    "Tamil Nadu",
+                    "Goa"
+                ],
+                "answer": "Goa",
+                "explanation": "The ICGS Samudra Pratap, India\u2019s first indigenous Pollution Control Vessel, was commissioned in Goa on January 5, 2026. Built by Goa Shipyard Limited, the vessel is equipped to handle marine pollution, oil spills, firefighting, and maritime emergencies while also supporting coastal patrols and long-duration surveillance. With over 60% indigenous content, it strengthens India\u2019s maritime self-reliance and environmental response capabilities. The ship\u2019s commissioning in Goa highlights the state\u2019s strategic role in India\u2019s maritime infrastructure, bolsters the Indian Coast Guard\u2019s operational readiness, and showcases the nation\u2019s commitment to protecting marine ecosystems and ensuring maritime security.",
+                "category": "State"
+            },
+            {
+                "id": 11,
+                "question": "Who was sworn in as the 24th Chief Justice of the Sikkim High Court on January 4, 2026?",
+                "options": [
+                    "Biswanath Somadder",
+                    "Om Prakash Mathur",
+                    "Justice A Muhamed Mustaque",
+                    "Prem Singh Tamang"
+                ],
+                "answer": "Justice A Muhamed Mustaque",
+                "explanation": "Justice A Muhamed Mustaque was appointed as the 24th Chief Justice of the Sikkim High Court and took oath on January 4, 2026, at Lok Bhawan, Sikkim, administered by Governor Om Prakash Mathur. Prior to this, he served as Acting Chief Justice of the Kerala High Court. His appointment ensures smooth judicial administration, continuity in the legal process, and effective handling of constitutional, civil, and criminal matters. Leadership transitions like this strengthen the credibility, independence, and efficiency of the higher judiciary in India while supporting institutional stability at the state level.",
+                "category": "State"
+            },
+            {
+                "id": 12,
+                "question": "At which institution has the PARAM SHAKTI supercomputing facility, powered by the PARAM RUDRA system, been launched?",
+                "options": [
+                    "IIT Bombay",
+                    "IISc Bangalore",
+                    "IIT Kanpur",
+                    "IIT Madras"
+                ],
+                "answer": "IIT Madras",
+                "explanation": "The PARAM SHAKTI supercomputing facility has been launched at IIT Madras, featuring the indigenous PARAM RUDRA system with a peak capacity of 3.1 petaflops. Built entirely in India under the National Supercomputing Mission, it will accelerate research in fields such as climate modelling, nuclear studies, aerospace engineering, and advanced drug discovery. The facility incorporates modern cooling, uninterrupted power supply, and open-source software to support high-performance computing tasks. Hosting PARAM SHAKTI at IIT Madras enables interdisciplinary research, strengthens India\u2019s computing ecosystem, and contributes to technological advancements aligned with initiatives like the IndiaAI Mission.",
+                "category": "State"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-12",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which space telescope confirmed the discovery of \u2018Cloud-9\u2019, a starless failed galaxy dominated by dark matter?",
+                "options": [
+                    "James Webb",
+                    "Spitzer",
+                    "Hubble",
+                    "Chandra"
+                ],
+                "answer": "Hubble",
+                "explanation": "The discovery of \u2018Cloud-9\u2019 was confirmed using NASA\u2019s Hubble Space Telescope, highlighting its continued importance in deep-space observations. Using its Advanced Camera for Surveys (ACS), Hubble detected a massive hydrogen cloud with no visible stars, making it the first known Reionization-Limited H I Cloud (RELHIC). This object is considered a primordial failed galaxy, offering crucial insights into how dark matter influences galaxy formation even in the absence of starlight. Hubble\u2019s precise imaging capabilities allowed scientists to study this structure located about 14 million light-years away near Messier-94.",
+                "category": "Technology"
+            },
+            {
+                "id": 2,
+                "question": "Which country conferred the Cavaliere dell\u2019Ordine della Stella d\u2019Italia on Goa-based industrialist Shrinivas Dempo?",
+                "options": [
+                    "France",
+                    "Spain",
+                    "Germany",
+                    "Italy"
+                ],
+                "answer": "Italy",
+                "explanation": "The Cavaliere dell\u2019Ordine della Stella d\u2019Italia is one of the highest civilian honours awarded by Italy to recognize exceptional contributions in promoting friendly relations and cooperation with the country. Shrinivas Dempo received this prestigious award for his long-standing efforts in strengthening ties between India and Italy through business, cultural exchange, and community support. The honour reflects Italy\u2019s emphasis on people-to-people diplomacy and the role of non-governmental actors in international relations. By recognizing an Indian industrialist, Italy highlighted the importance of grassroots engagement in enhancing bilateral cooperation beyond formal diplomatic channels.",
+                "category": "Technology"
+            },
+            {
+                "id": 3,
+                "question": "Who has been appointed as the Whole-Time Director of Kotak Mahindra Bank to oversee consumer banking, marketing, and data analytics from January 12, 2026?",
+                "options": [
+                    "Ashok Vaswani",
+                    "Anup Kumar Saha",
+                    "Uday Kotak",
+                    "Rajiv Sabharwal"
+                ],
+                "answer": "Anup Kumar Saha",
+                "explanation": "Kotak Mahindra Bank appointed Anup Kumar Saha as its Whole-Time Director as part of a strategic move to strengthen senior leadership amid rapid digital transformation in the banking sector. Effective from January 12, 2026, his role includes oversight of consumer banking, marketing, and data analytics\u2014key growth drivers for modern private banks. Saha brings prior experience from Bajaj Finance, where he worked extensively in consumer finance and data-driven operations. His appointment reflects the growing emphasis on analytics-led decision-making, customer-centric services, and digital innovation in India\u2019s evolving financial ecosystem.",
+                "category": "Technology"
+            },
+            {
+                "id": 4,
+                "question": "Which wildlife sanctuary has been renamed as Kerala\u2019s first butterfly sanctuary?",
+                "options": [
+                    "Silent Valley",
+                    "Periyar",
+                    "Aralam",
+                    "Wayanad"
+                ],
+                "answer": "Aralam",
+                "explanation": "Kerala has taken a significant step toward biodiversity and insect conservation by renaming the Aralam Wildlife Sanctuary as the Aralam Butterfly Sanctuary. This decision recognizes the region\u2019s exceptional diversity of butterfly species, supported by dense forests and favorable climatic conditions in the Western Ghats. Butterflies are vital pollinators and sensitive ecological indicators, making their conservation crucial for forest health. The new sanctuary status aims to protect fragile habitats, promote research, encourage eco-tourism, and involve local communities through awareness programs and sustainable livelihood initiatives, strengthening long-term ecological protection in northern Kerala.",
+                "category": "Technology"
+            },
+            {
+                "id": 5,
+                "question": "Which state appointed Justice Revati Mohite Dere as its first woman Chief Justice?",
+                "options": [
+                    "Meghalaya",
+                    "Kerala",
+                    "Maharashtra",
+                    "Assam"
+                ],
+                "answer": "Meghalaya",
+                "explanation": "Justice Revati Mohite Dere was sworn in as the first woman Chief Justice of the Meghalaya High Court, marking a historic milestone for the state\u2019s judiciary. The oath-taking ceremony took place in Shillong, the capital of Meghalaya, highlighting the constitutional importance of the event. Her appointment represents a significant step toward improving gender representation in higher judicial positions, especially in a matrilineal society where women\u2019s leadership in constitutional roles has remained limited. The development strengthens judicial leadership in Northeast India and reflects ongoing efforts to promote inclusivity, diversity, and balanced representation within India\u2019s judicial system.",
+                "category": "Technology"
+            },
+            {
+                "id": 6,
+                "question": "Where was the 9th Narco Coordination Centre (NCORD) meeting chaired by the Home Minister held?",
+                "options": [
+                    "New Delhi",
+                    "Mumbai",
+                    "Hyderabad",
+                    "Chandigarh"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The 9th meeting of the Narco Coordination Centre (NCORD) was chaired by the Union Home Minister as part of India\u2019s ongoing efforts to strengthen drug control and inter-agency coordination. NCORD functions as the primary platform for cooperation between central and state agencies in combating drug trafficking and abuse. The meeting took place in New Delhi, highlighting the capital\u2019s role as the administrative and decision-making hub of the country. Such high-level meetings are typically organized there to ensure effective policy discussion, coordination, and implementation under the Ministry of Home Affairs.",
+                "category": "Technology"
+            },
+            {
+                "id": 7,
+                "question": "Which city topped India\u2019s Women-Friendly Cities ranking in the TCWI 2025 list?",
+                "options": [
+                    "Bengaluru",
+                    "Chennai",
+                    "Pune",
+                    "Hyderabad"
+                ],
+                "answer": "Bengaluru",
+                "explanation": "The TCWI 2025 ranking assessed 125 Indian cities based on parameters related to social and industrial inclusion of women. Bengaluru secured the top position with the highest Composite Inclusion Score, reflecting its strong performance in areas such as workplace inclusion, safety systems, access to skilling opportunities, and career advancement support. The city\u2019s robust industrial ecosystem and progressive work culture have contributed to creating an enabling environment for women\u2019s participation in the workforce. While other cities like Chennai, Pune, and Hyderabad also performed well, Bengaluru emerged as the most women-friendly city in India for 2025.",
+                "category": "Technology"
+            },
+            {
+                "id": 8,
+                "question": "On which date is National Youth Day celebrated every year in India?",
+                "options": [
+                    "January 15",
+                    "January 12",
+                    "January 5",
+                    "January 23"
+                ],
+                "answer": "January 12",
+                "explanation": "National Youth Day is observed annually across India to honour the birth anniversary of Swami Vivekananda, one of the country\u2019s most influential spiritual leaders and youth icons. The day is celebrated on January 12 to commemorate his enduring ideals of character building, leadership, discipline, and service to humanity. Recognizing the inspirational power of his teachings, the Government of India officially declared this date as National Youth Day in 1984. The occasion serves as a platform to motivate young citizens to actively participate in nation-building and align their aspirations with the broader goals of social and national development.",
+                "category": "Technology"
+            },
+            {
+                "id": 9,
+                "question": "Which country hosted the G7 Critical Minerals Ministerial Meeting attended by Union Minister Ashwini Vaishnaw?",
+                "options": [
+                    "Canada",
+                    "United States",
+                    "Germany",
+                    "Japan"
+                ],
+                "answer": "United States",
+                "explanation": "The G7 Critical Minerals Ministerial Meeting was held in Washington DC, which is the capital of the United States. The meeting brought together ministers from G7 nations to discuss strategies for securing and strengthening global supply chains of critical and strategic minerals, which are essential for clean energy, technology, and industrial growth. Union Minister Ashwini Vaishnaw represented India at this important forum and highlighted the significance of resilient critical minerals supply chains in achieving the vision of Viksit Bharat. The United States, as a major G7 member, hosted the meeting to facilitate global coordination on this issue.",
+                "category": "Technology"
+            },
+            {
+                "id": 10,
+                "question": "By which year is global copper demand projected to rise nearly 50% due to technological advancements?",
+                "options": [
+                    "2030",
+                    "2035",
+                    "2025",
+                    "2040"
+                ],
+                "answer": "2040",
+                "explanation": "Global copper demand is expected to increase significantly as copper plays a vital role in modern technologies. Rapid growth in artificial intelligence, clean energy systems such as electric vehicles and renewable power infrastructure, and defence-related manufacturing has increased reliance on copper because of its excellent electrical and thermal conductivity. These sectors require large quantities of copper for wiring, motors, batteries, and electronic components. As a result, projections indicate that by the year 2040, global copper demand could rise by nearly 50%, making it one of the most strategically important industrial metals for future economic growth.",
+                "category": "Technology"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-13",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which country has unveiled the official logo and website for the BRICS Presidency 2026?",
+                "options": [
+                    "Brazil",
+                    "Russia",
+                    "China",
+                    "India"
+                ],
+                "answer": "India",
+                "explanation": "India has officially launched the logo and dedicated website for its BRICS Presidency 2026, marking the beginning of preparations for assuming the chairship. The announcement was made by External Affairs Minister S. Jaishankar, who highlighted the presidency\u2019s focus on resilience, innovation, cooperation, and sustainability. The initiative reflects a people-centric and inclusive vision aimed at strengthening collaboration among emerging economies. With BRICS completing 20 years in 2026, India\u2019s leadership seeks to promote shared development, enhance digital engagement through a central platform, and position the grouping as a key forum for addressing global challenges faced by the Global South.",
+                "category": "International"
+            },
+            {
+                "id": 2,
+                "question": "On which national highway economic corridor did NHAI set four Guinness World Records for bituminous paving achievements?",
+                "options": [
+                    "NH-544G",
+                    "NH-48",
+                    "NH-16",
+                    "NH-44"
+                ],
+                "answer": "NH-544G",
+                "explanation": "The National Highways Authority of India achieved a major milestone by setting four Guinness World Records for bituminous paving on the NH-544G economic corridor connecting Bengaluru, Kadapa, and Vijayawada. The records included laying 28.89 lane-kilometres of pavement and using 10,655 metric tonnes of bitumen within 24 hours near Puttaparthi in Andhra Pradesh on January 6, 2026. A second record followed on January 11, 2026, with 57,500 metric tonnes of bitumen and 156 lane-kilometres of paving completed, surpassing previous global benchmarks and highlighting India\u2019s growing infrastructure execution capabilities.",
+                "category": "International"
+            },
+            {
+                "id": 3,
+                "question": "Which country strengthened its strategic partnership with India through a Joint Statement issued during Chancellor Friedrich Merz\u2019s first official visit in January 2026?",
+                "options": [
+                    "France",
+                    "Japan",
+                    "Germany",
+                    "Australia"
+                ],
+                "answer": "Germany",
+                "explanation": "India and Germany reinforced their long-standing strategic partnership through the India\u2013Germany Joint Statement 2026 issued during the official visit of German Chancellor Friedrich Merz. The visit focused on expanding cooperation across defence, trade, technology, climate action, and global security. Germany committed to deeper defence collaboration, participation in major military exercises, and enhanced defence manufacturing partnerships. Economic ties were further strengthened with growing bilateral trade and investment, while cooperation in green development, digital technologies, and critical emerging sectors such as semiconductors and space research was emphasised. The partnership reflects shared democratic values and a joint commitment to a rules-based global order.",
+                "category": "International"
+            },
+            {
+                "id": 4,
+                "question": "Which country will host the 28th Conference of Speakers and Presiding Officers of the Commonwealth (CSPOC) in January 2026?",
+                "options": [
+                    "United Kingdom",
+                    "Australia",
+                    "India",
+                    "Canada"
+                ],
+                "answer": "India",
+                "explanation": "India will host the 28th CSPOC in New Delhi from 15\u201316 January 2026, bringing together Speakers and Presiding Officers from over 60 Commonwealth nations. The conference aims to promote knowledge-sharing, strengthen parliamentary institutions, and enhance understanding of diverse democratic practices. Prime Minister Narendra Modi will inaugurate the event at the historic Samvidhan Sadan, reflecting India\u2019s constitutional legacy. Chaired by Lok Sabha Speaker Om Birla, the sessions will focus on contemporary issues such as the use of AI in Parliament, social media impact, and legislative efficiency. Hosting CSPOC reinforces India\u2019s position as the world\u2019s largest democracy and a leader in parliamentary values.",
+                "category": "International"
+            },
+            {
+                "id": 5,
+                "question": "Which city hosted the 5th Tri-Services Veterans Day parade at Marine Drive?",
+                "options": [
+                    "New Delhi",
+                    "Mumbai",
+                    "Chennai",
+                    "Kolkata"
+                ],
+                "answer": "Mumbai",
+                "explanation": "The 5th Tri-Services Veterans Day parade was organised at Marine Drive and witnessed the participation of over 500 veterans, including gallantry award recipients. The event was flagged off by Vice Admiral Krishna Swaminathan and attended by senior officers from the Army, Navy, and Air Force. Mumbai is notable for being the only city in India to host a city-level Veterans Day parade. The parade commemorates the retirement of Field Marshal K. M. Cariappa in 1953, honouring the contributions and sacrifices of veterans across the three services.",
+                "category": "International"
+            },
+            {
+                "id": 6,
+                "question": "Which company has launched the \u2018Shakti\u2019 home battery energy storage system, marking its entry into India\u2019s residential BESS market?",
+                "options": [
+                    "Tata Power",
+                    "Ola",
+                    "Reliance",
+                    "Bosch"
+                ],
+                "answer": "Ola",
+                "explanation": "Ola Electric has expanded its operations beyond electric vehicles by launching the \u2018Shakti\u2019 home battery energy storage system (BESS), manufactured at its Krishnagiri Gigafactory in Tamil Nadu. The system provides reliable power backup for homes, farms, and small businesses, supports fast charging, and comes in multiple configurations to meet varied energy needs. With IP67-rated batteries and support for appliances like air conditioners and farm pumps, Shakti addresses India\u2019s growing demand for decentralised and clean energy solutions. This launch positions Ola as a key player in India\u2019s residential energy storage market and contributes to the country\u2019s clean energy transition.",
+                "category": "International"
+            },
+            {
+                "id": 7,
+                "question": "Which Indian state has launched the ERONET system to facilitate online verification for NRI voters?",
+                "options": [
+                    "Tamil Nadu",
+                    "Karnataka",
+                    "Andhra Pradesh",
+                    "Kerala"
+                ],
+                "answer": "Kerala",
+                "explanation": "Kerala has launched the ERONET system to simplify the voter verification process for Non-Resident Indians under the Special Intensive Revision of electoral rolls. Through this digital platform, NRI voters can submit necessary documents online without attending hearings in person, making the process more accessible and efficient. Kerala\u2019s Chief Electoral Officer highlighted that the initiative reduces procedural barriers, speeds up electoral roll corrections, and encourages greater participation of overseas voters. This move reflects Kerala\u2019s continued focus on leveraging technology to strengthen democratic processes and improve the overall efficiency of election administration.",
+                "category": "International"
+            },
+            {
+                "id": 8,
+                "question": "In which location did the 5th LG Cup Ice Hockey Tournament begin at the Biamathang rink?",
+                "options": [
+                    "Leh",
+                    "Drass",
+                    "Kargil",
+                    "Nubra"
+                ],
+                "answer": "Kargil",
+                "explanation": "The 5th LG Cup Ice Hockey Tournament commenced at the Biamathang rink in Kargil, marking an important sporting event in the Ladakh region. The opening match featured Drass Warriors competing against the Indian Army team. The tournament includes participation from ten men\u2019s teams and five women\u2019s teams drawn from different parts of Ladakh, highlighting the growing popularity of ice hockey in the region. Organised by the Department of Youth Services and Sports, UT Ladakh, the event is also being live-streamed through Akashvani Kargil\u2019s YouTube channel, ensuring wider public engagement and visibility.",
+                "category": "International"
+            },
+            {
+                "id": 9,
+                "question": "In which city will the Uttar Pradesh Regional AI Impact Conference 2026 be held on 12\u201313 January 2026?",
+                "options": [
+                    "Lucknow",
+                    "Kanpur",
+                    "Varanasi",
+                    "Prayagraj"
+                ],
+                "answer": "Lucknow",
+                "explanation": "The Uttar Pradesh Regional AI Impact Conference 2026 is scheduled to be organised in Lucknow, the capital city of Uttar Pradesh. The event is being jointly hosted by IndiaAI, the Ministry of Electronics and Information Technology (MeitY), and the Government of Uttar Pradesh. It is part of a national series of eight Regional AI Impact Conferences conducted under the IndiaAI framework. The conference will serve as an official precursor to the IndiaAI Impact Summit 2026, which will take place later in New Delhi, highlighting Lucknow\u2019s importance in India\u2019s growing artificial intelligence ecosystem.",
+                "category": "International"
+            },
+            {
+                "id": 10,
+                "question": "Which company announced the launch of a people-first artificial intelligence platform aimed at providing AI services in local languages and on personal devices?",
+                "options": [
+                    "Jio",
+                    "Tata Group",
+                    "Infosys",
+                    "Wipro"
+                ],
+                "answer": "Jio",
+                "explanation": "Jio has announced plans to launch a people-first artificial intelligence platform designed to make AI accessible, affordable, and inclusive for citizens. The platform will be built in India with the objective of enabling users to access AI services in their own languages and on their personal devices. To support this initiative, Jio is developing India\u2019s largest AI-ready data centre in Jamnagar, Gujarat, which will provide the necessary infrastructure for large-scale deployment. The initiative reflects a broader vision of digital inclusion, productivity enhancement, and positioning India as a global leader in artificial intelligence innovation.",
+                "category": "International"
+            },
+            {
+                "id": 11,
+                "question": "In which Indian state was the Man Portable Anti-Tank Guided Missile (MPATGM) successfully flight-tested by DRDO?",
+                "options": [
+                    "Rajasthan",
+                    "Maharashtra",
+                    "Gujarat",
+                    "Odisha"
+                ],
+                "answer": "Maharashtra",
+                "explanation": "The Man Portable Anti-Tank Guided Missile (MPATGM), developed by the Defence Research and Development Organisation (DRDO), was successfully flight-tested at the KK Ranges located in Maharashtra. This advanced third-generation missile features a fire-and-forget capability, an Imaging Infrared (IIR) seeker, and a tandem warhead designed to defeat modern armored battle tanks. The test validated its performance against moving targets during both day and night conditions. With Bharat Dynamics Limited and Bharat Electronics Limited as production partners, the missile system has now been cleared for induction into the Indian Army, strengthening India\u2019s indigenous defence capabilities.",
+                "category": "International"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-14",
+        "questions": [
+            {
+                "id": 1,
+                "question": "In which state are 65 Data and AI Labs planned under the partnership between IndiaAI and UPDESCO?",
+                "options": [
+                    "Madhya Pradesh",
+                    "Uttar Pradesh",
+                    "Rajasthan",
+                    "Bihar"
+                ],
+                "answer": "Uttar Pradesh",
+                "explanation": "The partnership between Digital India Corporation\u2019s IndiaAI initiative and Uttar Pradesh Development Systems Corporation Limited aims to significantly strengthen the artificial intelligence ecosystem within Uttar Pradesh. As part of this collaboration, 65 Data and AI Labs are planned across the state to provide AI-ready infrastructure, skill development opportunities, and hands-on experiential learning. The initiative supports digital inclusion by making advanced technology accessible to a wider population and is aligned with the IndiaAI Mission. It also positions Uttar Pradesh as an emerging hub for AI innovation, research, and talent development at the national level.",
+                "category": "Technology"
+            },
+            {
+                "id": 2,
+                "question": "Which country signed 19 strategic agreements with India to strengthen cooperation in defence, technology and critical minerals?",
+                "options": [
+                    "Germany",
+                    "France",
+                    "Japan",
+                    "United Kingdom"
+                ],
+                "answer": "Germany",
+                "explanation": "Germany partnered with India by signing 19 strategic agreements aimed at expanding cooperation across defence manufacturing, advanced technology, semiconductors, critical minerals, and trade. These agreements were finalized following high-level discussions between Prime Minister Narendra Modi and German Chancellor Friedrich Merz. The partnership focuses on co-development and co-production in defence, strengthening supply chains, and boosting innovation-led economic growth. Additional areas include digitalisation, telecommunications, health, and the bio-economy. The collaboration also reflects deepening trust between the two nations, supported by strong trade ties, growing industrial presence, and enhanced people-to-people mobility.",
+                "category": "Technology"
+            },
+            {
+                "id": 3,
+                "question": "In which city did the India Open Badminton Super 750 tournament begin in 2026?",
+                "options": [
+                    "Mumbai",
+                    "Bengaluru",
+                    "Hyderabad",
+                    "New Delhi"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The India Open Badminton Super 750 tournament commenced at the Indira Gandhi Indoor Stadium, a major sporting venue located in New Delhi. The event marked an important return for several Indian shuttlers, including PV Sindhu, who led the national campaign after recovering from injury. Alongside her, emerging players and experienced athletes competed across singles and doubles categories. The tournament also served as crucial preparation for the upcoming BWF World Championships, which are scheduled to be held at the same venue, making New Delhi a central hub for international badminton during this period.",
+                "category": "Technology"
+            },
+            {
+                "id": 4,
+                "question": "Which country will co-chair the 16th ADMM-Plus Experts\u2019 Working Group on Counter Terrorism along with India?",
+                "options": [
+                    "Indonesia",
+                    "Thailand",
+                    "Malaysia",
+                    "Vietnam"
+                ],
+                "answer": "Malaysia",
+                "explanation": "The 16th ADMM-Plus Experts\u2019 Working Group on Counter Terrorism is being co-chaired by India and Malaysia, highlighting strong defence cooperation between the two nations. The meeting is scheduled to take place in New Delhi from January 14 to 16, 2026, and will involve ASEAN member states along with dialogue partner countries. Discussions during the event will focus on reviewing ongoing initiatives and planning future activities aimed at strengthening multilateral counter-terrorism cooperation. As part of the agreed roadmap, Malaysia will host a Table Top Exercise in 2026, followed by a Field Training Exercise hosted by India in 2027.",
+                "category": "Technology"
+            },
+            {
+                "id": 5,
+                "question": "Which organization launched the Bengaluru Centre of Excellence featuring one of India\u2019s first Single-Day Facial Architecture for advanced aesthetic care?",
+                "options": [
+                    "VCare",
+                    "DermaPlus",
+                    "SkinNova",
+                    "AestheticOne"
+                ],
+                "answer": "VCare",
+                "explanation": "VCare launched the Bengaluru Centre of Excellence to introduce a breakthrough approach in aesthetic care through its Single-Day Facial Architecture. The centre brings together a Korean-inspired treatment protocol that integrates seven advanced laser technologies using a 3D methodology. This innovation is designed to deliver visible improvements starting from the first day, with sustained results over a 90-day period. The initiative is led by founder E Carolin Praba and aligns with the brand\u2019s broader vision of expanding its network of over 80 clinics across major cities, including Bengaluru and Hyderabad.",
+                "category": "Technology"
+            },
+            {
+                "id": 6,
+                "question": "At which institution was the Drug Free Campus Campaign inaugurated by the Vice-President of India?",
+                "options": [
+                    "Delhi University",
+                    "Jawaharlal Nehru University",
+                    "Banaras Hindu University",
+                    "Aligarh Muslim University"
+                ],
+                "answer": "Delhi University",
+                "explanation": "The Drug Free Campus Campaign was launched at Delhi University by Vice-President C. P. Radhakrishnan as part of a national effort to promote substance-free educational environments. Along with the campaign, an e-pledge portal and a mobile application under the Nasha Mukt Parisar Abhiyaan were introduced to encourage participation from students and institutions. The initiative is designed to be extended across all Central Higher Educational Institutions and aligns with broader national programs such as the MY Bharat Portal and the PM Anusandhan Yojana, supporting responsible youth development, nation-building, and innovation.",
+                "category": "Technology"
+            },
+            {
+                "id": 7,
+                "question": "Where was the \u20b940-crore DST\u2013NIDHI Centre of Excellence established to support deep-tech startups in India?",
+                "options": [
+                    "IIT Delhi",
+                    "IIM Ahmedabad",
+                    "IISc Bengaluru",
+                    "NIT Trichy"
+                ],
+                "answer": "IIM Ahmedabad",
+                "explanation": "IIM Ahmedabad is the institution where the \u20b940-crore DST\u2013NIDHI Centre of Excellence was inaugurated to strengthen India\u2019s deep-tech startup ecosystem. The large 59,000 sq ft facility is designed to function as a national hub that supports technology translation, venture creation, and collaboration among scientists, management professionals, and industry leaders. The initiative also introduced \u201cTranslation Endeavours,\u201d a platform aimed at connecting academia, investors, and government bodies to accelerate the commercialisation of indigenous innovations. This development highlights IIM Ahmedabad\u2019s growing role in fostering innovation-led entrepreneurship and advanced research-driven enterprises.",
+                "category": "Technology"
+            },
+            {
+                "id": 8,
+                "question": "Which Australian women\u2019s cricketer announced her retirement from all forms of international cricket after the upcoming home series against India in 2026?",
+                "options": [
+                    "Meg Lanning",
+                    "Alyssa Healy",
+                    "Ellyse Perry",
+                    "Beth Mooney"
+                ],
+                "answer": "Alyssa Healy",
+                "explanation": "Alyssa Healy announced her decision to retire from all formats of international cricket following the home series against India scheduled for February\u2013March 2026. One of the most influential wicketkeeper-batters in women\u2019s cricket, she enjoyed a distinguished career marked by aggressive batting, record-breaking dismissals, and leadership success. Healy captained Australia after Meg Lanning\u2019s retirement and led the team through several major tournaments. Her career includes multiple ICC World Cup victories across ODI and T20 formats, individual awards, and a lasting impact on redefining the role of a wicketkeeper-batter in modern women\u2019s cricket.",
+                "category": "Technology"
+            },
+            {
+                "id": 9,
+                "question": "In which state was the foundation stone laid for the BSL-4 Biocontainment Facility by the Union Home Minister?",
+                "options": [
+                    "Maharashtra",
+                    "Karnataka",
+                    "Gujarat",
+                    "Telangana"
+                ],
+                "answer": "Gujarat",
+                "explanation": "The BSL-4 Biocontainment Facility is being developed at the Gujarat Biotechnology Research Centre in Gandhinagar, where the foundation stone was laid by Union Home Minister Amit Shah. This advanced laboratory will become India\u2019s second-largest BSL-4 facility after Pune and is expected to play a major role in strengthening national health security. It will also support high-end research in areas such as antimicrobial resistance. The initiative aligns with India\u2019s rapidly expanding bioeconomy, which has seen substantial growth over the last decade due to innovation, startups, incubators, and increased patent activity.",
+                "category": "Technology"
+            },
+            {
+                "id": 10,
+                "question": "What is India\u2019s global ranking in the Henley Passport Index 2026?",
+                "options": [
+                    "75th",
+                    "78th",
+                    "85th",
+                    "80th"
+                ],
+                "answer": "80th",
+                "explanation": "India is placed at the 80th position in the Henley Passport Index 2026, which evaluates passport strength based on the number of destinations accessible without a prior visa. Indian passport holders currently have visa-free, visa-on-arrival, or e-visa access to 55 destinations, reflecting a modest improvement compared to the previous year. Despite this progress, significant travel restrictions remain for regions such as Europe and North America. The ranking highlights disparities in global mobility, especially within South Asia, and underscores the influence of diplomatic relations, stability, and international agreements on travel freedom.",
+                "category": "Technology"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-15",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which states topped NITI Aayog\u2019s Export Preparedness Index 2024 among large states?",
+                "options": [
+                    "Maharashtra and Tamil Nadu",
+                    "Gujarat and Andhra Pradesh",
+                    "Uttar Pradesh and Karnataka",
+                    "Kerala and Punjab"
+                ],
+                "answer": "Maharashtra and Tamil Nadu",
+                "explanation": "Maharashtra and Tamil Nadu emerged as the top performers among large states in NITI Aayog\u2019s Export Preparedness Index 2024. The index evaluates states\u2019 export readiness based on infrastructure, business ecosystem, policy and governance, and export performance. Maharashtra ranked first, followed by Tamil Nadu and Gujarat, reflecting their strong trade infrastructure, supportive business environment, effective policy implementation, and robust export outcomes. By highlighting state-level strengths and gaps, the index guides policy decisions and promotes peer learning, aiming to enhance India\u2019s overall competitiveness in global trade through targeted export strategies and regional economic planning.",
+                "category": "State"
+            },
+            {
+                "id": 2,
+                "question": "Which Indian state\u2019s regional rural bank launched the country\u2019s first fully solar-powered ATM van?",
+                "options": [
+                    "Assam",
+                    "Tripura",
+                    "Meghalaya",
+                    "Manipur"
+                ],
+                "answer": "Tripura",
+                "explanation": "Tripura Gramin Bank introduced India\u2019s first fully solar-powered ATM van, named \u2018TGB on Wheels\u2019, in January 2026. This innovative mobile banking solution provides uninterrupted ATM and basic banking services to rural and remote areas, especially where electricity supply is unreliable. The initiative, supported by NABARD, aligns with India\u2019s sustainability goals by eliminating dependence on grid electricity or diesel generators. By combining financial inclusion with eco-friendly technology, the solar-powered ATM van enhances accessibility, reliability, and convenience for rural communities while promoting green banking practices and cost-efficient service delivery.",
+                "category": "State"
+            },
+            {
+                "id": 3,
+                "question": "Which Indian personality became the first to be inducted into the Japanese samurai martial art of Kenjutsu?",
+                "options": [
+                    "Pawan Kalyan",
+                    "Prabhas",
+                    "Mahesh Babu",
+                    "Allu Arjun"
+                ],
+                "answer": "Pawan Kalyan",
+                "explanation": "Pawan Kalyan, the Deputy Chief Minister of Andhra Pradesh, became the first Indian to be formally inducted into Kenjutsu, an ancient Japanese samurai swordsmanship tradition. This rare honour is traditionally reserved for Japanese practitioners and recognises mastery in discipline, precision, and ethical conduct. His induction highlights India\u2019s growing engagement with global martial arts and cultural traditions. Beyond technical skill, it reflects acceptance into a centuries-old lineage, showcasing dedication to martial arts, personal growth, and cross-cultural respect. Kalyan\u2019s achievement also strengthens India-Japan cultural ties and places him among an elite group of non-Japanese practitioners worldwide.",
+                "category": "State"
+            },
+            {
+                "id": 4,
+                "question": "Which Indian city will host the 9th International Spice Conference scheduled for February 2026?",
+                "options": [
+                    "Kochi",
+                    "Chennai",
+                    "Bengaluru",
+                    "Mumbai"
+                ],
+                "answer": "Kochi",
+                "explanation": "Kochi has been selected as the host city for the 9th International Spice Conference to be held from February 23 to 26, 2026. Known as India\u2019s spice capital, the city holds historical significance in the global spice trade and continues to play a vital role in spice exports. The conference, organised by the All India Spices Exporters Forum, will bring together policymakers, exporters, scientists and industry leaders from across the world. Discussions will centre on innovation, sustainability, climate risks, trade disruptions and building resilient supply chains to prepare the global spice industry for future challenges.",
+                "category": "State"
+            },
+            {
+                "id": 5,
+                "question": "Which country announced its withdrawal from seven United Nations agencies citing political bias and inefficiency?",
+                "options": [
+                    "Iran",
+                    "Turkey",
+                    "Russia",
+                    "Israel"
+                ],
+                "answer": "Israel",
+                "explanation": "Israel announced its decision to withdraw from seven United Nations agencies after conducting an internal review of its multilateral engagements. The move was driven by concerns over alleged political bias, repeated hostile positions, and bureaucratic inefficiency within certain UN bodies. The announcement was made by Foreign Minister Gideon Sa\u2019ar in January 2026 and reflects a shift toward more selective participation in international forums. Israel had already disengaged from some agencies earlier, including UN Women and offices linked to armed conflict issues, and plans to reassess or exit additional UN-affiliated organisations in the future.",
+                "category": "State"
+            },
+            {
+                "id": 6,
+                "question": "What was India\u2019s Wholesale Price Index (WPI) inflation rate in December 2025?",
+                "options": [
+                    "0.71%",
+                    "1.33%",
+                    "0.83%",
+                    "2.57%"
+                ],
+                "answer": "0.83%",
+                "explanation": "India\u2019s wholesale price inflation recorded a marginal rise to 0.83% in December 2025, marking a return to positive territory after two consecutive months of deflation. This increase was driven mainly by higher prices of manufactured goods, non-food articles, and certain raw materials. While food and fuel categories continued to remain in deflation, the intensity of price decline reduced significantly, supporting the overall upward movement. The data reflects stabilising input costs and improving demand conditions in the economy, even as inflation levels remained much lower compared to the same period in the previous year.",
+                "category": "State"
+            },
+            {
+                "id": 7,
+                "question": "Who has been appointed as the Global CEO of TVS Supply Chain Solutions effective January 22, 2026?",
+                "options": [
+                    "Ravi Viswanathan",
+                    "Vikas Chadha",
+                    "Nitin Gokhale",
+                    "Arvind Krishna"
+                ],
+                "answer": "Vikas Chadha",
+                "explanation": "Vikas Chadha has been appointed as the Global CEO of TVS Supply Chain Solutions starting January 22, 2026, as part of a structured succession plan. The transition follows the upcoming retirement of Managing Director Ravi Viswanathan in FY 2026\u201327. Chadha brings extensive international experience, having previously served as CEO of Jumbo Electronics in Dubai, and is expected to strengthen TVS SCS\u2019s global operations. This leadership change ensures strategic continuity, smooth overlap with existing management, and reinforces investor confidence while positioning the company for growth in the evolving global logistics and supply chain sector.",
+                "category": "State"
+            },
+            {
+                "id": 8,
+                "question": "Which village panchayat in Rajasthan has been declared the state\u2019s first fully organic village body?",
+                "options": [
+                    "Khuri",
+                    "Bamanwas Kankar",
+                    "Mandawa",
+                    "Barmer"
+                ],
+                "answer": "Bamanwas Kankar",
+                "explanation": "Bamanwas Kankar Panchayat has achieved the distinction of becoming Rajasthan\u2019s first fully organic village body by completely adopting chemical-free farming practices across its seven hamlets. Farmers in the village have stopped using synthetic fertilizers, pesticides, and genetically modified inputs, relying instead on natural manure, compost, crop rotation, and biological pest control. This collective transition highlights strong community participation and effective implementation of sustainable agricultural methods. The achievement is especially significant given Rajasthan\u2019s challenging agro-climatic conditions, demonstrating that organic farming can improve soil health, support sustainable livelihoods, and align with national climate and organic farming goals.",
+                "category": "State"
+            },
+            {
+                "id": 9,
+                "question": "On which date is Indian Army Day celebrated every year?",
+                "options": [
+                    "January 14",
+                    "January 16",
+                    "January 12",
+                    "January 15"
+                ],
+                "answer": "January 15",
+                "explanation": "Indian Army Day is observed annually on January 15 to honour the bravery, discipline, and sacrifice of India\u2019s soldiers. The date marks the historic occasion in 1949 when Gen K. M. Cariappa took over as the first Indian Commander-in-Chief of the Indian Army, symbolizing India\u2019s complete control over its armed forces after Independence. The day is celebrated with parades, exhibitions, and ceremonies across the country, highlighting the Army\u2019s role in national security, disaster response, and peacekeeping. Indian Army Day 2026 is particularly notable as the parade is being held in Jaipur\u2019s public area for the first time outside a cantonment.",
+                "category": "State"
+            },
+            {
+                "id": 10,
+                "question": "What is the name of the optional health insurance scheme recently launched for CGHS beneficiaries?",
+                "options": [
+                    "Ayushman Bharat",
+                    "CGHS Health Plus",
+                    "Paripoorna Mediclaim Ayush Bima",
+                    "New India Health Cover"
+                ],
+                "answer": "Paripoorna Mediclaim Ayush Bima",
+                "explanation": "Paripoorna Mediclaim Ayush Bima is an optional health insurance scheme launched by the Finance Ministry for beneficiaries of the Central Government Health Scheme (CGHS). The policy, offered by New India Assurance, provides coverage of \u20b910\u201320 lakh with flexible co-payment options, discounted premiums, and comprehensive hospitalisation benefits. It complements existing CGHS provisions, covering pre- and post-hospitalisation expenses, and includes cumulative bonuses for claim-free years. By combining affordability, flexibility, and financial protection, the scheme enhances access to quality healthcare for central government employees and pensioners while promoting risk mitigation against rising medical costs.",
+                "category": "State"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-16",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which airline became the Associate Sponsor and Official Global Airline Partner of the Mumbai Indians to expand its global and Indian presence?",
+                "options": [
+                    "Air India",
+                    "Malaysia Airlines",
+                    "Singapore Airlines",
+                    "Emirates"
+                ],
+                "answer": "Malaysia Airlines",
+                "explanation": "Malaysia Airlines partnered with the Mumbai Indians as their Associate Sponsor and Official Global Airline Partner to strengthen its brand presence in India and international markets. The collaboration was launched with a symbolic release of 100 Wau Bulan kites in Mumbai during Makar Sankranti. By partnering with a franchise that has over 55 million fans, Malaysia Airlines aims to enhance its hospitality offerings, engage diverse audiences, and leverage the global appeal of the Indian Premier League to boost its brand visibility and market reach.",
+                "category": "Business"
+            },
+            {
+                "id": 2,
+                "question": "What is the World Bank\u2019s revised GDP growth forecast for India in FY26?",
+                "options": [
+                    "6.3%",
+                    "6.5%",
+                    "7.2%",
+                    "7.5%"
+                ],
+                "answer": "7.2%",
+                "explanation": "The World Bank has revised India\u2019s GDP growth projection upward to 7.2% for FY26, up from an earlier estimate of 6.3% in June 2025. This revision reflects strong domestic demand, robust private consumption, and the positive impact of tax reforms that have improved disposable incomes, particularly in rural areas. Despite global uncertainties, including US tariffs on imports, India is expected to remain the fastest-growing major economy in FY26. The growth moderation to 6.5% is projected only for FY27, making 7.2% the accurate forecast for the current fiscal year.",
+                "category": "Business"
+            },
+            {
+                "id": 3,
+                "question": "Which state\u2019s Similipal National Park recorded a rise in crocodile population in the latest census?",
+                "options": [
+                    "Odisha",
+                    "West Bengal",
+                    "Andhra Pradesh",
+                    "Chhattisgarh"
+                ],
+                "answer": "Odisha",
+                "explanation": "Similipal National Park, located in Odisha, recorded an increase in its crocodile population from 81 to 84 during the census conducted from January 5 to 8. The survey covered 20 locations across eight major water bodies, with the Deo River alone accounting for 60 crocodiles. This growth is attributed to sustained conservation efforts, including hatchling releases from the Ramatirtha breeding centre. The rise reflects the effectiveness of targeted wildlife management strategies and highlights Odisha\u2019s commitment to preserving and enhancing biodiversity in its protected areas.",
+                "category": "Business"
+            },
+            {
+                "id": 4,
+                "question": "Where was the 28th Conference of Speakers and Presiding Officers of Commonwealth countries held?",
+                "options": [
+                    "Mumbai",
+                    "Bengaluru",
+                    "New Delhi",
+                    "Chennai"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The 28th CSPOC Conference, bringing together Speakers and Presiding Officers from over 60 Commonwealth countries, was held in New Delhi. Chaired by Lok Sabha Speaker Om\u202fBirla, the conference focused on strengthening parliamentary democracy and institutional development. Key sessions addressed the use of artificial intelligence in parliamentary processes, the impact of social media on governance, public engagement strategies, and the well-being of MPs. Hosting the event in India\u2019s capital underscored the country\u2019s role in fostering international parliamentary collaboration and showcased its commitment to democratic practices and legislative innovation.",
+                "category": "Business"
+            },
+            {
+                "id": 5,
+                "question": "In which country did Aritra Roy summit Mount Aconcagua?",
+                "options": [
+                    "Nepal",
+                    "Chile",
+                    "Bolivia",
+                    "Argentina"
+                ],
+                "answer": "Argentina",
+                "explanation": "Mount Aconcagua, the highest peak outside Asia at 6,967 metres, is located in Argentina. HAL-sponsored mountaineer Aritra Roy achieved a significant milestone by summiting this peak on January 7, 2026, after completing a challenging 44-km solo climb in extreme conditions, including \u221240\u00b0C temperatures, blizzards, and snowstorms. This ascent is part of Roy\u2019s ongoing Seven Summits challenge, which follows his earlier climb of Mount Everest. His accomplishment highlights extraordinary endurance, technical skill, and resilience, reinforcing India\u2019s presence in global mountaineering achievements.",
+                "category": "Business"
+            },
+            {
+                "id": 6,
+                "question": "On which date is National Startup Day 2026 observed in India?",
+                "options": [
+                    "January 16",
+                    "January 15",
+                    "January 14",
+                    "January 17"
+                ],
+                "answer": "January 16",
+                "explanation": "National Startup Day 2026 is observed on January 16, marking a decade of the Startup India Initiative launched in 2016. This day celebrates India\u2019s transformation into one of the world\u2019s largest startup ecosystems, highlighting innovation, entrepreneurship, and inclusive economic growth. Over the last ten years, startups have significantly contributed to employment, technological advancement, and regional development, with increasing participation from women and Tier II/III cities. The celebration reflects the government\u2019s continued support for innovation-led growth, including flagship schemes like the Fund of Funds for Startups, Startup India Seed Fund, and mentorship platforms that strengthen India\u2019s entrepreneurial ecosystem.",
+                "category": "Business"
+            },
+            {
+                "id": 7,
+                "question": "Who has been appointed as the new Director General of the National Investigation Agency (NIA) until August 31, 2028?",
+                "options": [
+                    "Shatrujeet Singh Kapoor",
+                    "Rakesh Aggarwal",
+                    "Praveen Kumar",
+                    "Ajay Kumar"
+                ],
+                "answer": "Rakesh Aggarwal",
+                "explanation": "Senior IPS officer Rakesh Aggarwal, a 1994-batch officer of the Himachal Pradesh cadre, has been appointed as the Director General of the National Investigation Agency (NIA) with tenure approved until his retirement on August 31, 2028. Prior to this, he served as Special Director General in the NIA and was holding additional charge as DG. His appointment, approved by the Appointments Committee of the Cabinet, ensures continuity in leadership at India\u2019s premier counter-terrorism body. Aggarwal\u2019s extensive experience in counter-terrorism will strengthen operational efficiency, inter-agency coordination, and the prosecution of terror-related cases nationwide.",
+                "category": "Business"
+            },
+            {
+                "id": 8,
+                "question": "Which Indian state is set to launch the country\u2019s first chronic kidney disease (CKD) patient registry?",
+                "options": [
+                    "Kerala",
+                    "Odisha",
+                    "Maharashtra",
+                    "Karnataka"
+                ],
+                "answer": "Odisha",
+                "explanation": "Odisha is preparing to roll out India\u2019s first state-wide CKD patient registry by March 31. This initiative aims to systematically track chronic kidney disease prevalence and enable targeted healthcare interventions. A dedicated task force, supported by AIIMS, ICMR, and NIC, will ensure reporting across health facilities, from primary health centres to medical colleges. The move is critical given that the state recorded nearly 19,900 CKD cases and 4,718 deaths over three years, with diabetes and hypertension contributing to 60% of cases. The registry will strengthen disease monitoring, policy planning, and preventive care strategies in the region.",
+                "category": "Business"
+            },
+            {
+                "id": 9,
+                "question": "Which bank won the IBA Banking Technology Award 2026 for Best Fintech & DPI Adoption?",
+                "options": [
+                    "Karnataka Bank",
+                    "State Bank of India",
+                    "HDFC Bank",
+                    "ICICI Bank"
+                ],
+                "answer": "Karnataka Bank",
+                "explanation": "Karnataka Bank won the Indian Banks\u2019 Association (IBA) Banking Technology Award 2026 in the category of Best Fintech & DPI Adoption. The award recognizes the bank\u2019s strong integration of digital public infrastructure (DPI) platforms, fintech innovations, and customer-centric digital banking solutions. In addition to this main award, Karnataka Bank received runner-up status in the Best Tech Talent category and special mentions for digital banking, financial inclusion, and technology-driven innovation. This achievement highlights the bank\u2019s ability to leverage technology to enhance efficiency, broaden financial access, and strengthen its position in India\u2019s evolving digital banking ecosystem.",
+                "category": "Business"
+            },
+            {
+                "id": 10,
+                "question": "Who has been appointed as the new Director General of the Indo-Tibetan Border Police (ITBP)?",
+                "options": [
+                    "Praveen Kumar",
+                    "Rakesh Aggarwal",
+                    "Ravi Viswanathan",
+                    "Shatrujeet Singh Kapoor"
+                ],
+                "answer": "Shatrujeet Singh Kapoor",
+                "explanation": "The Centre appointed senior IPS officer Shatrujeet Singh Kapoor as the Director General of the Indo-Tibetan Border Police (ITBP) on January 14, 2026. Kapoor, a 1990-batch officer from Haryana cadre, succeeds Praveen Kumar, who has been reassigned as DG of the Border Security Force (BSF). The appointment ensures experienced leadership for ITBP, responsible for guarding India\u2019s Himalayan borders, and strengthens internal security management. Such high-level postings are approved by the Appointments Committee of the Cabinet (ACC) and are crucial for continuity, operational efficiency, and strategic oversight of India\u2019s border forces.",
+                "category": "Business"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-17",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which Indian state will host the country\u2019s first full-stack Sovereign AI Park with a \u20b910,000 crore investment over five years?",
+                "options": [
+                    "Tamil\u202fNadu",
+                    "Karnataka",
+                    "Maharashtra",
+                    "Gujarat"
+                ],
+                "answer": "Tamil\u202fNadu",
+                "explanation": "Tamil\u202fNadu will host India\u2019s first full-stack Sovereign AI Park, established through an MoU with Sarvam AI. The project involves a \u20b910,000 crore investment over five years and aims to develop a secure AI ecosystem with dedicated government data centres, innovation clusters, and an institute for AI in governance. The initiative is expected to generate 1,000 high-skilled jobs and promote inclusive growth in the AI sector. By integrating research, innovation, and governance, the AI Park will position Tamil\u202fNadu as a leading hub for advanced AI development and strengthen India\u2019s technological capabilities.",
+                "category": "State"
+            },
+            {
+                "id": 2,
+                "question": "Which institute partnered with Coromandel International Ltd to establish a Corporate Research Centre for joint research and technology development?",
+                "options": [
+                    "IIT Delhi",
+                    "IIM Bangalore",
+                    "IIT Madras",
+                    "NIT Trichy"
+                ],
+                "answer": "IIT Madras",
+                "explanation": "IIT Madras, through its Research Park, partnered with Coromandel International Ltd to set up a Corporate Research Centre. The Centre will serve as a hub for collaborative research programs, technology incubation, talent development, and international partnerships. This initiative aims to accelerate innovation, drive technological advancements, and strengthen the agricultural sector. By leveraging IIT Madras\u2019 research expertise and Coromandel\u2019s industry experience, the partnership is expected to promote applied research, develop cutting-edge solutions for farming, and support sustainable practices in agriculture, ultimately contributing to sectoral growth and knowledge exchange.",
+                "category": "State"
+            },
+            {
+                "id": 3,
+                "question": "Who was appointed as Meta\u2019s President and Vice Chairman to oversee strategy, infrastructure, and global investments?",
+                "options": [
+                    "Sheryl Sandberg",
+                    "Mark Zuckerberg",
+                    "Dina Powell McCormick",
+                    "Susan Wojcicki"
+                ],
+                "answer": "Dina Powell McCormick",
+                "explanation": "Dina Powell McCormick, a former Meta board member, has been appointed as President and Vice Chairman of Meta. In this role, she will join the management team to guide the company\u2019s overall strategy, collaborate with infrastructure teams, and align major investments with long-term objectives. Additionally, she will focus on building strategic capital partnerships and expanding Meta\u2019s investment capacity globally. Her appointment underscores the company\u2019s emphasis on strong leadership to drive innovation, scale operations, and address global technological and financial opportunities while maintaining alignment with Meta\u2019s strategic goals.",
+                "category": "State"
+            },
+            {
+                "id": 4,
+                "question": "Which Indian state hosted the Regional AI Impact Conference 2026, where an MoU was signed to set up 30 Data and AI Labs?",
+                "options": [
+                    "Karnataka",
+                    "Maharashtra",
+                    "Tamil Nadu",
+                    "Madhya Pradesh"
+                ],
+                "answer": "Madhya Pradesh",
+                "explanation": "Madhya Pradesh hosted the Regional AI Impact Conference 2026, organized by the IndiaAI Mission, MeitY, and the state government in Bhopal. During the event, an MoU was signed to establish 30 Data and AI Labs within the state, contributing to education, skilling, and innovation as part of a larger national rollout of 570 labs. The conference showcased practical AI use cases, recognized contest winners, and highlighted the key pillars of the IndiaAI Mission. This initiative reflects Madhya Pradesh\u2019s growing role in promoting AI-driven development and strengthening India\u2019s technological ecosystem.",
+                "category": "State"
+            },
+            {
+                "id": 5,
+                "question": "Which Indian state received the first XV Finance Commission untied grants for rural local bodies, including District and Gram Panchayats, for FY 2025\u201126?",
+                "options": [
+                    "Meghalaya",
+                    "Sikkim",
+                    "Arunachal Pradesh",
+                    "Nagaland"
+                ],
+                "answer": "Sikkim",
+                "explanation": "Sikkim received the first instalment of XV Finance Commission Untied Grants totaling \u20b9643.50 lakh for FY 2025\u201126, allocated to 5 District Panchayats and 199 Gram Panchayats. Additionally, \u20b917.50 lakh from the withheld portion of FY 2024\u201125 was released to one eligible District Panchayat. These grants are intended to empower local bodies to address their priority needs, excluding salaries and establishment costs. The funding strengthens decentralized governance, enabling Panchayats to plan and execute development projects based on local requirements, thereby enhancing grassroots democracy and ensuring efficient use of resources in rural areas.",
+                "category": "State"
+            },
+            {
+                "id": 6,
+                "question": "Which high-yielding synthetic cow breed was developed in India by crossbreeding Holstein Friesian with Tharparkar cattle?",
+                "options": [
+                    "Karan Fries cow breed",
+                    "Gir cow breed",
+                    "Sahiwal cow breed",
+                    "Red Sindhi cow breed"
+                ],
+                "answer": "Karan Fries cow breed",
+                "explanation": "The Karan Fries cow breed is a synthetic breed developed by the National Dairy Research Institute (NDRI), Karnal, by crossbreeding Holstein Friesian and Tharparkar cattle. This breed is notable for its high milk yield, producing approximately 3,550 kg per lactation, or 11\u201319 kg daily, with peaks up to 46.5 kg. Karan Fries combines the high productivity of Holstein Friesian with the adaptability and resilience of Indian zebu cattle, making it particularly suited for sustainable dairying in India. Its development represents a significant step toward improving the efficiency and sustainability of the dairy sector in the country.",
+                "category": "State"
+            },
+            {
+                "id": 7,
+                "question": "Which company partnered with Bharat Electronics Ltd to provide indigenous drone design, manufacturing, and deployment expertise for India\u2019s defence forces?",
+                "options": [
+                    "HAL",
+                    "DRDO",
+                    "Garuda Aerospace",
+                    "Tata Advanced Systems"
+                ],
+                "answer": "Garuda Aerospace",
+                "explanation": "Garuda Aerospace partnered with Bharat Electronics Ltd (BEL) to supply indigenous Unmanned Aerial Systems (UAS) to India\u2019s defence forces. Under this collaboration, BEL serves as the lead bidder, while Garuda Aerospace contributes its expertise in drone design, manufacturing, and deployment. The partnership aims to strengthen India\u2019s self-reliance in defence technology (Aatmanirbhar Bharat) by delivering fully Indian, mission-ready UAS solutions for both defence and internal security applications. This collaboration highlights the growing role of private Indian companies in enhancing the country\u2019s indigenous defence capabilities.",
+                "category": "State"
+            },
+            {
+                "id": 8,
+                "question": "What type of condition is Menkes disease, for which the FDA approved Zycubo as a treatment?",
+                "options": [
+                    "Infectious disease",
+                    "Rare genetic disorder",
+                    "Nutritional deficiency",
+                    "Autoimmune condition"
+                ],
+                "answer": "Rare genetic disorder",
+                "explanation": "Menkes disease is a rare genetic disorder caused by a mutation that disrupts copper transport in the body, leading to severe developmental and physiological issues in affected children. Zycubo (copper histidinate) is the first FDA-approved treatment for this condition. Administered by injection, it bypasses the defective copper absorption mechanism and significantly improves survival, especially when started within four weeks of birth. Clinical trials showed that early-treated children had a 78% lower risk of death. Monitoring is important due to possible copper toxicity, emphasizing careful management during treatment.",
+                "category": "State"
+            },
+            {
+                "id": 9,
+                "question": "What was India\u2019s overall unemployment rate for persons aged 15 and above in December 2025?",
+                "options": [
+                    "3.9%",
+                    "4.1%",
+                    "9.1%",
+                    "4.8%"
+                ],
+                "answer": "4.8%",
+                "explanation": "India\u2019s overall unemployment rate for individuals aged 15 and above stood at 4.8% in December 2025, slightly higher than November\u2019s 4.7%. While rural unemployment remained steady at 3.9% and urban female joblessness decreased to 9.1%, the overall rate reflects the aggregate of rural and urban employment trends. The Labour Force Participation Rate increased to 56.1%, and the Worker Population Ratio reached a yearly high of 53.4%, indicating a marginal improvement in workforce engagement. These figures provide insights into employment dynamics, highlighting both stability and gradual changes in the Indian labour market.",
+                "category": "State"
+            },
+            {
+                "id": 10,
+                "question": "Which Indian state launched the Gruha Lakshmi Digital Marketing portal to support women entrepreneurs and rural artisans?",
+                "options": [
+                    "Karnataka",
+                    "Tamil Nadu",
+                    "Maharashtra",
+                    "Gujarat"
+                ],
+                "answer": "Karnataka",
+                "explanation": "Karnataka launched the Gruha Lakshmi Digital Marketing portal to empower women entrepreneurs, particularly rural artisans, by providing a platform to showcase and market their products. The portal features a diverse product range and a user-friendly interface, making it easier for women to reach wider audiences, including global markets. This initiative promotes inclusive economic growth by supporting women-led businesses and encouraging digital participation. By registering on the portal, women entrepreneurs can expand their visibility, enhance sales, and strengthen their contribution to the local and national economy.",
+                "category": "State"
+            },
+            {
+                "id": 11,
+                "question": "Which university inaugurated the IIT Mandi Catalyst Satellite Centre to promote innovation, research translation, and startup growth?",
+                "options": [
+                    "Amity University",
+                    "Galgotias University",
+                    "Jamia Millia Islamia",
+                    "Manipal University"
+                ],
+                "answer": "Galgotias University",
+                "explanation": "Galgotias University inaugurated the IIT Mandi Catalyst Satellite Centre to foster innovation, support early-stage startups, and facilitate the translation of research into market-ready solutions. The centre aims to bridge the gap between research and commercialization, promoting deep-tech innovation and entrepreneurship. Additionally, Galgotias University signed two MoUs with NIT Jamshedpur and Jharkhand University of Technology to enable joint research initiatives, academic exchange, and shared incubation programs. This initiative highlights the university\u2019s role in strengthening collaboration between academia and industry while nurturing the growth of technology-driven startups.",
+                "category": "State"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-18",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which bank has enabled Khajane\u20112 e-receipt payments for Karnataka Government through its Internet banking platform?",
+                "options": [
+                    "State Bank of India",
+                    "ICICI Bank",
+                    "HDFC Bank",
+                    "Karnataka Bank"
+                ],
+                "answer": "Karnataka Bank",
+                "explanation": "Karnataka Bank has integrated Khajane\u20112 e-receipt payments into its Internet banking platform, allowing citizens to pay Karnataka state taxes and fees securely. The system operates via the Khajane\u20112 IFMS and RBI\u2019s e-Kuber infrastructure, ensuring safe and efficient online transactions. This initiative enhances digital convenience by providing seamless access for customers to fulfill their government payment obligations. By adopting this technology, Karnataka Bank supports the government\u2019s push for digitization, simplifies payment processes, and strengthens the accessibility of state financial services for residents.",
+                "category": "Banking"
+            },
+            {
+                "id": 2,
+                "question": "Who has been appointed as Vigilance Commissioner in the Central Vigilance Commission, taking oath on 16 January 2026?",
+                "options": [
+                    "Alok Kumar",
+                    "Rakesh Asthana",
+                    "Praveen Vashista",
+                    "Sanjay Agarwal"
+                ],
+                "answer": "Praveen Vashista",
+                "explanation": "Shri Praveen Vashista, a 1991-batch IPS officer of the Bihar cadre, has been appointed as Vigilance Commissioner in the Central Vigilance Commission (CVC). He assumed office on 16 January 2026, bringing over three decades of experience in policing, the CBI, internal security, and economic offence investigations. His career includes key roles in Bihar\u2019s law enforcement as SP and IG, as well as central deputation positions in the Ministry of Home Affairs involving internal security and national policy. This appointment strengthens India\u2019s anti-corruption framework, ensuring experienced oversight and integrity administration at the national level.",
+                "category": "Banking"
+            },
+            {
+                "id": 3,
+                "question": "Which river in Australia has been identified as the world\u2019s oldest continuously flowing river, dating back 300\u2013400 million years?",
+                "options": [
+                    "Finke River",
+                    "Murray River",
+                    "Darling River",
+                    "Gascoyne River"
+                ],
+                "answer": "Finke River",
+                "explanation": "The Finke River, located in Australia\u2019s Northern Territory and parts of South Australia, is recognised as the world\u2019s oldest surviving river system, with origins dating back 300\u2013400 million years. Flowing through the MacDonnell Ranges, it provides unique insights into Earth\u2019s geological history. Despite its intermittent flow, the river maintains a continuous ancient course, cutting through hard quartzite mountains due to the geological phenomenon of antecedence. Its survival over hundreds of millions of years highlights slow geological changes in central Australia and its role as a rare natural archive of deep-time erosion patterns, sediments, and climate history.",
+                "category": "Banking"
+            },
+            {
+                "id": 4,
+                "question": "Who has been appointed as the Goodwill Ambassador for the Pune Grand Tour 2026, India\u2019s first UCI-recognised multi-stage road cycling race?",
+                "options": [
+                    "Virat Kohli",
+                    "Rohit Sharma",
+                    "MS Dhoni",
+                    "Sachin Tendulkar"
+                ],
+                "answer": "MS Dhoni",
+                "explanation": "Former Indian cricket captain MS Dhoni has been appointed as the Goodwill Ambassador for the Pune Grand Tour 2026, India\u2019s first UCI-recognised multi-stage professional road cycling race. The five-day international event spans 437 km across Maharashtra\u2019s Deccan Plateau and Sahyadri Range, testing endurance, strategy, and technical skill. Dhoni\u2019s leadership, discipline, fitness, and mental resilience bring credibility and visibility to the event. His involvement is expected to inspire young athletes, promote cycling as a professional sport in India, and attract attention from the public and corporate sectors, supporting India\u2019s emergence on the global professional cycling map.",
+                "category": "Banking"
+            },
+            {
+                "id": 5,
+                "question": "Which Indian state signed an MoU with the Digital India BHASHINI Division to integrate multilingual AI tools into state digital platforms?",
+                "options": [
+                    "Karnataka",
+                    "Madhya Pradesh",
+                    "Gujarat",
+                    "Rajasthan"
+                ],
+                "answer": "Madhya Pradesh",
+                "explanation": "Madhya Pradesh partnered with the Digital India BHASHINI Division to implement multilingual and voice-based AI solutions across state digital platforms. The collaboration, formalized at the Regional AI Impact Conference 2026 in Bhopal, aims to improve accessibility and last-mile delivery of public services in multiple Indian languages. BHASHINI\u2019s AI-powered language technologies, including translation APIs and voice-first tools, will enable citizens\u2014including rural and digitally less literate populations\u2014to access government services more easily. This initiative aligns with the state\u2019s vision for citizen-centric AI governance and strengthens India\u2019s broader goal of inclusive, technology-driven public service delivery.",
+                "category": "Banking"
+            },
+            {
+                "id": 6,
+                "question": "Which Indian state will host the world\u2019s largest green ammonia project, with a $10 billion investment and 1.5 MTPA capacity by 2030?",
+                "options": [
+                    "Gujarat",
+                    "Maharashtra",
+                    "Tamil Nadu",
+                    "Andhra Pradesh"
+                ],
+                "answer": "Andhra Pradesh",
+                "explanation": "Andhra Pradesh will host the world\u2019s largest green ammonia project at Kakinada, developed by AM Green with a $10 billion investment. The project aims for a production capacity of 1.5 million tonnes per annum by 2030 and will enable India\u2019s first green ammonia exports to countries like Germany, Japan, and Singapore. The facility will use integrated renewable energy, including 7.5 GW of solar and wind power and around 1,950 MW of electrolyser capacity, ensuring zero-carbon production. This initiative will generate thousands of jobs, strengthen the coastal economy, and contribute to India\u2019s climate goals and energy transition.",
+                "category": "Banking"
+            },
+            {
+                "id": 7,
+                "question": "Which Indian chess player became the country\u2019s 92nd Grandmaster after winning the Andranik Margaryan Memorial in Armenia?",
+                "options": [
+                    "Rameshbabu Praggnanandhaa",
+                    "Aaryan Varshney",
+                    "Nihal Sarin",
+                    "D. Gukesh"
+                ],
+                "answer": "Aaryan Varshney",
+                "explanation": "Aaryan Varshney, a 21-year-old chess player from Delhi, became India\u2019s 92nd Grandmaster after securing his final GM norm at the Andranik Margaryan Memorial Tournament in Armenia. He achieved the milestone with a round to spare, demonstrating remarkable consistency and composure against international competition. This achievement marks him as the eighth Grandmaster from Delhi and reflects the city\u2019s growing contribution to Indian chess. Varshney\u2019s success highlights India\u2019s expanding presence in global chess, supported by structured training, grassroots programs, and international tournament exposure that develop young players into elite-level Grandmasters.",
+                "category": "Banking"
+            },
+            {
+                "id": 8,
+                "question": "Which Indian state led in personal electric vehicle adoption in 2025, driven by middle-class uptake, early policy support, and expanding charging infrastructure?",
+                "options": [
+                    "Kerala",
+                    "Karnataka",
+                    "Maharashtra",
+                    "Tamil Nadu"
+                ],
+                "answer": "Kerala",
+                "explanation": "Kerala emerged as the leader in personal electric vehicle (EV) adoption in 2025, surpassing larger industrial states. Strong participation from middle-class households, early EV policy initiatives from 2019, and rapid expansion of home and public charging infrastructure contributed to this success. Unlike other states where fleet EVs dominate, Kerala\u2019s growth is largely consumer-driven, reflecting high individual ownership of electric four-wheelers. The state also ranks joint highest in overall EV adoption, including two-wheelers, and second only to Delhi in EV-to-internal combustion engine (ICE) vehicle penetration, highlighting a significant shift toward sustainable and environmentally conscious personal mobility.",
+                "category": "Banking"
+            },
+            {
+                "id": 9,
+                "question": "On which date did the Lokpal of India observe its Foundation Day in 2026?",
+                "options": [
+                    "January 10",
+                    "January 12",
+                    "January 14",
+                    "January 16"
+                ],
+                "answer": "January 16",
+                "explanation": "The Lokpal of India observed its Foundation Day on January 16, 2026, marking 12 years since the establishment of the institution under the Lokpal and Lokayuktas Act, 2013. The event, held at the Lokpal office in New Delhi, highlighted the institution\u2019s commitment to integrity, transparency, and accountability in public life. The occasion served as a reflection on its progress, challenges, and role in strengthening democratic governance and anti-corruption mechanisms. Leadership, including Chairperson Justice A. M. Khanwilkar, emphasized the Lokpal\u2019s constitutional responsibility and the importance of public trust in ensuring ethical and fair administration.",
+                "category": "Banking"
+            },
+            {
+                "id": 10,
+                "question": "Who won the UN Secretary General\u2019s Award 2025 for the \u201cEqual Partners, Lasting Peace\u201d project in South Sudan?",
+                "options": [
+                    "Major Swathi Shantha Kumar",
+                    "Col. Anjali Menon",
+                    "Lt. Gen. Vandana Rao",
+                    "Capt. Priya Nair"
+                ],
+                "answer": "Major Swathi Shantha Kumar",
+                "explanation": "Major Swathi Shantha Kumar from Bengaluru received the UN Secretary General\u2019s Award 2025 for her project \u201cEqual Partners, Lasting Peace\u201d in South Sudan. Her work focused on integrating women into local-level peacekeeping operations and enhancing their participation in decision-making processes. Leading the Indian Engagement Team under the UN Mission in South Sudan, she promoted gender parity and grassroots engagement, ensuring women played a meaningful role in sustaining peace. This recognition highlights her contribution to advancing gender equality in international peace operations and the impact of inclusive approaches in conflict resolution.",
+                "category": "Banking"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-19",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which Indian state launched the five-year \u2018Aame Padhiba Aama Bhasare\u2019 scheme to promote early education in mother tongues for young children?",
+                "options": [
+                    "Chhattisgarh",
+                    "Jharkhand",
+                    "Odisha",
+                    "Assam"
+                ],
+                "answer": "Odisha",
+                "explanation": "Odisha introduced the \u2018Aame Padhiba Aama Bhasare\u2019 scheme as a five-year initiative aimed at strengthening early childhood education by using mother tongues as the medium of learning for children aged three to six years. The programme initially focuses on tribal languages across six districts and relies on trained anganwadi workers supported by audio-visual teaching tools. Alongside this education-focused effort, Odisha also implemented complementary social initiatives, including a 100-day campaign against child marriage and a pilot programme to prevent teenage pregnancy and support young mothers.",
+                "category": "State"
+            },
+            {
+                "id": 2,
+                "question": "Which Indian state resumed sand mining after its High Court lifted the stay following the enforcement of PESA Rules, 2025?",
+                "options": [
+                    "Chhattisgarh",
+                    "Jharkhand",
+                    "Odisha",
+                    "Madhya Pradesh"
+                ],
+                "answer": "Jharkhand",
+                "explanation": "The decision to resume sand mining came after the High Court lifted its earlier stay once the government implemented the PESA Rules, 2025. In Jharkhand, sand mining had been halted due to concerns over the protection of tribal rights in Scheduled Areas. The approval of the PESA rules by the state cabinet assured the court that local self-governance and tribal consent mechanisms were being respected. This move helped resolve a prolonged legal impasse in Jharkhand, balancing economic activity like sand mining with constitutional safeguards for tribal communities.",
+                "category": "State"
+            },
+            {
+                "id": 3,
+                "question": "Which management institute\u2019s director received the Exemplary Governance Leadership Award at the 46th World Management Congress held in New Delhi?",
+                "options": [
+                    "IIM Ahmedabad",
+                    "IIM Bangalore",
+                    "IIM Calcutta",
+                    "IIM Rohtak"
+                ],
+                "answer": "IIM Rohtak",
+                "explanation": "IIM Rohtak gained global recognition when its Director, Prof. Dheeraj Sharma, received the Exemplary Governance Leadership Award at the 46th World Management Congress in New Delhi. The award acknowledged outstanding contributions to institution-building and governance, selected from over 1,400 nominations worldwide. During his tenure, IIM Rohtak achieved prestigious international accreditations such as AMBA and BGA, marking quality benchmarks in management education. The institute also transitioned to a permanent campus and introduced integrated programmes in management and law, strengthening its academic profile and global standing.",
+                "category": "State"
+            },
+            {
+                "id": 4,
+                "question": "Where was the fully automated 30 mm ammunition manufacturing facility inaugurated by the Defence Minister?",
+                "options": [
+                    "Nagpur",
+                    "Pune",
+                    "Hyderabad",
+                    "Bengaluru"
+                ],
+                "answer": "Nagpur",
+                "explanation": "Nagpur emerged as a key centre for defence manufacturing with the inauguration of a fully automated 30 mm ammunition facility at Solar Defence & Aerospace. The event highlighted the government\u2019s focus on strengthening indigenous defence production and promoting self-reliance under the Atmanirbhar Bharat initiative. The Defence Minister stressed the goal of increasing private sector participation to over 50 percent to transform India into a global defence manufacturing hub. The occasion also reflected India\u2019s changing defence posture, symbolized by the export of Pinaka rocket systems, signalling a shift from arms import dependence to export capability.",
+                "category": "State"
+            },
+            {
+                "id": 5,
+                "question": "Which Indian vessel was flagged off from Kochi for the fifth edition of the \u2018Sagar Maitri\u2019 mission to promote scientific cooperation in the Indian Ocean Region?",
+                "options": [
+                    "INS Sagardhwani",
+                    "INS Kavaratti",
+                    "INS Vikramaditya",
+                    "INS Shardul"
+                ],
+                "answer": "INS Sagardhwani",
+                "explanation": "INS Sagardhwani is a DRDO-operated oceanographic research vessel that plays a key role in India\u2019s maritime scientific outreach. It was flagged off from Kochi for the fifth edition of the \u2018Sagar Maitri\u2019 mission, a Navy\u2013DRDO initiative aligned with the MAHASAGAR vision. The mission focuses on strengthening scientific collaboration and capacity-building among Indian Ocean Rim countries. By retracing historic sea routes and undertaking joint ocean research with eight regional partners, beginning with the Maldives, the mission reinforces India\u2019s role as a trusted maritime partner and a leader in cooperative ocean science.",
+                "category": "State"
+            },
+            {
+                "id": 6,
+                "question": "Which organization conducted a nationwide skill development drive training over 1.9 lakh people through thousands of programs under a national mission?",
+                "options": [
+                    "NITI Aayog",
+                    "Indian Council of Medical Research",
+                    "CSIR",
+                    "National Skill Development Corporation"
+                ],
+                "answer": "CSIR",
+                "explanation": "The large-scale skill development initiative was carried out by CSIR through its Integrated Skill Initiative, which leveraged its extensive network of laboratories across India. The program focused on building industry-ready skills by offering hands-on training, internships, and certifications across 18 key sectors. With more than 5,200 training programs conducted, the initiative aimed to enhance employability and practical expertise. Phase III of the mission, launched in June 2025, further expanded its reach by training over 14,000 individuals through hundreds of targeted programs, reinforcing CSIR\u2019s role in national skill development efforts.",
+                "category": "State"
+            },
+            {
+                "id": 7,
+                "question": "In which region was India\u2019s first open-sea marine fish farming project launched as part of the Blue Economy initiative?",
+                "options": [
+                    "Lakshadweep",
+                    "Gujarat Coast",
+                    "Tamil Nadu Coast",
+                    "Andaman"
+                ],
+                "answer": "Andaman",
+                "explanation": "India\u2019s first open-sea marine fish farming project represents a significant milestone in the country\u2019s Blue Economy strategy. The project was launched in the Andaman Sea and implemented in collaboration with the Andaman & Nicobar administration. Using advanced cages developed by the National Institute of Ocean Technology (NIOT), the initiative focuses on finfish farming along with open-sea seaweed cultivation. By tapping offshore marine resources around Andaman, the project aims to promote sustainable aquaculture, enhance seafood production, and improve the livelihoods of local fishing communities while reducing pressure on coastal ecosystems.",
+                "category": "State"
+            },
+            {
+                "id": 8,
+                "question": "On which date is Kokborok Day, also known as Tripuri Language Day, observed every year in Tripura?",
+                "options": [
+                    "January 19",
+                    "January 26",
+                    "February 21",
+                    "March 5"
+                ],
+                "answer": "January 19",
+                "explanation": "Kokborok Day is observed annually on January 19 to celebrate the linguistic and cultural heritage of the Kokborok language spoken by the Tripuri community in Tripura. The date marks the historic recognition of Kokborok as an official language of the state in 1979. The observance highlights the long struggle for tribal identity, linguistic rights, and cultural preservation. Through cultural programmes, seminars, and literary events, the day promotes awareness about indigenous languages and their role in preserving traditions, history, and community knowledge in the face of globalization.",
+                "category": "State"
+            },
+            {
+                "id": 9,
+                "question": "Who won a seventh consecutive term as President of Uganda in the 2026 presidential elections with over 71% of the votes?",
+                "options": [
+                    "Bobi Wine",
+                    "Kyagulanyi Ssentamu",
+                    "Yoweri Museveni",
+                    "Ruhakana Rugunda"
+                ],
+                "answer": "Yoweri Museveni",
+                "explanation": "Yoweri Museveni secured a seventh term as President of Uganda after winning the 2026 elections with 71.65 percent of the total votes cast. His victory extended a rule that began in 1986, making him one of Africa\u2019s longest-serving leaders. The election outcome drew controversy as opposition leader Bobi Wine rejected the results, alleging fraud, internet shutdowns, and irregularities during polling. Despite these claims, the electoral commission declared Museveni the winner. The results have reignited global debates about democratic space, political competition, and electoral transparency in Uganda.",
+                "category": "State"
+            },
+            {
+                "id": 10,
+                "question": "Which two cities are connected by India\u2019s first sleeper Vande Bharat train launched to enhance overnight rail connectivity?",
+                "options": [
+                    "Delhi and Mumbai",
+                    "Kolkata and Guwahati",
+                    "Chennai and Bengaluru",
+                    "Patna and Ranchi"
+                ],
+                "answer": "Kolkata and Guwahati",
+                "explanation": "India\u2019s first sleeper version of the Vande Bharat train marks a major advancement in long-distance rail travel by connecting Kolkata and Guwahati. Designed for overnight journeys, the train covers the route in around 14 hours and links eastern India with the Northeast. The sleeper configuration offers improved comfort, modern interiors, and enhanced safety features compared to chair-car versions. This connectivity is expected to boost tourism, trade, and cultural exchange between West Bengal and Assam, while also strengthening Indian Railways\u2019 push towards modernization, self-reliance, and improved passenger experience.",
+                "category": "State"
+            },
+            {
+                "id": 11,
+                "question": "In which Indian state were \u20b9830-crore multimodal infrastructure projects launched by the Prime Minister to boost connectivity and employment?",
+                "options": [
+                    "Odisha",
+                    "West Bengal",
+                    "Bihar",
+                    "Jharkhand"
+                ],
+                "answer": "West Bengal",
+                "explanation": "The multimodal infrastructure projects worth over \u20b9830 crore were launched at Singur in the Hooghly district of West Bengal. These initiatives include the Balagarh Extended Port Gate System with an Inland Water Transport terminal and a road over bridge, designed to handle 2.7 million tonnes of cargo annually across a vast area. The projects aim to decongest Kolkata, reduce pollution, and improve logistics efficiency. By strengthening connectivity and transport infrastructure in West Bengal, the initiatives are expected to support MSMEs, agriculture, and generate large-scale local employment.",
+                "category": "State"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-20",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which country will benefit from IREDA\u2019s first international green energy loan of $22.5 million for a 100 MW solar project?",
+                "options": [
+                    "Zambia",
+                    "Kenya",
+                    "South Africa",
+                    "Tanzania"
+                ],
+                "answer": "Zambia",
+                "explanation": "Zambia is set to benefit from IREDA Global Green Energy Finance IFSC\u2019s first international green loan, amounting to $22.5 million. The funding will support the development of a 100 MW photovoltaic solar project in the Serenje District, contributing to sustainable energy generation in the country. This initiative expands India\u2019s green financing footprint internationally and reflects a strategic move to promote renewable energy and climate-friendly projects in emerging markets. By facilitating such investments, India strengthens bilateral ties while supporting global efforts toward clean energy transition and sustainable infrastructure development.",
+                "category": "International"
+            },
+            {
+                "id": 2,
+                "question": "Which Indian state approved the \u20b94,775 crore Bembla River Irrigation Project to expand irrigation and also created a new agency for overseas employment for skilled youth?",
+                "options": [
+                    "Gujarat",
+                    "Karnataka",
+                    "Andhra Pradesh",
+                    "Maharashtra"
+                ],
+                "answer": "Maharashtra",
+                "explanation": "Maharashtra has approved the Bembla River Irrigation Project in Yavatmal district with a budget of \u20b94,775 crore to bring 52,423 hectares under assured irrigation. The initiative aims to improve crop productivity, support crop diversification, enhance farmer incomes, and reduce agrarian distress in drought-prone areas of eastern Maharashtra. Alongside irrigation reforms, the state government also approved the creation of MAHIMA, an agency focused on providing overseas employment opportunities for skilled youth. Together, these measures are expected to boost rural development, strengthen agricultural infrastructure, and enhance livelihood opportunities in Maharashtra.",
+                "category": "International"
+            },
+            {
+                "id": 3,
+                "question": "In which Indian state is Maruti Suzuki planning to set up a \u20b935,000 crore mega car manufacturing plant with an annual capacity of 10 lakh vehicles?",
+                "options": [
+                    "Maharashtra",
+                    "Karnataka",
+                    "Gujarat",
+                    "Tamil Nadu"
+                ],
+                "answer": "Gujarat",
+                "explanation": "Maruti Suzuki is investing \u20b935,000 crore to establish a mega car manufacturing plant in Gujarat, specifically in Khoraj near Gandhinagar. The plant will have an annual capacity of 10 lakh vehicles, with production starting in FY29 across four units, each producing 2.5 lakh cars per year. This initiative is expected to generate over 12,000 direct jobs and significant indirect employment, further strengthening Gujarat\u2019s position as a key automobile hub. The investment aligns with the Make in India vision, supporting industrial growth, technological advancement, and regional economic development in Gujarat.",
+                "category": "International"
+            },
+            {
+                "id": 4,
+                "question": "What growth rate has the IMF projected for India in 2025 after revising its forecast?",
+                "options": [
+                    "7.3%",
+                    "6.4%",
+                    "3.3%",
+                    "8.0%"
+                ],
+                "answer": "7.3%",
+                "explanation": "The International Monetary Fund (IMF) has revised India\u2019s 2025 economic growth forecast upward to 7.3%, reflecting stronger-than-expected performance in the third and fourth quarters of 2025. This revision indicates continued robust momentum in India\u2019s economy, supported by technology-led investment and other structural factors. While growth is expected to moderate to 6.4% in 2026\u201327, India remains a leading contributor among emerging economies. The IMF also noted that inflation is projected to reach target levels in 2025, with global growth remaining steady at 3.3%, highlighting India\u2019s relatively stronger performance in the global context.",
+                "category": "International"
+            },
+            {
+                "id": 5,
+                "question": "In which Indian city did the Indian Coast Guard and Japan Coast Guard conduct a joint Hazardous and Noxious Substances response drill to enhance maritime safety cooperation?",
+                "options": [
+                    "Kochi",
+                    "Visakhapatnam",
+                    "Mumbai",
+                    "Chennai"
+                ],
+                "answer": "Mumbai",
+                "explanation": "Mumbai served as the venue for the joint Hazardous and Noxious Substances response drill conducted by the Indian Coast Guard and the Japan Coast Guard. The exercise was held onboard the pollution response vessel ICGS Samudra Prahari and focused on improving preparedness against chemical spills at sea. It aimed to strengthen operational coordination, interoperability, and emergency response capabilities between the two nations. The drill also reflected the growing maritime cooperation between India and Japan, underlining their shared commitment to environmental protection, maritime safety, and stability in the Indo-Pacific region.",
+                "category": "International"
+            },
+            {
+                "id": 6,
+                "question": "In which Indian state did the second nationwide survey for riverine and estuarine dolphins under Project Dolphin begin?",
+                "options": [
+                    "Bihar",
+                    "Uttar Pradesh",
+                    "West Bengal",
+                    "Odisha"
+                ],
+                "answer": "Uttar Pradesh",
+                "explanation": "The second nationwide survey for riverine and estuarine dolphins under Project Dolphin commenced in Uttar Pradesh, starting from Bijnor. Led by the Ministry of Environment, Forest and Climate Change, the survey aims to assess the population and habitat health of Indus and Irrawaddy dolphins. Phase 1 focuses on the Ganga (Bijnor\u2013Sagar) and Indus rivers, while Phase 2 will cover the Brahmaputra, Ganga tributaries, Sundarbans, and Odisha. This initiative strengthens India\u2019s efforts in biodiversity conservation, river ecosystem management, and the protection of endangered aquatic species, aligning with national and global wildlife preservation goals.",
+                "category": "International"
+            },
+            {
+                "id": 7,
+                "question": "Which organization won the SKOCH Silver Award 2025 for 'Corporate Net Zero Transition' in recognition of its ESG initiatives?",
+                "options": [
+                    "Power Grid Corporation of India",
+                    "SBI Capital Markets",
+                    "NTPC Limited",
+                    "REC Limited"
+                ],
+                "answer": "REC Limited",
+                "explanation": "REC Limited, a Maharatna non-banking financial company, received the SKOCH Silver Award 2025 for 'Corporate Net Zero Transition,' marking its third ESG recognition in 2026. The award highlights REC Limited\u2019s commitment to supporting India\u2019s net-zero and climate transition goals through sustainable financing. As a key financier of power and infrastructure projects, including renewable energy and non-power infrastructure, REC aligns its lending with environmentally responsible practices. This recognition underscores the company\u2019s efforts in promoting sustainable development, facilitating the transition to low-carbon infrastructure, and reinforcing its leadership role in ESG and climate-focused corporate initiatives.",
+                "category": "International"
+            },
+            {
+                "id": 8,
+                "question": "In which Indian state has the MSME Ministry approved the establishment of two new MSME Technology Centres to promote industrial growth and skill development?",
+                "options": [
+                    "Himachal Pradesh",
+                    "Uttarakhand",
+                    "Jammu and Kashmir",
+                    "Sikkim"
+                ],
+                "answer": "Himachal Pradesh",
+                "explanation": "Himachal Pradesh has received approval from the MSME Ministry for the establishment of two new MSME Technology Centres as part of a national expansion initiative. These centres will be set up at Pandoga in Una district and Parwanoo in Solan district, each with an estimated cost of \u20b910 crore. The initiative aims to strengthen industrial infrastructure, enhance skill development, and generate employment opportunities in the state. By providing modern technical support, training facilities, and entrepreneurship assistance, the centres are expected to boost manufacturing activity and attract new investments in Himachal Pradesh.",
+                "category": "International"
+            },
+            {
+                "id": 9,
+                "question": "Who has been reappointed as the Managing Director and Chief Executive Officer of ICICI Bank for a fresh term extending till October 2028?",
+                "options": [
+                    "Chanda Kochhar",
+                    "Sandeep Bakhshi",
+                    "Shikha Sharma",
+                    "Uday Kotak"
+                ],
+                "answer": "Sandeep Bakhshi",
+                "explanation": "Sandeep Bakhshi has been reappointed as the Managing Director and CEO of ICICI Bank for another two-year term, ensuring leadership continuity at India\u2019s second-largest private sector bank. His new tenure will extend till October 2028, subject to approvals from the Reserve Bank of India, shareholders, and other statutory authorities. Since assuming the role in 2018, he has guided the bank through a challenging period by strengthening risk management, improving asset quality, and enhancing governance standards. The reappointment reflects confidence in his prudent leadership and alignment with regulatory governance norms.",
+                "category": "International"
+            },
+            {
+                "id": 10,
+                "question": "Which financial institution raised USD 350 million from IFC and ADB under the Sustainable Finance Framework to support affordable housing and MSME credit?",
+                "options": [
+                    "HDFC Bank",
+                    "Piramal Finance",
+                    "SBI Capital Markets",
+                    "ICICI Bank"
+                ],
+                "answer": "Piramal Finance",
+                "explanation": "Piramal Finance successfully raised USD 350 million from the International Finance Corporation (IFC) and the Asian Development Bank (ADB), marking its first borrowing from development finance institutions. The 5-year loan under the Sustainable Finance Framework aims to expand lending for affordable housing, MSME credit, and women borrowers in tier-2 and tier-3 cities. Piramal Finance is also pursuing an additional $150 million from other DFIs to reach a total target of $500 million in FY26. This initiative highlights the institution\u2019s focus on promoting inclusive growth and sustainable financial solutions for underserved segments.",
+                "category": "International"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-21",
+        "questions": [
+            {
+                "id": 1,
+                "question": "In which city was the Organic Conclave-cum-Buyer Seller Meet organised by APEDA to strengthen Assam\u2019s agri-export linkages?",
+                "options": [
+                    "Guwahati",
+                    "Dibrugarh",
+                    "Silchar",
+                    "Jorhat"
+                ],
+                "answer": "Guwahati",
+                "explanation": "The Organic Conclave-cum-Buyer Seller Meet, aimed at strengthening agri-export linkages in Assam, was organised in Guwahati. The event brought together more than 30 exporters, 9 international importers, and around 50 Farmer Producer Companies, creating a platform for trade interaction and market access. A key highlight was the session on the 8th edition of the National Programme for Organic Production, which focused on enhancing quality standards and improving global competitiveness. Hosting the conclave in Guwahati reinforced the city\u2019s role as a major commercial and agricultural hub in the Northeast region.",
+                "category": "National"
+            },
+            {
+                "id": 2,
+                "question": "Which organisation is implementing the One Station One Product (OSOP) scheme to promote local artisans and regional crafts at railway stations across India?",
+                "options": [
+                    "Ministry of Micro, Small and Medium Enterprises",
+                    "Ministry of Culture",
+                    "Khadi and Village Industries Commission",
+                    "Indian Railways"
+                ],
+                "answer": "Indian Railways",
+                "explanation": "The One Station One Product (OSOP) scheme is being implemented by Indian Railways to promote local craftsmanship and regional products at railway stations across the country. Under this initiative, thousands of outlets have been established at major stations, directly benefiting more than 1.32 lakh artisans, weavers, and local producers since 2022. By integrating commerce with cultural representation at railway hubs, Indian Railways supports the \u201cVocal for Local\u201d initiative, boosts grassroots entrepreneurship, revives traditional crafts, and enhances passenger experience by showcasing India\u2019s rich and diverse heritage.",
+                "category": "National"
+            },
+            {
+                "id": 3,
+                "question": "Who was appointed as the inaugural Advisory Board member of SeedlingLabs in January 2026?",
+                "options": [
+                    "Dr Rajesh Kumar Mishra",
+                    "Dr Anil Sahasrabudhe",
+                    "Dr Raghunath Mashelkar",
+                    "Dr Sudhir Kumar Patnaik"
+                ],
+                "answer": "Dr Sudhir Kumar Patnaik",
+                "explanation": "SeedlingLabs, an AI-native Product Development as a Service (PDaaS) company, appointed Dr Sudhir Kumar Patnaik as the inaugural member of its Advisory Board in January 2026. Dr Sudhir Kumar Patnaik currently serves as a Professor and CIR Director at Amrita Vishwa Vidyapeetham and is known for his role in connecting industry requirements with applied research and talent development. His appointment represents an important milestone for SeedlingLabs as it aims to scale its AI-native platform and strengthen production delivery capabilities for enterprise clients.",
+                "category": "National"
+            },
+            {
+                "id": 4,
+                "question": "Which Indian company signed a 10-year LNG supply agreement with ADNOC Gas worth up to $3 billion?",
+                "options": [
+                    "HPCL",
+                    "Indian Oil Corporation",
+                    "Bharat Petroleum Corporation",
+                    "Oil and Natural Gas Corporation"
+                ],
+                "answer": "HPCL",
+                "explanation": "The 10-year LNG supply agreement was signed between Abu Dhabi National Oil Company Gas and HPCL, marking a significant step in India\u2019s long-term energy security strategy. Under this deal, HPCL will receive 0.5 million tonnes per annum of LNG from ADNOC Gas\u2019s Das Island facility, with the contract value estimated between $2.5 and $3 billion. The agreement supports India\u2019s goal of increasing natural gas to 15% of its energy mix by 2030 and further strengthens bilateral energy cooperation between India and the UAE.",
+                "category": "National"
+            },
+            {
+                "id": 5,
+                "question": "Who was appointed as the Chief Executive Officer of Raymond Lifestyle in January 2026?",
+                "options": [
+                    "Sanjay Behl",
+                    "Ashish Dikshit",
+                    "Satyaki Ghosh",
+                    "Ramesh Mitra"
+                ],
+                "answer": "Satyaki Ghosh",
+                "explanation": "Raymond Lifestyle appointed Satyaki Ghosh as its Chief Executive Officer in January 2026, marking an important leadership transition for the company. Satyaki Ghosh brings over 25 years of professional experience across FMCG, textiles, and retail sectors. Prior to joining Raymond Lifestyle, he served as CEO at Grasim Industries under the Aditya Birla Group and held senior leadership positions at L\u2019Or\u00e9al India. His appointment reflects Raymond\u2019s strategic focus on operational excellence, sustainability-driven growth, and strengthening brand leadership as the company accelerates its expansion plans.",
+                "category": "National"
+            },
+            {
+                "id": 6,
+                "question": "Where were the 6th Khelo India Winter Games held from 20\u201326 January 2026?",
+                "options": [
+                    "Shimla",
+                    "Srinagar",
+                    "Leh",
+                    "Dehradun"
+                ],
+                "answer": "Leh",
+                "explanation": "The 6th edition of the Khelo India Winter Games was in Leh and Ladakh, highlighting the region\u2019s growing importance as a hub for winter sports in India. The Games were conducted across three venues\u2014NDS Stadium, Guphuks Pond, and the Ladakh Scouts Regimental Centre\u2014providing world-class facilities for ice sports. More than 1,000 participants from over 21 states and Union Territories took part, including 472 athletes. A major highlight of this edition was the introduction of Olympic figure skating for the first time, alongside events such as speed skating, short track skating, and ice hockey.",
+                "category": "National"
+            },
+            {
+                "id": 7,
+                "question": "What was the total value of India\u2019s electronics exports recorded in FY2025?",
+                "options": [
+                    "$30 Billion",
+                    "$47 Billion",
+                    "$52 Billion",
+                    "$40 Billion"
+                ],
+                "answer": "$47 Billion",
+                "explanation": "India recorded a historic milestone in FY2025 by achieving electronics exports worth $47 Billion, reflecting the rapid expansion of its manufacturing ecosystem. A major contributor to this growth was smartphone manufacturing under the Production Linked Incentive (PLI) scheme, which alone accounted for nearly $30 billion in exports. Electronics emerged as India\u2019s third-largest export category, highlighting the success of initiatives such as Make in India. Since 2014\u201315, electronics exports have grown eleven-fold, generating around 25 lakh jobs, with significant participation from women and MSMEs, and boosting domestic production nearly six times.",
+                "category": "National"
+            },
+            {
+                "id": 8,
+                "question": "Which city-based startup launched the world\u2019s first Digital Life Vault for legacy management at TiECon Mangaluru 2026?",
+                "options": [
+                    "Bengaluru",
+                    "Hyderabad",
+                    "Mangaluru",
+                    "Kochi"
+                ],
+                "answer": "Mangaluru",
+                "explanation": "The world\u2019s first Digital Life Vault for legacy management was launched by Soult, a startup based in Mangaluru. The launch took place at TiECon Mangaluru 2026 and introduced a comprehensive digital solution to organise financial assets, important documents, personal memories, wishes, and life instructions in one secure platform. By addressing the challenge of fragmented digital legacies, the initiative ensures continuity for families and helps preserve personal values across generations. Soult operates as an enterprise SaaS product company and was founded by Sanketh Kandlikar.",
+                "category": "National"
+            },
+            {
+                "id": 9,
+                "question": "With which Indian state did ChemVolt Global sign an MoU to set up a 5 GWh lithium-ion cell gigafactory?",
+                "options": [
+                    "Andhra Pradesh",
+                    "Tamil Nadu",
+                    "Gujarat",
+                    "Maharashtra"
+                ],
+                "answer": "Andhra Pradesh",
+                "explanation": "ChemVolt Global signed a memorandum of understanding with Andhra Pradesh to establish a 5 GWh lithium-ion cell gigafactory with an investment of \u20b92,500 crore. The project aims to strengthen India\u2019s domestic lithium-ion cell manufacturing ecosystem, supporting both grid-scale energy storage and electric mobility applications. The facility will manufacture advanced prismatic cells and generate significant employment, including around 1,500 direct jobs and over 4,000 indirect jobs. The project will be developed in phases, with Phase I targeting 1 GWh capacity by Q3 2027 and full 5 GWh capacity by Q2 2029.",
+                "category": "National"
+            },
+            {
+                "id": 10,
+                "question": "In which city was the 86th All India Presiding Officers\u2019 Conference (AIPOC) held in January?",
+                "options": [
+                    "Bhopal",
+                    "Lucknow",
+                    "Jaipur",
+                    "Patna"
+                ],
+                "answer": "Lucknow",
+                "explanation": "The 86th All India Presiding Officers\u2019 Conference was organized in Lucknow, Uttar Pradesh, from 19 to 21 January. The conference was inaugurated by the Governor of Uttar Pradesh, Anandiben Patel, while the keynote address was delivered by Lok Sabha Speaker Om Birla. The event witnessed participation from Presiding Officers representing 28 states, 3 Union Territories, and 6 legislative councils. Key discussions during the conference focused on the use of legislative technology, capacity building of legislators, and enhancing accountability in parliamentary and legislative procedures.",
+                "category": "National"
+            },
+            {
+                "id": 11,
+                "question": "Which state is home to the largest 34 MW solar captive open access project commissioned by Solidus Techno Power and Blue Sky NRG?",
+                "options": [
+                    "Rajasthan",
+                    "Punjab",
+                    "Gujarat",
+                    "Haryana"
+                ],
+                "answer": "Punjab",
+                "explanation": "The largest 34 MW solar captive open access project commissioned by Solidus Techno Power in collaboration with Blue Sky NRG is located in Punjab. This project, with a capacity of 34 MW (51 MWp), supplies around 71 million units of clean energy annually to Madhav KRG Ltd., significantly reducing carbon emissions by nearly 67,000 tons each year. The commissioning of this project strengthens Punjab\u2019s renewable energy ambitions and supports industrial sustainability in line with the state\u2019s Green Energy Policy, showcasing a strong commitment to clean and sustainable power generation.",
+                "category": "National"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-22",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Who has been appointed as the head coach of the Indian senior women\u2019s football team by the All India Football Federation?",
+                "options": [
+                    "Amelia Valverde",
+                    "Sarina Wiegman",
+                    "Pia Sundhage",
+                    "Anju Tamang"
+                ],
+                "answer": "Amelia Valverde",
+                "explanation": "Amelia Valverde, a football coach from Costa Rica, has been appointed as the head coach of the Indian senior women\u2019s football team by the All India Football Federation. She joins the team, popularly known as the Blue Tigresses, in Antalya, T\u00fcrkiye, as part of their preparations for the AFC Women\u2019s Asian Cup Australia 2026. Valverde will work closely with the existing coaching staff to enhance team performance and tactical readiness. Her appointment brings international experience and recognition, including being named the CONCACAF Female Coach of the Year in 2016, which highlights her credentials and coaching excellence.",
+                "category": "Sports"
+            },
+            {
+                "id": 2,
+                "question": "Which company collaborated with the National Book Trust to launch a comic book on waste management for children?",
+                "options": [
+                    "Bisleri",
+                    "Tata Consumer Products",
+                    "Hindustan Unilever",
+                    "ITC"
+                ],
+                "answer": "Bisleri",
+                "explanation": "Bisleri partnered with the National Book Trust to introduce a children\u2019s comic book focused on environmental awareness and waste management. Launched at the World Book Fair 2026, the comic titled \u201cChhota Bheem & Vidya's - Big Green Mission\u201d aims to educate young readers about recycling, sustainable consumption, and responsible waste practices. By making the comic available in 48 languages, including 22 constitutional languages, the initiative ensures broad accessibility across diverse linguistic groups. This effort highlights the role of corporate and institutional collaboration in promoting environmental responsibility among children from an early age.",
+                "category": "Sports"
+            },
+            {
+                "id": 3,
+                "question": "In which state was \u2018Operation Parhar\u2019 launched to dismantle the gangster network?",
+                "options": [
+                    "Haryana",
+                    "Rajasthan",
+                    "Uttar Pradesh",
+                    "Punjab"
+                ],
+                "answer": "Punjab",
+                "explanation": "Punjab has initiated a large-scale law enforcement drive called \u2018Operation Parhar\u2019 with the objective of eliminating organized gangster networks. The operation involves the deployment of around 2,000 police teams across the state to target not only major gangsters but also their associates. The initiative focuses on dismantling the complete criminal ecosystem, including financial support systems, logistics, safe houses, weapons supply, and communication networks. To encourage public participation, an Anti-Gangster Helpline has been introduced, ensuring confidentiality and swift action. This comprehensive approach reflects the state\u2019s commitment to creating a safer and gangster-free environment.",
+                "category": "Sports"
+            },
+            {
+                "id": 4,
+                "question": "What is India\u2019s rank in the Responsible Nations Index as per the latest global assessment?",
+                "options": [
+                    "14th",
+                    "16th",
+                    "18th",
+                    "20th"
+                ],
+                "answer": "16th",
+                "explanation": "India has secured the 16th position in the Responsible Nations Index, which evaluates 154 countries based on ethical governance, societal well-being, environmental responsibility, and contribution to global stability. The index measures performance across three key dimensions: internal responsibility, environmental responsibility, and external responsibility. Singapore leads the rankings, followed by Switzerland and Denmark in second and third positions respectively. Developed by the World Intellectual Foundation, this index provides a comprehensive benchmark to compare how nations balance domestic progress with environmental care and international responsibility, highlighting India\u2019s relatively strong performance among a large group of countries.",
+                "category": "Sports"
+            },
+            {
+                "id": 5,
+                "question": "In which city was India\u2019s first immersive fertility knowledge centre launched by Aksigen IVF?",
+                "options": [
+                    "Delhi",
+                    "Mumbai",
+                    "Bengaluru",
+                    "Chennai"
+                ],
+                "answer": "Mumbai",
+                "explanation": "Mumbai is the city where Aksigen IVF launched India\u2019s first immersive fertility knowledge centre, known as the Bharat Daftary Knowledge Centre. The centre has been designed to provide interactive and guided experiences that help individuals and couples better understand fertility and the science behind IVF treatments. By addressing common myths and misconceptions, the initiative promotes awareness and transparency in fertility care. Its core objective is to empower patients to make informed and dignified decisions by offering accurate information along with real-world support throughout their fertility journey.",
+                "category": "Sports"
+            },
+            {
+                "id": 6,
+                "question": "In which city did the Municipal Corporation launch its first government-supported creche?",
+                "options": [
+                    "Cuttack",
+                    "Rourkela",
+                    "Puri",
+                    "Bhubaneswar"
+                ],
+                "answer": "Bhubaneswar",
+                "explanation": "Bhubaneswar is the city where the Bhubaneswar Municipal Corporation launched its first government-supported creche, marking an important step toward supporting working parents. The facility, located at Saheed Nagar, provides affordable and reliable day care services for children aged between 6 months and 6 years. Operating from Monday to Saturday, the creche offers extended hours to accommodate working schedules. It has been thoughtfully designed to promote early childhood development through play materials, learning aids, and an engaging environment. This initiative reflects an urban welfare approach aimed at balancing workforce participation with child care needs.",
+                "category": "Sports"
+            },
+            {
+                "id": 7,
+                "question": "Which states signed a Memorandum of Understanding (MoU) for collaboration in Early Childhood Care and Development?",
+                "options": [
+                    "Odisha & Assam",
+                    "Odisha & Meghalaya",
+                    "Meghalaya & Manipur",
+                    "Odisha & Jharkhand"
+                ],
+                "answer": "Odisha & Meghalaya",
+                "explanation": "Odisha & Meghalaya have entered into a collaborative agreement aimed at strengthening Early Childhood Care and Development through shared learning and capacity building. The partnership focuses on improving holistic child development by addressing nutrition, health, early learning, and community engagement. By combining Odisha\u2019s community-based Early Childhood Development models with Meghalaya\u2019s innovative approaches in tribal regions, the initiative seeks to promote equitable and inclusive outcomes. This cooperation allows both states to exchange best practices, enhance institutional capabilities, and create a more integrated framework for supporting children during their formative early years.",
+                "category": "Sports"
+            },
+            {
+                "id": 8,
+                "question": "Who has been elected as the President of the Federation of Indian Granite and Stone Industry (FIGSI) for the 2026\u20132028 term?",
+                "options": [
+                    "Ishwinder Singh",
+                    "Manoj Kumar Singh",
+                    "Pramod Bhandari",
+                    "Rakesh Verma"
+                ],
+                "answer": "Ishwinder Singh",
+                "explanation": "The Federation of Indian Granite and Stone Industry announced its leadership team for the 2026\u20132028 term with a clear focus on strengthening India\u2019s natural stone sector. Among the key appointments, Ishwinder Singh has been elected as the President of FIGSI. This role places him in charge of guiding the organization\u2019s vision, supporting industry growth, and encouraging innovation across the sector. Alongside other office bearers such as the General Secretary, Treasurer, Vice Presidents, and Joint Secretaries, the President plays a crucial role in shaping policies and representing the interests of the granite and stone industry at national and international levels.",
+                "category": "Sports"
+            },
+            {
+                "id": 9,
+                "question": "Where was the National Paralympic Powerlifting Championship virtually inaugurated in January 2026?",
+                "options": [
+                    "Dehradun",
+                    "Haridwar",
+                    "Roorkee",
+                    "Rishikesh"
+                ],
+                "answer": "Roorkee",
+                "explanation": "Roorkee served as the venue for the virtual inauguration of the National Paralympic Powerlifting Championship in January 2026 by Chief Minister Pushkar Singh Dhami. The event highlighted India\u2019s growing achievements in para-sports and celebrated the contributions of divyang athletes on the global stage. During the inauguration, the past decade was described as a golden chapter for Indian sports, reflecting significant progress and international success. India\u2019s medal achievements at major events such as the Paris 2024 Paralympics and the Asian Youth Para Games 2025 further underscore the country\u2019s commitment to inclusive sports development and excellence.",
+                "category": "Sports"
+            },
+            {
+                "id": 10,
+                "question": "Which bank partnered with India Infrastructure Finance Company Ltd (IIFCL) to boost infrastructure financing in India?",
+                "options": [
+                    "State Bank of India",
+                    "Punjab National Bank",
+                    "Bank of Baroda",
+                    "Canara Bank"
+                ],
+                "answer": "Bank of Baroda",
+                "explanation": "Bank of Baroda has collaborated with India Infrastructure Finance Company Ltd to strengthen infrastructure financing across the country. This partnership focuses on lending and syndicating loans for a wide range of infrastructure projects, ensuring better access to large-scale funding. The initiative is designed to support the timely completion of critical infrastructure by improving financial availability and execution capabilities. Through co-financed project execution, the collaboration aims to accelerate growth in key sectors such as transport, energy, and urban development, contributing to sustainable economic growth and improved national infrastructure capacity.",
+                "category": "Sports"
+            }
+        ]
     }
 ]
