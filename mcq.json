@@ -12755,5 +12755,275 @@
                 "category": "State"
             }
         ]
+    },
+    {
+        "date": "2026-04-15",
+        "questions": [
+            {
+                "id": 1,
+                "question": "In which country has sexual violence against women reportedly quadrupled over the past three years of conflict, as highlighted in a 2026 UN Women report?",
+                "options": [
+                    "Yemen",
+                    "Libya",
+                    "Sudan",
+                    "Ethiopia"
+                ],
+                "answer": "Sudan",
+                "explanation": "The 2026 UN Women report highlighted a severe escalation in sexual violence against women in Sudan, where such cases have increased fourfold since the conflict began. The war, now in its fourth year, has led to widespread humanitarian challenges, including mass displacement and lack of access to essential services. Millions of women and girls are internally displaced, particularly in regions like Darfur and Kordofan. Women-led organizations are actively providing aid but face funding shortages and security threats. The crisis underscores the urgent need for international attention and support to address gender-based violence and humanitarian needs in the region.",
+                "category": "International"
+            },
+            {
+                "id": 2,
+                "question": "Which Indian state\u2019s Legislative Assembly passed the Jaagat Jot Sri Guru Granth Sahib Satkar (Amendment) Bill, 2026, to enforce stricter penalties for religious sacrilege?",
+                "options": [
+                    "Haryana",
+                    "Rajasthan",
+                    "Himachal Pradesh",
+                    "Punjab"
+                ],
+                "answer": "Punjab",
+                "explanation": "In April 2026, the Legislative Assembly of Punjab passed the Jaagat Jot Sri Guru Granth Sahib Satkar (Amendment) Bill, 2026, to impose stricter penalties for acts of sacrilege against the holy Sikh scripture. The bill was passed unanimously during a special session and introduced stringent punishments, including a minimum imprisonment of 10 years and up to life imprisonment. It also included heavy financial penalties ranging from \u20b95 lakh to \u20b925 lakh. This legislative move reflects the state\u2019s commitment to protecting religious sentiments and maintaining law and order concerning sensitive cultural and spiritual matters.",
+                "category": "International"
+            },
+            {
+                "id": 3,
+                "question": "Who became the Chief Minister of Bihar in April 2026 after the resignation of Nitish Kumar?",
+                "options": [
+                    "Shri Krishna Sinha",
+                    "Samrat Choudhary",
+                    "Syed Ata Hasnain",
+                    "Sushil Kumar Modi"
+                ],
+                "answer": "Samrat Choudhary",
+                "explanation": "In April 2026, a major political shift occurred in Bihar when Nitish Kumar resigned from the post of Chief Minister. Following this, Samrat Choudhary was elected as the leader of the NDA legislative party and took over as the new Chief Minister. His appointment marked a historic moment as he became the first Chief Minister from the Bharatiya Janata Party in the state. The swearing-in ceremony took place on April 15, 2026. The new government structure also includes two Deputy Chief Ministers from the Janata Dal (United), reflecting a coalition governance model in the state.",
+                "category": "International"
+            },
+            {
+                "id": 4,
+                "question": "Who assumed charge as the Principal Chief Commissioner of Income Tax for Tamil Nadu and Puducherry on April 10, 2026?",
+                "options": [
+                    "Rajiv Mehta",
+                    "Anil Kumar Sharma",
+                    "Deepak Agarwal",
+                    "Sunil Bajpai"
+                ],
+                "answer": "Sunil Bajpai",
+                "explanation": "On April 10, 2026, Sunil Bajpai took charge as the Principal Chief Commissioner of Income Tax for Tamil Nadu and Puducherry. He is a senior officer from the 1990 batch of the Indian Revenue Service (IRS) and has held several important roles in tax administration and governance. Before this appointment, he served as Chief Commissioner of Income Tax-5 in Mumbai. His experience includes positions in the National Security Council Secretariat and the Municipal Corporation of Delhi. With strong academic qualifications from IIT Kanpur, IIT Delhi, and IIM Lucknow, he brings significant expertise to the role.",
+                "category": "International"
+            },
+            {
+                "id": 5,
+                "question": "Which state announced an interim hike in minimum wages on April 14, 2026, following labour unrest in the Gautam Buddha Nagar district?",
+                "options": [
+                    "Bihar",
+                    "Madhya Pradesh",
+                    "Uttar Pradesh",
+                    "Rajasthan"
+                ],
+                "answer": "Uttar Pradesh",
+                "explanation": "On April 14, 2026, the government of Uttar Pradesh introduced an interim increase in minimum wages for unskilled, semi-skilled, and skilled workers. This decision came in response to labor protests in the Gautam Buddha Nagar district, particularly in industrial hubs like Noida and Ghaziabad. The wage hike was applied retrospectively from April 1, 2026, with varying increases across regions, including 21% in major urban centers. The move aimed to address rising living costs and worker dissatisfaction in the National Capital Region. Additionally, the state announced plans to establish a Wage Board to recommend a permanent wage structure.",
+                "category": "International"
+            },
+            {
+                "id": 6,
+                "question": "Which state revised its minimum wage rates effective from April 1, 2026, increasing unskilled workers' monthly pay from \u20b911,257 to \u20b915,220?",
+                "options": [
+                    "Punjab",
+                    "Haryana",
+                    "Rajasthan",
+                    "Uttar Pradesh"
+                ],
+                "answer": "Haryana",
+                "explanation": "The state government of Haryana implemented a revised minimum wage structure starting April 1, 2026, significantly increasing the monthly wages of unskilled workers from \u20b911,257 to \u20b915,220. This move was aimed at improving the standard of living for workers and ensuring fair compensation across different labour categories, including semi-skilled and skilled workers. In addition to wage reforms, the state also introduced social welfare measures such as a 33% reservation for women in ration depot allocations, prioritising disadvantaged groups like widows and members of self-help groups, thereby promoting inclusive development and economic empowerment.",
+                "category": "International"
+            },
+            {
+                "id": 7,
+                "question": "Who was appointed as the first female Chief of Army in Australia in April 2026?",
+                "options": [
+                    "Susan Coyle",
+                    "Simon Stuart",
+                    "Mark Hammond",
+                    "Matthew Buckley"
+                ],
+                "answer": "Susan Coyle",
+                "explanation": "In April 2026, Australia made a historic decision by appointing Lieutenant General Susan Coyle as its first female Chief of Army in 125 years. She is set to assume office in July 2026, succeeding Lieutenant General Simon Stuart. With nearly four decades of military service, she has extensive experience in cyber-warfare and has held key leadership roles in operations across Afghanistan and the Middle East. Her appointment is part of a broader leadership reshuffle within the Australian Defence Force, reflecting a progressive shift towards greater inclusion and recognition of experienced leadership in defence services.",
+                "category": "International"
+            },
+            {
+                "id": 8,
+                "question": "Which company partnered with Hindustan Aeronautics Limited (HAL) to finalise a technical agreement for co-producing F414 jet engines in India in April 2026?",
+                "options": [
+                    "Boeing",
+                    "GE Aerospace",
+                    "Lockheed Martin",
+                    "Airbus"
+                ],
+                "answer": "GE Aerospace",
+                "explanation": "In April 2026, GE Aerospace entered into a significant technical agreement with Hindustan Aeronautics Limited (HAL) for the co-production of F414 jet engines in India. This collaboration aims to strengthen India\u2013U.S. defence manufacturing ties and enhance indigenous production capabilities. The engines are intended to power the Tejas Mark-2 fighter aircraft, an advanced version of India\u2019s Light Combat Aircraft. The agreement builds upon a Memorandum of Understanding signed in June 2022 and reflects over four decades of partnership between the two entities in the aerospace sector, supporting India\u2019s push for self-reliance in defence manufacturing.",
+                "category": "International"
+            },
+            {
+                "id": 9,
+                "question": "What GDP growth rate did the International Monetary Fund project for India for FY27 in its April 2026 outlook?",
+                "options": [
+                    "6.5%",
+                    "6.4%",
+                    "6.9%",
+                    "6.6%"
+                ],
+                "answer": "6.5%",
+                "explanation": "In April 2026, the International Monetary Fund (IMF) revised India\u2019s GDP growth forecast for the financial year 2026\u201327 to 6.5%, reflecting a slight increase from its earlier estimate of 6.4% made in January. This upward revision was driven by strong economic performance in the previous fiscal year and improved global conditions, including reduced tariffs on Indian exports by the United States. The IMF also projected that India would sustain this growth rate into FY28. Despite global uncertainties and slower trade growth, India\u2019s economy is expected to remain resilient among emerging markets.",
+                "category": "International"
+            },
+            {
+                "id": 10,
+                "question": "Which country received 13 tonnes of BCG vaccines from India in April 2026 to support child immunisation against Tuberculosis?",
+                "options": [
+                    "Afghanistan",
+                    "Nepal",
+                    "Bangladesh",
+                    "Sri Lanka"
+                ],
+                "answer": "Afghanistan",
+                "explanation": "In April 2026, India extended humanitarian support by delivering 13 tonnes of Bacille Calmette-Guerin (BCG) vaccines to Afghanistan. This assistance was aimed at strengthening the country\u2019s child immunization program, particularly for preventing Tuberculosis (TB), a disease caused by Mycobacterium tuberculosis. The consignment was handed over to the Ministry of Public Health and was part of broader international cooperation efforts involving organisations like WHO and UNICEF. Such initiatives highlight India\u2019s proactive role in regional health support and its commitment to addressing public health challenges in neighbouring nations.",
+                "category": "International"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-16",
+        "questions": [
+            {
+                "id": 1,
+                "question": "What was the annual rate of inflation based on the Wholesale Price Index (WPI) for March 2026 in India?",
+                "options": [
+                    "1.85%",
+                    "3.39%",
+                    "6.36%",
+                    "3.88%"
+                ],
+                "answer": "3.88%",
+                "explanation": "The Wholesale Price Index (WPI) inflation for March 2026 in India was recorded at 3.88% on a year-on-year basis. WPI reflects price changes at the wholesale or factory level and is an important indicator of inflationary trends in the economy. Among the components, Primary Articles showed higher inflation at 6.36%, while Manufactured Products stood at 3.39% and Fuel & Power at 1.05%. Despite stable food inflation at 1.85%, sharp price fluctuations were observed in commodities like crude petroleum and vegetables, indicating sector-specific volatility within the broader inflation framework.",
+                "category": "Economy"
+            },
+            {
+                "id": 2,
+                "question": "Who became the first Indian woman and second woman globally to reach Mount Everest Base Camp using a bicycle in March 2026?",
+                "options": [
+                    "Divya Singh",
+                    "Pooja Verma",
+                    "Anjali Mehta",
+                    "Neha Sharma"
+                ],
+                "answer": "Divya Singh",
+                "explanation": "Divya Singh achieved a remarkable feat by cycling to Mount Everest Base Camp, reaching there on March 24, 2026. She became the first Indian woman and the second woman in the world to accomplish this journey by bicycle. Starting from Kathmandu on March 16, she completed the expedition in 14 days, navigating challenging high-altitude terrain with low oxygen levels and temperatures as low as -12\u00b0C. She also hoisted the flag at an altitude of 17,560 feet, marking a significant milestone in adventure sports and endurance cycling.",
+                "category": "Economy"
+            },
+            {
+                "id": 3,
+                "question": "Which company collaborated with OpenAI to integrate UPI and other payment methods into the Codex AI coding platform in April 2026?",
+                "options": [
+                    "Paytm",
+                    "Razorpay",
+                    "PhonePe",
+                    "Stripe"
+                ],
+                "answer": "Razorpay",
+                "explanation": "Razorpay partnered with OpenAI to integrate payment capabilities directly into the Codex AI coding platform, enabling developers to embed payment gateways into applications in under five minutes. This innovation simplifies the process of monetisation by removing complex infrastructure requirements. The collaboration also supports AI-driven financial operations through ChatGPT, including tracking settlements and managing refunds. Additionally, Razorpay worked with NPCI to develop agentic payment systems, allowing AI to complete transactions on behalf of users, leveraging India\u2019s robust digital payment ecosystem, handling billions of UPI transactions monthly.",
+                "category": "Economy"
+            },
+            {
+                "id": 4,
+                "question": "Which country opposed the two-tier permanent membership system and supported the G4 proposal during the UNSC reform discussions in April 2026?",
+                "options": [
+                    "Brazil",
+                    "Germany",
+                    "Japan",
+                    "India"
+                ],
+                "answer": "India",
+                "explanation": "India strongly opposed the idea of a two-tier permanent membership system in the United Nations Security Council, arguing that it would create inequality by granting some permanent members no veto powers. Instead, it backed the G4 proposal, which suggests deferring veto rights for newly added permanent members for 15 years until a review is conducted. Represented by Ambassador P. Harish, India emphasised fair reform and expansion of both permanent and non-permanent categories. The stance reflects India\u2019s long-standing demand for a more equitable and representative UNSC structure.",
+                "category": "Economy"
+            },
+            {
+                "id": 5,
+                "question": "Who chaired the 7th District Collectors\u2019 Peyjal Samvad held on April 15, 2026?",
+                "options": [
+                    "Rajesh Kumar",
+                    "Ashok Meena",
+                    "Anil Jain",
+                    "Suresh Prasad"
+                ],
+                "answer": "Ashok Meena",
+                "explanation": "Ashok Meena, Secretary of the Department of Drinking Water and Sanitation (DDWS), chaired the 7th District Collectors\u2019 Peyjal Samvad on April 15, 2026. The meeting focused on accelerating the implementation of Jal Jeevan Mission (JJM) 2.0 and Swachh Bharat Mission-Grameen Phase 2. Key initiatives discussed included Jal Arpan for asset transfer to Gram Panchayats and Jal Seva Aankalan for performance assessment. The session also highlighted digital governance tools like Sujala Gaon ID and Sujalam Bharat App, along with district-level achievements in water supply, sanitation, and waste management across various regions.",
+                "category": "Economy"
+            },
+            {
+                "id": 6,
+                "question": "In which state did the State Road Transport Corporation introduce a QR code-based real-time passenger feedback system in April 2026?",
+                "options": [
+                    "Maharashtra",
+                    "Gujarat",
+                    "Rajasthan",
+                    "Madhya Pradesh"
+                ],
+                "answer": "Gujarat",
+                "explanation": "Gujarat State Road Transport Corporation implemented a QR code-based feedback system across its buses to enhance passenger service and grievance redressal. QR codes were installed behind seats in AC and Volvo buses and at least one in standard buses, allowing commuters to rate services like cleanliness, punctuality, and staff behaviour, and upload photos. In March 2026, the system recorded 1,702 responses with an average satisfaction rating of 4.5 out of 5. Safety received the highest rating, indicating strong performance. The initiative reflects Gujarat\u2019s focus on improving public transport quality and passenger experience.",
+                "category": "Economy"
+            },
+            {
+                "id": 7,
+                "question": "Where was the Naval Commanders\u2019 Conference-2026 held on April 14, 2026?",
+                "options": [
+                    "New Delhi",
+                    "Mumbai",
+                    "Kochi",
+                    "Visakhapatnam"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The Naval Commanders\u2019 Conference-2026 was conducted at Nausena Bhawan, the Integrated Headquarters of the Ministry of Defence (Navy), located in New Delhi. The event brought together senior naval officials and operational commanders to deliberate on strategic priorities such as combat readiness, energy security, and adoption of emerging technologies. Being hosted in the national capital highlights the importance of centralised defence coordination and decision-making. The conference also emphasised strengthening India\u2019s maritime presence in the Indian Ocean Region and enhancing cooperation with friendly foreign countries through joint initiatives.",
+                "category": "Economy"
+            },
+            {
+                "id": 8,
+                "question": "What was the total value of India\u2019s exports in the financial year 2025\u201326?",
+                "options": [
+                    "$825.26 Billion",
+                    "$970 Billion",
+                    "$860.09 Billion",
+                    "$777.98 Billion"
+                ],
+                "answer": "$860.09 Billion",
+                "explanation": "India achieved a record total export value of $860.09 billion in the financial year 2025\u201326, reflecting a growth of 4.22% compared to the previous fiscal year. This increase was driven by both merchandise and services exports, with services showing notable growth. Despite the strong export performance, imports grew at a faster rate, resulting in a widened trade deficit. The export growth highlights India\u2019s expanding global trade presence and diversification across sectors, while also indicating the need to manage rising imports to maintain a balanced trade position.",
+                "category": "Economy"
+            },
+            {
+                "id": 9,
+                "question": "In which state was India\u2019s first university-based Quantum Reference Facility inaugurated at SRM University-AP in April 2026?",
+                "options": [
+                    "Karnataka",
+                    "Tamil Nadu",
+                    "Andhra Pradesh",
+                    "Telangana"
+                ],
+                "answer": "Andhra Pradesh",
+                "explanation": "India\u2019s first university-based Quantum Reference Facility (QRF) was inaugurated at SRM University-AP in Andhra Pradesh by Chief Minister N. Chandrababu Naidu on April 14, 2026, coinciding with World Quantum Day. The facility is part of the Amaravati Quantum Valley Project and is designed to test and certify quantum hardware with capabilities of up to 100 qubits. Developed with support from institutions like TIFR, IISc, and DRDO, it aims to advance research in areas such as cybersecurity, artificial intelligence, and drug discovery, strengthening India\u2019s position in quantum technology development.",
+                "category": "Economy"
+            },
+            {
+                "id": 10,
+                "question": "Who was named the Global Brand Ambassador of Infosys in April 2026 to promote AI-powered digital transformation in sports?",
+                "options": [
+                    "Carlos Alcaraz",
+                    "Novak Djokovic",
+                    "Rafael Nadal",
+                    "Daniil Medvedev"
+                ],
+                "answer": "Carlos Alcaraz",
+                "explanation": "Carlos Alcaraz was appointed as the Global Brand Ambassador of Infosys as part of a multi-year partnership announced on April 15, 2026. He represents the company in promoting the use of advanced technologies such as Generative AI and data analytics in professional sports. Alcaraz, a highly accomplished tennis player, has won seven Grand Slam titles and became the youngest male World No. 1 in history. His association also includes collaboration through his foundation for social initiatives, while Infosys leverages its AI platform, Topaz, to enhance performance analytics and coaching strategies.",
+                "category": "Economy"
+            }
+        ]
     }
 ]
