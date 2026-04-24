@@ -13539,5 +13539,410 @@
                 "category": "Sports"
             }
         ]
+    },
+    {
+        "date": "2026-04-21",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Who was awarded the 9th Prof. M.S. Swaminathan Award in 2026 for contributions to climate-resilient agriculture and natural resource management?",
+                "options": [
+                    "Dr Ch. Srinivasa Rao",
+                    "M. Venkaiah Naidu",
+                    "Tummala Nageswara Rao",
+                    "Ramesh Chand"
+                ],
+                "answer": "Dr Ch. Srinivasa Rao",
+                "explanation": "The 9th Prof. M.S. Swaminathan Award was presented to Dr. Ch. Srinivasa Rao in recognition of his significant contributions to climate-resilient agriculture and sustainable natural resource management. Serving as the Director and Vice-Chancellor of the Indian Agricultural Research Institute (IARI), he has played a key role in developing district-level contingency plans to address climate challenges in agriculture. His efforts in scaling resource conservation technologies across vast agricultural areas have strengthened India\u2019s food security. The award, instituted to honor excellence in agricultural science, also marked the birth centenary of M.S. Swaminathan, a pioneer of India\u2019s Green Revolution.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 2,
+                "question": "Until when has the Union Cabinet extended the Pradhan Mantri Gram Sadak Yojana-III (PMGSY-III) for the completion of roads and bridges in plain areas?",
+                "options": [
+                    "March 2027",
+                    "March 2028",
+                    "March 2029",
+                    "March 2030"
+                ],
+                "answer": "March 2028",
+                "explanation": "The Union Cabinet approved the extension of PMGSY-III to ensure the continued development of rural road infrastructure across India. The revised timeline allows for the completion of roads and bridges in plain areas, as well as roads in hilly regions, by March 2028. This extension supports the scheme\u2019s goal of improving rural connectivity, facilitating access to markets, schools, and healthcare facilities. With an increased financial outlay of \u20b983,977 crore, the initiative emphasises reducing transportation costs and boosting economic activities in rural areas, while also addressing pending works sanctioned before March 2025.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 3,
+                "question": "Which Indian company partnered with POSCO Group to invest $7.3 billion in setting up an integrated steel plant in Odisha?",
+                "options": [
+                    "Tata Steel",
+                    "JSW Steel",
+                    "SAIL",
+                    "Essar Steel"
+                ],
+                "answer": "JSW Steel",
+                "explanation": "The agreement involved a major collaboration between POSCO Group of South Korea and JSW Steel of India to establish a large integrated steel plant in Odisha. The project, valued at $7.3 billion, is a significant step toward boosting India\u2019s steel production capacity. Both companies will hold equal stakes of 50 per cent in the joint venture, highlighting a balanced partnership. The plant is expected to produce 6 million tons of steel annually and will cover the entire production process at a single site. This initiative aligns with India\u2019s long-term goal of increasing its steel production capacity under the National Steel Policy.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 4,
+                "question": "Which state is set to host India\u2019s first 3D semiconductor packaging unit at Info Valley with an investment of around \u20b92,000 crore?",
+                "options": [
+                    "Odisha",
+                    "Gujarat",
+                    "Karnataka",
+                    "Tamil Nadu"
+                ],
+                "answer": "Odisha",
+                "explanation": "Odisha has been selected as the location for India\u2019s first advanced 3D semiconductor packaging unit, marking a significant milestone in the country\u2019s push toward self-reliance in high-end electronics manufacturing. The project, established at Info Valley with an investment of around \u20b92,000 crore, will introduce cutting-edge 3D heterogeneous integration technology. This initiative supports sectors such as artificial intelligence, 5G, defence electronics, and high-performance computing. It also aligns with the Atmanirbhar Bharat vision by strengthening domestic semiconductor capabilities, reducing import dependence, generating employment, and positioning Odisha as a major hub in India\u2019s growing technology ecosystem.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 5,
+                "question": "Which institution signed an MoU with the Ministry of Minority Affairs under the PM VIKAS scheme to provide technology-driven skill training to minority youth?",
+                "options": [
+                    "IIT Dharwad",
+                    "NIT Manipur",
+                    "IIT Patna",
+                    "CMERI Durgapur"
+                ],
+                "answer": "IIT Patna",
+                "explanation": "The Ministry of Minority Affairs collaborated with IIT Patna under the PM VIKAS scheme to enhance skill development among minority youth in Bihar. The initiative aims to train 600 individuals in advanced and industry-relevant fields such as Artificial Intelligence and Business Analytics. This partnership reflects the government\u2019s focus on bridging the skill gap and improving employability through modern technological education. IIT Patna, established in 2008, is one of India\u2019s premier institutions and plays a key role in delivering high-quality technical training, thereby supporting sustainable livelihood opportunities for underrepresented communities.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 6,
+                "question": "Who was unanimously elected as the President of the Odisha Steel Producers' Association (OSPA) on April 20, 2026?",
+                "options": [
+                    "S.K. Popli",
+                    "Naveen Patnaik",
+                    "Asit Tripathy",
+                    "Sajjan Jindal"
+                ],
+                "answer": "Asit Tripathy",
+                "explanation": "The Odisha Steel Producers' Association (OSPA), a key body representing major steel and mining companies in the state, elected Asit Tripathy as its President. A former Chief Secretary of Odisha and currently an advisor to Jindal Steel, he brings extensive administrative and industrial experience to the role. The association includes leading companies such as Tata Steel and JSW Steel, and plays a vital role in promoting collaboration, policy engagement, and sustainable industrial growth. His leadership is expected to strengthen Odisha\u2019s position as India\u2019s leading steel and iron ore-producing state while encouraging employment and economic development.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 7,
+                "question": "Which company received the GreenPro ecolabel certification from the Confederation of Indian Industry (CII) for sustainable steel manufacturing on April 18, 2026?",
+                "options": [
+                    "Tata Steel",
+                    "JSW Steel",
+                    "Jindal Steel and Power",
+                    "Rathi Steel And Power"
+                ],
+                "answer": "Rathi Steel And Power",
+                "explanation": "The GreenPro ecolabel certification, awarded by the Confederation of Indian Industry (CII), recognises environmentally sustainable products and manufacturing practices. Rathi Steel And Power Limited earned this certification for its Fe 550 Grade TMT rebars, marketed under the brand Rathi Powertech. This achievement highlights the company\u2019s commitment to green steel production, reduced carbon emissions, and environmentally responsible construction materials. The certified products also contribute to green building standards by offering credits under LEED and aligning with Indian Green Building Council (IGBC) norms, reinforcing sustainable infrastructure development in India.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 8,
+                "question": "Which aerospace company achieved the first successful landing of a reused New Glenn booster on April 20, 2026?",
+                "options": [
+                    "SpaceX",
+                    "Blue Origin",
+                    "NASA",
+                    "ISRO"
+                ],
+                "answer": "Blue Origin",
+                "explanation": "The milestone of successfully landing a reused New Glenn booster marks a significant advancement in reusable rocket technology. This achievement demonstrates progress toward reducing the cost of space missions by enabling booster recovery and reuse. The mission was launched from Cape Canaveral Space Force Station and showcased the booster named \u201cNever Tell Me the Odds,\u201d which landed safely after liftoff. Despite this success, the mission had a setback as the onboard BlueBird 7 satellite failed to reach its intended orbit. Overall, the accomplishment strengthens the company\u2019s position in the competitive space industry alongside other reusable launch system developers.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 9,
+                "question": "Which identification card is now accepted by Indian Railways for Persons with Disabilities to travel in unreserved Divyangjan coaches of Mail and Express trains?",
+                "options": [
+                    "Aadhaar Card",
+                    "Voter ID Card",
+                    "PAN Card",
+                    "UDID Card"
+                ],
+                "answer": "UDID Card",
+                "explanation": "Indian Railways has expanded accessibility measures for Persons with Disabilities (PwDs) by allowing the use of the UDID (Unique Disability ID) Card as valid identification for travel in designated unreserved Divyangjan coaches. Issued by the Department of Empowerment of Persons with Disabilities, the UDID card serves as a standardised national identity for individuals with disabilities and enables them to avail concessional fares and reserved facilities. This initiative simplifies travel procedures and ensures inclusivity. It also helps in maintaining proper verification while preventing unauthorised entry into these specially designated compartments under the Railway Act, 1989.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 10,
+                "question": "Which country partnered with India to set a bilateral trade target of $50 billion by 2030 at the summit held on April 20, 2026?",
+                "options": [
+                    "South Korea",
+                    "Japan",
+                    "China",
+                    "Australia"
+                ],
+                "answer": "South Korea",
+                "explanation": "India and South Korea agreed to significantly enhance their economic partnership by setting a bilateral trade target of $50 billion by 2030 during a high-level summit in New Delhi. This initiative aims to nearly double their existing trade volume of $27 billion. The two countries also decided to resume negotiations to upgrade their Comprehensive Economic Partnership Agreement (CEPA), originally signed in 2009. Additionally, they established new mechanisms like the Industrial Cooperation Committee to boost collaboration in key sectors such as clean energy, semiconductors, and defence manufacturing, strengthening their strategic and economic ties.",
+                "category": "Awards and Honours"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-22",
+        "questions": [
+            {
+                "id": 1,
+                "question": "In which city is the National Institute of Pharmaceutical Education and Research (NIPER) located, which signed a grant agreement with Novartis in April 2026?",
+                "options": [
+                    "Hyderabad",
+                    "Mohali",
+                    "Ahmedabad",
+                    "Pune"
+                ],
+                "answer": "Mohali",
+                "explanation": "The National Institute of Pharmaceutical Education and Research (NIPER) involved in the grant agreement with Novartis, is located in Mohali, Punjab. Established in 1991, it is the first national-level institute in pharmaceutical sciences in India and was later designated as an Institute of National Importance in 1998. The institute plays a significant role in advancing pharmaceutical research and education. The collaboration with Novartis under the Development Pioneer Grant aims to support innovative research aligned with industry needs, strengthening the link between academic research and practical healthcare solutions.",
+                "category": "Places"
+            },
+            {
+                "id": 2,
+                "question": "Who chaired the 7th District Collectors\u2019 Peyjal Samvad held on April 15, 2026?",
+                "options": [
+                    "Ashok Meena",
+                    "Rajesh Agrawal",
+                    "G. Asok Kumar",
+                    "Amitabh Kant"
+                ],
+                "answer": "Ashok Meena",
+                "explanation": "The 7th District Collectors\u2019 Peyjal Samvad was chaired by Ashok Meena, who serves as the Secretary of the Department of Drinking Water and Sanitation (DDWS). The meeting focused on accelerating the implementation of key rural initiatives such as Jal Jeevan Mission 2.0 and Swachh Bharat Mission-Grameen Phase 2. It emphasized improved water supply management, asset transfer to Gram Panchayats, and digital governance tools for monitoring infrastructure. The initiative also highlighted the importance of grassroots-level participation and performance assessment through mechanisms like Jal Seva Aankalan, ensuring better accountability and service delivery in rural water and sanitation sectors.",
+                "category": "Places"
+            },
+            {
+                "id": 3,
+                "question": "Which organisation released a report in April 2026 ranking India among the world\u2019s most advanced markets for AI usage?",
+                "options": [
+                    "Google",
+                    "Microsoft",
+                    "OpenAI",
+                    "Meta"
+                ],
+                "answer": "OpenAI",
+                "explanation": "The report highlighting India's position as a leading user of artificial intelligence technologies was released in April 2026 by OpenAI. This organization analyzed usage patterns such as coding, reasoning, and data analysis through its AI tools. India ranked among the top five countries globally in reasoning capability usage per person, reflecting strong adoption. The report also noted rapid growth in the use of AI coding tools like Codex and significant concentration of users in major cities. These findings demonstrate how AI is becoming deeply integrated into various sectors across India.",
+                "category": "Places"
+            },
+            {
+                "id": 4,
+                "question": "On which date is Earth Day observed globally every year?",
+                "options": [
+                    "April 20",
+                    "April 21",
+                    "April 22",
+                    "April 23"
+                ],
+                "answer": "April 22",
+                "explanation": "Earth Day is observed annually on April 22 and serves as a global platform to promote environmental awareness and action. The day emphasises critical issues such as climate change, pollution, deforestation, and biodiversity loss. First celebrated in 1970, it marked a turning point in environmental activism, bringing these concerns into mainstream discourse. Over the years, it has grown into a worldwide movement involving governments, organisations, and individuals. The observance encourages sustainable practices, community participation, and policy initiatives aimed at protecting the planet and ensuring a healthier environment for future generations.",
+                "category": "Places"
+            },
+            {
+                "id": 5,
+                "question": "Shekha Jheel Bird Sanctuary, declared as India\u2019s 99th Ramsar site in April 2026, is located in which state?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Rajasthan",
+                    "Madhya Pradesh",
+                    "Bihar"
+                ],
+                "answer": "Uttar Pradesh",
+                "explanation": "Shekha Jheel Bird Sanctuary, located in Aligarh, has been recognised as India\u2019s 99th Ramsar site, highlighting its ecological significance. This designation strengthens wetland conservation efforts and underscores the importance of preserving biodiversity. With this addition, Uttar Pradesh now has a total of 12 Ramsar sites, making it a leading state in wetland conservation. Ramsar sites are wetlands of international importance, providing habitats for migratory birds and supporting ecological balance. The inclusion of Shekha Jheel also contributes to climate regulation, groundwater recharge, and promotes eco-tourism and local livelihoods.",
+                "category": "Places"
+            },
+            {
+                "id": 6,
+                "question": "Who was named a Young Global Leader (YGL) 2026 by the World Economic Forum for transforming urban living through innovative space solutions?",
+                "options": [
+                    "Bhupender Yadav",
+                    "Arthur Law",
+                    "Manoj Joshi",
+                    "Amitabh Dube"
+                ],
+                "answer": "Arthur Law",
+                "explanation": "The Young Global Leaders (YGL) program by the World Economic Forum recognizes exceptional individuals under the age of 40 who are shaping the future through innovation and leadership. In 2026, Arthur Law was honoured for his contributions to transforming urban living through innovative space solutions. As a co-founder of Storefriendly Asia, he introduced technology-driven storage systems to address space constraints in rapidly growing cities. His work has impacted thousands of households and businesses. Being selected as a YGL places him among a prestigious global network of leaders, including policymakers, entrepreneurs, and change-makers.",
+                "category": "Places"
+            },
+            {
+                "id": 7,
+                "question": "What was the annual rate of inflation based on the All India Wholesale Price Index (WPI) for March 2026?",
+                "options": [
+                    "1.85%",
+                    "3.39%",
+                    "6.36%",
+                    "3.88%"
+                ],
+                "answer": "3.88%",
+                "explanation": "The Wholesale Price Index (WPI) measures inflation at the wholesale or producer level, reflecting price changes before they reach consumers. For March 2026, the WPI inflation rate was recorded at 3.88%, indicating moderate price growth in the economy. The index comprises major components such as manufactured products, primary articles, and fuel & power, with manufactured goods having the highest weight. Sector-wise, primary articles showed higher inflation compared to fuel and manufactured goods. This data is released monthly by the Office of the Economic Adviser and is crucial for understanding inflation trends and policy decisions.",
+                "category": "Places"
+            },
+            {
+                "id": 8,
+                "question": "What was the total value of India's exports in the financial year 2025\u201326?",
+                "options": [
+                    "$860.09 Billion",
+                    "$825.26 Billion",
+                    "$970 Billion",
+                    "$777.98 Billion"
+                ],
+                "answer": "$860.09 Billion",
+                "explanation": "India's export performance in the financial year 2025\u201326 showed steady growth compared to the previous year. The total exports rose from $825.26 billion in 2024\u201325 to $860.09 billion, reflecting a 4.22% increase. This growth was driven by improvements in both merchandise and services exports. Merchandise exports reached $441.78 billion, while services exports contributed $418.31 billion. Despite this growth, imports increased at a faster rate, leading to a widening trade deficit. The export figure of $860.09 billion marks a significant milestone in India's external trade performance.",
+                "category": "Places"
+            },
+            {
+                "id": 9,
+                "question": "Which country suspended the automatic renewal of a bilateral defence cooperation deal with Israel in April 2026?",
+                "options": [
+                    "France",
+                    "Italy",
+                    "Germany",
+                    "Spain"
+                ],
+                "answer": "Italy",
+                "explanation": "The suspension of the defence cooperation agreement with Israel in April 2026 was carried out by Italy under the leadership of Prime Minister Giorgia Meloni. The agreement, originally signed in 2003 and enforced in 2006, included provisions for automatic renewal every five years. It governed key military interactions such as defence equipment exchange, logistics, and joint training. The decision to suspend the deal came amid escalating tensions in the Middle East, particularly in Lebanon, where Italian troops faced security threats. This move also triggered diplomatic exchanges between the two countries, highlighting growing geopolitical concerns.",
+                "category": "Places"
+            },
+            {
+                "id": 10,
+                "question": "What is the proposed minimum distance between new sugar mills under the Draft Sugarcane Control Order 2026?",
+                "options": [
+                    "10 km",
+                    "15 km",
+                    "20 km",
+                    "25 km"
+                ],
+                "answer": "25 km",
+                "explanation": "The Draft Sugarcane Control Order 2026 proposes increasing the minimum distance between new sugar mills to 25 km, replacing the earlier limit of 15 km. This measure aims to prevent excessive clustering of mills and ensure fair access to sugarcane resources for farmers. By maintaining adequate distance, the policy helps reduce competition among mills for raw materials and supports balanced regional development. It also considers changing consumption patterns, including reduced sugar demand and a shift toward alternatives like jaggery. Overall, the proposal seeks to create a more sustainable and efficient sugar industry structure in India.",
+                "category": "Places"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-23",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Who launched the official portal and brochure for the 9th India International Water Week (IIWW-2026)?",
+                "options": [
+                    "Gajendra Singh Shekhawat",
+                    "C. R. Patil",
+                    "Nitin Gadkari",
+                    "Bhupender Yadav"
+                ],
+                "answer": "C. R. Patil",
+                "explanation": "The official portal and brochure for the 9th India International Water Week (IIWW-2026) were launched by Union Minister of Jal Shakti C. R. Patil. This event is India\u2019s flagship global platform focused on water management and sustainability. Scheduled to be held in September 2026 in New Delhi, it emphasizes the theme of climate-resilient water management. The initiative aims to bring together international participants, policymakers, and experts to discuss pressing water challenges. It also aligns with national efforts such as Jal Sanchay Jan Bhagidari, which focuses on creating large-scale water conservation infrastructure across the country.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 2,
+                "question": "Which state approved the establishment of accommodation facilities for patients' relatives in medical colleges along with a \u20b95,479 crore healthcare allocation in April 2026?",
+                "options": [
+                    "Rajasthan",
+                    "Uttar Pradesh",
+                    "Gujarat",
+                    "Madhya Pradesh"
+                ],
+                "answer": "Madhya Pradesh",
+                "explanation": "The state government that approved accommodation facilities for patients\u2019 relatives in medical colleges, along with a substantial healthcare budget allocation of \u20b95,479 crore, is Madhya Pradesh. This initiative aims to improve support systems for patients\u2019 families without a direct financial burden on the state, as philanthropic organisations will manage the facilities. Additionally, the funding supports major healthcare infrastructure upgrades, including the CM CARE 2025 scheme and improvements in medical colleges. The plan emphasizes strengthening tertiary healthcare services such as oncology and cardiology, while also enhancing administrative and developmental programs within the state.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 3,
+                "question": "Which stock exchange\u2019s index services division launched the Housing Finance Index in April 2026?",
+                "options": [
+                    "NSE",
+                    "MCX",
+                    "NCDEX",
+                    "BSE"
+                ],
+                "answer": "BSE",
+                "explanation": "The Housing Finance Index was introduced by the index services arm of the Bombay Stock Exchange (BSE) to track the performance of companies in India\u2019s housing finance sector. Derived from the broader BSE 1000 Index, it includes 11 key housing finance firms with varying weightages. The index serves as an important benchmark for financial products like ETFs, mutual funds, and portfolio management services. With a base value of 1,000 and a base date of June 22, 2015, it is rebalanced semi-annually. This initiative enhances market transparency and provides investors with a focused sectoral performance indicator.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 4,
+                "question": "Who has been reappointed as the Managing Director and CEO of HDFC Life for another five-year term?",
+                "options": [
+                    "Vibha Padalkar",
+                    "Naina Lal Kidwai",
+                    "Shikha Sharma",
+                    "Chanda Kochhar"
+                ],
+                "answer": "Vibha Padalkar",
+                "explanation": "HDFC Life approved the reappointment of Vibha Padalkar as its Managing Director and Chief Executive Officer for another five-year term during a board meeting held on April 21, 2026. Her continuation ensures leadership stability and strategic consistency during a dynamic phase in the insurance sector. She has been associated with the company since 2008 and has significantly contributed to its growth, including overseeing its public listing in 2017 and major business expansions. Her leadership emphasises financial discipline, operational efficiency, and sustainable long-term growth, making her a key figure in India\u2019s life insurance industry.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 5,
+                "question": "Which city hosted the Bihar Diwas & Investment Forum 2026?",
+                "options": [
+                    "Bali",
+                    "Jakarta",
+                    "Surabaya",
+                    "Bandung"
+                ],
+                "answer": "Jakarta",
+                "explanation": "The Bihar Diwas & Investment Forum 2026 was hosted in Jakarta, the capital city of Indonesia. The event took place at the Wayang Auditorium within the Embassy of India and marked the official launch of the Indonesia chapter of Yayasan Bihar Samaj Indonesia (BSI). It aimed to promote investment opportunities in Bihar across sectors such as agriculture, food processing, tourism, and education. The forum also showcased Bihar\u2019s rich cultural heritage through traditional performances like the Jhijhiya dance, strengthening diaspora engagement and international collaboration.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 6,
+                "question": "Who has been appointed as India\u2019s High Commissioner to Bangladesh as part of a recent diplomatic move?",
+                "options": [
+                    "Pranay Verma",
+                    "Dinesh Trivedi",
+                    "S. Jaishankar",
+                    "Harsh Vardhan Shringla"
+                ],
+                "answer": "Dinesh Trivedi",
+                "explanation": "India appointed Dinesh Trivedi, a seasoned politician and former Union Minister, as its High Commissioner to Bangladesh. This appointment marks a notable shift in diplomatic practice, as such positions are typically held by Indian Foreign Service officers. He succeeds Pranay Verma, who has been reassigned as Ambassador to the European Union. Trivedi\u2019s prior experience includes serving as the Railway Minister and Minister of State for Health. His appointment comes at a time when India aims to strengthen and stabilise diplomatic relations with Bangladesh, especially under its new political leadership, highlighting the importance of strategic regional engagement.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 7,
+                "question": "Which organisation completed the development of the Nancy Grace Roman Space Telescope in April 2026?",
+                "options": [
+                    "NASA",
+                    "ISRO",
+                    "ESA",
+                    "SpaceX"
+                ],
+                "answer": "NASA",
+                "explanation": "The development of the Nancy Grace Roman Space Telescope was completed by NASA in April 2026, marking a significant milestone in space exploration. This advanced observatory is designed to study dark matter, dark energy, and the large-scale structure of the universe. It also has the capability to directly image exoplanets orbiting nearby stars. Completed ahead of schedule and under budget, the telescope reflects NASA\u2019s continued leadership in astrophysics research. Named after Nancy Grace Roman, a pioneer in space astronomy, the mission is expected to greatly enhance understanding of cosmic evolution and the universe\u2019s hidden components.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 8,
+                "question": "In which district was the statue of war hero Lt Gen Sagat Singh Rathore unveiled on April 23, 2026?",
+                "options": [
+                    "Bikaner",
+                    "Jaipur",
+                    "Churu",
+                    "Jodhpur"
+                ],
+                "answer": "Churu",
+                "explanation": "The statue of Lt Gen Sagat Singh Rathore, a distinguished war hero, was unveiled in the district of Churu, Rajasthan, during the \u2018Shaurya Ke Saath Sankalp Divas\u2019 programme. The event was led by the Chief Minister of Rajasthan and aimed to honour the contributions of the military leader. In addition to unveiling the statue, the state government also renamed the local stadium in his honour. This initiative reflects the government\u2019s efforts to recognise the sacrifices and achievements of armed forces personnel while promoting patriotism and awareness among citizens.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 9,
+                "question": "Which bank is a key partner in the insurance company that launched the RISE Life Insurance Plan?",
+                "options": [
+                    "Punjab National Bank",
+                    "State Bank of India",
+                    "Bank of Baroda",
+                    "Canara Bank"
+                ],
+                "answer": "Punjab National Bank",
+                "explanation": "PNB MetLife India Insurance Company Limited is a joint venture that includes Punjab National Bank as a key partner along with MetLife International Holdings LLC and other investors. Established in 2001, the company leverages the strong domestic presence of Punjab National Bank and the global insurance expertise of MetLife. The launch of the RISE Life Insurance Plan highlights its focus on providing reliable financial products with life coverage and guaranteed returns. The plan offers flexible premium payment options, maturity benefits, and additional riders, catering to diverse customer needs in savings and protection.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 10,
+                "question": "In which Indian state will the green ammonia production facility be located under the L&T Energy and ITOCHU partnership?",
+                "options": [
+                    "Maharashtra",
+                    "Tamil Nadu",
+                    "Gujarat",
+                    "Andhra Pradesh"
+                ],
+                "answer": "Gujarat",
+                "explanation": "The green ammonia production facility under the partnership between L&T Energy GreenTech Ltd and Japan\u2019s ITOCHU Corporation is planned to be established in Gujarat, specifically at Kandla. This project is significant as it supports the production of green fuel aimed at reducing carbon emissions in the maritime shipping sector. The facility will supply 300,000 tonnes of green ammonia annually, primarily for use in green bunkering operations in Singapore. It also aligns with India\u2019s National Green Hydrogen Mission, which focuses on developing sustainable energy solutions and positioning India as a global hub for green fuel exports.",
+                "category": "Awards and Honours"
+            }
+        ]
     }
 ]
