@@ -15198,5 +15198,249 @@
                 "category": "Defence"
             }
         ]
+    },
+    {
+        "date": "2026-05-03",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Who has been appointed as the brand ambassador for the F1 Programme in India by Mumbai Falcons Racing Limited?",
+                "options": [
+                    "Virat Kohli",
+                    "Shreyas Iyer",
+                    "Rohit Sharma",
+                    "KL Rahul"
+                ],
+                "answer": "Shreyas Iyer",
+                "explanation": "Shreyas Iyer has been appointed as the brand ambassador for the F1 Programme in India by Mumbai Falcons Racing Limited. This initiative coincides with the launch of the F1 Sim Racing India Open 2026, aimed at promoting esports talent in the country. Iyer\u2019s selection reflects his strong appeal among youth and his reputation for leadership and performance in cricket. His involvement is expected to help bridge traditional sports with the rapidly growing esports industry. The program also seeks to create structured opportunities for aspiring racers, connecting gaming with professional motorsport and expanding India\u2019s presence in global esports.",
+                "category": "Sports"
+            },
+            {
+                "id": 2,
+                "question": "On which date is International Dance Day celebrated annually to promote dance as a universal form of expression and cultural unity?",
+                "options": [
+                    "April 25",
+                    "May 1",
+                    "April 30",
+                    "April 29"
+                ],
+                "answer": "April 29",
+                "explanation": "International Dance Day is celebrated every year on April 29 to honour the birth anniversary of Jean-Georges Noverre, a pioneer of modern dance. The day highlights the importance of dance as a universal language that transcends cultural and linguistic barriers. It encourages participation from people of all ages and promotes creativity, emotional expression, and cultural exchange. Organised globally with support from institutions like UNESCO, the observance brings together artists, students, and communities through performances, workshops, and events. It also emphasizes the role of dance in improving physical fitness, mental well-being, and fostering global harmony.",
+                "category": "Sports"
+            },
+            {
+                "id": 3,
+                "question": "Which company has proposed a $11.75 billion all-cash acquisition of Organon & Co., marking one of the largest overseas deals by an Indian firm?",
+                "options": [
+                    "Sun Pharma",
+                    "Cipla",
+                    "Dr Reddy\u2019s Laboratories",
+                    "Lupin"
+                ],
+                "answer": "Sun Pharma",
+                "explanation": "Sun Pharma has announced a major international acquisition plan to purchase Organon & Co. for $11.75 billion in an all-cash deal. This move represents one of the largest overseas acquisitions by an Indian company and highlights its strategy to expand globally. The acquisition will significantly strengthen its footprint across multiple countries and enhance its presence in high-growth segments like women\u2019s health and biosimilars. With Organon\u2019s extensive product portfolio and global reach, Sun Pharma aims to become a leading global pharmaceutical player while reducing dependence on traditional generics.",
+                "category": "Sports"
+            },
+            {
+                "id": 4,
+                "question": "On which date is the World Day for Safety and Health at Work observed annually to promote safe and healthy workplaces?",
+                "options": [
+                    "May 1",
+                    "March 15",
+                    "April 28",
+                    "June 5"
+                ],
+                "answer": "April 28",
+                "explanation": "World Day for Safety and Health at Work is observed annually on April 28 to raise awareness about workplace safety and promote healthy working conditions globally. Initiated by the International Labour Organisation (ILO), the day focuses on preventing occupational accidents and diseases while improving overall worker well-being. It also commemorates workers who have suffered injuries or lost their lives due to unsafe work environments. The observance highlights the importance of strong safety standards, mental health awareness, and collaboration among governments, employers, and employees to build safer, more inclusive, and productive workplaces worldwide.",
+                "category": "Sports"
+            },
+            {
+                "id": 5,
+                "question": "Who has recently assumed charge as the Controller General of Defence Accounts (CGDA) in India?",
+                "options": [
+                    "Rajiv Kumar",
+                    "Ajay Bhushan Pandey",
+                    "Anugraha Narayana Das",
+                    "Girish Chandra Murmu"
+                ],
+                "answer": "Anugraha Narayana Das",
+                "explanation": "Anugraha Narayana Das, a 1991-batch officer of the Indian Defence Accounts Service (IDAS), has taken charge as the Controller General of Defence Accounts (CGDA). With over three decades of experience in defence finance and public administration, he has held several key positions across ministries and defence establishments. His expertise includes auditing, budgeting, procurement policy, and expenditure monitoring. As CGDA, he is responsible for managing defence accounts, ensuring transparency, auditing expenditures, and advising on financial matters. His leadership is expected to strengthen accountability and efficiency in defence spending, which is a crucial component of government expenditure.",
+                "category": "Sports"
+            },
+            {
+                "id": 6,
+                "question": "What was India\u2019s industrial output growth rate in March 2026, marking the lowest level in five months?",
+                "options": [
+                    "4.1%",
+                    "5.1%",
+                    "3.9%",
+                    "0.8%"
+                ],
+                "answer": "4.1%",
+                "explanation": "India\u2019s industrial output growth, measured by the Index of Industrial Production (IIP), slowed to 4.1% in March 2026, marking a five-month low. This decline reflects weakening momentum in key sectors, particularly manufacturing and electricity, which play a major role in industrial performance. While the mining sector showed improvement, it was not sufficient to offset the slowdown in other areas. The IIP is an important indicator of economic health, as it captures trends in industrial activity, demand, and capacity utilisation. A slowdown suggests cautious demand conditions, possible supply disruptions, and broader economic challenges affecting production levels.",
+                "category": "Sports"
+            },
+            {
+                "id": 7,
+                "question": "Which company is developing Vikram-1, India\u2019s first privately built orbital rocket aimed at transforming the country\u2019s private space industry?",
+                "options": [
+                    "ISRO",
+                    "Skyroot Aerospace",
+                    "Antrix Corporation",
+                    "HAL"
+                ],
+                "answer": "Skyroot Aerospace",
+                "explanation": "Skyroot Aerospace is the private Indian company behind the development of Vikram-1, marking a significant milestone in India\u2019s space sector. The rocket represents a shift from government-led missions to increased private participation, supported by regulatory bodies like IN-SPACe and technical guidance from ISRO. Vikram-1 is designed for cost-effective and on-demand satellite launches, catering to the growing small satellite market. With advanced features such as 3D-printed engines and lightweight composite structures, the initiative highlights India\u2019s push toward innovation and commercialisation in space technology, positioning Skyroot Aerospace as a pioneering player in this evolving ecosystem.",
+                "category": "Sports"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-04",
+        "questions": [
+            {
+                "id": 1,
+                "question": "In which state was the fourth phase of the PMGSY road projects launched?",
+                "options": [
+                    "Jharkhand",
+                    "Chhattisgarh",
+                    "Odisha",
+                    "West Bengal"
+                ],
+                "answer": "Odisha",
+                "explanation": "The fourth phase of the Pradhan Mantri Gram Sadak Yojana (PMGSY-IV) was launched in the Rayagada district, which is located in the state of Odisha. This initiative is part of a broader rural development strategy aimed at improving infrastructure and connectivity in remote and hilly regions. The project includes the construction of hundreds of new roads covering extensive distances to link previously unconnected areas. In addition to road development, financial allocations were made for housing, employment generation, and watershed management. These efforts are aligned with the state\u2019s long-term development vision to enhance rural livelihoods and infrastructure.",
+                "category": "State"
+            },
+            {
+                "id": 2,
+                "question": "When was the Indian Institute of Foreign Trade (IIFT) established?",
+                "options": [
+                    "1958",
+                    "1963",
+                    "1975",
+                    "1980"
+                ],
+                "answer": "1963",
+                "explanation": "The Indian Institute of Foreign Trade (IIFT) was established in 1963 with the objective of professionalising India\u2019s foreign trade management and supporting export-oriented research and policy development. Over the years, it has grown into a premier institution under the Ministry of Commerce and Industry, contributing significantly to international business education and research. Its establishment marked an important step in strengthening India\u2019s global trade capabilities during a period when the country was expanding its economic engagement with the world. The institute continues to play a vital role in shaping skilled professionals in international trade and business domains.",
+                "category": "State"
+            },
+            {
+                "id": 3,
+                "question": "What was the percentage drop in snow persistence recorded in the Hindu Kush Himalaya region during the winter season of 2025\u20132026?",
+                "options": [
+                    "18%",
+                    "23.6%",
+                    "30%",
+                    "27%"
+                ],
+                "answer": "27%",
+                "explanation": "The Hindu Kush Himalaya (HKH) region witnessed a significant environmental change with a 27% decline in snow persistence during the winter season of November 2025 to March 2026. This marks the fourth consecutive year of declining snow levels, highlighting a worrying trend linked to climate change. Reduced snow persistence affects water availability as it lowers early summer river flows, which are crucial for agriculture, hydropower, and drinking water supply. The decline also increases dependence on groundwater and raises drought risks in several basins. This situation underscores the urgent need for climate adaptation and sustainable water management strategies.",
+                "category": "State"
+            },
+            {
+                "id": 4,
+                "question": "Which institution developed a new surgical technique to treat severe spinal deformities in India?",
+                "options": [
+                    "PGIMER Chandigarh",
+                    "JIPMER Puducherry",
+                    "AIIMS Delhi",
+                    "CMC Vellore"
+                ],
+                "answer": "AIIMS Delhi",
+                "explanation": "AIIMS Delhi has pioneered a modified surgical technique to treat severe spinal deformities, marking a significant advancement in medical science. Developed by a specialist team, this method improves upon the traditional posterior vertebral column resection (PVCR) procedure by preserving spinal stability during surgery. The innovation is particularly beneficial for high-risk patients experiencing extreme deformities, breathing issues, and chronic pain. By enhancing surgical safety and reducing neurological complications, the technique has improved patient outcomes and mobility. This breakthrough has also received international recognition, highlighting India\u2019s growing contribution to advanced medical research and surgical innovation.",
+                "category": "State"
+            },
+            {
+                "id": 5,
+                "question": "What percentage of all diseases in India is accounted for by cardiovascular diseases according to the NSO Survey 2025?",
+                "options": [
+                    "18.4%",
+                    "22.1%",
+                    "25.6%",
+                    "30.2%"
+                ],
+                "answer": "25.6%",
+                "explanation": "Cardiovascular diseases have emerged as a major health concern in India, showing a significant increase over recent years. According to the NSO Survey 2025, these diseases now account for 25.6% of all reported illnesses, making them the leading category among various health conditions. This rise reflects changing lifestyles, increased stress levels, and other risk factors such as poor diet and lack of physical activity. Notably, the impact is not limited to older populations, as younger age groups are also increasingly affected. The data highlights the urgent need for improved public health strategies, awareness campaigns, and preventive healthcare measures to address this growing burden.",
+                "category": "State"
+            },
+            {
+                "id": 6,
+                "question": "Which country\u2019s intelligence agency designated Khalistani extremists as a national security threat in May 2026?",
+                "options": [
+                    "United Kingdom",
+                    "Canada",
+                    "Australia",
+                    "United States"
+                ],
+                "answer": "Canada",
+                "explanation": "Canada took a significant step in May 2026 by officially designating Khalistani extremists as a national security threat through its intelligence agency, the Canadian Security Intelligence Service (CSIS). This classification highlights concerns regarding extremist networks operating within the country that allegedly engage in fundraising and support activities for violent agendas. The designation distinguishes between peaceful political advocacy and extremist actions linked to terrorism. This move also comes in the context of strained diplomatic relations with India, emphasising the importance of national security while balancing civil liberties and international relations.",
+                "category": "State"
+            },
+            {
+                "id": 7,
+                "question": "What is the name of the indigenous Integrated Alert System powering the Cell Broadcast Alert System for disaster warnings in India?",
+                "options": [
+                    "SURAKSHA",
+                    "SACHET",
+                    "RAKSHAK",
+                    "ALERTNET"
+                ],
+                "answer": "SACHET",
+                "explanation": "The Cell Broadcast Alert System, introduced in India for real-time disaster warnings, is powered by an indigenous technology known as SACHET. This system has been developed by the Centre for Development of Telematics (C-DOT) and plays a crucial role in enhancing disaster preparedness and response. It enables authorities to send immediate alerts to citizens\u2019 mobile phones without requiring any prior subscription or user action. The alerts include loud alarm tones and flashing messages, ensuring high visibility. SACHET supports multiple regional languages and is designed to cover a wide range of emergencies, including natural disasters like earthquakes and tsunamis, as well as man-made threats.",
+                "category": "State"
+            },
+            {
+                "id": 8,
+                "question": "Where was the \u2018Run for Sun\u2019 Marathon, organised by MNRE to mark International Sun Day, held?",
+                "options": [
+                    "New Delhi",
+                    "Mumbai",
+                    "Hyderabad",
+                    "Kolkata"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The \u2018Run for Sun\u2019 Marathon was organised by the Ministry of New and Renewable Energy (MNRE) as part of the celebrations for International Sun Day, emphasising India\u2019s commitment to renewable energy. The event was held in New Delhi, the capital city of India, which frequently serves as the venue for major national initiatives and awareness programs. Conducted at the Major Dhyan Chand National Stadium, the marathon included 2 km and 5 km races. Hosting the event in New Delhi ensured maximum participation, visibility, and outreach for promoting solar energy and sustainability awareness.",
+                "category": "State"
+            },
+            {
+                "id": 9,
+                "question": "Which state mandated the timely distribution of educational materials through a centralised procurement system for government schools in May 2026?",
+                "options": [
+                    "Karnataka",
+                    "Andhra Pradesh",
+                    "Tamil Nadu",
+                    "Telangana"
+                ],
+                "answer": "Telangana",
+                "explanation": "Telangana introduced a significant reform in May 2026 by mandating a centralised procurement system for distributing educational materials in government schools. This initiative aims to ensure timely delivery and maintain uniform quality across all departments, including those serving backward classes, minorities, tribal communities, and scheduled castes. The policy replaces the earlier decentralised system, which had issues related to fund mismanagement and inefficiencies. By centralising procurement, the government seeks to enhance transparency, streamline logistics, and provide students with essential items like uniforms, notebooks, and school supplies efficiently.",
+                "category": "State"
+            },
+            {
+                "id": 10,
+                "question": "What percentage of land animal habitats are projected to be threatened by extreme climate events by 2085?",
+                "options": [
+                    "36%",
+                    "28%",
+                    "42%",
+                    "50%"
+                ],
+                "answer": "36%",
+                "explanation": "A global study published in May 2026 highlights the severe impact of climate change on biodiversity, projecting that 36% of terrestrial vertebrate habitats will be affected by extreme weather events by 2085. The research covered thousands of species across multiple ecosystems and revealed that rising temperatures, heatwaves, wildfires, droughts, and floods will increasingly overlap, intensifying risks to wildlife. Regions like the Amazon Basin, Africa, and Southeast Asia are particularly vulnerable. Amphibians are expected to face the highest level of exposure. These findings emphasise the urgent need for climate action and biodiversity conservation strategies worldwide.",
+                "category": "State"
+            },
+            {
+                "id": 11,
+                "question": "In which country was an ordinance issued to remove 1,594 political appointees in May 2026?",
+                "options": [
+                    "Nepal",
+                    "Bhutan",
+                    "Sri Lanka",
+                    "Bangladesh"
+                ],
+                "answer": "Nepal",
+                "explanation": "Nepal undertook a major administrative reform in May 2026 when its President issued an ordinance to remove 1,594 political appointees. This move was aimed at restructuring the government under the new leadership following recent elections. The ordinance mandated the termination of all public appointments made before a specified date, ensuring a fresh administrative setup. Alongside this, the government initiated several strong measures, including suspending parliamentary sessions and amending financial laws to strengthen governance. These actions reflect Nepal\u2019s efforts to enhance administrative efficiency, enforce accountability, and support its evolving political landscape after the electoral transition.",
+                "category": "State"
+            }
+        ]
     }
 ]
