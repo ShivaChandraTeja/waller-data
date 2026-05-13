@@ -15712,5 +15712,680 @@
                 "category": "State"
             }
         ]
+    },
+    {
+        "date": "2026-05-07",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which organisation inaugurated the new CBRN Field Training and Demonstration Centre in Delhi?",
+                "options": [
+                    "DRDO",
+                    "ISRO",
+                    "NDMA",
+                    "BARC"
+                ],
+                "answer": "DRDO",
+                "explanation": "The Defence Research & Development Organisation (DRDO) inaugurated a new Chemical, Biological, Radiological and Nuclear (CBRN) Field Training and Demonstration Centre at Burari plains in Delhi. The facility was opened by Dr. Samir V Kamat, who serves as the Secretary of the Department of Defence R&D and Chairman of DRDO. The centre is part of the upcoming CBRN Centre of Excellence under the Institute of Nuclear Medicine & Allied Sciences (INMAS). It includes advanced infrastructure such as radiological test beds, heavy ion research facilities, and emergency response systems to provide specialized training for defence personnel and disaster management agencies.",
+                "category": "Defence"
+            },
+            {
+                "id": 2,
+                "question": "In which city was India\u2019s first comprehensive Urban Testbed and Aerosol Observatory inaugurated?",
+                "options": [
+                    "Pune",
+                    "Chennai",
+                    "Bengaluru",
+                    "Hyderabad"
+                ],
+                "answer": "Chennai",
+                "explanation": "India\u2019s first comprehensive Urban Testbed and Aerosol Observatory was inaugurated in Chennai, Tamil Nadu, by the Ministry of Earth Sciences (MoES). The project was established by the Indian Institute of Tropical Meteorology (IITM) along with the Centre for Atmospheric Science Research and Innovation (CASRI). Equipped with advanced instruments, weather stations, and X-band radars, the observatory is designed to monitor atmospheric conditions, aerosols, rainfall patterns, and thermodynamic changes. The initiative aims to improve short-term weather forecasting, study the effects of aerosols on climate change, and strengthen India\u2019s climate and weather research capabilities under the broader vision of Mission Mausam.",
+                "category": "Defence"
+            },
+            {
+                "id": 3,
+                "question": "Which city will host the inaugural International Big Cat Alliance (IBCA) Summit in June 2026?",
+                "options": [
+                    "Mumbai",
+                    "Bengaluru",
+                    "Hyderabad",
+                    "New Delhi"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The inaugural International Big Cat Alliance (IBCA) Summit will be hosted in New Delhi on 1st and 2nd June 2026 by the Ministry of Environment, Forest and Climate Change. The summit aims to bring together global wildlife conservation delegates to strengthen cooperation for the protection of big cat species. Guided by the theme \u201cSave Big Cats, Save Humanity, Save Ecosystem,\u201d the event seeks to adopt the historic Delhi Declaration focused on transboundary big cat conservation. The summit is inspired by India\u2019s successful conservation initiatives, such as Project Tiger, and highlights India\u2019s growing leadership role in global wildlife and biodiversity protection efforts.",
+                "category": "Defence"
+            },
+            {
+                "id": 4,
+                "question": "What was the non-food credit growth recorded by Scheduled Commercial Banks (SCBs) for the financial year 2025-26?",
+                "options": [
+                    "10.9%",
+                    "15.9%",
+                    "19.0%",
+                    "33.1%"
+                ],
+                "answer": "15.9%",
+                "explanation": "Scheduled Commercial Banks (SCBs) recorded a strong non-food credit growth of 15.9% during the financial year 2025-26. This marked a significant improvement compared to the previous year\u2019s growth rate of 10.9%. The increase was driven by rising demand for credit across the industrial, agricultural, and services sectors. Industrial credit saw notable expansion in infrastructure and manufacturing, while agriculture benefited from improved rural consumption and formal credit systems. The services sector also experienced strong growth due to NBFCs, trade, and commercial real estate activities. Overall, the data reflect increased economic activity and stronger lending momentum within the Indian banking sector.",
+                "category": "Defence"
+            },
+            {
+                "id": 5,
+                "question": "In which city will the second edition of the Joint Commanders\u2019 Conference be held in May 2026?",
+                "options": [
+                    "New Delhi",
+                    "Lucknow",
+                    "Jaipur",
+                    "Chandigarh"
+                ],
+                "answer": "Jaipur",
+                "explanation": "The second edition of the Joint Commanders\u2019 Conference is scheduled to be held in Jaipur, Rajasthan, on May 07 and May 08, 2026. The conference focuses on the theme \u201cMilitary Capability in New Domains\u201d and brings together top defence leadership, including Raksha Mantri Rajnath Singh and Chief of Defence Staff General Anil Chauhan. Discussions during the event will centre on emerging challenges such as cyber warfare, space security, cognitive warfare, and unmanned systems. The conference also emphasises self-reliance in defence production under the Aatmanirbhar Bharat initiative and highlights the importance of civil-military fusion in strengthening India\u2019s defence capabilities.",
+                "category": "Defence"
+            },
+            {
+                "id": 6,
+                "question": "What Fair and Remunerative Price (FRP) per quintal was approved for sugarcane farmers for the Sugar Season 2026-27?",
+                "options": [
+                    "Rs. 338.3",
+                    "Rs. 365",
+                    "Rs. 182",
+                    "Rs. 400"
+                ],
+                "answer": "Rs. 365",
+                "explanation": "The Cabinet Committee on Economic Affairs (CCEA) approved the Fair and Remunerative Price (FRP) for sugarcane at Rs. 365 per quintal for the Sugar Season 2026-27. This rate is applicable for a basic recovery rate of 10.25% and will come into effect from October 1, 2026. Farmers are eligible for additional premiums if the sugar recovery rate exceeds the benchmark, while deductions apply for lower recovery rates. The decision benefits nearly 5 crore sugarcane farmers and lakhs of workers employed in sugar mills and related industries. The FRP system ensures fair compensation to farmers while maintaining stability in the sugar sector.",
+                "category": "Defence"
+            },
+            {
+                "id": 7,
+                "question": "In which state were two new semiconductor manufacturing units approved under the India Semiconductor Mission?",
+                "options": [
+                    "Maharashtra",
+                    "Karnataka",
+                    "Gujarat",
+                    "Telangana"
+                ],
+                "answer": "Gujarat",
+                "explanation": "The Union Cabinet approved two semiconductor manufacturing projects in Gujarat under the India Semiconductor Mission (ISM) on May 05, 2026. One project by Crystal Matrix Limited in Dholera will establish India\u2019s first commercial Gallium Nitride (GaN)-based Mini/Micro-LED display facility, while the second project by Suchi Semicon Private Limited in Surat focuses on semiconductor assembly and testing. Together, the projects involve investments worth \u20b93,936 crore and are expected to generate employment for more than 2,200 skilled professionals. These initiatives strengthen India\u2019s semiconductor ecosystem and support the country\u2019s vision of becoming a global hub for electronics and chip manufacturing.",
+                "category": "Defence"
+            },
+            {
+                "id": 8,
+                "question": "In which state has the Cabinet approved the development of a new Ship Repair Facility at Vadinar?",
+                "options": [
+                    "Gujarat",
+                    "Maharashtra",
+                    "Kerala",
+                    "Tamil Nadu"
+                ],
+                "answer": "Gujarat",
+                "explanation": "The Cabinet Committee on Economic Affairs (CCEA) approved the establishment of a new Ship Repair Facility at Vadinar in Gujarat on May 05, 2026. The project will be jointly implemented by the Deendayal Port Authority (DPA) and Cochin Shipyard Limited (CSL) with an investment of \u20b91,570 crore. The facility is planned as a brownfield infrastructure project and will include advanced repair facilities such as floating dry docks, marine workshops, and a long jetty. It is expected to strengthen India\u2019s maritime infrastructure, improve ship repair capacity for larger vessels, and generate significant employment opportunities in logistics and related industries.",
+                "category": "Defence"
+            },
+            {
+                "id": 9,
+                "question": "In which state will the Coal-to-Ammonium-Nitrate facility developed by BCGCL be situated?",
+                "options": [
+                    "Odisha",
+                    "Jharkhand",
+                    "Chhattisgarh",
+                    "West Bengal"
+                ],
+                "answer": "Odisha",
+                "explanation": "L&T Energy Hydrocarbon Onshore secured a major contract from Bharat Coal Gasification and Chemicals Ltd (BCGCL) to establish a Coal-to-Ammonium-Nitrate facility in Odisha. The project aims to convert high-ash domestic coal into ammonium nitrate with a planned production capacity of 2,000 tonnes per day. This initiative supports India\u2019s broader goal of achieving 100 million tonnes of coal gasification capacity by 2030 under the Aatmanirbhar Bharat initiative. The project is expected to reduce import dependence and promote the production of value-added products such as ammonia, methanol, and synthetic natural gas while strengthening India\u2019s industrial and energy sectors.",
+                "category": "Defence"
+            },
+            {
+                "id": 10,
+                "question": "Which country secured a $515 million financing agreement from the World Bank for the Dorjilung Hydropower Project?",
+                "options": [
+                    "Nepal",
+                    "Bangladesh",
+                    "Sri Lanka",
+                    "Bhutan"
+                ],
+                "answer": "Bhutan",
+                "explanation": "Bhutan secured a $515 million financing agreement from the World Bank for the development of the 1,125 MW Dorjilung Hydropower Project. The project is the largest hydropower initiative in Bhutan, developed under a Public-Private Partnership (PPP) model. It is being executed by Dorjilung Hydro Power Limited, a joint venture between Bhutan\u2019s Druk Green Power Corporation and India\u2019s Tata Power. Once completed, the project will significantly enhance Bhutan\u2019s power generation capacity and support energy exports to India. The financing package involves support from multiple World Bank institutions, including the IBRD, IDA, and IFC, highlighting international cooperation in sustainable energy development.",
+                "category": "Defence"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-08",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which country participated with India in the ninth Foreign Office Consultations held in May 2026?",
+                "options": [
+                    "Sudan",
+                    "Egypt",
+                    "Ethiopia",
+                    "Kenya"
+                ],
+                "answer": "Sudan",
+                "explanation": "India and Sudan conducted the ninth round of Foreign Office Consultations (FOC) in Port Sudan on May 4, 2026, to review and strengthen bilateral relations. The discussions covered areas such as trade, energy, mining, agriculture, digital infrastructure, and capacity building. Both countries also emphasised cooperation in counter-terrorism and human resource development through programs like ITEC and ICCR scholarships. Sudan condemned the terrorist attack in Pahalgam, reflecting support for security cooperation with India. The meeting further reinforced diplomatic engagement between the two nations, and it was decided that the next round of consultations would be hosted in New Delhi.",
+                "category": "International"
+            },
+            {
+                "id": 2,
+                "question": "Who was appointed as the non-executive chairman of Vodafone Idea Limited?",
+                "options": [
+                    "Ravinder Takkar",
+                    "Sunil Bharti Mittal",
+                    "Akshaya Moondra",
+                    "Kumar Mangalam Birla"
+                ],
+                "answer": "Kumar Mangalam Birla",
+                "explanation": "Kumar Mangalam Birla was appointed as the non-executive chairman of Vodafone Idea Limited, succeeding Ravinder Takkar. Prior to this elevation, he served as a non-executive director on the company\u2019s board. The leadership transition was approved by the board and disclosed under Regulation 30 of the SEBI Listing Regulations, ensuring regulatory compliance and transparency. Ravinder Takkar stepped down from the chairman position and assumed the role of non-executive vice-chairman to maintain continuity in leadership. Vodafone Idea, formed through the merger of Vodafone India and Idea Cellular in 2018, is one of India\u2019s leading telecommunications service providers with headquarters in Mumbai and Gandhinagar.",
+                "category": "International"
+            },
+            {
+                "id": 3,
+                "question": "Which city will host the second edition of WAVES Doc Bazaar in June 2026?",
+                "options": [
+                    "New Delhi",
+                    "Chennai",
+                    "Mumbai",
+                    "Hyderabad"
+                ],
+                "answer": "Mumbai",
+                "explanation": "The second edition of WAVES Doc Bazaar will be hosted in Mumbai from June 16 to June 18, 2026, at the NFDC Complex alongside the 19th Mumbai International Film Festival (MIFF). The event is designed to support documentary, animation, and short filmmakers by providing them with mentorship, networking opportunities, and international market exposure. Key components of the event include the Viewing Room for showcasing completed films and the Work-In-Progress Lab for filmmakers seeking expert guidance during post-production stages. Organised in connection with MIFF, the initiative strengthens India\u2019s creative and cinematic ecosystem while promoting independent and high-quality filmmaking.",
+                "category": "International"
+            },
+            {
+                "id": 4,
+                "question": "Who was appointed as the new Chairperson of the Central Board of Film Certification (CBFC) in May 2026?",
+                "options": [
+                    "Shashi Shekhar Vempati",
+                    "Prasoon Joshi",
+                    "Amit Khare",
+                    "Anurag Thakur"
+                ],
+                "answer": "Shashi Shekhar Vempati",
+                "explanation": "Shashi Shekhar Vempati was appointed as the new Chairperson of the Central Board of Film Certification (CBFC) by the Government of India on May 6, 2026. He succeeded Prasoon Joshi, who stepped down after being elevated as the Chairman of Prasar Bharati. Vempati will serve a three-year term from the date of assuming office. The CBFC functions under the Ministry of Information and Broadcasting and is responsible for regulating the public exhibition of films in India under the Cinematograph Act, 1952. Originally established as the Central Board of Film Censors in 1951, the CBFC is headquartered in Mumbai, Maharashtra.",
+                "category": "International"
+            },
+            {
+                "id": 5,
+                "question": "Which country participated with India in the inaugural Joint Commission meeting to expand bilateral defence cooperation in May 2026?",
+                "options": [
+                    "Morocco",
+                    "Tunisia",
+                    "Algeria",
+                    "Egypt"
+                ],
+                "answer": "Algeria",
+                "explanation": "India and Algeria held their inaugural Joint Commission meeting in New Delhi on May 05, 2026, to strengthen bilateral defence cooperation. The meeting was co-chaired by senior defence officials from both countries and focused on expanding collaboration in military training, joint exercises, defence industries, and medical cooperation. Both sides signed the Rules of Procedure to establish a structured framework for implementing defence initiatives. The engagement reflects growing strategic ties between India and Algeria following the signing of a Defence Memorandum of Understanding in 2024. Algeria, the largest country in Africa by land area, continues to play an important role in India\u2019s outreach to African nations.",
+                "category": "International"
+            },
+            {
+                "id": 6,
+                "question": "Which two regions signed reform-linked agreements with the Ministry of Jal Shakti for implementing Jal Jeevan Mission 2.0?",
+                "options": [
+                    "Assam and Sikkim",
+                    "Mizoram and Ladakh",
+                    "Punjab and Haryana",
+                    "Kerala and Goa"
+                ],
+                "answer": "Mizoram and Ladakh",
+                "explanation": "Mizoram and Ladakh signed reform-linked agreements with the Ministry of Jal Shakti on May 06, 2026, for the implementation of Jal Jeevan Mission 2.0. The mission aims to provide sustainable and community-led rural drinking water systems under the vision of \u201cHar Ghar Jal\u201d by 2028. Mizoram achieved near-complete progress in water supply schemes and established multiple testing laboratories, while Ladakh recorded over 98% Functional Household Tap Connection coverage in rural areas. The agreements also emphasise the role of Village Water and Sanitation Committees, community participation, and convergence with schemes like MGNREGA to ensure long-term sustainability of rural water infrastructure.",
+                "category": "International"
+            },
+            {
+                "id": 7,
+                "question": "Which city has been designated as the headquarters of the newly notified South Coast Railway (SCoR) zone?",
+                "options": [
+                    "Visakhapatnam",
+                    "Vijayawada",
+                    "Bhubaneswar",
+                    "Secunderabad"
+                ],
+                "answer": "Visakhapatnam",
+                "explanation": "The Union Government officially notified the creation of the South Coast Railway (SCoR) zone with its headquarters in Visakhapatnam, Andhra Pradesh. The new railway zone will become operational from June 1, 2026, and has been formed by reorganising parts of the East Coast Railway and South Central Railway under the Railways Act, 1989. The restructuring includes divisions such as Guntakal, Guntur, Vijayawada, and the reorganised Visakhapatnam division. The establishment of the new zone is aimed at improving operational efficiency, strengthening freight and passenger connectivity, and supporting regional infrastructure development across Andhra Pradesh and nearby regions.",
+                "category": "International"
+            },
+            {
+                "id": 8,
+                "question": "In which state did Coal India Limited commission a 100 MW solar power plant in March 2026?",
+                "options": [
+                    "Rajasthan",
+                    "Gujarat",
+                    "Maharashtra",
+                    "Karnataka"
+                ],
+                "answer": "Gujarat",
+                "explanation": "Coal India Limited (CIL), a Maharatna Central Public Sector Enterprise under the Ministry of Coal, commissioned a 100 MW solar power project in Gujarat with effect from March 31, 2026. The project received its official commissioning certificate from the Gujarat Energy Development Agency (GEDA). This initiative is part of CIL\u2019s broader strategy to diversify into renewable energy and move toward becoming a net-zero energy company. The Comptroller and Auditor General (CAG) had earlier highlighted delays in achieving the company\u2019s solar energy targets, prompting faster implementation of renewable energy projects to support India\u2019s clean energy transition and sustainable development goals.",
+                "category": "International"
+            },
+            {
+                "id": 9,
+                "question": "Which city\u2019s government approved a major salary increase for Vocational and Samagra Shiksha educators?",
+                "options": [
+                    "Mumbai",
+                    "New Delhi",
+                    "Bengaluru",
+                    "Jaipur"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The New Delhi Government approved a significant salary hike for Vocational and Samagra Shiksha teachers to strengthen the education system and support contractual educators. Vocational teachers will now receive \u20b938,100 per month, while Samagra Shiksha teachers will receive \u20b935,420 per month, bringing them closer to the salary structure of regular teaching staff. The policy benefits more than 1,100 vocational teachers and educators working in hundreds of Special Training Centres. The initiative aims to improve teacher retention, reduce financial insecurity, and ensure better academic support for school dropouts so they can successfully reintegrate into the formal education system under the Samagra Shiksha framework.",
+                "category": "International"
+            },
+            {
+                "id": 10,
+                "question": "Which country partnered with India to set a bilateral trade target of $25 billion by 2030?",
+                "options": [
+                    "Thailand",
+                    "Indonesia",
+                    "Malaysia",
+                    "Vietnam"
+                ],
+                "answer": "Vietnam",
+                "explanation": "India and Vietnam held bilateral discussions in New Delhi and agreed to achieve a bilateral trade target of $25 billion by 2030 under their enhanced comprehensive strategic partnership. The talks focused on expanding trade, improving agricultural market access, and strengthening defence cooperation. Both countries granted access for products such as Indian grapes and Vietnamese durians while also working toward faster clearances for other agricultural goods. They additionally agreed to establish a 2+2 Dialogue mechanism involving foreign and defence ministries. The discussions also emphasised the early review and implementation of the ASEAN-India Trade in Goods Agreement (AITIGA) to further strengthen economic integration and regional cooperation.",
+                "category": "International"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-09",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Who was named the South Asia regional winner of the 2026 Cambridge Dedicated Teacher Awards?",
+                "options": [
+                    "Soma Mandal",
+                    "Aisha Kiran",
+                    "Joanne Newman",
+                    "Corina Corpas"
+                ],
+                "answer": "Soma Mandal",
+                "explanation": "Soma Mandal, an Indian science teacher, was selected as the South Asia regional winner of the 2026 Cambridge Dedicated Teacher Awards for her innovative work in environmental education. The awards are organised by Cambridge University Press & Assessment to recognise outstanding educators from different regions across the world. Winners are chosen based on their impact on students, creativity in teaching, and contribution to education. Soma Mandal was recognized for her practical environmental initiatives that encouraged awareness and learning among students. Along with the recognition, winners receive a commemorative trophy and books worth \u00a3500 for their classrooms, supporting further educational development.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 2,
+                "question": "Which state is set to emerge as a premium fruit hub according to the Fruit Horizon 2026 conference?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Maharashtra",
+                    "Punjab",
+                    "Karnataka"
+                ],
+                "answer": "Uttar Pradesh",
+                "explanation": "Uttar Pradesh is being developed as a premium fruit hub through initiatives discussed at the Fruit Horizon 2026 conference held at the ICAR-Central Institute for Subtropical Horticulture (CISH) in Lucknow. The conference focused on improving fruit quality, shelf life, export standards, and achieving \u201czero rejection\u201d for international markets. A specialized task force involving ICAR institutions, APEDA, exporters, and related agencies will prepare an action plan to increase farmers\u2019 income and strengthen the horticulture sector. In addition, a modern Clean Plant Centre is being established to provide disease-free planting materials for fruits such as mango, guava, litchi, and avocado, boosting export-oriented agricultural development.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 3,
+                "question": "In which country was the humanoid robot monk Gabi introduced?",
+                "options": [
+                    "Japan",
+                    "South Korea",
+                    "China",
+                    "Thailand"
+                ],
+                "answer": "South Korea",
+                "explanation": "South Korea introduced its first humanoid robot monk named Gabi after it completed a traditional Buddhist precept ceremony at the Jogye Temple in Seoul on May 07, 2026. The initiative was organised by the Jogye Order to address the shortage of human monks and attract younger generations toward Buddhism through technology. Developed using China\u2019s Unitree G1 platform, the robot was given symbolic Buddhist elements such as a rosary and a ceremonial burn sticker. Specially modified vows were also designed for the robot, including respecting life, avoiding deception, and saving energy. Gabi is expected to participate in religious and cultural events such as the Yeondeunghoe lantern festival.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 4,
+                "question": "In which city was the 100th N-Gen Post Office inaugurated at North-Eastern Hill University (NEHU)?",
+                "options": [
+                    "Guwahati",
+                    "Imphal",
+                    "Aizawl",
+                    "Shillong"
+                ],
+                "answer": "Shillong",
+                "explanation": "The 100th N-Gen Post Office in India was inaugurated at North-Eastern Hill University (NEHU) in Shillong, Meghalaya, by Union Minister for Communications Shri Jyotiraditya M. Scindia on May 6, 2026. N-Gen Post Offices are modern postal hubs designed mainly for youth and students within educational institutions. These facilities provide services such as free Wi-Fi, QR-based payment systems, concessional parcel services, and dedicated student service counters. The Shillong branch is unique because it is operated entirely by women staff and incorporates eco-friendly local materials like bamboo and straw, reflecting sustainability and community participation in its design and development.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 5,
+                "question": "On which date is World Athletics Day observed annually?",
+                "options": [
+                    "May 1",
+                    "May 5",
+                    "May 7",
+                    "May 10"
+                ],
+                "answer": "May 7",
+                "explanation": "World Athletics Day is observed every year on May 7 to promote athletics and encourage young people to participate in sports and physical activities. The day is regulated by World Athletics, the international governing body for athletics headquartered in Monaco. In 2026, the theme for the observance is \u201cSport: Building Bridges, Breaking Barriers.\u201d The celebration aims to spread awareness about the importance of fitness, teamwork, discipline, and sportsmanship while encouraging schools and institutions to organise athletic events and grassroots competitions. It also highlights the role of sports in building healthier communities and fostering social and environmental awareness among youth.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 6,
+                "question": "In which city was the seminar on Sustainable Spice Value Chains organised in May 2026?",
+                "options": [
+                    "Kochi",
+                    "Chennai",
+                    "Pune",
+                    "Ahmedabad"
+                ],
+                "answer": "Kochi",
+                "explanation": "The seminar on Sustainable Spice Value Chains was organised in Kochi, Kerala, by the Consulate General of the Netherlands and the World Spice Organisation. The event focused on enhancing sustainability in the spice industry while addressing European regulations related to food safety, quality standards, and traceability. India plays a significant role in the global spice market by exporting more than 250 varieties of spices and value-added products to over 180 countries. The seminar also reviewed the progress of the National Sustainable Spices Program (NSSP), which supports sustainable cultivation practices among thousands of farmers involved in producing spices such as chilli, turmeric, coriander, cumin, and pepper.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 7,
+                "question": "On which date is World Red Cross and Red Crescent Day observed annually?",
+                "options": [
+                    "May 01",
+                    "May 08",
+                    "May 15",
+                    "May 20"
+                ],
+                "answer": "May 08",
+                "explanation": "World Red Cross and Red Crescent Day is observed every year on May 08 to recognise humanitarian efforts carried out across the world by volunteers and aid workers. The day commemorates the birth anniversary of Henry Dunant, the founder of the International Red Cross and Red Crescent Movement. In 2026, the theme was \u201cUnited in Humanity. No Matter Where, No Matter When,\u201d highlighting the importance of humanitarian assistance during conflicts, disasters, and refugee crises. Volunteers and relief workers provided support in regions affected by war, displacement, and infrastructure damage, including areas in the Middle East, Ukraine, and refugee camps in Chad, demonstrating global solidarity and compassion.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 8,
+                "question": "Which Prime Minister of the Solomon Islands was ousted after losing a no-confidence vote in May 2026?",
+                "options": [
+                    "Manasseh Sogavare",
+                    "Jeremiah Manele",
+                    "Danny Philip",
+                    "Rick Houenipwela"
+                ],
+                "answer": "Jeremiah Manele",
+                "explanation": "Jeremiah Manele, the Prime Minister of the Solomon Islands, was removed from office on May 7, 2026, after losing a no-confidence vote in the national parliament. He lost the motion by 22 votes to 26 in the 50-seat legislature. The political crisis intensified after multiple cabinet resignations and the withdrawal of coalition partners from the ruling Government for National Unity and Transformation. Concerns regarding governance, financial accountability, and rising infrastructure debt to China further contributed to the instability. Following the vote, parliament was adjourned so that the Governor-General could oversee the process of electing a new national leader under the country\u2019s parliamentary democratic system.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 9,
+                "question": "Which company became India\u2019s first space-tech unicorn after raising $60 million in funding in 2026?",
+                "options": [
+                    "Agnikul Cosmos",
+                    "Pixxel",
+                    "Skyroot Aerospace",
+                    "Bellatrix Aerospace"
+                ],
+                "answer": "Skyroot Aerospace",
+                "explanation": "Skyroot Aerospace became India\u2019s first space-tech unicorn after raising $60 million in a funding round co-led by Sherpalo Ventures and Singapore\u2019s sovereign wealth fund GIC. The Hyderabad-based company achieved a valuation of $1.1 billion, marking a major milestone for India\u2019s private space sector. Founded in 2018 by former ISRO engineers Pawan Kumar Chandana and Naga Bharath Daka, Skyroot Aerospace is developing orbital launch vehicles such as Vikram-1 and Vikram-2. The company had earlier achieved success by launching the Vikram-S suborbital rocket in 2022, becoming the first private Indian firm to send a rocket into space.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 10,
+                "question": "Which city is scheduled to host the 22nd Commonwealth Table Tennis Championship 2026?",
+                "options": [
+                    "Mumbai",
+                    "Chennai",
+                    "Bengaluru",
+                    "New Delhi"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The 22nd Commonwealth Table Tennis Championship 2026 is scheduled to be held in New Delhi from July 27 to August 2, 2026, at the Thyagraj Stadium. The event is being jointly organised by the Government of Delhi and the Table Tennis Federation of India (TTFI). Players from more than 35 Commonwealth nations, including England, Australia, Canada, South Africa, and Singapore, are expected to participate. The championship aims to strengthen India\u2019s sports infrastructure and aligns with the Vision 2036 Olympics mission. India has previously hosted major Commonwealth sporting events, including the 2010 Commonwealth Games in New Delhi.",
+                "category": "Awards and Honours"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-10",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Who was sworn in as the new Chief Minister of Tamil Nadu on May 10, 2026?",
+                "options": [
+                    "M.K. Stalin",
+                    "Edappadi K. Palaniswami",
+                    "Seeman",
+                    "C. Joseph Vijay"
+                ],
+                "answer": "C. Joseph Vijay",
+                "explanation": "C. Joseph Vijay, the actor-turned-politician and founder of Tamilaga Vettri Kazhagam (TVK), was sworn in as the Chief Minister of Tamil Nadu on May 10, 2026. The oath-taking ceremony was held at Chennai\u2019s Jawaharlal Nehru Indoor Stadium in the presence of political leaders, celebrities, alliance partners, and thousands of supporters. His victory marked a major political shift in Tamil Nadu, ending nearly six decades of dominance by the DMK and AIADMK parties. TVK emerged as the single largest party in the 2026 Assembly elections and formed the government with support from alliance partners, including Congress, CPI, CPI(M), VCK, and IUML.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 2,
+                "question": "On which date is World Thalassemia Day officially observed every year?",
+                "options": [
+                    "April 25",
+                    "May 8",
+                    "June 14",
+                    "July 11"
+                ],
+                "answer": "May 8",
+                "explanation": "World Thalassemia Day is observed every year on May 8 to spread awareness about thalassemia, a hereditary blood disorder that affects haemoglobin production and requires lifelong medical care. The 2026 theme, \u201cHidden No More: Finding the Undiagnosed. Supporting the Unseen,\u201d highlighted the importance of identifying undiagnosed patients and improving support systems. The observance also promotes prenatal screening to reduce the number of affected births. Established officially on May 8, 1994, by Panos Englezos, the day honours patients battling thalassemia and encourages global healthcare communities to improve treatment, care, and advocacy efforts worldwide.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 3,
+                "question": "Which country had its Olympic ban lifted by the International Olympic Committee (IOC) for participation under its national flag at the 2028 Los Angeles Olympics?",
+                "options": [
+                    "Switzerland",
+                    "Ukraine",
+                    "Belarus",
+                    "Kazakhstan"
+                ],
+                "answer": "Belarus",
+                "explanation": "The International Olympic Committee (IOC) lifted the ban on Belarus on May 7, 2026, allowing Belarusian athletes to participate under their national flag at the 2028 Los Angeles Olympics. Belarusian teams and officials will also be included in the opening ceremony and official medal standings. In contrast, Russia continues to remain suspended because the Russian Olympic Committee unlawfully absorbed sports organisations from occupied Ukrainian territories. Russian athletes are only permitted to compete as \u201cIndividual Neutral Athletes\u201d without national symbols. The decision reflects changing international sports policies and varying stances among global sporting federations regarding participation restrictions.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 4,
+                "question": "On which date was Mother\u2019s Day celebrated across the world in 2026?",
+                "options": [
+                    "May 10",
+                    "June 12",
+                    "April 15",
+                    "March 8"
+                ],
+                "answer": "May 10",
+                "explanation": "Mother\u2019s Day 2026 was celebrated globally on May 10, which fell on the second Sunday of May. The occasion honours the unconditional love, sacrifices, care, and support provided by mothers and maternal figures. People celebrate the day through family gatherings, heartfelt wishes, gifts, flowers, and expressions of gratitude. The modern celebration of Mother\u2019s Day began in the early 20th century due to the efforts of American social activist Anna Jarvis, who organised the first official observance in 1908 in memory of her mother. Today, Mother\u2019s Day is recognised worldwide as one of the most meaningful family-oriented celebrations.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 5,
+                "question": "Which city is hosting India\u2019s first International Ophthalmology Research Conference, AIOS-AFOU 2026?",
+                "options": [
+                    "New Delhi",
+                    "Chandigarh",
+                    "Mumbai",
+                    "Bengaluru"
+                ],
+                "answer": "New Delhi",
+                "explanation": "India\u2019s first International Ophthalmology Research Conference, AIOS-AFOU 2026, is being held at the Manekshaw Centre in New Delhi on May 09 and 10, 2026. The conference is jointly organised by the Department of Ophthalmology at Army Hospital (Research & Referral) and the All-India Ophthalmological Society. The event focuses on advancements in ophthalmology and encourages collaboration between civil and military medical institutions. Renowned international experts and leading ophthalmologists from premier institutes such as AIIMS New Delhi, PGI Chandigarh, and LV Prasad Eye Institute are participating. The conference also highlights innovations in AI-driven eye diagnostics and modern ophthalmic research.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 6,
+                "question": "Which organisation successfully tested a 120-kilowatt lithium-fed magnetoplasmadynamic (MPD) thruster for future Mars travel missions?",
+                "options": [
+                    "ISRO",
+                    "ESA",
+                    "NASA",
+                    "SpaceX"
+                ],
+                "answer": "NASA",
+                "explanation": "NASA, in collaboration with the Jet Propulsion Laboratory (JPL), successfully tested a 120-kilowatt lithium-fed magnetoplasmadynamic (MPD) thruster on May 08, 2026. The advanced propulsion technology uses ionized lithium plasma accelerated through magnetic fields to produce electromagnetic thrust. The system operates using Nuclear Electric Propulsion (NEP), where a compact nuclear reactor powers the thrusters instead of solar energy. This innovation is significant for future deep-space exploration and crewed Mars missions, which may require power outputs between 2 and 4 megawatts. The successful test represents a major milestone in high-power space propulsion technology for long-duration interplanetary travel.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 7,
+                "question": "Who took oath as West Bengal\u2019s first BJP Chief Minister after the 2026 Assembly elections?",
+                "options": [
+                    "Mamata Banerjee",
+                    "Suvendu Adhikari",
+                    "JP Nadda",
+                    "Dilip Ghosh"
+                ],
+                "answer": "Suvendu Adhikari",
+                "explanation": "Suvendu Adhikari became the first Bharatiya Janata Party (BJP) Chief Minister of West Bengal after taking oath on May 9, 2026. His appointment followed the BJP\u2019s historic victory in the 2026 Assembly elections, where the party secured 207 seats in the 294-member Assembly, ending the Trinamool Congress\u2019s 15-year rule. The swearing-in ceremony took place at Brigade Parade Ground in Kolkata in the presence of Prime Minister Narendra Modi and other senior NDA leaders. Suvendu Adhikari had earlier joined the BJP in December 2020 after leaving the Trinamool Congress and later emerged as one of the party\u2019s strongest leaders in West Bengal politics.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 8,
+                "question": "On which date is World Ovarian Cancer Day observed every year?",
+                "options": [
+                    "May 8",
+                    "June 5",
+                    "April 7",
+                    "March 24"
+                ],
+                "answer": "May 8",
+                "explanation": "World Ovarian Cancer Day is observed annually on May 8 to raise awareness about ovarian cancer and promote better healthcare access for women worldwide. In 2026, the World Ovarian Cancer Coalition marked the 14th observance of the day by launching new initiatives focused on health equity. The campaign theme \u201cNo Woman Left Behind\u201d emphasised equal access to diagnosis and quality treatment irrespective of geographic location. Awareness activities, including the #ReachForTheScars campaign and the WOCD 2026 toolkit, aimed to educate people about early symptoms, the importance of timely medical care, and the risks associated with delayed diagnosis.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 9,
+                "question": "Which country hosted the ISO TC 20 / SC 14 international subcommittee meetings on space systems and operations for the first time in 2026?",
+                "options": [
+                    "Japan",
+                    "India",
+                    "Germany",
+                    "France"
+                ],
+                "answer": "India",
+                "explanation": "India hosted the ISO TC 20 / SC 14 international subcommittee meetings on space systems and operations for the first time on May 08, 2026, in New Delhi. The meetings were organized by the Bureau of Indian Standards (BIS) at Bharat Mandapam and witnessed participation from 131 delegates representing 13 countries. The event focused on creating global standards for mission safety, interoperability, and mitigation of space debris. The conference also highlighted India\u2019s rapidly growing private space ecosystem, encouraged through IN-SPACe policy reforms. Experts from ISRO and several international space agencies participated, strengthening India\u2019s role in global space governance and technological cooperation.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 10,
+                "question": "Where was the 52nd All India Sainik Schools Principals\u2019 Conference inaugurated on May 07, 2026?",
+                "options": [
+                    "Nagrota",
+                    "Satara",
+                    "New Delhi",
+                    "Kazhakoottam"
+                ],
+                "answer": "Kazhakoottam",
+                "explanation": "The 52nd All India Sainik Schools Principals\u2019 Conference was inaugurated at Kazhakoottam in Kerala by Raksha Rajya Mantri Shri Sanjay Seth on May 07, 2026. The conference brought together delegates from 33 Sainik Schools and principals of 79 New Sainik Schools through video conferencing. The event included activities such as a wreath-laying ceremony at the War Memorial and exhibitions on educational technology at the Gyan Mela. Several awards for academic excellence and contributions to defence academy admissions were presented during the conference, highlighting the role of Sainik Schools in preparing students for leadership and military careers.",
+                "category": "Awards and Honours"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-11",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which state emerged as the top-performing state in India under PMAY-U 2.0 housing completions?",
+                "options": [
+                    "Gujarat",
+                    "Odisha",
+                    "Maharashtra",
+                    "Karnataka"
+                ],
+                "answer": "Odisha",
+                "explanation": "Odisha secured the top position in India for achieving the highest number of housing completions under the Pradhan Mantri Awas Yojana-Urban (PMAY-U 2.0). The state consistently maintained the number one rank from March 2025 to March 2026 for urban housing completion performance. Under the scheme\u2019s second phase, more than 24,000 houses were sanctioned in Odisha, with a large number successfully geo-tagged and several thousand units under active construction. The initiative is managed by the Housing and Urban Development Department in coordination with Urban Local Bodies. PMAY-U aims to provide durable and affordable housing to eligible urban households across the country.",
+                "category": "State"
+            },
+            {
+                "id": 2,
+                "question": "Who became the first Indian woman elected as a Fellow of The Meteoritical Society in 2026?",
+                "options": [
+                    "Devendra Lal",
+                    "JN Goswami",
+                    "Kuljeet Kaur Marhas",
+                    "Vikram Sarabhai"
+                ],
+                "answer": "Kuljeet Kaur Marhas",
+                "explanation": "Professor Kuljeet Kaur Marhas was elected as a Fellow of The Meteoritical Society in 2026 for her exceptional contributions to planetary science and cosmochemistry. She became the first Indian woman to receive this prestigious recognition and only the third Indian scientist to achieve the honour after Devendra Lal and JN Goswami. Her research at the Physical Research Laboratory in Ahmedabad focuses on isotopes, pre-solar grains, Calcium-Aluminium-rich Inclusions, and extraterrestrial materials collected from missions such as Stardust, Hayabusa, and Apollo. Her scientific work has significantly advanced the understanding of the origin and evolution of the Solar System through sophisticated isotopic analysis techniques.",
+                "category": "State"
+            },
+            {
+                "id": 3,
+                "question": "Which university became India's first Institution of Eminence to receive accreditation from the Data Science Council of America (DASCA)?",
+                "options": [
+                    "Amity University",
+                    "Ashoka University",
+                    "Manipal University",
+                    "O.P. Jindal Global University"
+                ],
+                "answer": "O.P. Jindal Global University",
+                "explanation": "O.P. Jindal Global University (JGU), located in Sonipat, Haryana, became the first Institution of Eminence in India to receive accreditation from the Data Science Council of America (DASCA). The accreditation was granted under the World Data Science & AI Initiative (WDSAI) to align academic programs with international industry standards. The certification remains valid until 2031 and covers residential, non-residential, and online learning formats. Several AI and Data Science-related programs, including MBA, M.Sc., and undergraduate courses, received recognition under this framework. The achievement highlights the university\u2019s growing focus on advanced technology education, ethical AI practices, and globally benchmarked academic excellence.",
+                "category": "State"
+            },
+            {
+                "id": 4,
+                "question": "Which state government launched the Lump Sum Traffic Challan Settlement Scheme 2026?",
+                "options": [
+                    "Bihar",
+                    "Odisha",
+                    "Rajasthan",
+                    "Gujarat"
+                ],
+                "answer": "Bihar",
+                "explanation": "The Lump Sum Traffic Challan Settlement Scheme 2026 was launched by the Bihar Police along with the state transport department to address the large number of pending traffic e-challans. The scheme focuses on resolving challans that remained unpaid for more than 90 days as of March 31, 2026. It also offers relief in penalties for minor traffic offences such as speeding, not wearing helmets or seat belts, and driving without a licence. More than two lakh pending challan cases are targeted for disposal through the National Lok Adalat process, improving efficiency in traffic law enforcement and dispute resolution across Bihar.",
+                "category": "State"
+            },
+            {
+                "id": 5,
+                "question": "Which institution announced the establishment of its first international deep-tech centre in Menlo Park, California?",
+                "options": [
+                    "IIT Bombay",
+                    "IIT Delhi",
+                    "IISc Bengaluru",
+                    "IIT Madras"
+                ],
+                "answer": "IIT Madras",
+                "explanation": "IIT Madras announced the creation of its first international deep-tech center in Menlo Park, California, with an investment plan of US$ 7.5 million. The initiative was introduced at the SelectUSA Investment Summit and aims to support Indian deep-tech startups by providing access to mentorship, funding opportunities, and global markets. Developed in collaboration with CA Startups, the centre is designed to encourage translational research, innovation, and international talent exchange. IIT Madras, established in 1959 with support from West Germany, is recognised as one of India\u2019s leading engineering and research institutions and is headquartered in Chennai, Tamil Nadu.",
+                "category": "State"
+            },
+            {
+                "id": 6,
+                "question": "Which bank received RBI approval to acquire up to 9.99% stake in AU Small Finance Bank and Federal Bank in May 2026?",
+                "options": [
+                    "HDFC Bank",
+                    "Kotak Mahindra Bank",
+                    "ICICI Bank",
+                    "Axis Bank"
+                ],
+                "answer": "Kotak Mahindra Bank",
+                "explanation": "The Reserve Bank of India approved Kotak Mahindra Bank to acquire up to 9.99% stake in both AU Small Finance Bank and Federal Bank. The approval allowed the Kotak Mahindra Group to increase its aggregate holding in the two banking institutions through paid-up share capital or voting rights. Following the announcement, market valuations of the involved banks witnessed positive movement. Kotak Mahindra Bank, founded by Uday Kotak in 1985, became the first Non-Banking Financial Company in India to convert into a commercial bank in 2003. The development highlights ongoing consolidation and strategic investments within India\u2019s banking and financial sector.",
+                "category": "State"
+            },
+            {
+                "id": 7,
+                "question": "What GDP growth rate was projected for India for FY27 by S&P Global in May 2026?",
+                "options": [
+                    "6.6%",
+                    "7.6%",
+                    "5.1%",
+                    "7.1%"
+                ],
+                "answer": "6.6%",
+                "explanation": "S&P Global revised India\u2019s FY27 GDP growth forecast to 6.6% due to a major energy supply disruption originating in West Asia. The downgrade reflected concerns over rising crude oil prices, increased freight costs, and global economic uncertainty. Earlier projections estimated growth at 7.1%, while the economy had previously expanded by 7.6%. The report also highlighted rising inflation, weakening of the Indian rupee, and widening current account deficits caused by increased import dependence on crude oil and gas. To address the economic challenges, the government introduced stabilisation measures such as a \u20b91 lakh crore oil hedging fund and maintenance of strategic petroleum reserves.",
+                "category": "State"
+            },
+            {
+                "id": 8,
+                "question": "From which year did the Supreme Court propose the creation of a permanent Vice-President post reserved for women in the SCBA?",
+                "options": [
+                    "2027",
+                    "2026",
+                    "2028",
+                    "2030"
+                ],
+                "answer": "2027",
+                "explanation": "The Supreme Court proposed the establishment of a permanent Vice-President post reserved exclusively for women in the Supreme Court Bar Association (SCBA) beginning from the 2027-28 term. The move is aimed at improving women\u2019s representation in legal institutions and encouraging greater participation in leadership roles within the legal profession. The court also retained the reservation of the Secretary post for women in the 2026-27 SCBA elections. These reforms are part of broader judicial efforts to strengthen gender inclusion, including reservations for women in bar associations and bar councils, ultimately paving the way for increased representation of women in senior legal positions.",
+                "category": "State"
+            },
+            {
+                "id": 9,
+                "question": "What is the name of the newly commissioned Adamya-class Fast Patrol Vessel inducted into the Indian Coast Guard in May 2026?",
+                "options": [
+                    "Vikrant",
+                    "Achal",
+                    "Samarth",
+                    "Veer"
+                ],
+                "answer": "Achal",
+                "explanation": "ICGS Achal is a new-generation Adamya-class Fast Patrol Vessel commissioned into the Indian Coast Guard at Goa Shipyard Limited on May 09, 2026. The vessel was designed and built entirely in India, supporting the government\u2019s focus on indigenous defence manufacturing and self-reliance. More than 50 percent of its components are domestically produced, highlighting advancements in the Indian shipbuilding sector. The vessel is intended to strengthen maritime security and coastal surveillance operations across India\u2019s maritime frontiers. The commissioning ceremony was attended by senior officials from the Ministry of Defence and the Indian Coast Guard, reflecting the strategic importance of the induction.",
+                "category": "State"
+            },
+            {
+                "id": 10,
+                "question": "Who was appointed as the Co-Chair of the Indian side of the Saudi-India Business Council (SIBC) by FICCI?",
+                "options": [
+                    "Naina Lal Kidwai",
+                    "Siddeek Ahmed",
+                    "Priyanka Mittal",
+                    "Kiran Mazumdar-Shaw"
+                ],
+                "answer": "Priyanka Mittal",
+                "explanation": "Priyanka Mittal of KRBL Limited was appointed as the Co-Chair of the Indian side of the Saudi-India Business Council (SIBC) by the Federation of Indian Chambers of Commerce and Industry (FICCI). She will work alongside Dr. Siddeek Ahmed to strengthen corporate and trade relations between India and Saudi Arabia. KRBL Limited is widely recognised for its India Gate rice brand and for maintaining an integrated supply chain system. The SIBC serves as an important platform for enhancing bilateral economic cooperation, trade partnerships, and investment opportunities between the two countries, contributing to stronger commercial engagement and long-term business collaboration.",
+                "category": "State"
+            }
+        ]
     }
 ]
