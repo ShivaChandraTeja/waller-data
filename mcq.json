@@ -16387,5 +16387,275 @@
                 "category": "State"
             }
         ]
+    },
+    {
+        "date": "2026-05-12",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which city\u2019s government launched a new aftercare scheme in May 2026 to support youth leaving child care institutions after turning 18?",
+                "options": [
+                    "Mumbai",
+                    "New Delhi",
+                    "Bengaluru",
+                    "Chennai"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The government of New Delhi launched an aftercare scheme aimed at supporting vulnerable youth transitioning out of child care institutions after reaching the age of 18. The initiative focuses on rehabilitation, financial support, emotional counselling, education, and vocational opportunities. A budget allocation of \u20b93.5 crore was made for the 2026-27 financial year to implement the program effectively. The scheme operates under the Juvenile Justice (Care and Protection of Children) Act, 2015, which emphasises the welfare and rehabilitation of children in need of care and protection. District and state-level committees will oversee the implementation and ensure individualised care plans for beneficiaries.",
+                "category": "Places"
+            },
+            {
+                "id": 2,
+                "question": "Which state government created the Singappen Special Task Force in 2026 to strengthen women\u2019s safety measures?",
+                "options": [
+                    "Karnataka",
+                    "Kerala",
+                    "Tamil Nadu",
+                    "Andhra Pradesh"
+                ],
+                "answer": "Tamil Nadu",
+                "explanation": "The Tamil Nadu government established the Singappen Special Task Force as a dedicated police wing focused on improving women\u2019s safety and protection across the state. The initiative aims to strengthen preventive measures, security systems, and rapid response mechanisms for crimes against women. The task force functions under the direct supervision of the Chief Minister and includes several high-ranking police officers, such as an Inspector General of Police, Superintendent of Police, Deputy Superintendents, Inspectors, and Sub-Inspectors. Alongside this initiative, the state also carried out key administrative restructuring under the IAS (Pay) Rules, 2016, reflecting the government\u2019s emphasis on governance reforms and public safety.",
+                "category": "Places"
+            },
+            {
+                "id": 3,
+                "question": "Who became one of the first openly transgender candidates elected to the Scottish Parliament in 2026?",
+                "options": [
+                    "Humza Yousaf",
+                    "Nicola Sturgeon",
+                    "Patrick Harvie",
+                    "Q Manivannan"
+                ],
+                "answer": "Q Manivannan",
+                "explanation": "Q Manivannan, originally from Tamil Nadu, achieved a historic milestone by winning a seat in the Scottish Parliament in 2026 as a representative of the Scottish Green Party. This victory made Manivannan one of the first openly transgender and non-binary individuals elected to Holyrood. An important aspect of this achievement was that the election was won without permanent UK residency or British citizenship. Eligibility was possible because of a 2025 rule change allowing individuals with legal immigration status to contest public office. The event highlights progress in political inclusivity, representation, and equal opportunities within Scotland\u2019s democratic system.",
+                "category": "Places"
+            },
+            {
+                "id": 4,
+                "question": "Which country signed 8 Memorandums of Understanding (MoUs) with India during Dr S. Jaishankar's diplomatic visit in May 2026?",
+                "options": [
+                    "Trinidad and Tobago",
+                    "Mauritius",
+                    "Guyana",
+                    "Fiji"
+                ],
+                "answer": "Trinidad and Tobago",
+                "explanation": "India and Trinidad and Tobago strengthened their bilateral relationship by signing eight MoUs covering sectors such as infrastructure, security, healthcare, tourism, and capacity building. The agreements were signed during External Affairs Minister Dr S. Jaishankar\u2019s official visit in May 2026. A significant part of the visit included paying tribute at Nelson Island, the historic site where the first Indian indentured labourers, known as Girmitiyas, arrived in Trinidad and Tobago during British colonial rule. The visit highlighted the deep cultural and historical connections between the two nations, while also promoting stronger diplomatic, economic, and people-to-people ties for future cooperation.",
+                "category": "Places"
+            },
+            {
+                "id": 5,
+                "question": "Who became the second youngest chess grandmaster in history in May 2026 after securing the final GM norm at the Sardinia World Chess Festival?",
+                "options": [
+                    "Faustino Oro",
+                    "Abhimanyu Mishra",
+                    "D Gukesh",
+                    "R Praggnanandhaa"
+                ],
+                "answer": "Faustino Oro",
+                "explanation": "Faustino Oro, a young chess prodigy from Argentina, achieved global recognition by becoming the second youngest grandmaster in chess history at the age of 12. He secured his final grandmaster norm during the Sardinia World Chess Festival held in Italy. Oro also became one of only a few players worldwide to earn the prestigious GM title before turning 13 years old. Earlier, he had already made history by becoming the youngest International Master and the first under-12 player to cross the 2500 ELO rating mark. His achievement reflects the growing rise of exceptionally talented young chess players in international competitions.",
+                "category": "Places"
+            },
+            {
+                "id": 6,
+                "question": "What is the name of the AI-powered virtual assistant launched by the judiciary in May 2026 to help litigants access judicial services?",
+                "options": [
+                    "Nyaya Mitra",
+                    "Court Connect",
+                    "E-Sahayak",
+                    "Su Sahay"
+                ],
+                "answer": "Su Sahay",
+                "explanation": "Su Sahay is an Artificial Intelligence-powered chatbot launched by the Indian judiciary to improve access to judicial services for citizens and litigants. Introduced alongside the One Case One Data initiative, the chatbot was developed by the National Informatics Centre in collaboration with the Supreme Court Registry. Its main purpose is to provide front-end assistance, guide users through judicial procedures, and offer access to live court updates and official legal information. The initiative aims to modernise the judicial system through digital integration, reduce administrative barriers, and make legal services more accessible and transparent for the general public across India.",
+                "category": "Places"
+            },
+            {
+                "id": 7,
+                "question": "Who was appointed as the next Chief of Defence Staff (CDS) of India in May 2026?",
+                "options": [
+                    "Gen Anil Chauhan",
+                    "Lt Gen NS Raja Subramani",
+                    "Vice Admiral Krishna Swaminathan",
+                    "General Bipin Rawat"
+                ],
+                "answer": "Lt Gen NS Raja Subramani",
+                "explanation": "Lt Gen NS Raja Subramani was appointed as the next Chief of Defence Staff (CDS) of India, succeeding Gen Anil Chauhan after his retirement in May 2026. Along with serving as the principal military adviser to the Defence Minister, the CDS also functions as the Secretary of the Department of Military Affairs. Lt Gen Subramani has a distinguished military career, having been commissioned into the Garhwal Rifles in 1985 and later serving in key strategic roles along the Line of Actual Control and the western front. His appointment reflects the government\u2019s emphasis on experienced leadership and integrated military coordination within India\u2019s defence structure.",
+                "category": "Places"
+            },
+            {
+                "id": 8,
+                "question": "Who was formally appointed as the Chief Minister of Assam on May 11, 2026, following the assembly election results?",
+                "options": [
+                    "Lakshman Prasad Acharya",
+                    "Ravi Kota",
+                    "Himanta Biswa Sarma",
+                    "Mamata Banerjee"
+                ],
+                "answer": "Himanta Biswa Sarma",
+                "explanation": "Himanta Biswa Sarma was formally appointed as the Chief Minister of Assam by Governor Lakshman Prasad Acharya under Article 164(1) of the Constitution. The appointment came after the NDA secured a strong majority in the 126-member Assam Legislative Assembly. The BJP emerged as the leading party with 82 seats, while its allies AGP and BPF also contributed to the coalition\u2019s victory. This appointment marked an important political milestone, as Himanta Biswa Sarma became the first non-Congress leader in Assam to serve two consecutive terms as Chief Minister, further strengthening the NDA\u2019s political presence in the state since 2016.",
+                "category": "Places"
+            },
+            {
+                "id": 9,
+                "question": "What is the projected real GDP growth rate of India for FY27 according to SBI Research?",
+                "options": [
+                    "7.5%",
+                    "6.6%",
+                    "5.8%",
+                    "8.1%"
+                ],
+                "answer": "6.6%",
+                "explanation": "SBI Research projected India\u2019s real GDP growth for the fiscal year 2026-27 (FY27) at 6.6% despite challenges such as global economic uncertainty and fluctuating crude oil prices. The report also highlighted strong credit growth among Scheduled Commercial Banks during FY26, driven largely by increased consumption and GST-related economic activity. However, credit growth is expected to moderate in FY27 due to the high base effect. Additionally, rising crude oil prices remain a concern because they can widen the current account deficit, increase inflation, and reduce overall GDP growth. The forecast reflects India\u2019s resilience amid global economic pressures.",
+                "category": "Places"
+            },
+            {
+                "id": 10,
+                "question": "Which Indian state achieved a zero per cent primary school dropout rate in 2024-25, along with major improvements in enrolment and transition metrics?",
+                "options": [
+                    "Jharkhand",
+                    "Bihar",
+                    "Odisha",
+                    "Chhattisgarh"
+                ],
+                "answer": "Jharkhand",
+                "explanation": "Jharkhand achieved a remarkable milestone by recording a zero per cent primary school dropout rate in 2024-25. The state also showed major progress in reducing upper primary and secondary school dropout rates. In addition, transition rates from primary to upper primary and secondary education improved significantly. Girls\u2019 enrolment in higher secondary education also increased notably. Despite these achievements, the state still faces challenges such as declining academic performance in mathematics and language scores, a high pupil-teacher ratio, and thousands of teaching vacancies. These developments highlight both the progress and ongoing educational concerns in Jharkhand.",
+                "category": "Places"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-13",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Who assumed charge as the Chairman & Managing Director (CMD) of Steel Authority of India Limited (SAIL) on 09 May 2026?",
+                "options": [
+                    "Dr. Samir V Kamat",
+                    "T. V. Narendran",
+                    "Dr. Ashok Kumar Panda",
+                    "Soma Mondal"
+                ],
+                "answer": "Dr. Ashok Kumar Panda",
+                "explanation": "Dr. Ashok Kumar Panda assumed charge as the Chairman & Managing Director (CMD) of Steel Authority of India Limited (SAIL) on 09 May 2026. Before his elevation, he served as Director (Finance) and also handled the additional responsibility of Director (Commercial) in the company. Dr. Panda began his career with SAIL in 1992 as a Management Trainee (Technical), showcasing a long and experienced association with the organisation. SAIL is a Maharatna Central Public Sector Enterprise under the Ministry of Steel and plays a major role in India\u2019s steel production and industrial development.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 2,
+                "question": "Which airport in Mumbai achieved the Zero Waste to Landfill (ZWL) Platinum \u2013 Class I Rating for diverting over 99% of its waste from landfills?",
+                "options": [
+                    "Indira Gandhi International Airport",
+                    "Chhatrapati Shivaji Maharaj International Airport",
+                    "Kempegowda International Airport",
+                    "Netaji Subhas Chandra Bose International Airport"
+                ],
+                "answer": "Chhatrapati Shivaji Maharaj International Airport",
+                "explanation": "Chhatrapati Shivaji Maharaj International Airport (CSMIA) in Mumbai achieved the prestigious Zero Waste to Landfill (ZWL) Platinum \u2013 Class I Rating on May 12, 2026. The recognition was awarded by the Confederation of Indian Industry (CII) for successfully diverting more than 99 percent of airport waste away from landfills. This achievement highlights the airport\u2019s strong commitment to sustainable waste management and environmental conservation. CSMIA is also one of India\u2019s busiest airports, handling over 50 million passengers annually. The airport is operated by Mumbai International Airport Limited, where Adani Airport Holdings Limited holds the majority stake.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 3,
+                "question": "How many Panchayats across 17 States and Union Territories were selected for the National Panchayat Awards 2025?",
+                "options": [
+                    "35",
+                    "42",
+                    "50",
+                    "60"
+                ],
+                "answer": "42",
+                "explanation": "The Ministry of Panchayati Raj announced the National Panchayat Awards 2025, recognising 42 Panchayats from 17 States and Union Territories for their outstanding contributions to rural development and local governance. These awards are presented under the Incentivization of Panchayats component of the Rashtriya Gram Swaraj Abhiyan (RGSA). The awards encourage Panchayati Raj Institutions to improve governance, social welfare, women's empowerment, child welfare, water conservation, and livelihood opportunities. Cash incentives ranging from \u20b950 lakh to \u20b95 crore are provided to winning Panchayats. Karnataka secured the highest number of awards, followed by Andhra Pradesh and Odisha.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 4,
+                "question": "In which city was the National Conference on Laboratory Animal Welfare organised by the Committee for Control and Supervision of Experiments on Animals (CCSEA) on May 11, 2026?",
+                "options": [
+                    "Mumbai",
+                    "Chennai",
+                    "New Delhi",
+                    "Hyderabad"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The National Conference on Laboratory Animal Welfare was organised in New Delhi by the Committee for Control and Supervision of Experiments on Animals (CCSEA) on May 11, 2026. The conference focused on promoting ethical research practices and ensuring animal welfare in scientific experiments. It was conducted under the Department of Animal Husbandry and Dairying with the theme \u201cPolicies and Best Practices of Research on Animals and their Welfare.\u201d The event highlighted humane treatment of animals during vaccine development and drug discovery trials while also encouraging institutions to align with international animal welfare standards and responsible scientific research practices.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 5,
+                "question": "Which city in Gujarat will host the 2026 Asian Weightlifting Championships from May 11 to 17, 2026?",
+                "options": [
+                    "Gandhinagar",
+                    "Ahmedabad",
+                    "Surat",
+                    "Vadodara"
+                ],
+                "answer": "Gandhinagar",
+                "explanation": "Gandhinagar, the capital city of Gujarat, has been selected as the host venue for the 2026 Asian Weightlifting Championships. The event is scheduled to take place from May 11 to 17, 2026, and it marks a significant milestone as India will organise the championship after a gap of 44 years. Around 180 athletes from 28 countries are expected to participate in the tournament. The championship is also important because it serves as a qualifying event for major international competitions like the Commonwealth Games and the Asian Games, highlighting India\u2019s growing role in hosting international sporting events.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 6,
+                "question": "Which country developed an AI-driven electrochemical process to convert nitrate-polluted wastewater into sustainable agricultural ammonia?",
+                "options": [
+                    "Japan",
+                    "South Korea",
+                    "Germany",
+                    "China"
+                ],
+                "answer": "China",
+                "explanation": "China developed an advanced Artificial Intelligence-driven electrochemical process to transform nitrate-polluted wastewater into sustainable agricultural ammonia. The innovation uses machine learning to identify the most effective Dual-Atom Catalyst (DAC) for nitrate electroreduction. This technology operates at room temperature with renewable electricity and achieves nearly three times the efficiency of earlier methods. The process is environmentally significant because it helps reduce water pollution, limits eutrophication in aquatic ecosystems, and lowers carbon emissions associated with traditional ammonia production. It also serves as an eco-friendly alternative to the conventional Haber-Bosch process, which requires fossil fuels, high temperatures, and extreme pressure.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 7,
+                "question": "Which Indian city is hosting the Kimberley Process Intersessional Meeting 2026 from May 11 to May 14, 2026?",
+                "options": [
+                    "Mumbai",
+                    "New Delhi",
+                    "Surat",
+                    "Bengaluru"
+                ],
+                "answer": "Mumbai",
+                "explanation": "Mumbai is hosting the Kimberley Process Intersessional Meeting 2026 from May 11 to May 14, 2026, under the Ministry of Commerce & Industry. India assumed the Chair of the Kimberley Process on January 1, 2026, focusing on the theme of credibility, compliance, and consumer confidence in the natural diamond sector. The meeting includes representatives from 86 countries and the European Union. The Kimberley Process Certification Scheme was established to prevent conflict diamonds from entering legitimate global markets. India\u2019s role as a major global hub for diamond cutting and polishing further strengthens its importance in the international diamond trade and regulatory framework.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 8,
+                "question": "Which organization successfully conducted the long-duration test of an Actively Cooled Full Scale Scramjet Combustor for hypersonic missiles?",
+                "options": [
+                    "ISRO",
+                    "DRDO",
+                    "HAL",
+                    "BHEL"
+                ],
+                "answer": "DRDO",
+                "explanation": "DRDO, the Defence Research and Development Organisation, successfully carried out a major long-duration test of an Actively Cooled Full Scale Scramjet Combustor for hypersonic missile technology on May 09, 2026. The test was conducted at the Scramjet Connect Pipe Test Facility in Hyderabad and achieved a continuous engine runtime of more than 1,200 seconds, surpassing the earlier benchmark set in January 2026. The project involved advanced indigenous technologies such as liquid hydrocarbon endothermic fuel and high-temperature thermal barrier coatings. This achievement strengthens India\u2019s Hypersonic Cruise Missile Development Program and highlights the country\u2019s growing capability in advanced aerospace and missile technologies.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 9,
+                "question": "In which Indian state was the Girder Laying Ceremony for the Indian Coast Guard\u2019s Air Cushion Vehicles (ACVs) conducted on May 11, 2026?",
+                "options": [
+                    "Goa",
+                    "Kerala",
+                    "Maharashtra",
+                    "Tamil Nadu"
+                ],
+                "answer": "Goa",
+                "explanation": "The Girder Laying Ceremony for the 4th, 5th, and 6th Air Cushion Vehicles (ACVs) of the Indian Coast Guard was conducted in Goa on May 11, 2026. The ceremony took place at the Rassaim Yard of Chowgule Shipyard. These hovercrafts are being built with 50% indigenous material under the Aatmanirbhar Bharat initiative, promoting self-reliance in defence manufacturing. The ACVs are specially designed for high-speed coastal patrolling, reconnaissance, interception, and search-and-rescue missions in shallow waters, marshy terrains, and deep sea regions. The project highlights India\u2019s growing focus on strengthening coastal security and indigenous defence production.",
+                "category": "Awards and Honours"
+            },
+            {
+                "id": 10,
+                "question": "In which Indian state was the Annapurna Bhandaar scheme announced to provide \u20b93,000 monthly financial assistance to eligible women?",
+                "options": [
+                    "Odisha",
+                    "Bihar",
+                    "Assam",
+                    "West Bengal"
+                ],
+                "answer": "West Bengal",
+                "explanation": "The Annapurna Bhandaar scheme was announced in West Bengal on May 11, 2026, by Chief Minister Suvendu Adhikari. The scheme aims to provide direct financial support of \u20b93,000 per month to eligible women through bank transfers. It replaces the earlier Lakshmir Bhandar scheme, which offered lower financial assistance to women from the general and SC/ST categories. Along with financial aid, the state government also introduced free travel for women on state-run buses. The initiative reflects the government\u2019s focus on women\u2019s welfare, social security, and economic empowerment while integrating several central government schemes within the state.",
+                "category": "Awards and Honours"
+            }
+        ]
     }
 ]
