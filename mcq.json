@@ -16657,5 +16657,275 @@
                 "category": "Awards and Honours"
             }
         ]
+    },
+    {
+        "date": "2026-05-14",
+        "questions": [
+            {
+                "id": 1,
+                "question": "What is the revised import duty rate on gold and silver announced by the Centre in May 2026?",
+                "options": [
+                    "10%",
+                    "12%",
+                    "15%",
+                    "18%"
+                ],
+                "answer": "15%",
+                "explanation": "The Centre revised the customs duty on precious metals on May 13, 2026, to safeguard macroeconomic stability and conserve foreign exchange reserves. Under the revised structure, the import duty on gold and silver was increased significantly from 6% to 15%, while platinum duty was raised to 15.4%. The policy aims to reduce non-essential imports and ease pressure on India\u2019s Current Account Deficit (CAD). The decision was also influenced by global crude oil volatility and supply-side disruptions affecting international trade and shipping. The Ministry of Finance manages such economic and taxation policies to maintain financial stability in the country.",
+                "category": "Economy"
+            },
+            {
+                "id": 2,
+                "question": "Which organisation, functioning under the Ministry of Science & Technology, facilitated the transfer of 13 indigenous technologies developed by the Central Building Research Institute to industries and start-ups on National Technology Day 2026?",
+                "options": [
+                    "CSIR",
+                    "DRDO",
+                    "ISRO",
+                    "BARC"
+                ],
+                "answer": "CSIR",
+                "explanation": "The Council of Scientific and Industrial Research (CSIR) is an autonomous body operating under the Ministry of Science & Technology. It facilitated the transfer of 13 indigenous technologies developed by the Central Building Research Institute (CBRI) during the National Technology Day event held on May 12, 2026. These technologies were related to fire safety, sustainable construction, infrastructure protection, energy efficiency, and advanced building materials. Headquartered in New Delhi and established in 1942, the organisation plays a major role in advancing scientific research, innovation, and industrial development in India through its network of laboratories and institutes.",
+                "category": "Economy"
+            },
+            {
+                "id": 3,
+                "question": "Which state launched the Meri Rasoi Yojna in May 2026 to distribute free nutritional food kits to poor families?",
+                "options": [
+                    "Haryana",
+                    "Rajasthan",
+                    "Uttar Pradesh",
+                    "Punjab"
+                ],
+                "answer": "Punjab",
+                "explanation": "Punjab launched the Meri Rasoi Yojna on May 09, 2026, under the leadership of Chief Minister Bhagwant Mann. The scheme aims to provide free nutritional kitchen kits every three months to nearly 40 lakh economically weaker families in the state. The kits include essential items such as mustard oil, pulses, sugar, salt, and turmeric to support household food security. Alongside this, the state also initiated the Mawan Dheeyan Satkar Yojna to provide monthly financial assistance to eligible women. Punjab is popularly known as the \u201cLand of Five Rivers\u201d and has a unicameral legislature with 117 assembly constituencies.",
+                "category": "Economy"
+            },
+            {
+                "id": 4,
+                "question": "In which state was the Bhimmandali Eco Heritage Site inaugurated in May 2026?",
+                "options": [
+                    "Jharkhand",
+                    "Odisha",
+                    "Chhattisgarh",
+                    "West Bengal"
+                ],
+                "answer": "Odisha",
+                "explanation": "The Bhimmandali Eco Heritage Site was inaugurated in Sambalpur, Odisha, by Union Minister Dharmendra Pradhan on May 10, 2026. Located within the Naktideul Forest Range, the site is historically significant for its ancient rock paintings and stone inscriptions dating back more than 20,000 years. It served as a human shelter from the Old Stone Age to the Neolithic period. The site also has mythological importance linked to Bhima from the Mahabharata and features a cave dedicated to Lord Shiva and Parvati as Gupteswar. Odisha, formed on April 1, 1936, celebrates its foundation day annually as Utkal Divas.",
+                "category": "Economy"
+            },
+            {
+                "id": 5,
+                "question": "Where is the headquarters of the Centre for Development of Advanced Computing (C-DAC) located?",
+                "options": [
+                    "Bengaluru",
+                    "Hyderabad",
+                    "New Delhi",
+                    "Pune"
+                ],
+                "answer": "Pune",
+                "explanation": "The Centre for Development of Advanced Computing (C-DAC) is headquartered in Pune, Maharashtra. It is a premier research and development organisation under the Ministry of Electronics and Information Technology (MeitY). C-DAC is widely known for developing India\u2019s first indigenous supercomputer, PARAM 8000, in 1991. The organisation plays a significant role in advanced computing, electronics, and information technology research in India. In the IP Catalyst initiative launched in 2026, C-DAC Pune was entrusted with the implementation of the programme aimed at promoting patent commercialisation and supporting innovation-driven technology development across the country.",
+                "category": "Economy"
+            },
+            {
+                "id": 6,
+                "question": "Who was appointed as the Chairman of the BRISEC Chamber of Commerce & Industry in May 2026?",
+                "options": [
+                    "Dr Harvansh Chawla",
+                    "Rajiv Sahni",
+                    "Amitabh Kant",
+                    "Suresh Prabhu"
+                ],
+                "answer": "Dr Harvansh Chawla",
+                "explanation": "Dr Harvansh Chawla was appointed as the Chairman of the BRISEC Chamber of Commerce & Industry (CCI) on May 11, 2026. Before taking up this position, he stepped down as the Chairman of the BRICS CCI. The BRISEC Chamber focuses on promoting cross-border trade, investment, and economic collaboration among emerging and established markets. It also works to expand policy dialogue beyond the traditional BRICS framework into broader global economic corridors. The organisation is officially recognised by NITI Aayog and regularly organises forums, trade delegations, and policy interactions to strengthen international business cooperation.",
+                "category": "Economy"
+            },
+            {
+                "id": 7,
+                "question": "What is the revised annual release date for the Provisional Estimates of Annual GDP and Q4 GDP announced by the NSO?",
+                "options": [
+                    "June 7",
+                    "May 31",
+                    "June 1",
+                    "June 15"
+                ],
+                "answer": "June 7",
+                "explanation": "The National Statistics Office (NSO) revised the annual release schedule for the Provisional Estimates of Annual GDP and Fourth Quarter GDP to June 7 each year. Earlier, the data was released on the last working day of May. The revision was made after consultations with the Advisory Committee on National Accounts Statistics (ACNAS). The new schedule allows the inclusion of important corporate financial data and finalised Central Government account figures such as taxes, subsidies, and capital expenditure. The NSO, functioning under the Ministry of Statistics & Programme Implementation, is responsible for compiling national accounts and major macroeconomic indicators in India.",
+                "category": "Economy"
+            },
+            {
+                "id": 8,
+                "question": "Which platform partnered with SAI to launch CWG 2030 engagement initiatives in 2026?",
+                "options": [
+                    "Fit India",
+                    "MyBharat",
+                    "Khelo India",
+                    "Nehru Yuva Kendra"
+                ],
+                "answer": "MyBharat",
+                "explanation": "MyBharat, officially known as Mera Yuva Bharat, is a technology-driven platform launched on October 31, 2023, for youth development in India. It partnered with the Sports Authority of India (SAI) to launch nationwide digital engagement initiatives ahead of the Commonwealth Games 2030 in Ahmedabad, Gujarat. These initiatives included a Torch Design Contest, CWG Reel Challenge, and CWG 2030 Quiz. The platform aims to encourage youth participation in sports, creativity, and nation-building activities through digital outreach and engagement programmes across the country.",
+                "category": "Economy"
+            },
+            {
+                "id": 9,
+                "question": "What GDP growth forecast did Moody's set for India for 2026 and 2027?",
+                "options": [
+                    "5%",
+                    "6%",
+                    "7%",
+                    "7.5%"
+                ],
+                "answer": "6%",
+                "explanation": "Moody's Investors Service revised India's GDP growth forecast to 6% for both 2026 and 2027 due to rising energy costs and geopolitical tensions affecting the economy. The downgrade reflects concerns over subdued private consumption, weaker industrial activity, and reduced capital formation. India\u2019s dependence on imported energy, especially crude oil and LPG passing through the Strait of Hormuz, increases vulnerability to global disruptions. Higher fuel and fertiliser costs may also strain government finances and reduce capital spending. Moody\u2019s is one of the world\u2019s leading credit rating agencies and closely monitors global economic and financial conditions.",
+                "category": "Economy"
+            },
+            {
+                "id": 10,
+                "question": "Who took oath as the Chief Minister of Puducherry for a fifth term in May 2026?",
+                "options": [
+                    "A Namassivayam",
+                    "Malladi Krishna Rao",
+                    "N Rangasamy",
+                    "K Kailashnathan"
+                ],
+                "answer": "N Rangasamy",
+                "explanation": "N Rangasamy, leader of the All India NR Congress (AINRC), was sworn in as the Chief Minister of Puducherry for the fifth time on May 13, 2026. The oath of office was administered by Lieutenant Governor K Kailashnathan. The AINRC-led NDA alliance formed the government after securing the support of 18 MLAs, crossing the majority mark in the Puducherry Legislative Assembly. Along with him, Malladi Krishna Rao and A Namassivayam were inducted as ministers. N Rangasamy also won assembly elections from both Thattanchavady and Mangalam constituencies with significant victory margins.",
+                "category": "Economy"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-15",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which institution commissioned India's first Integrated CCUS Field Laboratory Facility in May 2026?",
+                "options": [
+                    "IIT Delhi",
+                    "IIT Madras",
+                    "IISc Bengaluru",
+                    "IIT Bombay"
+                ],
+                "answer": "IIT Bombay",
+                "explanation": "IIT Bombay commissioned India\u2019s first Integrated Carbon Capture, Utilisation, and Storage (CCUS) Field Laboratory Facility under Bharat Innovates 2026 on May 11, 2026. The indigenously developed pilot facility has the capacity to process up to 3 tonnes of carbon dioxide per day using advanced aqueous-based catalytic CO\u2082 capture technology. The system can capture carbon dioxide from ambient air and industrial emissions using non-potable water sources such as seawater and industrial effluents. The project also includes geological sequestration in the Deccan Traps to permanently store CO\u2082. IIT Bombay, established in 1958, is an Institute of National Importance located in Powai, Mumbai.",
+                "category": "Technology"
+            },
+            {
+                "id": 2,
+                "question": "Which Indian Naval Ship completed the IOS SAGAR initiative port call at Chattogram, Bangladesh?",
+                "options": [
+                    "INS Sunayna",
+                    "INS Vikrant",
+                    "INS Kolkata",
+                    "INS Shivalik"
+                ],
+                "answer": "INS Sunayna",
+                "explanation": "INS Sunayna successfully completed its maritime port call at Chattogram, Bangladesh, under the Indian Ocean Ship (IOS) SAGAR initiative. The deployment was carried out under the Ministry of Defence and included joint naval activities with the Bangladesh Navy, such as a Passage Exercise (PASSEX) and coordinated maritime manoeuvres with BNS Protoy. The ship also carried personnel from 16 partner nations during the mission, highlighting regional maritime cooperation. After concluding its Bangladesh visit, the vessel proceeded toward Colombo, Sri Lanka, as part of its operational route. The initiative strengthens India\u2019s maritime partnerships and regional security collaboration in the Indian Ocean region.",
+                "category": "Technology"
+            },
+            {
+                "id": 3,
+                "question": "Until when has India prohibited sugar exports under the amended trade policy announced in May 2026?",
+                "options": [
+                    "September 2026",
+                    "December 2026",
+                    "March 2027",
+                    "June 2027"
+                ],
+                "answer": "September 2026",
+                "explanation": "India prohibited the export of raw, white, and refined sugar until September 30, 2026, through an amendment to the trade policy announced by the Ministry of Commerce and Industry. The decision was taken to ensure adequate domestic supply and stabilise sugar prices in the local market. The prohibition applies to specific ITC (HS) codes under Chapter 17 of the trade classification system. Certain exemptions continue for quota-based exports to the European Union and the United States, shipments under the Advance Authorisation Scheme, and consignments related to international food security commitments. If not extended further, the export status will revert to \u201cRestricted\u201d after September 2026.",
+                "category": "Technology"
+            },
+            {
+                "id": 4,
+                "question": "How many states were felicitated by NeGD for DigiLocker integration initiatives in May 2026?",
+                "options": [
+                    "Four",
+                    "Five",
+                    "Six",
+                    "Seven"
+                ],
+                "answer": "Five",
+                "explanation": "The National e-Governance Division (NeGD) felicitated five states for their successful integration of DigiLocker with citizen services during the National Consultative Workshop on Strengthening Cybersecurity Frameworks for State Data held on May 11, 2026. The recognised states included Karnataka, Gujarat, Keralam, Nagaland, and Rajasthan for their achievements in digital governance and service integration. DigiLocker, launched under the Digital India programme in 2015, enables citizens to securely access and store digital documents online. NeGD, functioning under the Digital India Corporation, plays an important role in promoting e-governance and digital public infrastructure across India.",
+                "category": "Technology"
+            },
+            {
+                "id": 5,
+                "question": "Which bank launched a new credit card portfolio with variants such as AU Ananta, AU Laksya, AU Tejas, and AU Prathama in May 2026?",
+                "options": [
+                    "Bandhan Bank",
+                    "Equitas Small Finance Bank",
+                    "Ujjivan Small Finance Bank",
+                    "AU Small Finance Bank"
+                ],
+                "answer": "AU Small Finance Bank",
+                "explanation": "AU Small Finance Bank launched a new credit card portfolio on May 14, 2026, introducing four variants tailored to different customer segments and lifestyle needs. The portfolio includes AU Ananta for affluent users, AU Laksya for digitally active professionals and Gen Z customers, AU Tejas for young salaried individuals, and AU Prathama for first-time credit users. These cards provide benefits such as reward points, cashback offers, airport lounge access, EMI facilities, and fuel surcharge waivers. AU Small Finance Bank is recognised as India\u2019s largest Small Finance Bank and is also notable for receiving in-principle approval to transition into a Universal Bank.",
+                "category": "Technology"
+            },
+            {
+                "id": 6,
+                "question": "Which company launched India's first compliant stablecoin cross-border payments platform in May 2026?",
+                "options": [
+                    "Razorpay",
+                    "Xflow",
+                    "Paytm",
+                    "Pine Labs"
+                ],
+                "answer": "Xflow",
+                "explanation": "Xflow launched India\u2019s first compliant stablecoin-based cross-border payments infrastructure on May 14, 2026. The platform allows Indian businesses to accept international payments in stablecoins such as USDC and USDT and convert them into Indian Rupees through authorised banking channels. The system ensures regulatory compliance by conducting stablecoin transactions and off-ramping processes outside India, while only fiat currency enters the country through AD Category I banks. The platform mainly supports MSMEs, SaaS companies, and service exporters facing challenges in global payments. Xflow was co-founded by Anand Balaji and Ashwin Bhatnagar and is backed by investors such as Lightspeed, General Catalyst, and Stripe.",
+                "category": "Technology"
+            },
+            {
+                "id": 7,
+                "question": "On which date is the International Day of Families observed globally every year?",
+                "options": [
+                    "May 10",
+                    "May 15",
+                    "May 20",
+                    "June 5"
+                ],
+                "answer": "May 15",
+                "explanation": "The International Day of Families is observed globally every year on May 15 to recognise the importance of families in society and their role in social development. The 2026 theme, \u201cFamilies, Inequalities and Child Wellbeing,\u201d highlighted how social and economic inequalities affect family life and children\u2019s futures. The observance encourages governments and institutions to adopt policies supporting family welfare, education, health, employment, and social inclusion. The United Nations General Assembly proclaimed the day in 1993, and the first global observance took place in 1994. It serves as an important platform for promoting awareness about issues affecting families worldwide.",
+                "category": "Technology"
+            },
+            {
+                "id": 8,
+                "question": "What was India's annual WPI inflation rate in April 2026?",
+                "options": [
+                    "6.3%",
+                    "7.1%",
+                    "8.3%",
+                    "9.5%"
+                ],
+                "answer": "8.3%",
+                "explanation": "India\u2019s annual inflation rate based on the Wholesale Price Index (WPI) stood at 8.3% in April 2026 on a provisional basis. The increase was mainly driven by higher prices of mineral oils, crude petroleum, natural gas, basic metals, and manufactured products. Fuel and power recorded a particularly sharp rise due to higher mineral oil prices, while primary articles also witnessed strong inflationary pressure. The WPI is released every month by the Office of the Economic Adviser under the Ministry of Commerce and Industry. Manufactured products carry the highest weightage in the WPI basket, making them a key factor in overall inflation trends.",
+                "category": "Technology"
+            },
+            {
+                "id": 9,
+                "question": "Who was sworn in for a seventh term as the President of Uganda in May 2026?",
+                "options": [
+                    "Yoweri Museveni",
+                    "Bobi Wine",
+                    "Paul Kagame",
+                    "William Ruto"
+                ],
+                "answer": "Yoweri Museveni",
+                "explanation": "Yoweri Museveni was officially sworn in for a historic seventh term as the President of Uganda on May 12, 2026. The oath-taking ceremony took place at the Kololo Independence Grounds in Kampala, the capital city of Uganda. Museveni secured a decisive electoral victory with more than 71 percent of the votes, while opposition leader Bobi Wine received around 25 percent. Museveni is regarded as one of Africa\u2019s longest-serving leaders, and his latest victory extends his continuous tenure in office to nearly four decades. Uganda continues to play an important role in East African politics and regional affairs.",
+                "category": "Technology"
+            },
+            {
+                "id": 10,
+                "question": "Which state cabinet approved the draft Uniform Civil Code (UCC) Bill in May 2026?",
+                "options": [
+                    "Gujarat",
+                    "Uttarakhand",
+                    "Assam",
+                    "Goa"
+                ],
+                "answer": "Assam",
+                "explanation": "The Assam cabinet approved the draft Uniform Civil Code (UCC) Bill in May 2026, with plans to introduce it in the state legislative assembly on May 26, 2026. The proposed law aims to regulate civil matters such as marriage, divorce, live-in relationships, and compulsory marriage registration through a common legal framework. Tribal communities in Assam are exempted from the bill to preserve their traditional customs and cultural practices. The bill aligns structurally with UCC models of states like Gujarat, Uttarakhand, and Goa. Article 44 of the Indian Constitution mentions the Uniform Civil Code as a Directive Principle of State Policy.",
+                "category": "Technology"
+            }
+        ]
     }
 ]
