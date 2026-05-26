@@ -17332,5 +17332,680 @@
                 "category": "Sports"
             }
         ]
+    },
+    {
+        "date": "2026-05-19",
+        "questions": [
+            {
+                "id": 1,
+                "question": "On which date is the International Day for Women in Maritime observed by the United Nations and the IMO?",
+                "options": [
+                    "May 18",
+                    "June 5",
+                    "March 8",
+                    "April 22"
+                ],
+                "answer": "May 18",
+                "explanation": "The International Day for Women in Maritime is observed every year on May 18 to recognise and promote the contributions of women in the global maritime sector. In 2026, the United Nations and the International Maritime Organisation (IMO) marked the occasion with a special event in London under the theme \u201cFrom Policy to Practice: Advancing Gender Equality for Maritime Excellence.\u201d The observance aims to encourage greater participation, recruitment, and sustained employment of women in maritime professions. It also supports the broader objective of achieving gender equality under the United Nations Sustainable Development Goal 5 (SDG 5).",
+                "category": "Important Days"
+            },
+            {
+                "id": 2,
+                "question": "In which city was Rajasthan's first semiconductor packaging facility inaugurated in May 2026?",
+                "options": [
+                    "Jaipur",
+                    "Udaipur",
+                    "Bhiwadi",
+                    "Jodhpur"
+                ],
+                "answer": "Bhiwadi",
+                "explanation": "Rajasthan's first semiconductor packaging facility and Electronics Manufacturing Cluster (EMC) were inaugurated in Bhiwadi on May 15, 2026. The project was developed by Sahasra Semiconductors Pvt. Ltd. and became India's first SME-led semiconductor unit to begin commercial chip production. Supported under the SPECS scheme, the facility received significant investments and aims to expand its annual packaging capacity from 60 million to 600 million units within three years. The cluster has also attracted major investments from multiple companies, creating thousands of employment opportunities and strengthening India\u2019s domestic electronics and semiconductor manufacturing ecosystem.",
+                "category": "Important Days"
+            },
+            {
+                "id": 3,
+                "question": "Which company integrated its AI coding assistant Codex into the ChatGPT mobile app in May 2026?",
+                "options": [
+                    "Google",
+                    "OpenAI",
+                    "Microsoft",
+                    "Meta"
+                ],
+                "answer": "OpenAI",
+                "explanation": "OpenAI introduced its AI coding assistant, Codex, into the ChatGPT mobile application for both iOS and Android platforms in May 2026. This integration enables developers to remotely manage coding tasks using smartphones, including reviewing outputs, approving commands, switching AI models, and monitoring real-time updates such as screenshots, terminal outputs, and test results. The system securely keeps files and credentials on the connected host machine while offering seamless synchronisation. OpenAI also expanded support with remote SSH connectivity and enterprise-level features like programmatic access tokens and HIPAA-compliant local support for healthcare-related workspaces.",
+                "category": "Important Days"
+            },
+            {
+                "id": 4,
+                "question": "What percentage of AIGCC member investors adopted Net Zero portfolio targets according to the 2026 report?",
+                "options": [
+                    "42%",
+                    "58%",
+                    "61%",
+                    "74%"
+                ],
+                "answer": "74%",
+                "explanation": "The Asia Investor Group on Climate Change (AIGCC) reported in 2026 that 74% of its member investors had adopted Net Zero portfolio targets. The study evaluated 240 investors managing assets worth $123 trillion, highlighting growing awareness of climate-related financial risks among institutional investors in Asia. Despite strong adoption of Net Zero goals, the report also identified significant implementation gaps, as only a limited number of investors published detailed transition pathways and fossil fuel policies. The findings underline the increasing importance of sustainable investment strategies, energy storage, and climate risk disclosure in global financial markets while emphasising the need for stronger execution of climate commitments.",
+                "category": "Important Days"
+            },
+            {
+                "id": 5,
+                "question": "Who assumed charge as the new CEO of the Unique Identification Authority of India (UIDAI) in May 2026?",
+                "options": [
+                    "Ajay Bhushan Pandey",
+                    "Saurabh Vijay",
+                    "Amit Agrawal",
+                    "Rajesh Kumar"
+                ],
+                "answer": "Saurabh Vijay",
+                "explanation": "Saurabh Vijay officially assumed charge as the Chief Executive Officer of the Unique Identification Authority of India (UIDAI) on May 18, 2026. He is a 1998-batch Indian Administrative Service (IAS) officer from the Maharashtra cadre and has extensive experience serving in various roles within the Government of India. UIDAI functions under the Ministry of Electronics and Information Technology and is responsible for issuing Aadhaar, the 12-digit unique identification number for residents of India. His appointment is considered significant for strengthening the administration and implementation of India\u2019s digital identity and governance systems.",
+                "category": "Important Days"
+            },
+            {
+                "id": 6,
+                "question": "In which city did the National Test House establish an advanced Shoe Testing Laboratory in May 2026?",
+                "options": [
+                    "Kanpur",
+                    "Ghaziabad",
+                    "Agra",
+                    "Lucknow"
+                ],
+                "answer": "Ghaziabad",
+                "explanation": "The National Test House (NTH) established a modern Shoe Testing Laboratory in Ghaziabad on May 17, 2026, to strengthen India\u2019s footwear quality and manufacturing ecosystem. Located at the NTH Northern Region center, the laboratory provides easier access for footwear industries in nearby manufacturing hubs such as Delhi-NCR, Kanpur, and Agra. The facility is equipped with advanced instruments like the Bally Water Penetration Tester and Bata Belt Flex Tester to assess durability, slip resistance, material strength, and chemical safety according to Indian Standards. This initiative supports the Make in India mission and aims to improve export readiness and self-reliance in the footwear sector.",
+                "category": "Important Days"
+            },
+            {
+                "id": 7,
+                "question": "Which state became the first in India to implement an Alcohol-in-Beverage (AIB) based excise duty structure in May 2026?",
+                "options": [
+                    "Maharashtra",
+                    "Tamil Nadu",
+                    "Karnataka",
+                    "Kerala"
+                ],
+                "answer": "Karnataka",
+                "explanation": "Karnataka became the first Indian state to adopt a globally recognised Alcohol-in-Beverage (AIB) based excise duty structure on May 11, 2026. The reform marked a major shift in liquor taxation by allowing producers to independently fix prices based on alcohol content and market conditions instead of government-controlled pricing. The policy also streamlined Indian Made Liquor categories into eight distinct slabs through amendments to the Karnataka Excise Rules, 1968. Introduced following commitments in the 2026\u201327 state budget, the initiative aims to provide consumers with more competitive pricing while maintaining parity with neighboring states such as Tamil Nadu, Andhra Pradesh, Telangana, Maharashtra, and Kerala.",
+                "category": "Important Days"
+            },
+            {
+                "id": 8,
+                "question": "In which city were the Million Minds Tech Park and GREMI City Campus inaugurated in May 2026?",
+                "options": [
+                    "Ahmedabad",
+                    "Surat",
+                    "Vadodara",
+                    "Rajkot"
+                ],
+                "answer": "Ahmedabad",
+                "explanation": "The Million Minds Tech Park and GREMI City Campus were inaugurated in Ahmedabad, Gujarat, by Union Home Minister Amit Shah on May 17, 2026. The project is considered a major step toward strengthening Gujarat\u2019s position as a leading hub for emerging technologies and Global Capability Centres (GCCs). The tech park\u2019s first phase involves a large investment and is designed to accommodate thousands of professionals, while the GREMI City Campus focuses on modernising leadership and urban planning in the real estate sector. These initiatives are expected to generate significant employment opportunities and boost economic growth in the region.",
+                "category": "Important Days"
+            },
+            {
+                "id": 9,
+                "question": "Who was appointed as the new Prime Minister of Iraq in May 2026?",
+                "options": [
+                    "Ali al-Zaidi",
+                    "Fuad Hussein",
+                    "Bassim Mohammed Khudair",
+                    "Sarwa Abdul Wahid"
+                ],
+                "answer": "Ali al-Zaidi",
+                "explanation": "Ali Falih Kadhim al-Zaidi was approved by the Iraqi Parliament as the new Prime Minister on May 16, 2026. He emerged as a consensus candidate to end a prolonged five-month political deadlock in Iraq. Despite having no prior political experience, he was chosen to lead the government during a period of economic and political challenges. His appointment came along with the approval of a partial cabinet, where only 14 out of 23 ministerial positions were filled. The remaining posts stayed vacant because of internal disagreements and external pressures influencing Iraq\u2019s political system.",
+                "category": "Important Days"
+            },
+            {
+                "id": 10,
+                "question": "Which state launched the \"Jan Bhagidari \u2013 Sabse Door, Sabse Pehle\" campaign in May 2026?",
+                "options": [
+                    "Jharkhand",
+                    "Odisha",
+                    "Madhya Pradesh",
+                    "Chhattisgarh"
+                ],
+                "answer": "Chhattisgarh",
+                "explanation": "The \"Jan Bhagidari \u2013 Sabse Door, Sabse Pehle\" campaign was launched by the Chhattisgarh government to improve the delivery of welfare schemes in remote tribal villages. Conducted from May 18 to May 25, 2026, the initiative targeted more than 8,000 tribal villages across the state. Implemented by the Tribal Development Department, the campaign focused on benefits related to health, nutrition, education, social security, and drinking water. It also included public grievance hearings and health camps for screening diseases such as sickle cell anaemia and tuberculosis. The campaign supported national tribal welfare initiatives like PM-JANMAN and the Dharti Aaba mission.",
+                "category": "Important Days"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-20",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which country conferred the Royal Order of the Polar Star on Prime Minister Narendra Modi in May 2026?",
+                "options": [
+                    "Norway",
+                    "Denmark",
+                    "Sweden",
+                    "Finland"
+                ],
+                "answer": "Sweden",
+                "explanation": "Prime Minister Narendra Modi received the Royal Order of the Polar Star during his visit to Sweden on May 18, 2026. The honour is regarded as the highest distinction that Sweden can confer upon a Head of Government. Instituted in 1748, the award recognises exceptional contributions and efforts that benefit Sweden and its interests. This recognition became the 31st international honour received by PM Modi, reflecting India\u2019s growing diplomatic engagement and global partnerships. During the two-day visit, PM Modi was welcomed by Swedish Prime Minister Ulf Kristersson, highlighting the strengthening bilateral relationship between India and Sweden across multiple sectors.",
+                "category": "International"
+            },
+            {
+                "id": 2,
+                "question": "Which company entered into a strategic collaboration with France-based Exail for the Indian Navy\u2019s Unmanned Mine Counter-Measure Suite in May 2026?",
+                "options": [
+                    "L&T",
+                    "BEL",
+                    "HAL",
+                    "BHEL"
+                ],
+                "answer": "L&T",
+                "explanation": "L&T partnered with France-based Exail on May 18, 2026, to provide an advanced Unmanned Mine Counter-Measure (MCM) Suite for the Indian Navy. Under the collaboration, L&T serves as the prime contractor while Exail contributes advanced technological systems. The project is linked to India\u2019s proposed procurement of 12 Mine Counter Measure Vessels aimed at enhancing maritime security capabilities. The autonomous system is designed to detect, classify, identify, and neutralise underwater mine threats while allowing operations from a safe stand-off distance. This partnership reflects India\u2019s growing focus on modern naval defence systems and indigenous participation in advanced military technology programmes.",
+                "category": "International"
+            },
+            {
+                "id": 3,
+                "question": "Which university secured \u20b91.16 crore in grants from ICMR and ANRF for agriculture and healthcare research in May 2026?",
+                "options": [
+                    "Lovely Professional University",
+                    "Delhi University",
+                    "Panjab University",
+                    "Chandigarh University"
+                ],
+                "answer": "Chandigarh University",
+                "explanation": "Chandigarh University secured government research grants worth \u20b91.16 crore from the Indian Council of Medical Research (ICMR) and the Anusandhan National Research Foundation (ANRF) in May 2026. The funding supports two important research projects related to agriculture and healthcare. One project focuses on improving mustard and Brassica crop yields through beneficial soil microbes to reduce dependence on chemical fertilisers. The second project aims at early detection of diabetic kidney disease using advanced metagenomic and bioinformatic analysis of gut microbiota. These initiatives highlight the growing importance of interdisciplinary scientific research in addressing agricultural sustainability and public health challenges in India.",
+                "category": "International"
+            },
+            {
+                "id": 4,
+                "question": "Which bank launched the Business Multiplier Credit Card for entrepreneurs and small business owners in May 2026?",
+                "options": [
+                    "IDFC First",
+                    "HDFC Bank",
+                    "Axis Bank",
+                    "Kotak Mahindra Bank"
+                ],
+                "answer": "IDFC First",
+                "explanation": "IDFC FIRST Bank launched the Business Multiplier Credit Card on May 19, 2026, to support early-stage entrepreneurs, founders, and small business owners. The secured credit card is issued against a fixed deposit, removing the need for traditional credit history, profitability records, or high credit scores. It provides a 100% credit limit against the linked deposit, along with lower interest rates and zero forex markup charges for international transactions. The product is designed to improve financial access for startups and growing businesses while offering flexibility to scale credit limits through additional fixed deposits without undergoing fresh underwriting procedures.",
+                "category": "International"
+            },
+            {
+                "id": 5,
+                "question": "In which city did India host the BRICS Justice Ministers\u2019 Meeting on Alternative Dispute Resolution in May 2026?",
+                "options": [
+                    "New Delhi",
+                    "Gandhinagar",
+                    "Mumbai",
+                    "Bengaluru"
+                ],
+                "answer": "Gandhinagar",
+                "explanation": "India hosted the BRICS Senior Officials\u2019 Meeting and Justice Ministers\u2019 Meeting on Alternative Dispute Resolution in Gandhinagar, Gujarat, from May 19 to 22, 2026. Organised under India\u2019s BRICS Chairship by the Ministry of Law and Justice, the meetings focused on strengthening institutional mediation, arbitration reforms, and digital dispute-resolution mechanisms. The initiative aimed to reduce court case backlogs and improve cross-border legal cooperation among BRICS nations. Participating ministers also worked toward adopting a joint declaration promoting capacity building in mediation and arbitration. The event highlighted India\u2019s growing role in international legal cooperation and alternative dispute resolution frameworks.",
+                "category": "International"
+            },
+            {
+                "id": 6,
+                "question": "Which bank partnered with Visa to launch a USD-denominated debit card for NRIs through its GIFT City branch?",
+                "options": [
+                    "HDFC Bank",
+                    "ICICI Bank",
+                    "SBI",
+                    "Axis Bank"
+                ],
+                "answer": "ICICI Bank",
+                "explanation": "ICICI Bank launched a USD-denominated debit card for Non-Resident Indians (NRIs) in partnership with Visa through its GIFT City branch. Built on the Visa Infinite platform, the card is linked to a USD Global Savings Account maintained at the GIFT City International Banking Unit. The initiative aims to reduce international transaction costs by eliminating traditional currency markup fees and GST charges usually applied to Indian debit cards. It also offers zero forex markup on direct USD transactions, providing significant annual savings for frequent international users. The service is especially targeted at NRIs, overseas professionals, and families supporting international education expenses.",
+                "category": "International"
+            },
+            {
+                "id": 7,
+                "question": "Which company signed an MoU with Jindal Global Business School to train youth in the logistics industry under the Skill India Mission?",
+                "options": [
+                    "Blue Dart",
+                    "DHL",
+                    "Skyways",
+                    "FedEx"
+                ],
+                "answer": "Skyways",
+                "explanation": "Skyways Air Services Ltd., through its training arm MyLogistics Gurukul, signed a Memorandum of Understanding with Jindal Global Business School on May 18, 2026. The collaboration aims to strengthen skill development in the logistics and supply chain sector under the Government of India\u2019s Skill India Mission. The initiative provides students with practical exposure through internships, visits to freight and warehousing hubs, and certified industry-focused training modules. It also integrates real-world logistics challenges into academic learning. Skyways, established in 1984, is recognised as one of India\u2019s leading air freight forwarders and has maintained a strong position in the global logistics industry.",
+                "category": "International"
+            },
+            {
+                "id": 8,
+                "question": "In which city was the Metro Monday initiative launched in May 2026 to promote fuel conservation and public transport?",
+                "options": [
+                    "New Delhi",
+                    "Mumbai",
+                    "Bengaluru",
+                    "Hyderabad"
+                ],
+                "answer": "New Delhi",
+                "explanation": "The Metro Monday initiative was launched in New Delhi on May 19, 2026, by Delhi Chief Minister Rekha Gupta. The campaign was introduced under the broader \u201cMera Bharat, Mera Yogdan\u201d initiative to encourage fuel conservation and increase the use of public transportation amid concerns related to the West Asia conflict. Several administrative measures accompanied the initiative, including work-from-home arrangements for government employees, revised office timings, and a freeze on official foreign visits. Citizens were also encouraged to observe a weekly No Vehicle Day. The initiative highlights Delhi\u2019s focus on sustainable urban mobility, energy conservation, and reducing traffic congestion and pollution.",
+                "category": "International"
+            },
+            {
+                "id": 9,
+                "question": "Which state launched India's first integrated monitoring portal for NSQ and NDPS drugs in May 2026?",
+                "options": [
+                    "Maharashtra",
+                    "Tamil Nadu",
+                    "Gujarat",
+                    "Karnataka"
+                ],
+                "answer": "Karnataka",
+                "explanation": "Karnataka launched India\u2019s first integrated digital monitoring portal for tracking Not of Standard Quality (NSQ) medicines and regulating Narcotic Drugs and Psychotropic Substances (NDPS) on May 15, 2026. Developed by the state\u2019s Food Safety and Drug Administration Department, the system strengthens pharmaceutical surveillance and drug safety mechanisms. The portal enables immediate e-signing of NSQ reports, automatic blocking of defective drug batches, and strict monitoring of NDPS medicine sales through prescription verification. The initiative aims to prevent the misuse of controlled substances and ensure higher standards in medicine distribution. It also reflects Karnataka\u2019s focus on technology-driven governance and public health protection.",
+                "category": "International"
+            },
+            {
+                "id": 10,
+                "question": "Which country successfully tested the RS-28 Sarmat intercontinental ballistic missile in May 2026?",
+                "options": [
+                    "China",
+                    "Russia",
+                    "United States",
+                    "North Korea"
+                ],
+                "answer": "Russia",
+                "explanation": "Russia successfully conducted a test flight of the RS-28 Sarmat heavy intercontinental ballistic missile (ICBM) on May 18, 2026. The missile was developed by the Makeyev Rocket Centre and is intended to replace the older RS-20 Voevoda missile systems from the Soviet era. The RS-28 Sarmat is a liquid-fueled missile with advanced capabilities, including hypersonic warhead deployment and suborbital flight trajectories that significantly extend its operational range. Designed for strategic deterrence, the missile can target hardened locations over extremely long distances and is considered one of the most advanced components of Russia\u2019s strategic missile forces.",
+                "category": "International"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-21",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which Indian city became the first to deploy solar-powered \u201cAlgae Trees\u201d to combat urban air pollution?",
+                "options": [
+                    "Indore",
+                    "Jaipur",
+                    "Bhopal",
+                    "Lucknow"
+                ],
+                "answer": "Bhopal",
+                "explanation": "Bhopal became the first city in India to deploy solar-powered \u201cAlgae Trees\u201d as part of an innovative initiative to tackle urban air pollution. Installed under the Bhopal Smart City project, these biotechnology-based systems use living microalgae cultures to absorb carbon dioxide, reduce harmful PM 2.5 particles, and release oxygen into the atmosphere. Each unit operates as an outdoor photo-bioreactor powered by integrated solar panels, enabling sustainable and off-grid functionality. The project demonstrates the growing use of green technology and renewable energy solutions in urban environmental management while promoting cleaner air and climate-friendly infrastructure in densely populated city areas.",
+                "category": "Places"
+            },
+            {
+                "id": 2,
+                "question": "In which city was India\u2019s first AI-powered \u201cphygital\u201d bank branch inaugurated in May 2026?",
+                "options": [
+                    "Shillong",
+                    "Imphal",
+                    "Agartala",
+                    "Guwahati"
+                ],
+                "answer": "Guwahati",
+                "explanation": "India\u2019s first AI-powered \u201cphygital\u201d bank branch was inaugurated in Guwahati, Assam, on May 16, 2026. Opened by Assam Chief Minister Himanta Biswa Sarma, the innovative branch of Slice Small Finance Bank combines physical banking services with advanced digital infrastructure. The facility uses AI-enabled self-service kiosks, paperless onboarding systems, and automated banking processes to enhance customer convenience and efficiency. One of its key features allows users to access working capital directly through UPI without a separate loan application. The initiative is designed to support digital transformation and improve financial accessibility for small business owners and women entrepreneurs.",
+                "category": "Places"
+            },
+            {
+                "id": 3,
+                "question": "What is the maximum stake approved for Emirates NBD Bank to acquire in RBL Bank?",
+                "options": [
+                    "74%",
+                    "51%",
+                    "49%",
+                    "26%"
+                ],
+                "answer": "74%",
+                "explanation": "The Ministry of Finance approved Emirates NBD Bank\u2019s proposal to acquire up to a 74% stake in RBL Bank in May 2026. Emirates NBD, one of the leading banking groups in the UAE, planned the acquisition through a major equity investment valued at over \u20b926,000 crore. Under the approved structure, the bank is required to maintain at least a 51% holding while being permitted to increase it up to 74%. Following the transaction, RBL Bank will operate as a foreign bank subsidiary under Emirates NBD. The approval reflects increasing foreign investment interest in India\u2019s banking sector and ongoing regulatory oversight by institutions such as the RBI and CCI.",
+                "category": "Places"
+            },
+            {
+                "id": 4,
+                "question": "Who became the youngest Indian-origin mayor in UK history after being appointed Mayor of Elstree and Borehamwood?",
+                "options": [
+                    "Dan Ozarow",
+                    "Tushar Kumar",
+                    "Linda Smith",
+                    "Rishi Sunak"
+                ],
+                "answer": "Tushar Kumar",
+                "explanation": "Tushar Kumar, a 23-year-old Labour Party councillor, was appointed as the Mayor of Elstree and Borehamwood in the United Kingdom, becoming the youngest Indian-origin individual to hold a mayoral office in British history. The appointment was confirmed during the Mayor Making Ceremony held in Hertfordshire. Previously serving as Deputy Mayor, Kumar succeeded outgoing Mayor Dan Ozarow. During his tenure, he plans to focus on youth empowerment and community participation while supporting local welfare initiatives. A graduate of King\u2019s College London, he has also gained experience as a policy advisor and research analyst, highlighting his early achievements in public service and leadership.",
+                "category": "Places"
+            },
+            {
+                "id": 5,
+                "question": "In which district was the Nimapara Patha Utsav 2026 inaugurated by Odisha Deputy CM Pravati Parida?",
+                "options": [
+                    "Cuttack",
+                    "Puri",
+                    "Khordha",
+                    "Balasore"
+                ],
+                "answer": "Puri",
+                "explanation": "The Nimapara Patha Utsav 2026 was inaugurated in the Puri district of Odisha on May 17, 2026, by Deputy Chief Minister Pravati Parida. The cultural street festival aimed to encourage youth participation in regional development through the \u201cUtkarsha Nimapara 2.0\u201d initiative. The event featured public awareness campaigns using traditional folk art forms such as Pala and Dasakathia, along with street plays and solo performances. It also introduced upcoming marathons, sports and cultural competitions, and a digital platform for volunteer registration. The initiative highlighted Odisha\u2019s emphasis on combining cultural heritage with community engagement and socio-economic development.",
+                "category": "Places"
+            },
+            {
+                "id": 6,
+                "question": "Which country approved $428 million defence support packages for India\u2019s Apache fleet and M777 howitzers in May 2026?",
+                "options": [
+                    "France",
+                    "Russia",
+                    "United Kingdom",
+                    "United States"
+                ],
+                "answer": "United States",
+                "explanation": "The United States approved defence sustainment packages worth $428.2 million for India on May 18, 2026. The agreements included support for India\u2019s AH-64E Apache attack helicopters and M777A2 Ultra-Light Howitzers through the Foreign Military Sales (FMS) programme. The packages cover engineering assistance, logistics, technical training, spare parts, and repair services to maintain operational readiness of the Indian Armed Forces. Major defence companies such as Boeing, Lockheed Martin, and BAE Systems are involved in the support framework. The move highlights the growing strategic defence partnership between India and the United States, especially in advanced military technology and operational cooperation.",
+                "category": "Places"
+            },
+            {
+                "id": 7,
+                "question": "Which state cabinet approved the \u20b93,000 monthly \u2018Annapurna\u2019 scheme and free bus travel for women in May 2026?",
+                "options": [
+                    "West Bengal",
+                    "Odisha",
+                    "Bihar",
+                    "Assam"
+                ],
+                "answer": "West Bengal",
+                "explanation": "The West Bengal Cabinet approved several major welfare and administrative measures on May 18, 2026, under the leadership of Chief Minister Suvendu Adhikari. One of the key initiatives was the launch of the \u20b93,000 monthly \u2018Annapurna\u2019 financial aid scheme for women, replacing the earlier Lakshmir Bhandar scheme. The government also introduced free travel for women on all state-run buses to encourage financial independence and workforce participation. Additionally, religion-based stipends for imams, muezzins, and priests were discontinued, with funds redirected toward merit-based scholarships. These reforms reflected a broader focus on welfare expansion, social equity, and governance restructuring.",
+                "category": "Places"
+            },
+            {
+                "id": 8,
+                "question": "Which high-speed rail corridor was featured in the first visual design of India\u2019s maiden bullet train unveiled in May 2026?",
+                "options": [
+                    "Delhi-Varanasi",
+                    "Chennai-Bengaluru",
+                    "Mumbai-Ahmedabad",
+                    "Hyderabad-Pune"
+                ],
+                "answer": "Mumbai-Ahmedabad",
+                "explanation": "The Ministry of Railways unveiled the first visual design of India\u2019s inaugural bullet train for the Mumbai-Ahmedabad High-Speed Rail (MAHSR) corridor on May 18, 2026. The 508-kilometre project is India\u2019s first bullet train initiative and is being developed using Japanese Shinkansen technology. Once operational, the corridor is expected to reduce travel time between Mumbai and Ahmedabad from over seven hours to nearly two hours. The project includes advanced infrastructure such as undersea tunnels beneath Thane Creek and high-speed train sets being developed under the Make in India initiative. The rail corridor is considered a major milestone in India\u2019s modernization of transportation infrastructure.",
+                "category": "Places"
+            },
+            {
+                "id": 9,
+                "question": "What percentage stake did Prudential Plc acquire in Bharti Life Insurance for \u20b93,500 crore?",
+                "options": [
+                    "51%",
+                    "75%",
+                    "60%",
+                    "85%"
+                ],
+                "answer": "75%",
+                "explanation": "Prudential Plc, a UK-based global insurance company, acquired a 75% controlling stake in Bharti Life Insurance through a transaction valued at \u20b93,500 crore. The deal gives Prudential majority ownership and operational control in India\u2019s growing life insurance market. As part of the restructuring, Bharti Enterprises reduced its shareholding from 85% to 25%, while 360 ONE Asset Management exited completely by selling its 15% stake. The acquisition also requires Prudential to reduce its existing stake in ICICI Prudential Life Insurance to comply with Indian regulatory norms. The move highlights increasing foreign investment and competition in India\u2019s financial and insurance sectors.",
+                "category": "Places"
+            },
+            {
+                "id": 10,
+                "question": "Who became the first woman officer in Indian Air Force history to earn the Category-A Qualified Flying Instructor rating in 2026?",
+                "options": [
+                    "Saanya",
+                    "Shaliza Dhami",
+                    "Avani Chaturvedi",
+                    "Bhawana Kanth"
+                ],
+                "answer": "Saanya",
+                "explanation": "Squadron Leader Saanya became the first woman officer in the history of the Indian Air Force to achieve the prestigious Category-A Qualified Flying Instructor (QFI) rating on May 18, 2026. The qualification represents the highest instructional grading in military aviation and certifies pilots to train new aviators, operational pilots, and junior instructors. To earn this elite status, candidates must complete a demanding 22-week course at the Flying Instructors School in Tambaram near Chennai, involving extensive flying practice and ground training. Saanya\u2019s achievement marks another important milestone in the growing role of women in India\u2019s armed forces and aviation sector.",
+                "category": "Places"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-22",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which automobile company became the Exclusive Sponsor of the Tennis Premier League through a three-year partnership in 2026?",
+                "options": [
+                    "Hyundai",
+                    "Tata Motors",
+                    "Mahindra",
+                    "Kia"
+                ],
+                "answer": "Kia",
+                "explanation": "Kia India signed a landmark three-year agreement to become the Exclusive Sponsor of the Tennis Premier League (TPL) in May 2026. Under the partnership, Kia will serve as the front-of-jersey sponsor for all eight franchise teams and integrate its presence across the TPL ecosystem, including the league\u2019s digital platforms. The collaboration also focuses on promoting grassroots tennis and nurturing emerging talent in India. The Tennis Premier League operates under the All India Tennis Association and features prominent personalities such as Leander Paes and Sania Mirza as brand ambassadors. The sponsorship highlights the growing connection between sports development and corporate partnerships in India.",
+                "category": "Sports"
+            },
+            {
+                "id": 2,
+                "question": "Which state launched the \u2018Kasa Kay?\u2019 campaign under the \u2018Majhe Gaav, Arogya Sampanna Gaav\u2019 initiative in 2026?",
+                "options": [
+                    "Gujarat",
+                    "Maharashtra",
+                    "Karnataka",
+                    "Madhya Pradesh"
+                ],
+                "answer": "Maharashtra",
+                "explanation": "Maharashtra launched the \u2018Kasa Kay?\u2019 public awareness campaign on May 19, 2026, as part of the \u2018Majhe Gaav, Arogya Sampanna Gaav\u2019 initiative to improve healthcare awareness in rural regions. The campaign focuses on preventive healthcare, disease control, sanitation, nutrition, and access to clean drinking water. Villages demonstrating strong health performance will receive the title of \u201cArogya Sampanna Gaav.\u201d The initiative was inaugurated in Mumbai by the Chief Minister and included the release of an official health song, promotional materials, and informational booklets. The program reflects Maharashtra\u2019s efforts to strengthen rural healthcare systems and encourage healthier community practices across villages.",
+                "category": "Sports"
+            },
+            {
+                "id": 3,
+                "question": "Which bank partnered with Mahindra & Mahindra to launch India\u2019s first sustainability-linked dealer financing program in the automotive sector?",
+                "options": [
+                    "HDFC Bank",
+                    "DBS Bank",
+                    "Axis Bank",
+                    "ICICI Bank"
+                ],
+                "answer": "DBS Bank",
+                "explanation": "Mahindra & Mahindra collaborated with DBS Bank India to introduce the Indian automotive sector\u2019s first sustainability-linked dealer financing initiative. The program offers favourable financing rates to vehicle dealers based on their environmental performance and sustainability practices. Assessment criteria include greenhouse gas emissions, water conservation, renewable energy usage, waste management, rainwater harvesting, and EV charging infrastructure. The initiative also encourages higher sales of electric SUVs. This partnership aligns with India\u2019s broader climate commitments and net-zero goals for 2070. It also supports Mahindra\u2019s Green Dealership Program and reflects the growing role of sustainable finance in promoting environmentally responsible business operations in India.",
+                "category": "Sports"
+            },
+            {
+                "id": 4,
+                "question": "Which tennis player completed the Career Golden Masters by winning the Italian Open in 2026?",
+                "options": [
+                    "Novak Djokovic",
+                    "Casper Ruud",
+                    "Jannik Sinner",
+                    "Carlos Alcaraz"
+                ],
+                "answer": "Jannik Sinner",
+                "explanation": "Jannik Sinner achieved a historic milestone by completing the Career Golden Masters after winning the Italian Open on May 20, 2026. By securing all nine ATP Masters 1000 titles, he became only the second male player in tennis history to accomplish this feat, joining Novak Djokovic. Sinner achieved the milestone at the age of 24, making him the youngest player ever to complete the Career Golden Masters. During the 2026 season, he dominated the ATP circuit with an impressive win record and multiple Masters titles. His achievement further strengthened his position as World No. 1 and highlighted his growing legacy in modern tennis history.",
+                "category": "Sports"
+            },
+            {
+                "id": 5,
+                "question": "Which city will host South India\u2019s largest industrial exhibition from May 28 to 30, 2026?",
+                "options": [
+                    "Chennai",
+                    "Bengaluru",
+                    "Hyderabad",
+                    "Coimbatore"
+                ],
+                "answer": "Chennai",
+                "explanation": "Chennai was selected as the host city for South India\u2019s largest co-located industrial sourcing platform scheduled from May 28 to 30, 2026. The event will take place at the Chennai Trade Centre in Nandambakkam and is organised by Smart Expos & Fairs (India) Pvt. Ltd. It includes major exhibitions such as COMPACK 2026, LOGMAT 2026, and COSS 2026, focusing on packaging, warehouse automation, industrial safety, and logistics. The exhibition is expected to attract leading brands and industries from sectors including automotive, electronics, electric vehicles, aerospace, and pharmaceuticals. The event highlights Chennai\u2019s growing role as a major industrial and business hub in India.",
+                "category": "Sports"
+            },
+            {
+                "id": 6,
+                "question": "Which country signed five major science and innovation agreements with India in May 2026?",
+                "options": [
+                    "Norway",
+                    "Sweden",
+                    "Denmark",
+                    "Finland"
+                ],
+                "answer": "Norway",
+                "explanation": "India and Norway strengthened their strategic partnership in science and innovation through five major bilateral agreements signed in Oslo on May 18, 2026. The agreements involved India\u2019s CSIR and DSIR collaborating with leading Norwegian institutions in areas such as clean energy, offshore wind technology, geosciences, sustainability, and public health research. The partnerships also focused on student mobility, scientific exchanges, and advanced infrastructure solutions. Key organisations involved included SINTEF, NTNU, and FME NorthWind. These agreements reflect growing cooperation between India and Norway in green technology, climate research, renewable energy, and sustainable industrial development.",
+                "category": "Sports"
+            },
+            {
+                "id": 7,
+                "question": "In which Indian state did Shyam Metalics announce a \u20b910,000 crore industrial investment plan in 2026?",
+                "options": [
+                    "Odisha",
+                    "Jharkhand",
+                    "Chhattisgarh",
+                    "West Bengal"
+                ],
+                "answer": "West Bengal",
+                "explanation": "Shyam Metalics and Energy Limited announced a major investment plan worth \u20b910,000 crore in West Bengal for multiple industrial projects over the next three years. A large portion of the investment is being directed toward the Jamuria facility in Paschim Bardhaman district for manufacturing hot rolled coils, speciality steel, and carbon steel products. The company is also expanding operations in Kharagpur after acquiring Ramsarup Industries through the NCLT process. The expansion includes plans for a railway coach manufacturing unit and a speciality steel plant. The investment reflects West Bengal\u2019s growing importance as a destination for industrial development and steel manufacturing in India.",
+                "category": "Sports"
+            },
+            {
+                "id": 8,
+                "question": "Which state signed MoUs for developing 25,400 MW nuclear power projects with investments worth \u20b96.5 lakh crore?",
+                "options": [
+                    "Maharashtra",
+                    "Gujarat",
+                    "Tamil Nadu",
+                    "Andhra Pradesh"
+                ],
+                "answer": "Maharashtra",
+                "explanation": "Maharashtra signed major Memorandums of Understanding with four leading companies to develop 25,400 MW of nuclear power capacity with a total planned investment of \u20b96.5 lakh crore. The projects involve companies such as NTPC Limited, Adani Power, Reliance Industries Limited, and Lalitpur Power Generation Company. These initiatives include the development of advanced nuclear technologies such as Bharat Small Reactors and Small Modular Reactors. Large-scale projects are planned in Ratnagiri district and other regions, with expectations of generating significant employment opportunities. The move reflects Maharashtra\u2019s commitment to expanding clean energy infrastructure and strengthening India\u2019s long-term energy security through nuclear power development.",
+                "category": "Sports"
+            },
+            {
+                "id": 9,
+                "question": "Which country joined India\u2019s Shukrayaan Mission to Venus through an agreement with ISRO in 2026?",
+                "options": [
+                    "Norway",
+                    "France",
+                    "Sweden",
+                    "Germany"
+                ],
+                "answer": "Sweden",
+                "explanation": "Sweden joined India\u2019s Shukrayaan Mission to Venus through a Memorandum of Understanding signed between ISRO and the Swedish National Space Agency in May 2026. The collaboration was finalised during Prime Minister Narendra Modi\u2019s visit to Sweden and focuses on expanding cooperation in planetary exploration. Sweden\u2019s participation includes the development of the Venusian Neutrals Analyser (VNA) by the Swedish Institute of Space Physics. The instrument will study solar wind interactions, atmospheric escape processes, and plasma behaviour around Venus. Shukrayaan is India\u2019s first dedicated mission to Venus and aims to investigate the planet\u2019s atmosphere, volcanic surface, weather systems, and past potential for liquid water.",
+                "category": "Sports"
+            },
+            {
+                "id": 10,
+                "question": "Across how many cities does the Draft National Water Metro Policy propose the rollout of water-based urban mobility networks?",
+                "options": [
+                    "12",
+                    "18",
+                    "25",
+                    "30"
+                ],
+                "answer": "18",
+                "explanation": "The Draft National Water Metro Policy, 2026, proposes the rollout of sustainable water-based urban mobility systems across 18 major Indian cities. The initiative, reviewed under the Ministry of Ports, Shipping & Waterways, aims to promote eco-friendly and cost-effective transportation using inland waterways. The project will be implemented in phases, beginning with cities such as Guwahati, Srinagar, Patna, and Varanasi. Inspired by the success of the Kochi Water Metro, the policy emphasises electric and hybrid ferries, multimodal integration, and reduced infrastructure costs compared to conventional metro systems. The initiative is expected to improve urban mobility while supporting green transportation and sustainable development goals.",
+                "category": "Sports"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-23",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which fintech company received NPCI certification for UPI, IMPS, and IBMB integrations in May 2026?",
+                "options": [
+                    "Razorpay",
+                    "Paytm Payments Bank",
+                    "Pine Labs",
+                    "Viyona Fintech"
+                ],
+                "answer": "Viyona Fintech",
+                "explanation": "Viyona Fintech, a Hyderabad-based fintech infrastructure company, secured NPCI certification for its payment technology framework covering UPI Acquirer, UPI Issuer, IMPS, and Interoperable Banking Mobile Banking (IBMB) integrations. This certification enables the company to support merchant QR acceptance, customer-side UPI issuance, and real-time fund transfer services. The infrastructure is particularly aimed at improving interoperable mobile banking and strengthening rural banking solutions. NPCI, which operates major retail payment systems like UPI and IMPS, plays a critical role in India\u2019s rapidly growing digital payments ecosystem and financial inclusion initiatives.",
+                "category": "Finance"
+            },
+            {
+                "id": 2,
+                "question": "In which city did Union Health Minister JP Nadda address the 79th World Health Assembly in May 2026?",
+                "options": [
+                    "Paris",
+                    "New York",
+                    "Geneva",
+                    "Vienna"
+                ],
+                "answer": "Geneva",
+                "explanation": "Union Health Minister Jagat Prakash Nadda addressed the plenary session of the 79th World Health Assembly in Geneva, Switzerland, on May 19, 2026. The session focused on the theme \u201cReshaping Global Health: A Shared Responsibility.\u201d During the event, India highlighted its achievements in healthcare infrastructure, digital health innovation, and global vaccine support initiatives. Key initiatives discussed included Ayushman Bharat, Ayushman Bharat Digital Mission, and Vaccine Maitri. Geneva is also the headquarters of the World Health Organisation (WHO), which serves as the leading international body for global public health and policymaking among its 194 member states.",
+                "category": "Finance"
+            },
+            {
+                "id": 3,
+                "question": "What percentage stake did TVS Venu Group acquire in Jana Small Finance Bank in May 2026?",
+                "options": [
+                    "9.9%",
+                    "7.5%",
+                    "12.4%",
+                    "15%"
+                ],
+                "answer": "9.9%",
+                "explanation": "TVS Venu Group acquired a 9.9% stake in Jana Small Finance Bank for \u20b9193.3 crore as part of its strategy to strengthen its presence in the financial services sector. The transaction included both primary warrant subscriptions and secondary share purchases from Jana Holdings. Additionally, TVS Motor Company directly secured a 4.9% holding in the bank. Jana Small Finance Bank, headquartered in Bengaluru, began operating as a Small Finance Bank in 2018. This investment also aligns with the broader expansion plans of the TVS Group in banking, lending, and asset management services.",
+                "category": "Finance"
+            },
+            {
+                "id": 4,
+                "question": "Who was appointed as the new Executive Director (ED) of the Reserve Bank of India (RBI) in May 2026?",
+                "options": [
+                    "Ravi Shanker",
+                    "Gunveer Singh",
+                    "Suman Ray",
+                    "Sudhakar Malli"
+                ],
+                "answer": "Gunveer Singh",
+                "explanation": "Gunveer Singh was appointed as the new Executive Director of the Reserve Bank of India on May 18, 2026. Before this promotion, he served as the Chief General Manager-in-Charge within the RBI. In his new role, he will oversee the Department of Payment and Settlement Systems, which manages India\u2019s payment infrastructure and settlement ecosystem. The appointment highlights RBI\u2019s continued focus on strengthening digital payment systems and financial stability. Alongside his appointment, several senior officers, including Monisha Chakraborty, Suman Ray, Sudhakar Malli, and Ravi Shanker, were also empanelled for future Executive Director positions within the central bank.",
+                "category": "Finance"
+            },
+            {
+                "id": 5,
+                "question": "In which Indian state did the multilateral military exercise PRAGATI 2026 commence in May 2026?",
+                "options": [
+                    "Assam",
+                    "Meghalaya",
+                    "Manipur",
+                    "Arunachal Pradesh"
+                ],
+                "answer": "Meghalaya",
+                "explanation": "The multilateral military exercise PRAGATI 2026 began at the Umroi Military Station located in Meghalaya on May 20, 2026. PRAGATI stands for Partnership of Regional Armies for Growth and Transformation in the Indian Ocean Region. The two-week exercise focuses on counter-terrorism operations in semi-mountainous and jungle terrain. A total of 12 friendly foreign nations, including Bhutan, Nepal, Sri Lanka, Vietnam, and Indonesia, are participating alongside India. The exercise also highlights the Atmanirbhar Bharat initiative by showcasing indigenous defence technologies and equipment, while promoting joint planning, intelligence sharing, and tactical cooperation among participating armies.",
+                "category": "Finance"
+            },
+            {
+                "id": 6,
+                "question": "Where was Prime Minister Narendra Modi awarded the FAO Agricola Medal 2026?",
+                "options": [
+                    "Paris",
+                    "Rome",
+                    "Geneva",
+                    "New York"
+                ],
+                "answer": "Rome",
+                "explanation": "The Agricola Medal 2026 was conferred on Prime Minister Narendra Modi by the Food and Agriculture Organisation (FAO) of the United Nations in recognition of his contributions to food security, sustainable agriculture, and rural development. The award ceremony took place at the FAO headquarters, which is located in Rome, Italy, and was presented by FAO Director-General Dr Qu Dongyu. The visit was notable as it marked the first time in 30 years that an Indian Head of Government visited the FAO headquarters. The FAO plays a global role in addressing hunger and agricultural development and is headquartered in Rome.",
+                "category": "Finance"
+            },
+            {
+                "id": 7,
+                "question": "Which country is hosting the 68th Session of the Asian Productivity Organisation (APO) Governing Body at Bharat Mandapam, New Delhi, from May 20 to 22, 2026?",
+                "options": [
+                    "Japan",
+                    "China",
+                    "South Korea",
+                    "India"
+                ],
+                "answer": "India",
+                "explanation": "India is hosting the 68th Session of the Asian Productivity Organisation (APO) Governing Body in New Delhi with participation from more than 60 senior delegates representing 20 APO member economies. The event focuses on discussions related to the APO Vision 2030 framework, budget planning for 2027\u201328, and leadership elections for the organisation. India assumed the APO Chairmanship during the 67th session in 2025 through DPIIT Secretary Amardeep Singh Bhatia. Established in 1961, the APO is a regional intergovernmental organisation dedicated to improving productivity and promoting sustainable economic development across Asia-Pacific member economies.",
+                "category": "Finance"
+            },
+            {
+                "id": 8,
+                "question": "Which organisation successfully completed the final development trials of the indigenous ULPGM-V3 precision-guided missile in May 2026?",
+                "options": [
+                    "DRDO",
+                    "ISRO",
+                    "HAL",
+                    "BEL"
+                ],
+                "answer": "DRDO",
+                "explanation": "The Defence Research and Development Organisation (DRDO) successfully completed the final development trials of the ULPGM-V3 missile in both air-to-ground and air-to-air modes. The trials were conducted at the DRDO test range in Kurnool using an integrated Ground Control System. The ULPGM-V3 is designed for anti-tank warfare and can also target drones, helicopters, and other aerial threats. Research Centre Imarat (RCI) acted as the nodal laboratory with support from DRDL, TBRL, and HEMRL. The missile system was integrated with UAV platforms developed by NewSpace Research and Technologies, while production is being managed by Bharat Dynamics Limited and Adani Defence & Aerospace.",
+                "category": "Finance"
+            },
+            {
+                "id": 9,
+                "question": "Which state hosted the \u20b95,400 crore ReNew Energy Global plc solar manufacturing project launched in Anakapalli district in April 2026?",
+                "options": [
+                    "Andhra Pradesh",
+                    "Telangana",
+                    "Tamil Nadu",
+                    "Karnataka"
+                ],
+                "answer": "Andhra Pradesh",
+                "explanation": "Andhra Pradesh became the host state for the major \u20b95,400 crore solar manufacturing project initiated by ReNew Energy Global plc in Anakapalli district. The project involves setting up a 6 GW solar ingot and wafer manufacturing facility aimed at strengthening India\u2019s renewable energy supply chain and supporting clean energy goals. Introduced under the Andhra Pradesh Integrated Clean Energy Policy 2024, the initiative is expected to be completed within 24 months and generate more than 2,100 direct and indirect jobs. ReNew Energy Global plc has also committed a total investment of \u20b982,000 crore in the state, highlighting Andhra Pradesh\u2019s growing role in renewable energy development.",
+                "category": "Finance"
+            },
+            {
+                "id": 10,
+                "question": "Which company partnered with Google to launch a U.S.-based AI TPU and data centre joint venture in May 2026?",
+                "options": [
+                    "Microsoft",
+                    "Amazon",
+                    "Blackstone",
+                    "NVIDIA"
+                ],
+                "answer": "Blackstone",
+                "explanation": "Blackstone partnered with Google to establish a new joint venture focused on providing Tensor Processing Units (TPUs) and data centre operations as a compute-as-a-service platform in the United States. Blackstone committed an initial equity investment of $5 billion through its managed funds, while Google contributed its advanced TPU hardware, software, and technical expertise. The venture aims to bring the first 500 MW of computing capacity online by 2027 to support growing demand for AI training and inference. The collaboration highlights the increasing importance of AI infrastructure, high-performance computing, and cloud-based services in the global technology sector.",
+                "category": "Finance"
+            }
+        ]
     }
 ]
